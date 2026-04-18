@@ -1,36 +1,42 @@
 <?php
-// Script Grep Sederhana via PHP
-$searchDir = '.'; // Cari di folder saat ini dan subfolder
-$searchFor = 'noindex'; // Kata kunci yang dicari
+// Versi Lite - Biar gak 503
+set_time_limit(60); // Kasih waktu 1 menit
+$searchDir = '/home/u268132155/domains/citizen-science-1ocean.zooreach.org/public_html/';
+$searchFor = 'noindex';
 
-echo "<h2>Searching for '$searchFor' in $searchDir...</h2>";
-echo "<pre>";
+echo "<h3>Searching in: $searchDir</h3><pre>";
 
-function searchInFiles($dir, $keyword) {
-    $it = new RecursiveDirectoryIterator($dir);
-    foreach (new RecursiveIteratorIterator($it) as $file) {
-        // Skip folder .git atau vendor supaya gak berat
-        if (preg_match('/\.git|vendor/i', $file)) continue;
+// Filter ekstensi biar gak berat (gak perlu scan gambar/zip)
+$allowed_extensions = ['php', 'html', 'htm', 'js', 'inc', 'tpl'];
 
-        if (is_file($file)) {
-            $content = file_get_contents($file);
-            if (strpos($content, $keyword) !== false) {
-                echo "KETEMU: " . realpath($file) . "\n";
-                
-                // Tampilkan baris kodenya biar yakin
-                $lines = explode("\n", $content);
-                foreach ($lines as $line_num => $line) {
-                    if (strpos($line, $keyword) !== false) {
-                        echo "Baris " . ($line_num + 1) . ": " . htmlspecialchars(trim($line)) . "\n";
+try {
+    $directory = new RecursiveDirectoryIterator($searchDir);
+    $iterator = new RecursiveIteratorIterator($directory);
+    
+    foreach ($iterator as $info) {
+        $ext = pathinfo($info->getFilename(), PATHINFO_EXTENSION);
+        
+        if ($info->isFile() && in_array(strtolower($ext), $allowed_extensions)) {
+            // Baca file baris demi baris biar gak makan RAM (Memory Efficient)
+            $handle = fopen($info->getPathname(), "r");
+            $line_num = 1;
+            if ($handle) {
+                while (($line = fgets($handle)) !== false) {
+                    if (strpos($line, $searchFor) !== false) {
+                        echo "<b>KETEMU:</b> " . $info->getPathname() . "\n";
+                        echo "Baris $line_num: " . htmlspecialchars(trim($line)) . "\n";
+                        echo "--------------------------------------------------\n";
+                        break; // Ketemu satu di file ini, lanjut file berikutnya
                     }
+                    $line_num++;
                 }
-                echo "--------------------------------------------------\n";
+                fclose($handle);
             }
         }
     }
+} catch (Exception $e) {
+    echo "Error: " . $e->getMessage();
 }
 
-searchInFiles($searchDir, $searchFor);
-echo "Selesai.";
-echo "</pre>";
+echo "Scan Selesai.</pre>";
 ?>
