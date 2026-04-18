@@ -1,0 +1,18 @@
+<?php
+include 'wp-config.php';
+$conn = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
+
+// Cek apakah fitur "Discourage search engines" aktif
+$res = $conn->query("SELECT option_value FROM wp_options WHERE option_name = 'blog_public'");
+$row = $res->fetch_assoc();
+
+if ($row['option_value'] == '0') {
+    echo "<h1>KETEMU!</h1>";
+    echo "Website lu diset 'Privat' di database. Menghapus blokir...<br>";
+    $conn->query("UPDATE wp_options SET option_value = '1' WHERE option_name = 'blog_public'");
+    echo "Berhasil diupdate! Sekarang coba generate sitemap lagi.";
+} else {
+    echo "Settingan database aman (blog_public = 1).";
+}
+$conn->close();
+?>
