@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link ke sitemap kamu (ganti jika filenamenya beda)
+Sitemap: https://citizen-science-1ocean.zooreach.org/sitemap.xml
