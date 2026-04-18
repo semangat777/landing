@@ -1,0 +1,36 @@
+<?php
+// Script Grep Sederhana via PHP
+$searchDir = '.'; // Cari di folder saat ini dan subfolder
+$searchFor = 'noindex'; // Kata kunci yang dicari
+
+echo "<h2>Searching for '$searchFor' in $searchDir...</h2>";
+echo "<pre>";
+
+function searchInFiles($dir, $keyword) {
+    $it = new RecursiveDirectoryIterator($dir);
+    foreach (new RecursiveIteratorIterator($it) as $file) {
+        // Skip folder .git atau vendor supaya gak berat
+        if (preg_match('/\.git|vendor/i', $file)) continue;
+
+        if (is_file($file)) {
+            $content = file_get_contents($file);
+            if (strpos($content, $keyword) !== false) {
+                echo "KETEMU: " . realpath($file) . "\n";
+                
+                // Tampilkan baris kodenya biar yakin
+                $lines = explode("\n", $content);
+                foreach ($lines as $line_num => $line) {
+                    if (strpos($line, $keyword) !== false) {
+                        echo "Baris " . ($line_num + 1) . ": " . htmlspecialchars(trim($line)) . "\n";
+                    }
+                }
+                echo "--------------------------------------------------\n";
+            }
+        }
+    }
+}
+
+searchInFiles($searchDir, $searchFor);
+echo "Selesai.";
+echo "</pre>";
+?>
