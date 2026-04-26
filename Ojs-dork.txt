@@ -1,0 +1,163 @@
+#!/usr/bin/env python3
+"""
+OJS Auto Dorker - One TLD Input, Full Discovery
+Usage: python3 ojs_dork.py example.com
+"""
+
+import requests
+import re
+import time
+import random
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
+import sys
+from datetime import datetime
+
+class OJSAutoDork:
+    # Path patterns untuk OJS
+    PATHS = [
+        "files/journals",
+        "files/contexts", 
+        "ojsdata/journals",
+        "ojsdata/contexts",
+        "ojsfiles/journals",
+        "ojsfiles/contexts",
+        "journals/journals",
+        "journals/contexts"
+    ]
+    
+    # Search engines (gratis, tanpa API key)
+    ENGINES = {
+        "bing": "https://www.bing.com/search?q={query}&count=50",
+        "duck": "https://html.duckduckgo.com/html/?q={query}",
+        "yahoo": "https://search.yahoo.com/search?p={query}&n=50"
+    }
+    
+    def __init__(self, tld):
+        self.tld = tld.lower().replace('https://', '').replace('http://', '').strip('/')
+        self.session = self._setup_session()
+        self.valid_urls = []
+        
+    def _setup_session(self):
+        sess = requests.Session()
+        sess.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        })
+        return sess
+    
+    def _search(self, query):
+        """Search di multiple engines"""
+        urls = []
+        dorks = [
+            f'site:{self.tld} {query}',
+            f'intitle:"index of" {query} site:{self.tld}',
+            f'inurl:{query.replace("/", " ")} site:{self.tld}'
+        ]
+        
+        for dork in dorks[:2]:  # 2 dork per path aja biar cepet
+            for engine, url_template in self.ENGINES.items():
+                try:
+                    url = url_template.format(query=dork.replace(' ', '+'))
+                    resp = self.session.get(url, timeout=10)
+                    
+                    # Extract URLs dari hasil search
+                    found = re.findall(r'https?://[^\s"\']+', resp.text)
+                    for u in found:
+                        if self.tld in u and any(p in u for p in self.PATHS):
+                            urls.append(u.split('?')[0].split('#')[0])
+                    time.sleep(random.uniform(0.5, 1))
+                except:
+                    continue
+        return list(set(urls))
+    
+    def _check(self, url):
+        """
+        Validasi path:
+        - Kalau 403 + ada slash di akhir = VALID
+        - Kalau 404 + ada slash di akhir = VALID (folder exists tapi kosong/no index)
+        """
+        # Pastiin ada slash di akhir
+        if not url.endswith('/'):
+            test_url = url + '/'
+        else:
+            test_url = url
+            
+        try:
+            resp = self.session.get(test_url, timeout=8, allow_redirects=False)
+            status = resp.status_code
+            
+            # Valid kalau 403 ATAU 404 (dengan kondisi slash di akhir sudah dipastikan)
+            if status in [403, 404]:
+                return test_url, status, True
+            elif status in [200, 301, 302]:
+                return test_url, status, True
+            else:
+                return test_url, status, False
+        except:
+            return test_url, 0, False
+    
+    def run(self):
+        print(f"\n[+] OJS Dorking: {self.tld}\n")
+        
+        all_candidates = []
+        
+        # Phase 1: Dorking buat dapetin URL awal
+        print("[*] Phase 1: Search engine dorking...")
+        for path in self.PATHS:
+            found = self._search(path)
+            all_candidates.extend(found)
+            print(f"    {path}: {len(found)} found")
+            time.sleep(0.5)
+        
+        # Phase 2: Generate direct URLs
+        print("\n[*] Phase 2: Generating direct paths...")
+        for protocol in ['https', 'http']:
+            for path in self.PATHS:
+                url = f"{protocol}://{self.tld}/{path}"
+                all_candidates.append(url)
+        
+        all_candidates = list(set(all_candidates))
+        print(f"[*] Total candidates: {len(all_candidates)}")
+        
+        # Phase 3: Validate
+        print("\n[*] Phase 3: Validating (403/404 with trailing slash = VALID)...\n")
+        
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = {executor.submit(self._check, url): url for url in all_candidates}
+            
+            for future in as_completed(futures):
+                url, status, valid = future.result()
+                if valid:
+                    self.valid_urls.append((url, status))
+                    print(f"  ✓ [{status}] {url}")
+                else:
+                    print(f"  ✗ [{status}] {url}")
+        
+        # Output final
+        print(f"\n{'='*60}")
+        print(f"RESULTS - {self.tld}")
+        print(f"{'='*60}")
+        
+        if self.valid_urls:
+            for url, status in sorted(self.valid_urls):
+                print(f"[{status}] {url}")
+        else:
+            print("No valid paths found")
+        
+        # Save ke file
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"ojs_{self.tld}_{timestamp}.txt"
+        with open(filename, 'w') as f:
+            for url, status in self.valid_urls:
+                f.write(f"{url} [{status}]\n")
+        print(f"\n[+] Saved to: {filename}")
+        
+        return self.valid_urls
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: python3 ojs_dork.py example.com")
+        sys.exit(1)
+    
+    dorker = OJSAutoDork(sys.argv[1])
+    dorker.run()
