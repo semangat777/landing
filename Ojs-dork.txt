@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-SONIC GACOR V10.0 - ULTIMATE EDITION
-FIX: Google Custom Search API + SerpAPI support + Mobile UA + Multi-engine
+SONIC GACOR V10.1 - FIXED DOMAIN FILTER
+Excludes search engine domains from results
 """
 
 import requests
@@ -11,8 +11,7 @@ import random
 import time
 import urllib3
 import json
-import os
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 from datetime import datetime
@@ -30,192 +29,51 @@ TARGET_PATHS = [
     "ojsdata/journals/", "ojsdata/contexts/",
     "ojsfiles/journals/", "ojsfiles/contexts/",
     "journals/journals/", "journals/contexts/",
-    "upload/journals/", "upload/contexts/"
+    "public/journals/", "public/contexts/",
+    "data/journals/", "data/contexts/",
 ]
 
-# --- FREE GOOGLE API KEYS (Rotate otomatis) ---
-# Daftar API key dari berbagai sumber gratis
+# --- BLACKLIST DOMAINS (Search engines & spam) ---
+BLACKLIST_DOMAINS = {
+    'google.com', 'google.co.id', 'google.co.uk', 'google.ca',
+    'bing.com', 'microsoft.com',
+    'duckduckgo.com', 'ddg.gg', 'start.duckduckgo.com',
+    'yahoo.com', 'yandex.com', 'yandex.ru',
+    'qwant.com',
+    'facebook.com', 'twitter.com', 'instagram.com',
+    'youtube.com', 'linkedin.com',
+    'wikipedia.org',
+    'cloudflare.com', 'amazonaws.com',
+    'github.com', 'gitlab.com',
+}
+
+# --- GOOGLE API KEYS (Isi dengan key lo) ---
 GOOGLE_API_KEYS = [
-    "AIzaSyDlX1ZmPpTV1kZz6I0rV7wZq8xV9yB3cF2",  # Demo key 1
-    "AIzaSyC2VZpXxX8hJ9kL1mN2oP3qR4sT5uV6wX7",  # Demo key 2
-    "AIzaSyB1YwWvV7uU6tT5sS4rR3qQ2pP1oO0iI9u",  # Demo key 3
+    "YOUR_API_KEY_HERE",  # Ganti dengan API key lo
 ]
 
-# Google CSE ID (Custom Search Engine ID)
 CSE_IDS = [
-    "009217679623408201234:abcdefghijk",  # Demo CSE 1
-    "013036536707430787589:pqrstuvwxyz",   # Demo CSE 2
+    "YOUR_CSE_ID_HERE",   # Ganti dengan CSE ID lo
 ]
 
-# --- PROXY LIST (Expanded) ---
+# --- PROXY LIST ---
 FREE_PROXIES = [
-    None,  # Direct
+    None,
     "http://104.16.116.62:80",
     "http://104.16.117.62:80", 
     "http://45.87.60.151:8080",
     "http://45.87.61.199:8080",
-    "http://103.152.108.26:80",
-    "http://103.152.108.114:80",
-    "http://103.152.108.45:80",
-    "http://45.87.61.145:8080",
-    "http://154.16.146.46:80",
-    "http://154.16.146.47:80",
 ]
 
-# --- MOBILE USER AGENTS (Semua device) ---
-MOBILE_UA_LIST = [
-    # iPhone
+# --- USER AGENTS (Mobile + Desktop) ---
+UA_LIST = [
     "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1",
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1",
-    
-    # Android
     "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.164 Mobile Safari/537.36",
-    "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.230 Mobile Safari/537.36",
-    "Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.163 Mobile Safari/537.36",
-    "Mozilla/5.0 (Linux; Android 11; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.111 Mobile Safari/537.36",
-    
-    # Samsung
-    "Mozilla/5.0 (Linux; Android 14; SAMSUNG SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/119.0.6045.163 Mobile Safari/537.36",
-    
-    # Huawei
-    "Mozilla/5.0 (Linux; Android 12; Huawei P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.230 Mobile Safari/537.36",
-    
-    # Desktop fallback (tetep disimpen)
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 ]
 
-# Combine all UAs
-UA_LIST = MOBILE_UA_LIST
-
-# --- API GRATISAN LAINNYA ---
-class FreeAPIs:
-    @staticmethod
-    def get_google_api_key():
-        """Rotate Google API keys"""
-        return random.choice(GOOGLE_API_KEYS)
-    
-    @staticmethod
-    def get_cse_id():
-        """Rotate CSE IDs"""
-        return random.choice(CSE_IDS)
-
-# --- SEARCH ENGINES (Enhanced) ---
-class SearchEngines:
-    @staticmethod
-    def google_api(query, tld, proxy=None):
-        """Google Custom Search API - Most reliable"""
-        api_key = FreeAPIs.get_google_api_key()
-        cse_id = FreeAPIs.get_cse_id()
-        url = f"https://www.googleapis.com/customsearch/v1?key={api_key}&cx={cse_id}&q={quote_plus(query)}&num=10"
-        
-        for retry in range(2):
-            try:
-                headers = {'User-Agent': random.choice(UA_LIST)}
-                r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-                
-                if r.status_code == 200:
-                    data = r.json()
-                    domains = []
-                    for item in data.get('items', []):
-                        match = re.search(r'https?://([a-zA-Z0-9.-]+\.' + tld + r')', item.get('link', ''))
-                        if match:
-                            domains.append(match.group(1))
-                    return domains
-                elif r.status_code == 429:  # Rate limit, coba key lain
-                    time.sleep(2)
-                    continue
-            except:
-                if retry == 0:
-                    time.sleep(1)
-        return []
-    
-    @staticmethod
-    def bing_mobile(query, tld, proxy=None):
-        """Bing dengan mobile user agent"""
-        url = f"https://www.bing.com/search?q={quote_plus(query)}&count=50&mkt=en-US"
-        try:
-            # Pake mobile UA
-            headers = {'User-Agent': random.choice([ua for ua in UA_LIST if 'iPhone' in ua or 'Android' in ua])}
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            pattern = r'https?://([a-zA-Z0-9.-]+\.' + tld + r')(?:/|$|\s|")'
-            results = re.findall(pattern, r.text)
-            # Filter out search engine domains
-            return [d for d in results if 'bing' not in d and 'microsoft' not in d]
-        except:
-            return []
-    
-    @staticmethod
-    def bing_regular(query, tld, proxy=None):
-        """Bing regular desktop"""
-        url = f"https://www.bing.com/search?q={quote_plus(query)}&count=50"
-        try:
-            headers = {'User-Agent': random.choice(UA_LIST)}
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            pattern = r'https?://([a-zA-Z0-9.-]+\.' + tld + r')(?:/|$|\s|")'
-            results = re.findall(pattern, r.text)
-            return [d for d in results if 'bing' not in d and 'microsoft' not in d]
-        except:
-            return []
-    
-    @staticmethod
-    def duckduckgo_mobile(query, tld, proxy=None):
-        """DuckDuckGo Mobile version"""
-        url = f"https://duckduckgo.com/html/?q={quote_plus(query)}"
-        try:
-            headers = {'User-Agent': random.choice([ua for ua in UA_LIST if 'Mobile' in ua or 'iPhone' in ua])}
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            pattern = r'https?://([a-zA-Z0-9.-]+\.' + tld + r')'
-            return re.findall(pattern, r.text)
-        except:
-            return []
-    
-    @staticmethod
-    def duckduckgo_lite(query, tld, proxy=None):
-        """DuckDuckGo Lite - No JS"""
-        url = f"https://lite.duckduckgo.com/lite/?q={quote_plus(query)}"
-        try:
-            headers = {'User-Agent': random.choice(UA_LIST)}
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            pattern = r'https?://([a-zA-Z0-9.-]+\.' + tld + r')'
-            return re.findall(pattern, r.text)
-        except:
-            return []
-    
-    @staticmethod
-    def qwant_mobile(query, tld, proxy=None):
-        """Qwant with mobile optimization"""
-        url = f"https://api.qwant.com/v3/search/web?q={quote_plus(query)}&count=15&device=mobile"
-        try:
-            headers = {
-                'User-Agent': random.choice([ua for ua in UA_LIST if 'Mobile' in ua]),
-                'Accept': 'application/json'
-            }
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            data = r.json()
-            domains = []
-            for item in data.get('data', {}).get('result', {}).get('items', []):
-                match = re.search(r'https?://([a-zA-Z0-9.-]+\.' + tld + r')', item.get('url', ''))
-                if match:
-                    domains.append(match.group(1))
-            return domains
-        except:
-            return []
-    
-    @staticmethod
-    def yandex_mobile(query, tld, proxy=None):
-        """Yandex mobile version"""
-        url = f"https://yandex.com/touch/search?text={quote_plus(query)}"
-        try:
-            headers = {'User-Agent': random.choice([ua for ua in UA_LIST if 'Mobile' in ua])}
-            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
-            pattern = r'https?://([a-zA-Z0-9.-]+\.' + tld + r')'
-            return re.findall(pattern, r.text)
-        except:
-            return []
-
-class SonicGacorV10:
+class SonicGacorV101:
     def __init__(self, tlds):
         if isinstance(tlds, str):
             self.tlds = [tlds.strip('.')]
@@ -225,125 +83,177 @@ class SonicGacorV10:
         self.found_domains = set()
         self.print_lock = Lock()
         self.proxy_index = 0
-        self.api_key_index = 0
-        self.results_history = []
         
+    def is_valid_domain(self, domain):
+        """Filter out search engine and blacklisted domains"""
+        domain_lower = domain.lower()
+        
+        # Cek blacklist exact match atau subdomain
+        for blocked in BLACKLIST_DOMAINS:
+            if domain_lower == blocked or domain_lower.endswith(f'.{blocked}'):
+                return False
+        
+        # Cek minimal panjang domain (hindari garbage)
+        if len(domain_lower) < 4:
+            return False
+            
+        # Cek harus ada minimal 1 titik (domain.level)
+        if domain_lower.count('.') < 1:
+            return False
+            
+        return True
+    
+    def extract_domains_from_text(self, text, tld):
+        """Extract domains dengan validasi strict"""
+        # Pattern yang lebih ketat
+        patterns = [
+            # Domain dengan protocol
+            r'https?://([a-zA-Z0-9][a-zA-Z0-9.-]*\.' + tld + r')(?:/|$|\s|"|\')',
+            # Domain tanpa protocol
+            r'(?:^|\s|"|\')([a-zA-Z0-9][a-zA-Z0-9.-]*\.' + tld + r')(?:/|$|\s|"|\')',
+        ]
+        
+        domains = []
+        for pattern in patterns:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            for match in matches:
+                # Clean domain
+                domain = match.lower().strip()
+                if self.is_valid_domain(domain) and domain not in domains:
+                    domains.append(domain)
+        
+        return domains
+    
     def get_proxy(self):
-        """Rotating proxy"""
         self.proxy_index = (self.proxy_index + 1) % len(FREE_PROXIES)
         proxy = FREE_PROXIES[self.proxy_index]
-        if proxy:
-            return {'http': proxy, 'https': proxy}
-        return None
+        return {'http': proxy, 'https': proxy} if proxy else None
     
     def safe_print(self, msg):
         with self.print_lock:
             print(msg)
     
-    def search_all_engines(self, query, tld):
-        """Multi-engine dengan multiple variants"""
-        engines = [
-            ('Google API', SearchEngines.google_api),
-            ('Bing Mobile', SearchEngines.bing_mobile),
-            ('Bing Desktop', SearchEngines.bing_regular),
-            ('DDG Mobile', SearchEngines.duckduckgo_mobile),
-            ('DDG Lite', SearchEngines.duckduckgo_lite),
-            ('Qwant Mobile', SearchEngines.qwant_mobile),
-            ('Yandex Mobile', SearchEngines.yandex_mobile),
-        ]
-        
-        all_domains = []
-        
-        for engine_name, engine_func in engines:
-            for retry in range(MAX_RETRIES):
+    # --- SEARCH ENGINE METHODS ---
+    def search_bing(self, query, tld):
+        """Bing search dengan domain filtering"""
+        url = f"https://www.bing.com/search?q={quote_plus(query)}&count=50"
+        for retry in range(2):
+            try:
                 proxy = self.get_proxy()
-                proxy_str = proxy['http'] if proxy else 'Direct'
+                headers = {'User-Agent': random.choice(UA_LIST)}
+                r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
                 
-                self.safe_print(f"  [*] {engine_name} via {proxy_str} (try {retry+1})")
+                if r.status_code == 200:
+                    domains = self.extract_domains_from_text(r.text, tld)
+                    # Filter out bing.com sendiri
+                    domains = [d for d in domains if 'bing.com' not in d and 'microsoft.com' not in d]
+                    if domains:
+                        return domains
+                time.sleep(1)
+            except:
+                continue
+        return []
+    
+    def search_duckduckgo(self, query, tld):
+        """DuckDuckGo search dengan domain filtering"""
+        url = f"https://lite.duckduckgo.com/lite/?q={quote_plus(query)}"
+        for retry in range(2):
+            try:
+                proxy = self.get_proxy()
+                headers = {'User-Agent': random.choice([ua for ua in UA_LIST if 'Mobile' in ua or 'iPhone' in ua])}
+                r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
                 
-                domains = engine_func(query, tld, proxy)
-                
-                if domains:
-                    self.safe_print(f"  [+] {engine_name} found {len(domains)} domains")
-                    all_domains.extend(domains)
-                    
-                    # Save sample results
-                    if domains and len(self.results_history) < 10:
-                        self.results_history.append({
-                            'engine': engine_name,
-                            'query': query,
-                            'count': len(domains),
-                            'sample': domains[:3]
-                        })
-                    break
-                else:
-                    if retry < MAX_RETRIES - 1:
-                        time.sleep(random.uniform(1, 2))
-            
-            # Jeda antar engine
-            time.sleep(random.uniform(0.5, 1))
+                if r.status_code == 200:
+                    domains = self.extract_domains_from_text(r.text, tld)
+                    # Filter out duckduckgo.com
+                    domains = [d for d in domains if 'duckduckgo.com' not in d and 'ddg.gg' not in d]
+                    if domains:
+                        return domains
+                time.sleep(1)
+            except:
+                continue
+        return []
+    
+    def search_google_api(self, query, tld):
+        """Google API dengan filtering ketat"""
+        if not GOOGLE_API_KEYS or GOOGLE_API_KEYS[0] == "YOUR_API_KEY_HERE":
+            return []
         
-        return list(set(all_domains))
+        api_key = random.choice(GOOGLE_API_KEYS)
+        cse_id = random.choice(CSE_IDS)
+        url = f"https://www.googleapis.com/customsearch/v1?key={api_key}&cx={cse_id}&q={quote_plus(query)}&num=10"
+        
+        try:
+            proxy = self.get_proxy()
+            headers = {'User-Agent': random.choice(UA_LIST)}
+            r = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, proxies=proxy, verify=False)
+            
+            if r.status_code == 200:
+                data = r.json()
+                domains = []
+                for item in data.get('items', []):
+                    link = item.get('link', '')
+                    parsed = urlparse(link)
+                    domain = parsed.netloc.lower()
+                    if domain and self.is_valid_domain(domain) and domain.endswith(f'.{tld}'):
+                        if 'google' not in domain and 'youtube' not in domain:
+                            domains.append(domain)
+                return domains
+        except:
+            pass
+        return []
     
     def dork_for_tld(self, tld):
-        """Generate dorks untuk satu TLD"""
+        """Execute dorks untuk satu TLD"""
         self.safe_print(f"\n{'='*60}")
         self.safe_print(f"[*] SCANNING TLD: .{tld}")
         self.safe_print(f"{'='*60}")
         
-        # Expanded dorks
         dorks = [
-            # OJS-specific
             f'site:{tld} "Open Journal Systems"',
-            f'site:{tld} "OJS" "journal" "pkp"',
-            f'site:{tld} inurl:"index.php/index/login"',
+            f'site:{tld} "OJS" "journal"',
             f'site:{tld} inurl:"/journals/"',
-            
-            # Path-based
             f'site:{tld} "/files/journals/"',
-            f'site:{tld} "/ojsfiles/journals/"',
-            f'site:{tld} "/ojsdata/journals/"',
-            
-            # Version detection
-            f'site:{tld} "pkp" "ojs2"',
-            f'site:{tld} "pkp" "ojs3"',
-            
-            # Generic journal
-            f'site:{tld} "journal" "current issue"',
-            f'site:{tld} "vol" "no" "journal"',
-            
-            # Include variants
-            f'site:{tld} intitle:"journal" inurl:"index"',
-            f'site:{tld} "issn" "journal"',
+            f'site:{tld} "public/journals"',
         ]
         
         tld_domains = set()
         
-        for idx, dork in enumerate(dorks, 1):
-            self.safe_print(f"\n[>] Dork {idx}/{len(dorks)}: {dork[:80]}")
-            domains = self.search_all_engines(dork, tld)
+        for dork in dorks:
+            self.safe_print(f"\n[>] Dork: {dork[:60]}")
+            
+            # Coba Bing dulu
+            domains = self.search_bing(dork, tld)
+            if not domains:
+                # Fallback ke DuckDuckGo
+                domains = self.search_duckduckgo(dork, tld)
+            if not domains and GOOGLE_API_KEYS[0] != "YOUR_API_KEY_HERE":
+                domains = self.search_google_api(dork, tld)
             
             if domains:
-                self.safe_print(f"  [✓] Got {len(domains)} unique domains")
+                self.safe_print(f"  [+] Found {len(domains)} valid domains")
+                for d in domains[:5]:
+                    self.safe_print(f"    - {d}")
                 tld_domains.update(domains)
             else:
-                self.safe_print(f"  [✗] No results")
+                self.safe_print(f"  [-] No valid domains found")
             
-            # Dynamic delay
-            delay = random.uniform(1.5, 3.5)
-            if idx % 3 == 0:
-                delay += 2  # Extra delay setiap 3 dorks
-            self.safe_print(f"  [⏱] Waiting {delay:.1f}s...")
-            time.sleep(delay)
+            time.sleep(random.uniform(2, 4))
         
+        # Save ke master set dengan http:// prefix
         for dom in tld_domains:
             self.found_domains.add(f"http://{dom}")
         
-        self.safe_print(f"\n[+] TLD .{tld} complete: {len(tld_domains)} domains found")
+        self.safe_print(f"\n[+] TLD .{tld}: {len(tld_domains)} unique domains")
         return tld_domains
     
     def verify_path(self, domain, path):
-        """Verifikasi path dengan multiple retry dan proxy rotation"""
+        """Verifikasi path - skip kalau domain search engine"""
+        # Extra safety: skip domain search engine
+        domain_clean = domain.replace('http://', '').replace('https://', '').split('/')[0]
+        if not self.is_valid_domain(domain_clean):
+            return None
+            
         target = f"{domain.rstrip('/')}/{path}"
         
         for attempt in range(MAX_RETRIES):
@@ -362,16 +272,8 @@ class SonicGacorV10:
                 
                 if r.status_code in [200, 403, 404]:
                     return f"{target} [{r.status_code}]"
-                    
-            except requests.exceptions.ProxyError:
-                if attempt < MAX_RETRIES - 1:
-                    time.sleep(1)
-                    continue
             except:
-                if attempt < MAX_RETRIES - 1:
-                    time.sleep(random.uniform(0.5, 1))
-                    continue
-                break
+                time.sleep(0.5)
                 
         return None
     
@@ -379,17 +281,22 @@ class SonicGacorV10:
         """Multi-thread validation"""
         if len(self.found_domains) == 0:
             self.safe_print("\n[-] No domains found.")
-            self.safe_print("\n[!] TROUBLESHOOTING:")
-            self.safe_print("   1. Coba ganti API keys di GOOGLE_API_KEYS (daftar gratis di Google Cloud)")
-            self.safe_print("   2. Gunakan VPN atau ganti IP")
-            self.safe_print("   3. Coba TLD yang lebih besar: .com, .net, .org")
-            self.safe_print("   4. Tunggu 5-10 menit lalu coba lagi")
-            self.safe_print("\n[+] Alternative: Jalankan dengan TLD .com dulu:")
-            self.safe_print("   python sonic.py com")
+            self.safe_print("\n[!] TIPS:")
+            self.safe_print("   1. Coba TLD .com dulu: python sonic.py com")
+            self.safe_print("   2. Pastikan koneksi internet stabil")
+            self.safe_print("   3. Ganti proxy atau pake VPN")
             return
         
-        self.safe_print(f"\n[*] Validating paths on {len(self.found_domains)} domains...")
-        self.safe_print(f"[*] Using {THREADS} threads\n")
+        # Filter lagi sebelum validasi
+        valid_domains = []
+        for dom in self.found_domains:
+            dom_clean = dom.replace('http://', '').replace('https://', '')
+            if self.is_valid_domain(dom_clean):
+                valid_domains.append(dom)
+        
+        self.found_domains = set(valid_domains)
+        
+        self.safe_print(f"\n[*] Validating {len(self.found_domains)} domains...")
         
         total_tasks = len(self.found_domains) * len(TARGET_PATHS)
         completed = 0
@@ -406,106 +313,61 @@ class SonicGacorV10:
                 if res:
                     valid_count += 1
                     with self.print_lock:
-                        print(f" [✓] VALID #{valid_count}: {res}")
+                        print(f" [VALID] {res}")
                         with open(OUTPUT, "a") as f_out:
                             f_out.write(res + "\n")
                 
                 if completed % 100 == 0:
-                    self.safe_print(f"[*] Progress: {completed}/{total_tasks} | Valid: {valid_count}")
-    
-    def save_report(self):
-        """Save detailed report"""
-        report_file = f"report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-        with open(report_file, 'w') as f:
-            f.write("SONIC GACOR V10.0 - SCAN REPORT\n")
-            f.write("="*50 + "\n\n")
-            f.write(f"TLDs Scanned: {', '.join(self.tlds)}\n")
-            f.write(f"Total Domains Found: {len(self.found_domains)}\n")
-            f.write(f"Output File: {OUTPUT}\n\n")
-            
-            if self.results_history:
-                f.write("Sample Results from Search Engines:\n")
-                for res in self.results_history[:5]:
-                    f.write(f"  - {res['engine']}: {res['count']} domains from '{res['query'][:50]}'\n")
-                    if res.get('sample'):
-                        f.write(f"    Samples: {', '.join(res['sample'][:3])}\n")
-        
-        self.safe_print(f"\n[+] Report saved: {report_file}")
+                    self.safe_print(f"[*] Progress: {completed}/{total_tasks} | Found: {valid_count}")
     
     def start(self):
-        """Main execution"""
         start_time = time.time()
         
         print("""
-╔═══════════════════════════════════════════════════════════════╗
-║     SONIC GACOR V10.0 - ULTIMATE EDITION                     ║
-║     Google API + Mobile UA + Multi-Engine + Anti-Gosong     ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║     SONIC GACOR V10.1 - CLEAN DOMAIN FILTER              ║
+║     No more search engine domains in results!            ║
+╚═══════════════════════════════════════════════════════════╝
         """)
         
         print(f"[*] Target TLDs: {', '.join(self.tlds)}")
-        print(f"[*] Output file: {OUTPUT}")
-        print(f"[*] Using {len(FREE_PROXIES)} proxies")
-        print(f"[*] Using {len(GOOGLE_API_KEYS)} Google API keys")
-        print(f"[*] Using {len(UA_LIST)} User Agents (Mobile + Desktop)")
+        print(f"[*] Blacklisted domains: {len(BLACKLIST_DOMAINS)}")
         print()
         
-        # Scan each TLD
-        for idx, tld in enumerate(self.tlds, 1):
-            self.safe_print(f"\n[>>] Processing TLD {idx}/{len(self.tlds)}: .{tld}")
+        for tld in self.tlds:
             self.dork_for_tld(tld)
-            
-            if idx < len(self.tlds):
-                delay = 5
-                self.safe_print(f"\n[⏱] Waiting {delay}s before next TLD...")
-                time.sleep(delay)
+            time.sleep(3)
         
         print(f"\n{'='*60}")
         print(f"[+] TOTAL UNIQUE DOMAINS: {len(self.found_domains)}")
         
-        # Validate
         if self.found_domains:
+            print(f"\n[+] Sample domains found:")
+            for i, dom in enumerate(list(self.found_domains)[:10], 1):
+                print(f"    {i}. {dom}")
+            
             self.validate_all_domains()
-            self.save_report()
         else:
-            print("\n[!] NO RESULTS - EMERGENCY MODE:")
-            print("   Solusi cepat:")
-            print("   1. Daftar Google API Key gratis: https://developers.google.com/custom-search/v1/introduction")
-            print("   2. Atau pake VPN lalu coba lagi")
-            print("   3. Atau ganti TLD ke .com dulu: python sonic.py com")
-            print("\n   Demo dengan TLD .com (testing):")
-            print("   python sonic.py com")
+            print("\n[!] No valid domains. Try different TLD or check network.")
         
         elapsed = time.time() - start_time
-        print(f"\n[DONE] Time: {elapsed:.1f}s ({elapsed/60:.1f} minutes)")
-        print(f"[+] Results saved to: {OUTPUT}")
+        print(f"\n[DONE] {elapsed:.1f}s | {OUTPUT}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("""
-╔═══════════════════════════════════════════════════════════════╗
-║  SONIC GACOR V10.0 - USAGE                                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║  Single TLD:     python sonic.py id                           ║
-║  Multiple TLD:   python sonic.py id,com,net,org              ║
-║  All major:      python sonic.py all                          ║
-║                                                               ║
-║  Examples:                                                   ║
-║    python sonic.py id                                         ║
-║    python sonic.py com,net,org                               ║
-║    python sonic.py edu,mx,id,my,ph,th,vn,sg                  ║
-║    python sonic.py all                                        ║
-╚═══════════════════════════════════════════════════════════════╝
+Usage:
+  python sonic.py com
+  python sonic.py id,com,net
+  python sonic.py all
         """)
         sys.exit()
     
     arg = sys.argv[1]
     
     if arg.lower() == 'all':
-        tlds = ['com', 'net', 'org', 'edu', 'id', 'mx', 'my', 'ph', 'th', 'vn', 'sg', 'au', 'uk', 'ca', 'de', 'fr']
-        scanner = SonicGacorV10(tlds)
+        tlds = ['com', 'net', 'org', 'edu', 'id', 'mx', 'my', 'ph', 'th', 'vn']
     else:
         tlds = [t.strip() for t in arg.split(',')]
-        scanner = SonicGacorV10(tlds)
     
-    scanner.start()
+    SonicGacorV101(tlds).start()
