@@ -5,8 +5,8 @@
 <link rel="icon" type="image/x-icon" href="https://i.imgur.com/aCbXLa2.png" />
 <link rel="apple-touch-icon" href="https://i.imgur.com/eLrNuI4.png">
 <link rel="canonical" href="https://ljmas.com/">
-<link rel="amphtml" href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" />
-<link rel="alternate" hreflang="id-id" href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" />
+<link rel="amphtml" href="https://absolute-water.live/amp/ljmas/" />
+<link rel="alternate" hreflang="id-id" href="https://ljmas.com/" />
 <link as='image' href='https://i.imgur.com/vVshERt.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -235,7 +235,7 @@ ga('require', 'GTM-KL7BC3L');
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://absolute-water.live/amp/ljmas/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR AKUN
 
@@ -359,9 +359,9 @@ SLOT PULSA
 
         
                           <div class="n-columns-2">
-                                <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" rel="nofollow noreferrer"
+                                <a href="https://absolute-water.live/amp/ljmas/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" rel="nofollow noreferrer"
+                               <a href="https://absolute-water.live/amp/ljmas/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -596,8 +596,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" class="btn-x">LOGIN DISINI</a>
+<a href="https://absolute-water.live/amp/ljmas/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://absolute-water.live/amp/ljmas/" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
@@ -885,7 +885,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 
   </tbody></table>
 <p>
-                             <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank">
+                             <a href="https://absolute-water.live/amp/ljmas/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://i.imgur.com/5lehyVB.png" width="400" height="150"/>
                              </a>
                            </p>
@@ -3028,23 +3028,23 @@ Shop All Designs
     
 
 <div class="MATAUANGSLOT-fixed-footer">
-  <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank" rel="nofollow noopener">
+  <a href="https://absolute-water.live/amp/ljmas/" target="_blank" rel="nofollow noopener">
     <img src="https://i.imgur.com/eLrNuI4.png" alt="BONUS MATAUANGSLOT">
     PROMO
   </a>
-  <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank" rel="nofollow noopener">
+  <a href="https://absolute-water.live/amp/ljmas/" target="_blank" rel="nofollow noopener">
     <img src="https://i.imgur.com/eLrNuI4.png" alt="LOGIN MATAUANGSLOT">
     LOGIN
   </a>
-  <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://absolute-water.live/amp/ljmas/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://i.imgur.com/eLrNuI4.png" alt="DAFTAR MATAUANGSLOT">
     DAFTAR
   </a>
-  <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank" rel="nofollow noopener">
+  <a href="https://absolute-water.live/amp/ljmas/" target="_blank" rel="nofollow noopener">
     <img src="https://i.imgur.com/eLrNuI4.png" alt="WHATSAPP MATAUANGSLOT">
     WHATSAPP
   </a>
-  <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/" target="_blank" rel="nofollow noopener">
+  <a href="https://absolute-water.live/amp/ljmas/" target="_blank" rel="nofollow noopener">
     <img src="https://i.imgur.com/eLrNuI4.png" alt="LIVE CHAT MATAUANGSLOT">
     LIVE CHAT
   </a>
@@ -3065,11 +3065,11 @@ Shop All Designs
 
     <!-- Tombol DAFTAR & LOGIN -->
     <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-      <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/"
+      <a href="https://absolute-water.live/amp/ljmas/"
         style="flex: 1; background: linear-gradient(to right, #c98405, #c98405); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
         DAFTAR
       </a>
-      <a href="https://semangat-terus-bro.pages.dev/orang-pusat-google/"
+      <a href="https://absolute-water.live/amp/ljmas/"
         style="flex: 1; background: linear-gradient(to right, #c98405, #c98405); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
         LOGIN
       </a>
