@@ -37,7 +37,7 @@ if ($b) {
   }
 }
 
-<?php
+
 
 /**
  * @defgroup index Index
