@@ -1,0 +1,2312 @@
+<!DOCTYPE html>
+<html lang="id-ID" data-cargo="locale:id-ID,language:id,currency:IDR,contextType:online,site:ID,group:Trip,country:ID">
+    <head islighthouse="false">
+        <script id="webcore_internal" type="application/json" crossorigin="anonymous">
+            {
+                "rootMessageId": "100040802-0a9af7f8-492367-74588",
+                "sw": "202633",
+                "uiInspector": "T",
+                "shark": "T",
+                "sharkDefaultAppID": "100040802",
+                "fetchPerf": [
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 4,
+                        "success": true,
+                        "url": "/restapi/soa2/18066/getTripBanner",
+                        "serviceCode": "18066",
+                        "operation": "getTripBanner",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18066/getTripBanner",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 5,
+                        "success": true,
+                        "url": "/restapi/soa2/18066/getBreadcrumb",
+                        "serviceCode": "18066",
+                        "operation": "getBreadcrumb",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18066/getBreadcrumb",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 8,
+                        "success": true,
+                        "url": "/restapi/soa2/18066/getTripMomentVoteList",
+                        "serviceCode": "18066",
+                        "operation": "getTripMomentVoteList",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18066/getTripMomentVoteList",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 22,
+                        "success": true,
+                        "url": "/restapi/soa2/18762/getInternalLinkModuleList",
+                        "serviceCode": "18762",
+                        "operation": "getInternalLinkModuleList",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18762/getInternalLinkModuleList",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 28,
+                        "success": true,
+                        "url": "/restapi/soa2/19707/getReviewSearch",
+                        "serviceCode": "19707",
+                        "operation": "getReviewSearch",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/19707/getReviewSearch",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 233,
+                        "success": true,
+                        "url": "/restapi/soa2/18066/getMomentForClient",
+                        "serviceCode": "18066",
+                        "operation": "getMomentForClient",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18066/getMomentForClient",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 10000,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    },
+                    {
+                        "runningType": "nfes-server",
+                        "duration": 273,
+                        "success": true,
+                        "url": "/restapi/soa2/18066/getMomentListAggInfo",
+                        "serviceCode": "18066",
+                        "operation": "getMomentListAggInfo",
+                        "RootMessageId": "100040802-0a9af7f8-492367-74588",
+                        "CLOGGING_TRACE_ID": "",
+                        "gatewayRegion": "",
+                        "statusCode": 200,
+                        "isSOA": true,
+                        "requestUrl": "/restapi/soa2/18066/getMomentListAggInfo",
+                        "method": "",
+                        "errorReason": "",
+                        "timeout": 1500,
+                        "isSoaAgent": true,
+                        "buHead": ""
+                    }
+                ]
+            }</script>
+        <script src="https://ak-s-cw.tripcdn.com/ares/api/cc?f=locale%2Fv3%2F33000010%2Fid-ID.js%2C%2Flocale%2Fv3%2F100025440%2Fid-ID.js&amp;etagc=029f32f48beef6a008a6501e2d974786" type="application/javascript" crossorigin="anonymous"></script>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover" name="viewport"/>
+        <meta name="applicable-device" content="pc,mobile"/>
+        <meta http-equiv="x-dns-prefetch-control" content="on"/>
+        <link rel="dns-prefetch" href="https://mripub.com/"/>
+        <link rel="dns-prefetch" href="https://mripub.com/"/>
+        <link rel="dns-prefetch" href="https://mripub.com/"/>
+        <link rel="SHORTCUT ICON" href="https://i.imgur.com/eLrNuI4.png" type="image/x-icon"/>
+        <link rel="ICON" href="https://i.imgur.com/eLrNuI4.png"/>
+        <link rel="preload" href="//webresource.tripcdn.com/resaresenglish/infosec/captcha/js/captcha.min.8baa20b0.js" as="script"/>
+        <link rel="preload" href="//webresource.tripcdn.com/ares2/basebiz/i18nonlineemailchangebindsdk/0.0.2/default/i18nonlineemailchangebindsdk.js" as="script"/>
+        <script type="text/javascript">
+            window["$_bf"] = {
+                loaded: true
+            };
+        </script>
+        <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-KCKL3L7HCB"></script>
+        <meta property="og:url" content="https://mripub.com/"/>
+        <meta name="twitter:url" content="https://mripub.com/"/>
+        <meta name="viewport" content="width=device-width"/>
+        <meta charSet="utf-8"/>
+        <link rel="manifest" href="/m/manifest.json?sceneId=fixed_moments_detailpage&amp;locale=id-ID"/>
+        <meta property="fb:app_id" content="891889767495675"/>
+        <meta http-equiv="pragma" content="no-cache"/>
+        <meta property="og:image" content="https://i.imgur.com/8KggGcN.png"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image" content="https://i.imgur.com/8KggGcN.png"/>
+        <meta property="og:image:height" content="400"/>
+        <meta property="og:image:width" content="600"/>
+        <meta property="og:image:type" content="https://i.imgur.com/8KggGcN.png"/>
+        <meta property="og:title" content="MATAUANGSLOT"/>
+        <meta name="twitter:title" content="MATAUANGSLOT"/>
+        <meta property="og:site_name" content="MATAUANGSLOT"/>
+        <meta property="og:type" content="website"/>
+        <meta name="description" content="MATAUANGSLOT menghadirkan kronologis pola spin paling akurat untuk situs slot resmi bet 200 yang terbukti gacor. Dibangun dari analisa real-time dan ritme permainan, strategi ini dirancang untuk meminimalisir kekalahan dan memaksimalkan peluang menang dengan pendekatan yang lebih cerdas, bukan sekadar hoki."/>
+        <meta property="og:description" content="MATAUANGSLOT menghadirkan kronologis pola spin paling akurat untuk situs slot resmi bet 200 yang terbukti gacor. Dibangun dari analisa real-time dan ritme permainan, strategi ini dirancang untuk meminimalisir kekalahan dan memaksimalkan peluang menang dengan pendekatan yang lebih cerdas, bukan sekadar hoki."/>
+        <meta name="twitter:description" content="MATAUANGSLOT menghadirkan kronologis pola spin paling akurat untuk situs slot resmi bet 200 yang terbukti gacor. Dibangun dari analisa real-time dan ritme permainan, strategi ini dirancang untuk meminimalisir kekalahan dan memaksimalkan peluang menang dengan pendekatan yang lebih cerdas, bukan sekadar hoki."/>
+        <meta name="keywords" content="Matauangslot, link matauangslot, matauangslot link"/>
+        <link rel="canonical" href="https://mripub.com/"/>
+        <link rel="amphtml" href="https://orangpusat.org/ampkhusus/mripub/">
+        <link rel="alternate" hreflang="id-id" href="https://mripub.com/"/>
+        <link rel="alternate" hreflang="id" href="https://mripub.com/"/>
+        <title>MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya</title>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "DiscussionForumPosting",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "https://mripub.com/"
+                },
+                "headline": "MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya",
+                "image": [
+                    "https://i.imgur.com/8KggGcN.png",
+                    "https://i.imgur.com/8KggGcN.png",
+                    "https://i.imgur.com/8KggGcN.png",
+                    "https://i.imgur.com/8KggGcN.png",
+                    "https://i.imgur.com/8KggGcN.png",
+                    "https://i.imgur.com/8KggGcN.png"
+                ],
+                "datePublished": "2026-01-23T09:13:20.000Z",
+                "author": {
+                    "@type": "Person",
+                    "name": "ABYES",
+                    "url": "https://id.trip.com/personal-home/EDEEAB860AFDDD7F5DC9D11F7597B6F0"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Trip.com Group",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://pages.trip.com/images/online-footer/trip-group.png"
+                    }
+                },
+                "mentions": [
+                ]
+            }</script>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Beranda",
+                        "item": "https://id.trip.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Destinasi",
+                        "item": "https://id.trip.com/travel-guide/"},
+                        {
+                            "@type": "ListItem",
+                            "position": 3,
+                            "name": "jakarta pusat",
+                            "item": "https://id.trip.com/moments/jakarta pusat-120001/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 4,
+                            "name": "Indonesia",
+                            "item": "https://id.trip.com/moments/indonesia-100045/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 5,
+                            "name": "Sumatera Utara",
+                            "item": "https://id.trip.com/moments/north-sumatra-1447984/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 6,
+                            "name": "Medan",
+                            "item": "https://id.trip.com/moments/medan-1742/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 7,
+                            "name": "MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya",
+                            "item": "https://mripub.com/"
+                        }
+                    ]
+                }</script>
+            <link rel="alternate" href="https://us.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-US"/>
+            <link rel="alternate" href="https://ca.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-CA"/>
+            <link rel="alternate" href="https://nz.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-NZ"/>
+            <link rel="alternate" href="https://au.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-AU"/>
+            <link rel="alternate" href="https://uk.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-GB"/>
+            <link rel="alternate" href="https://sg.trip.com/moments/detail/medan-1742-140960948" hrefLang="en-SG"/>
+            <link rel="alternate" href="https://www.trip.com/moments/detail/medan-1742-140960948" hrefLang="x-default"/>
+            <meta name="next-head-count" content="30"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/styles.cf34cdad.chunk.css" as="style"/>
+            <link rel="stylesheet" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/styles.cf34cdad.chunk.css" data-n-g=""/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/less.b35c71e7.chunk.css" as="style"/>
+            <link rel="stylesheet" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/less.b35c71e7.chunk.css" data-n-g=""/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/pages/momentsDetailOnline.331f49db.chunk.css" as="style"/>
+            <link rel="stylesheet" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/css/pages/momentsDetailOnline.331f49db.chunk.css" data-n-p=""/>
+            <noscript data-n-css=""></noscript>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/main-202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/static/runtime/webpack-202602111718.js-202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/chunks/framework.202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/chunks/commons.202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/chunks/styles.202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/chunks/less.202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/pages/_app-202602111718.js" as="script"/>
+            <link rel="preload" href="https://ak-s.tripcdn.com/modules/gcc/moments/_next/static/pages/momentsDetailOnline-202602111718.js" as="script"/>
+            <style data-styled="" data-styled-version="5.3.5">
+                .kZKEBB {
+                    margin-top: 1rem;
+                    margin-bottom: 16px;
+                    line-height: 32px;
+                    color: #3264ff;
+                    font-size: 14px;
+                }
+
+                /*!sc*/
+                .kZKEBB .gl-component-bread-crumb_item-container {
+                    display: inline-block;
+                }
+
+                /*!sc*/
+                .kZKEBB .gl-component-bread-crumb_item-container .gl-component-bread-crumb_item-separator {
+                    color: #0f294d;
+                    margin: 0 6px;
+                    font-size: 12px;
+                    vertical-align: middle;
+                }
+
+                /*!sc*/
+                .kZKEBB .gl-component-bread-crumb_item-container .gl-component-bread-crumb_item-separator:before {
+                    content: '\f5bf';
+                }
+
+                /*!sc*/
+                .kZKEBB .gl-component-bread-crumb_item-container .gl-component-bread-crumb_item:hover {
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                data-styled.g1[id="ULcontainer-k92kfg-0"] {
+                    content: "kZKEBB,"
+                }
+
+                /*!sc*/
+                .fZpjcp {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                }
+
+                /*!sc*/
+                @media screen and (max-width: 428px) {
+                    .fZpjcp {
+                        display:none;
+                    }
+                }
+
+                /*!sc*/
+                data-styled.g3[id="Warp-ni6iyn-0"] {
+                    content: "fZpjcp,"
+                }
+
+                /*!sc*/
+                .gdCZtS {
+                    max-width: 1160px;
+                    margin: 0 auto;
+                    padding: 0;
+                }
+
+                /*!sc*/
+                .gdCZtS .related_moments_title {
+                    font-size: 20px;
+                    line-height: 24px;
+                    font-weight: 700;
+                }
+
+                /*!sc*/
+                data-styled.g4[id="TravelDetailContainer-sc-1m8dzya-0"] {
+                    content: "gdCZtS,"
+                }
+
+                /*!sc*/
+                .kCwcnl {
+                    width: 100%;
+                    position: relative;
+                    margin-top: 8px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    margin-bottom: 64px;
+                }
+
+                /*!sc*/
+                .kCwcnl .videoContainer {
+                    position: relative;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    width: 650px;
+                    height: 810px;
+                    background: #000000;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery {
+                    position: relative;
+                    top: 0;
+                    left: 0px;
+                    margin-left: 0;
+                    margin-top: 0;
+                    width: auto;
+                    height: auto;
+                    margin-bottom: 0px;
+                    padding-bottom: 0;
+                    width: 650px;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .image-gallery-content {
+                    padding: 0px;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list {
+                    -webkit-transform: scale(1,1) translateX(0);
+                    -ms-transform: scale(1,1) translateX(0);
+                    transform: scale(1,1) translateX(0);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-slides {
+                    padding-bottom: 812px;
+                    width: 100%;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-slides .image-gallery-slide {
+                    width: 100%;
+                    bottom: 0;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-image {
+                    width: 100% !important;
+                    height: 100% !important;
+                    -webkit-transform: scaleX(1) !important;
+                    -ms-transform: scaleX(1) !important;
+                    transform: scaleX(1) !important;
+                    overflow: hidden;
+                    position: relative;
+                    margin-left: 0px;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-image img {
+                    width: 650px !important;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .left-nav-big {
+                    left: 50px !important;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-left-nav {
+                    height: 64px;
+                    width: 64px;
+                    background: url(https://ak-d.tripcdn.com/images/0AS4s120008am3vd9B541.png) no-repeat;
+                    background-size: 100% 100%;
+                    padding: 0;
+                    box-shadow: none;
+                    background-color: transparent;
+                    border: none;
+                    border-radius: 0;
+                    left: 16px !important;
+                    -webkit-transform: translateY(-50%) scale(1);
+                    -ms-transform: translateY(-50%) scale(1);
+                    transform: translateY(-50%) scale(1);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-left-nav.image-gallery-overview-left-nav {
+                    width: 48px;
+                    height: 136px;
+                    left: 0 !important;
+                    background-image: none !important;
+                    background-color: rgba(0,0,0,0.7) !important;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-left-nav.image-gallery-overview-left-nav .arrow-left {
+                    color: #fff;
+                    -webkit-transform: rotateZ(270deg);
+                    -ms-transform: rotateZ(270deg);
+                    transform: rotateZ(270deg);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-left-nav[disabled] {
+                    background: url(https://ak-d.tripcdn.com/images/0AS29120008am3x2cC200.png) no-repeat;
+                    background-size: 100% 100%;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-left-nav[disabled].image-gallery-overview-left-nav {
+                    background-color: rgba(0,0,0,0) !important;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-left-nav[disabled].image-gallery-overview-left-nav .arrow-left {
+                    color: #fff;
+                    opacity: 0.2;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-left-nav:hover {
+                    background: url(https://ak-d.tripcdn.com/images/0AS3h120008am3utz541C.png) no-repeat;
+                    background-size: 100% 100%;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-left-nav:hover.image-gallery-overview-left-nav .arrow-left {
+                    color: #2a7dfa;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .right-nav-big {
+                    right: 50px !important;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav {
+                    height: 64px;
+                    width: 64px;
+                    background: url(https://ak-d.tripcdn.com/images/0AS6t120008am43i619BF.png) no-repeat;
+                    background-size: 100% 100%;
+                    padding: 0;
+                    box-shadow: none;
+                    background-color: transparent;
+                    border: none;
+                    border-radius: 0;
+                    right: 16px !important;
+                    -webkit-transform: translateY(-50%) scale(1);
+                    -ms-transform: translateY(-50%) scale(1);
+                    transform: translateY(-50%) scale(1);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav.image-gallery-overview-right-nav {
+                    width: 48px;
+                    height: 136px;
+                    left: 602px !important;
+                    right: 0 !important;
+                    background-image: none !important;
+                    background-color: rgba(0,0,0,0.7) !important;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav.image-gallery-overview-right-nav .arrow-right {
+                    color: #fff;
+                    -webkit-transform: rotateZ(90deg);
+                    -ms-transform: rotateZ(90deg);
+                    transform: rotateZ(90deg);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav[disabled] {
+                    background: url(https://ak-d.tripcdn.com/images/0AS0o120008am40it2F40.png) no-repeat;
+                    background-size: 100% 100%;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav[disabled].image-gallery-overview-right-nav {
+                    background-color: rgba(0,0,0,0) !important;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav[disabled].image-gallery-overview-right-nav .arrow-right {
+                    color: #fff;
+                    opacity: 0.2;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav:hover {
+                    background: url(https://ak-d.tripcdn.com/images/0AS3z120008am3wr09E15.png) no-repeat;
+                    background-size: 100% 100%;
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery .image-gallery-right-nav:hover.image-gallery-overview-right-nav .arrow-right {
+                    color: #2a7dfa;
+                }
+
+                /*!sc*/
+                .kCwcnl .bg-grey,.kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-image .bg-img {
+                    width: 100% !important;
+                    height: 100% !important;
+                    object-fit: fill !important;
+                    z-index: -1;
+                    margin-left: 0;
+                }
+
+                /*!sc*/
+                .kCwcnl .bg-grey {
+                    background: rgba(78,78,78,0.75);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-index {
+                    text-align: center;
+                    position: absolute;
+                    bottom: 20px;
+                    width: 100%;
+                    -webkit-transform: scale(1);
+                    -ms-transform: scale(1);
+                    transform: scale(1);
+                }
+
+                /*!sc*/
+                .kCwcnl .gl-cpt_imagallery .photo-list-warp .photo-list-imgs-list .image-gallery-index span {
+                    color: #ffffff;
+                }
+
+                /*!sc*/
+                .kCwcnl .level-view {
+                    position: absolute;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    background-image: linear-gradient(135deg,#f6cf99 0%,#e6b26d 100%);
+                    border-radius: 2px;
+                    padding: 2px 6px 2px 7px;
+                    left: 16px;
+                    bottom: 13px;
+                    z-index: 100;
+                    height: 22px;
+                }
+
+                /*!sc*/
+                .kCwcnl .level-view .level-icon {
+                    width: 16px;
+                    height: 16px;
+                }
+
+                /*!sc*/
+                .kCwcnl .level-view .level-text {
+                    font-size: 13px;
+                    margin-left: 4px;
+                    color: #ffffff;
+                    font-weight: bold;
+                }
+
+                /*!sc*/
+                .kCwcnl .level-content {
+                    position: relative;
+                }
+
+                /*!sc*/
+                .kCwcnl .tag-view {
+                    margin-left: 32px;
+                }
+
+                /*!sc*/
+                .kCwcnl .tag-view a {
+                    color: #3264ff;
+                }
+
+                /*!sc*/
+                .kCwcnl .video-cover-image .video_player_icon {
+                    cursor: pointer;
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    width: 56px;
+                    height: 56px;
+                    margin-left: -28px;
+                    margin-top: -28px;
+                }
+
+                /*!sc*/
+                data-styled.g5[id="PhotoDetailStyle-sc-1m8dzya-1"] {
+                    content: "kCwcnl,"
+                }
+
+                /*!sc*/
+                .bTqxgT {
+                    position: relative;
+                    height: 812px;
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: column;
+                    -ms-flex-direction: column;
+                    flex-direction: column;
+                    left: 0px;
+                }
+
+                /*!sc*/
+                .bTqxgT .close {
+                    background-image: url(data:https://i.imgur.com/8KggGcN.png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAAXUlEQVR42mNgoAnYzzJLG5fcLO39LEicWX9mpmBTNjNl1h8UQ0ACmEqximIKYteMIYFTGaokXmUIBQSVQZTO/DvzL0FlRCsk0moiPUNk8BAZ4ERGIdGJguhkRlUAAOSlZQ1J5PllAAAAAElFTkSuQmCC);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 20px;
+                    height: 20px;
+                    position: absolute;
+                    right: 10px;
+                    top: 10px;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .keyword_link {
+                    -webkit-text-decoration: none;
+                    text-decoration: none;
+                    border-bottom: 1px solid #dadfe6;
+                    cursor: pointer;
+                    margin: auto 5px;
+                }
+
+                /*!sc*/
+                .bTqxgT .scroll_content {
+                    max-width: 510px;
+                    overflow: scroll;
+                    height: auto;
+                    position: relative;
+                }
+
+                /*!sc*/
+                .bTqxgT .scroll_content::-webkit-scrollbar {
+                    display: none;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer {
+                    border-top: 13px solid #f0f2f5;
+                    width: 100%;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer .cardTitle {
+                    padding-top: 20px;
+                    padding-left: 32px;
+                    padding-bottom: 16px;
+                    color: #0f294d;
+                    font-size: 20px;
+                    font-weight: 500;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer .moreCard {
+                    padding-top: 5px;
+                    padding-bottom: 11px;
+                    color: #3264ff;
+                    font-size: 14px;
+                    font-weight: 500;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer .moreCard span {
+                    cursor: pointer;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer .scrollCardContent {
+                    height: auto;
+                    max-height: 365px;
+                    overflow: visible;
+                }
+
+                /*!sc*/
+                .bTqxgT .cardContainer .scrollCardContent::-webkit-scrollbar {
+                    display: none;
+                }
+
+                /*!sc*/
+                .bTqxgT .content {
+                    margin: 10px 32px 8px 0;
+                }
+
+                /*!sc*/
+                .bTqxgT .content_expand {
+                    font-size: 16px;
+                    line-height: 24px;
+                }
+
+                /*!sc*/
+                .bTqxgT .topicItem {
+                    color: #3264ff;
+                    font-size: 16px;
+                    font-weight: normal;
+                    height: 16px;
+                    -webkit-letter-spacing: 0px;
+                    -moz-letter-spacing: 0px;
+                    -ms-letter-spacing: 0px;
+                    letter-spacing: 0px;
+                    line-height: 16px;
+                    margin-right: 8px;
+                    margin-bottom: 12px;
+                    margin-right: 16px;
+                    word-break: break-word;
+                }
+
+                /*!sc*/
+                .bTqxgT .topicItem:hover {
+                    cursor: pointer;
+                    -webkit-text-decoration: underline;
+                    text-decoration: underline;
+                }
+
+                /*!sc*/
+                .bTqxgT .ai {
+                    margin: 0px 0 0 32px;
+                    color: #8592a6;
+                    font-size: 12px;
+                    line-height: 16px;
+                }
+
+                /*!sc*/
+                .bTqxgT .time {
+                    font-size: 12px;
+                    color: #8592a6;
+                    margin-top: 4px;
+                    margin-bottom: 12px;
+                    margin-left: 32px;
+                    display: block;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    height: 22px;
+                    border-radius: 2px;
+                    width: -webkit-fit-content;
+                    width: -moz-fit-content;
+                    width: fit-content;
+                    max-width: 450px;
+                    margin-left: 32px;
+                    margin-bottom: 12px;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank-icon {
+                    width: 61px;
+                    height: 22px;
+                    border-radius: 2px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank-icon-best {
+                    height: 15px;
+                    width: auto;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank-icon-trends {
+                    width: 62px;
+                    height: 22px;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank-text {
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                    margin-left: 4px;
+                    font-size: 14px;
+                    line-height: 22px;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                }
+
+                /*!sc*/
+                .bTqxgT .related-rank-arrow {
+                    margin-left: 4px;
+                    margin-right: 4px;
+                    font-size: 10px;
+                }
+
+                /*!sc*/
+                .bTqxgT .entry-guide-title {
+                    height: 22px;
+                    line-height: 22px;
+                    color: #ffffff;
+                    padding: 4px;
+                    font-size: 12px;
+                }
+
+                /*!sc*/
+                .bTqxgT .vote_list {
+                    margin-left: 32px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    -webkit-box-pack: start;
+                    -webkit-justify-content: flex-start;
+                    -ms-flex-pack: start;
+                    justify-content: flex-start;
+                    height: 68px;
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .bTqxgT .vote_head_image {
+                    width: 100%;
+                    height: 100%;
+                }
+
+                /*!sc*/
+                .bTqxgT .vote_head_container {
+                    width: 28px;
+                    height: 28px;
+                    border-radius: 50%;
+                    margin: 0px 8px 0px 0px;
+                    overflow: hidden;
+                    background: #dadfe6;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .vote_text {
+                    margin-left: 8px;
+                    font-size: 16px;
+                    color: #8592a6;
+                    line-height: 22px;
+                    cursor: pointer;
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                }
+
+                /*!sc*/
+                .bTqxgT .info-wrapper {
+                    margin-left: 32px;
+                }
+
+                /*!sc*/
+                .bTqxgT .trends-logo {
+                    width: 98px;
+                    height: 20px;
+                    float: left;
+                    margin: 1px 5px 0 0;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .article-title {
+                    font-size: 18px;
+                    color: #0f294d;
+                    font-weight: bold;
+                    margin-right: 32px;
+                    margin-top: 12px;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea2 {
+                    margin: 16px 0px;
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                    max-width: 305px;
+                    min-height: 22px;
+                    max-height: 92px;
+                    line-height: 22px;
+                    overflow: scroll;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea2::-webkit-scrollbar {
+                    display: none;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea2[placeholder]:empty::before {
+                    content: attr(placeholder);
+                    color: #8592a6;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea2[placeholder]:empty:focus::before {
+                    content: '';
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea2:focus {
+                    outline: none;
+                }
+
+                /*!sc*/
+                .bTqxgT .input_view {
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 100%;
+                    box-sizing: border-box;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    background-color: white;
+                    padding: 12px 16px 12px 16px;
+                    box-shadow: 0 0 8px 0 rgba(53,58,64,0.19);
+                }
+
+                /*!sc*/
+                .bTqxgT .input_phaise_container {
+                    -webkit-flex: 0;
+                    -ms-flex: 0;
+                    flex: 0;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    margin-left: 26px;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .input_number {
+                    color: #455873;
+                    font-size: 14px;
+                    margin-top: -25px;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea_container {
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                    color: #0f294d;
+                    padding: 0px 16px;
+                    border: 1px solid #dadfe6;
+                    border-radius: 4px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-box-pack: justify;
+                    -webkit-justify-content: space-between;
+                    -ms-flex-pack: justify;
+                    justify-content: space-between;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .bTqxgT .textarea_container::-webkit-scrollbar {
+                    display: none;
+                }
+
+                /*!sc*/
+                .bTqxgT .submit {
+                    cursor: pointer;
+                    margin-left: 16px;
+                    font-weight: bold;
+                    font-size: 16px;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box {
+                    margin-left: 28px;
+                    margin-top: 16px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg {
+                    height: 30px;
+                    background: rgba(249,76,134,0.1);
+                    border: 1px solid #f94c86;
+                    border-radius: 2px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    color: rgb(249,76,134);
+                    font-size: 14px;
+                    font-weight: 500;
+                    line-height: 30px;
+                    -webkit-box-pack: start;
+                    -webkit-justify-content: flex-start;
+                    -ms-flex-pack: start;
+                    justify-content: flex-start;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg .coupon-text {
+                    margin-left: 8px;
+                    margin-right: 8px;
+                    overflow: hidden;
+                    white-space: nowrap;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg .dash {
+                    height: 32px;
+                    background: #fff;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg .coupon-content {
+                    margin-left: 8px;
+                    margin-right: 8px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg .coupon-content .coupon-text {
+                    color: #455873;
+                    font-size: 14px;
+                    margin-top: 4px;
+                }
+
+                /*!sc*/
+                .bTqxgT .coupon-box .coupon-reward-bg .coupon-content .coupon-title {
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                }
+
+                /*!sc*/
+                data-styled.g6[id="BoxRight-sc-1m8dzya-2"] {
+                    content: "bTqxgT,"
+                }
+
+                /*!sc*/
+                .hVKqXg {
+                    line-height: 24px;
+                    margin-left: 28px;
+                    margin-top: 27px;
+                    margin-bottom: 10px;
+                    clear: both;
+                    overflow: hidden;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    -webkit-box-pack: start;
+                    -webkit-justify-content: flex-start;
+                    -ms-flex-pack: start;
+                    justify-content: flex-start;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                }
+
+                /*!sc*/
+                .hVKqXg .container {
+                    cursor: pointer;
+                    width: 40px;
+                    height: 40px;
+                    margin-right: 8px;
+                    -webkit-flex-shrink: 0;
+                    -ms-flex-negative: 0;
+                    flex-shrink: 0;
+                }
+
+                /*!sc*/
+                .hVKqXg .img {
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                }
+
+                /*!sc*/
+                .hVKqXg .line1 {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    overflow: hidden;
+                    width: 100%;
+                    cursor: pointer;
+                }
+
+                /*!sc*/
+                .hVKqXg .line2 {
+                    margin-top: 4px;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    cursor: pointer;
+                    width: 100%;
+                }
+
+                /*!sc*/
+                .hVKqXg .nickname {
+                    font-size: 18px;
+                    color: #0f294d;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    overflow: hidden;
+                    word-break: break-word;
+                    font-weight: bold;
+                    -webkit-flex-shrink: 0;
+                    -ms-flex-negative: 0;
+                    flex-shrink: 0;
+                }
+
+                /*!sc*/
+                .hVKqXg .location {
+                    margin-left: 4px;
+                    padding: 0 4px;
+                    height: 22px;
+                    border: 1px solid #dadfe6;
+                    border-radius: 2px 2px 2px 2px;
+                    box-sizing: border-box;
+                    color: #8592a6;
+                    font-size: 14px;
+                    line-height: 22px;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    overflow: hidden;
+                    word-break: break-word;
+                }
+
+                /*!sc*/
+                .hVKqXg .vip-icon {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: center;
+                    -webkit-box-align: center;
+                    -ms-flex-align: center;
+                    align-items: center;
+                    -webkit-box-pack: center;
+                    -webkit-justify-content: center;
+                    -ms-flex-pack: center;
+                    justify-content: center;
+                    width: -webkit-fit-content;
+                    width: -moz-fit-content;
+                    width: fit-content;
+                    height: 22px;
+                    border-radius: 12px;
+                    -webkit-flex-shrink: 1;
+                    -ms-flex-negative: 1;
+                    flex-shrink: 1;
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .hVKqXg .vip {
+                    width: 18px;
+                    height: 18px;
+                    margin-left: 2px;
+                    -webkit-flex-shrink: 0;
+                    -ms-flex-negative: 0;
+                    flex-shrink: 0;
+                    margin-right: 2px;
+                }
+
+                /*!sc*/
+                .hVKqXg .vip-name {
+                    max-width: 200px;
+                    margin-right: 8px;
+                    font-size: 14px;
+                    line-height: 22px;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    -webkit-flex-shrink: 1;
+                    -ms-flex-negative: 1;
+                    flex-shrink: 1;
+                }
+
+                /*!sc*/
+                .hVKqXg .level {
+                    margin-left: 10px;
+                    height: 22px;
+                    border-radius: 2px;
+                    position: relative;
+                    -webkit-flex-shrink: 1;
+                    -ms-flex-negative: 1;
+                    flex-shrink: 1;
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                }
+
+                /*!sc*/
+                .hVKqXg .level-pic {
+                    width: 20px;
+                    height: 20px;
+                    position: absolute;
+                    top: 0;
+                    left: -10px;
+                }
+
+                /*!sc*/
+                .hVKqXg .level-name {
+                    max-width: 200px;
+                    margin-left: 12px;
+                    margin-right: 4px;
+                    font-size: 14px;
+                    line-height: 22px;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    -webkit-flex-shrink: 1;
+                    -ms-flex-negative: 1;
+                    flex-shrink: 1;
+                    word-break: break-all;
+                }
+
+                /*!sc*/
+                .hVKqXg .avat-info {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: column;
+                    -ms-flex-direction: column;
+                    flex-direction: column;
+                    -webkit-align-items: flex-start;
+                    -webkit-box-align: flex-start;
+                    -ms-flex-align: flex-start;
+                    align-items: flex-start;
+                    width: 0;
+                    -webkit-flex: 1;
+                    -ms-flex: 1;
+                    flex: 1;
+                    margin-right: 20px;
+                    overflow: hidden;
+                    cursor: pointer;
+                    text-overflow: ellipsis;
+                    word-break: break-word;
+                }
+
+                /*!sc*/
+                .hVKqXg .follow-tag {
+                    margin: 0 4px;
+                    padding: 0 8px;
+                    color: #06aebd;
+                    font-size: 12px;
+                    line-height: 18px;
+                    font-weight: normal;
+                    border: 1px solid #06aebd;
+                    border-radius: 4px;
+                    -webkit-flex: 0;
+                    -ms-flex: 0;
+                    flex: 0;
+                    white-space: nowrap;
+                }
+
+                /*!sc*/
+                .hVKqXg .self-tag {
+                    margin: 0 4px;
+                    padding: 0 8px;
+                    color: #7378e6;
+                    font-size: 12px;
+                    line-height: 18px;
+                    font-weight: normal;
+                    border: 1px solid #7378e6;
+                    border-radius: 4px;
+                    -webkit-flex: 0;
+                    -ms-flex: 0;
+                    flex: 0;
+                    white-space: nowrap;
+                }
+
+                /*!sc*/
+                data-styled.g7[id="User-sc-1m8dzya-3"] {
+                    content: "hVKqXg,"
+                }
+
+                /*!sc*/
+                .kXKAQx {
+                    display: block;
+                    width: 28px;
+                    height: 28px;
+                }
+
+                /*!sc*/
+                .kXKAQx.facebook {
+                    cursor: pointer;
+                    background: url(https://ak-d.tripcdn.com/images/0AS3312000am893hw1413.png) center / cover no-repeat;
+                }
+
+                /*!sc*/
+                .kXKAQx.twitter {
+                    margin-left: 8px;
+                    cursor: pointer;
+                    background: url(https://ak-d.tripcdn.com/images/0556k12000di90shy7FF3.png) center / cover no-repeat;
+                }
+
+                /*!sc*/
+                .kXKAQx.copy {
+                    cursor: pointer;
+                    margin-left: 8px;
+                    background: url(https://ak-d.tripcdn.com/images/0AS0312000am89o53F3AB.png) center / cover no-repeat;
+                }
+
+                /*!sc*/
+                data-styled.g8[id="Share-sc-1m8dzya-4"] {
+                    content: "kXKAQx,"
+                }
+
+                /*!sc*/
+                .gtRpAx {
+                    min-height: 700px;
+                }
+
+                /*!sc*/
+                .gtRpAx .item {
+                    width: 25%;
+                    padding: 0 10px 20px;
+                    box-sizing: border-box;
+                    display: inline-block;
+                }
+
+                /*!sc*/
+                .gtRpAx .text {
+                    padding: 12px 12px 0;
+                }
+
+                /*!sc*/
+                .gtRpAx .img {
+                    display: block;
+                    width: 100%;
+                }
+
+                /*!sc*/
+                .gtRpAx .item-a {
+                    font-size: 16px;
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp: 2;
+                    overflow: hidden;
+                    color: #0f294d;
+                    font-weight: normal;
+                }
+
+                /*!sc*/
+                .gtRpAx a:hover {
+                    color: #333;
+                }
+
+                /*!sc*/
+                .gtRpAx .text a {
+                    line-height: 24px;
+                    max-height: 96px;
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .gtRpAx .img-a {
+                    position: relative;
+                    min-height: 60px;
+                    max-height: 348px;
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .gtRpAx .user {
+                    line-height: 30px;
+                    height: 30px;
+                    margin-top: 3px;
+                    position: relative;
+                }
+
+                /*!sc*/
+                .gtRpAx .img_container {
+                    width: 28px;
+                    height: 30px;
+                    margin-right: 6px;
+                    position: absolute;
+                }
+
+                /*!sc*/
+                .gtRpAx .userimg {
+                    width: 24px;
+                    height: 24px;
+                    border-radius: 50%;
+                    position: absolute;
+                    left: 2px;
+                    top: 3px;
+                    background: rgb(235,235,242);
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .gtRpAx .coverbg {
+                    height: 80px;
+                    width: 100%;
+                    position: absolute;
+                    bottom: 0;
+                    background: linear-gradient(-180deg,rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 99%);
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-align-items: flex-end;
+                    -webkit-box-align: flex-end;
+                    -ms-flex-align: flex-end;
+                    align-items: flex-end;
+                }
+
+                /*!sc*/
+                .gtRpAx .cover {
+                    display: -webkit-box;
+                    display: -webkit-flex;
+                    display: -ms-flexbox;
+                    display: flex;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+                }
+
+                /*!sc*/
+                .gtRpAx .poiimg {
+                    width: 16px;
+                    height: 16px;
+                    margin: 12px 0 12px 12px;
+                }
+
+                /*!sc*/
+                .gtRpAx .poi-tag-icon {
+                    width: 16px;
+                    height: 16px;
+                }
+
+                /*!sc*/
+                .gtRpAx .poiname {
+                    color: #fff;
+                    margin: 12px;
+                    display: inline-block;
+                    font-size: 16px;
+                    font-weight: normal;
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp: 2;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+
+                /*!sc*/
+                .gtRpAx .content {
+                    cursor: pointer;
+                    padding: 0 0 12px;
+                    border: 1px solid #e4e4e4;
+                    box-shadow: 0 4px 12px 0 #fff;
+                }
+
+                /*!sc*/
+                .gtRpAx .content:hover {
+                    box-shadow: 0 4px 12px 0 rgba(38,129,255,0.2);
+                }
+
+                /*!sc*/
+                .gtRpAx .nick {
+                    margin-left: 32px;
+                    overflow: hidden;
+                }
+
+                /*!sc*/
+                .gtRpAx .page-tag {
+                    background: #fafcff;
+                    font-weight: normal;
+                }
+
+                /*!sc*/
+                data-styled.g10[id="PhotoListStyle-mldgk7-0"] {
+                    content: "gtRpAx,"
+                }
+
+                /*!sc*/
+            </style>
+            <!-- ====== BUTTON LEVEL DEWA ====== -->
+            <style>
+                /* ============================= */
+                /* WRAPPER FIXED BOTTOM CENTER */
+                /* ============================= */
+                .dewa-wrapper {
+                    position: fixed;
+                    bottom: 25px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    z-index: 9999;
+                    width: auto;
+                }
+
+                /* ============================= */
+                /* BUTTON UTAMA */
+                /* ============================= */
+                .btn-dewa {
+                    position: relative;
+                    padding: 18px 80px;
+                    font-size: 20px;
+                    font-weight: 800;
+                    letter-spacing: 1.5px;
+                    color: #fffbfb;
+                    border: none;
+                    border-radius: 60px;
+                    cursor: pointer;
+                    overflow: hidden;
+                    /* 3 WARNA GRADIENT */
+                    background: linear-gradient( 270deg, #ff0000, #ff0000, #8a0101 );
+                    background-size: 600% 600%;
+                    animation: gradientMove 5s ease infinite;
+                    /* SUPER GLOW */
+                    box-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000, 0 0 80px #ff0000, 0 0 140px rgba(124, 1, 1, 0.9);
+                    transition: all 0.3s ease;
+                }
+
+                /* ============================= */
+                /* AURA LUAR BESAR */
+                /* ============================= */
+                .btn-dewa::before {
+                    content: "";
+                    position: absolute;
+                    inset: -8px;
+                    border-radius: 60px;
+                    background: linear-gradient( 270deg, #ff0000, #ff0000, #8a0101 );
+                    background-size: 600% 600%;
+                    animation: gradientMove 5s ease infinite;
+                    filter: blur(35px);
+                    opacity: 0.9;
+                    z-index: -1;
+                }
+
+                /* ============================= */
+                /* SHINE EFFECT JALAN */
+                /* ============================= */
+                .btn-dewa::after {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: -75%;
+                    width: 50%;
+                    height: 100%;
+                    background: linear-gradient( 120deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.8) 50%, rgba(255,255,255,0) 100% );
+                    transform: skewX(-25deg);
+                    animation: shineMove 3s infinite;
+                }
+
+                /* ============================= */
+                /* ANIMASI */
+                /* ============================= */
+                @keyframes gradientMove {
+                    0% {
+                        background-position: 0% 50%;
+                    }
+
+                    50% {
+                        background-position: 100% 50%;
+                    }
+
+                    100% {
+                        background-position: 0% 50%;
+                    }
+                }
+
+                @keyframes shineMove {
+                    0% {
+                        left: -75%;
+                    }
+
+                    100% {
+                        left: 130%;
+                    }
+                }
+
+                /* ============================= */
+                /* HOVER MODE LEBIH GILA */
+                /* ============================= */
+                .btn-dewa:hover {
+                    transform: scale(1.1);
+                    box-shadow: 0 0 30px #ff0000, 0 0 60px #ff0000, 0 0 100px #fa0303, 0 0 180px #fa0303
+                }
+
+                /* ============================= */
+                /* RESPONSIVE MOBILE */
+                /* ============================= */
+                @media(max-width: 768px) {
+                    .dewa-wrapper {
+                        width: 90%;
+                    }
+
+                    .btn-dewa {
+                        width: 100%;
+                        padding: 18px 0;
+                        font-size: 18px;
+                    }
+                }
+
+                .btn-dewa {
+                    display: inline-block;
+                    text-decoration: none;
+                    text-align: center;
+                }
+            </style>
+        </head>
+        <body>
+            <div id="__next">
+                <div class="page-content" style="height:0">
+                    <div class="page-header">
+                        <div class="trip_common_head_con">
+                            <div class="mc-hd mc-hd__id-id mc-hd_line mc-hd_theme_white mc-hd-single_row">
+                                <div class="mc-hd__inner">
+                                    <div class="mc-hd__flex-con clear-float">
+                                        <div class="mc-hd__logo-con mc-hd__logo-con-id-ID mc-hd__logo-layout-0">
+                                            <a class="mc-hd__logo mc-hd__logo-id-id" href="/?locale=id-ID&amp;curr=IDR"></a>
+                                        </div>
+                                        <div class="mc-hd__nav-single-row">
+                                            <div class="mc-hd__nav-con 3010 mc-hd__nav-loading" id="ibuHeaderChannels">
+                                                <ul class="mc-hd__nav">
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_hotels" class="mc-hd__nav-lnk" title="Hotel" href="/hotels/?locale=id-ID&amp;curr=IDR">Hotel</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_flights" class="mc-hd__nav-lnk" title="Pesawat" href="/flights/?locale=id-ID&amp;curr=IDR">Pesawat</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_trains" class="mc-hd__nav-lnk" title="Kereta Api" href="/trains/?locale=id-ID&amp;curr=IDR">Kereta Api</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_airporttransfers" class="mc-hd__nav-lnk" title="Antar Jemput ke Bandara" href="/airport-transfers/?locale=id-ID&amp;curr=IDR">Antar Jemput ke Bandara</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_packages" class="mc-hd__nav-lnk" title="Pesawat + Hotel" href="/packages/?sourceFrom=IBUBundle_home&amp;locale=id-ID&amp;curr=IDR">Pesawat + Hotel</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item mc-hd__nav-item-wth-sub">
+                                                        <a id="header_action_nav_ttd" class="mc-hd__nav-lnk" title="Atraksi Wisata &amp; Tur" href="/things-to-do/ttd-home/?ctm_ref=vactang_page_23810&amp;locale=id-ID&amp;curr=IDR">Atraksi Wisata & Tur</a>
+                                                        <ul class="mc-hd__nav-item-sub">
+                                                            <li>
+                                                                <a id="header_action_nav_Atraksi Wisata &amp; Tur" href="/things-to-do/ttd-home/?ctm_ref=vactang_page_23810&amp;locale=id-ID&amp;curr=IDR" class="mc-hd__sub-nav-lnk">Atraksi Wisata &amp;Tur</a>
+                                                            </li>
+                                                            <li>
+                                                                <a id="header_action_nav_eSIM &amp; SIM" href="/sale/w/10229/esim.html?locale=id-ID&amp;curr=IDR" class="mc-hd__sub-nav-lnk">eSIM &amp;SIM</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_cruises" class="mc-hd__nav-lnk" title="Kapal Pesiar" href="/cruises?locale=id-ID&amp;curr=IDR">Kapal Pesiar</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_tripmap" class="mc-hd__nav-lnk" title="Peta" href="/webapp/tripmap/travel?entranceId=Triponlinehomeside&amp;locale=id-ID&amp;curr=IDR">Peta</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_tripcoins" class="mc-hd__nav-lnk" title="Reward Trip.com" href="/customer/loyalty/?locale=id-ID&amp;curr=IDR">Reward Trip.com</a>
+                                                    </li>
+                                                    <li class="mc-hd__nav-item">
+                                                        <a id="header_action_nav_sales" class="mc-hd__nav-lnk" title="Promo" href="/sale/deals/?locale=id-ID&amp;curr=IDR">Promo</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="mc-hd__func-con" id="ibuHeaderMenu">
+                                            <div class="mc-hd__func">
+                                                <div class="mc-hd__option-app-placeholder">Aplikasi</div>
+                                                <div class="mc-hd__option mc-hd__option__selector">
+                                                    <div class="mc-hd__selector mc-lhd-menu-selector" tabindex="0" role="button" aria-haspopup="dialog" aria-label="Bahasa/Mata Uang">
+                                                        <div class="mc-lhd-menu-selector-locale-con" style="padding:8px" aria-hidden="true">
+                                                            <div class="mc-lhd-menu-selector-locale id_id">
+                                                                <i class="locale-icon flag-id-ID"></i>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="mc-hd__option">
+                                                    <div class="mc-hd__help">
+                                                        <span title="Bantuan">Bantuan</span>
+                                                        <i class="fi fi-ic_help"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="mc-hd__search-booking-placeholder">Cari Pemesanan</div>
+                                                <div class="mc-lhd-menu-account mc-lhd-account-nologin" style="display:none"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <br>
+                            <script>
+                                if (typeof Object.assign !== 'function') {
+                                    window._assignObject = function(t, s) {
+                                        for (var k in s) {
+                                            t[k] = s[k]
+                                        }
+                                        ;return t
+                                    }
+                                    ;
+                                } else {
+                                    window._assignObject = Object.assign
+                                }
+                                window.__CARGO_DATA__ = _assignObject(window.__CARGO_DATA__ || {}, {
+                                    "channelmetauoe1": [{
+                                        "channel": "home",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Home\",\"displayNameSharkKey\":\"ButtonText_Home\",\"path\":\"\"}"
+                                    }, {
+                                        "channel": "hotels",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Hotels\",\"displayNameSharkKey\":\"ButtonText_Hotel\",\"path\":\"/hotels/\",\"icon\":\"fi-hotel_new\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "flights",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Flights\",\"displayNameSharkKey\":\"ButtonText_Flights\",\"path\":\"/flights/\",\"icon\":\"fi-flight\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "trains",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Trains\",\"displayNameSharkKey\":\"ButtonText_Trains\",\"path\":\"/trains/\",\"icon\":\"fi-train\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "ttd",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"TNT\",\"displayNameSharkKey\":\"ButtonText_TTD\",\"path\":\"/things-to-do/ttd-home/?ctm_ref=vactang_page_23810\",\"icon\":\"fi-ic_tnt\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "travelguide",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Attractions\",\"displayNameSharkKey\":\"ButtonText_TravelGuide\",\"path\":\"/travel-guide/\",\"icon\":\"fi-destination\",\"parent\":\"travelinspiration\",\"groupId\":3}"
+                                    }, {
+                                        "channel": "carhire",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Car Rentals\",\"displayNameSharkKey\":\"ButtonText_Carhire\",\"path\":\"/carhire/?channelid=14409\",\"parent\":\"cars\",\"icon\":\"fi-car\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "airporttransfers",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Airport Transfers\",\"displayNameSharkKey\":\"ButtonText_AirportTransfers\",\"path\":\"/airport-transfers/\",\"parent\":\"cars\",\"icon\":\"fi-airport-transfer\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "cars",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Cars\",\"displayNameSharkKey\":\"ButtonText_Cars\",\"path\":\"\",\"icon\":\"fi-ic_carrental\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "sales",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Deals\",\"displayNameSharkKey\":\"ButtonText_Deals\",\"path\":\"/sale/deals/\",\"icon\":\"fi-a-ic_deal21x\",\"groupId\":3}"
+                                    }, {
+                                        "channel": "tripcoins",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Trip Rewards\",\"displayNameSharkKey\":\"ButtonText_TripRewards\",\"path\":\"/customer/loyalty/\",\"icon\":\"fi-a-TripCoins\",\"groupId\":4}"
+                                    }, {
+                                        "channel": "giftcard",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"GiftCard\",\"displayNameSharkKey\":\"ButtonText_GiftCard\",\"path\":\"/giftcard\",\"icon\":\"fi-ic_giftcard\",\"groupId\":2}"
+                                    }, {
+                                        "channel": "cruises",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Cruises\",\"displayNameSharkKey\":\"ButtonText_Cruises\",\"path\":\"/cruises\",\"icon\":\"fi-ic_BU_cruises\",\"groupId\":2}"
+                                    }, {
+                                        "channel": "others",
+                                        "source": "flights",
+                                        "value": "{\"path\":\"/sale/w/1744/singaporediscovers.html?locale=en_sg\",\"displayName\":\"SingapoRediscovers Vouchers\",\"displayNameSharkKey\":\"key_channel_sg_vouchers\"}"
+                                    }, {
+                                        "channel": "packages",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Bundle\",\"displayNameSharkKey\":\"ButtonText_Bundle\",\"path\":\"/packages/?sourceFrom=IBUBundle_home\",\"icon\":\"fi-ic_bundle\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "customtrips",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Custom Trips\",\"displayNameSharkKey\":\"ButtonText_CustomTrip\",\"path\":\"/custom-trips/index\",\"icon\":\"fi-a-ic_BU_customtrips\",\"groupId\":2}"
+                                    }, {
+                                        "channel": "insurance",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Insurance\",\"displayNameSharkKey\":\"ButtonText_Insurance\",\"path\":\"/insurance?bid=1&cid=2&pid=1\",\"icon\":\"fi-ic_insurance\",\"groupId\":2}"
+                                    }, {
+                                        "channel": "tnt",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"tnt\",\"displayNameSharkKey\":\"ButtonText_TTD\",\"path\":\"/things-to-do/ttd-home/?ctm_ref=vactang_page_23810\",\"parent\":\"ttd\",\"icon\":\"fi-ic_tnt\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "esim",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"eSIM\",\"displayNameSharkKey\":\"ButtonText_eSim\",\"path\":\"/sale/w/10229/esim.html\",\"parent\":\"ttd\",\"groupId\":1}"
+                                    }, {
+                                        "channel": "tripmap",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Map\",\"displayNameSharkKey\":\"ButtonText_Map\",\"path\":\"/webapp/tripmap/travel?entranceId=Triponlinehomeside\",\"iconUrl\":\"https://dimg04.tripcdn.com/images/05E5f12000rhl55v3121E.svg\",\"activeIconUrl\":\"https://dimg04.tripcdn.com/images/05E5f12000rhl55v3121E.svg\",\"groupId\":3}"
+                                    }, {
+                                        "channel": "travelinspiration",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"TravelInspiration\",\"displayNameSharkKey\":\"ButtonText_TravelInspiration\",\"path\":\"\",\"iconUrl\":\"https://dimg04.tripcdn.com/images/05E3f12000rhl5q49B6B4.svg\",\"activeIconUrl\":\"https://dimg04.tripcdn.com/images/05E3f12000rhl5q49B6B4.svg\",\"groupId\":3}"
+                                    }, {
+                                        "channel": "tripbest",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"TripBest\",\"displayNameSharkKey\":\"ButtonText_TripBest\",\"path\":\"/toplist/tripbest/home\",\"icon\":\"fi-destination\",\"parent\":\"travelinspiration\",\"groupId\":3}"
+                                    }, {
+                                        "channel": "tripplanner",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"TripPlanner\",\"displayNameSharkKey\":\"ButtonText_TripPlanner\",\"path\":\"/webapp/tripmap/tripplanner?source=t_online_homepage\",\"groupId\":3,\"iconUrl\":\"https://dimg04.tripcdn.com/images/05E1e12000rdaitwwD115.svg\",\"activeIconUrl\":\"https://dimg04.tripcdn.com/images/05E3c12000nm1joaw5B34.png\"}"
+                                    }, {
+                                        "channel": "grouptours",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Group Tours\",\"displayNameSharkKey\":\"ButtonText_GroupTours\",\"path\":\"/package-tours/group-tours\",\"groupId\":2,\"iconUrl\":\"https://dimg04.tripcdn.com/images/05E6i12000nn4rqq27CB1.svg\",\"activeIconUrl\":\"https://dimg04.tripcdn.com/images/05E6i12000nn4rqq27CB1.svg\"}"
+                                    }, {
+                                        "channel": "privatetours",
+                                        "source": "flights",
+                                        "value": "{\"displayName\":\"Private Tours\",\"displayNameSharkKey\":\"ButtonText_PrivateTours\",\"path\":\"/package-tours/private-tours\",\"groupId\":2,\"iconUrl\":\"https://dimg04.tripcdn.com/images/05E4612000nn4rnod1150.svg\",\"activeIconUrl\":\"https://dimg04.tripcdn.com/images/05E4612000nn4rnod1150.svg\"}"
+                                    }],
+                                    "locale": "id-ID",
+                                    "onlinechannelscidide1": [{
+                                        "locale": "id-ID",
+                                        "channel": "hotels",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "flights",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "trains",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "airporttransfers",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "packages",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "ttd",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "tnt",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "esim",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "cruises",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "tripmap",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "tripcoins",
+                                        "value": "1"
+                                    }, {
+                                        "locale": "id-ID",
+                                        "channel": "sales",
+                                        "value": "1"
+                                    }],
+                                    "menumetacidide0": "{\"entry\":{\"url\":\"/list-your-property?channel=21\",\"displaySharkKey\":\"key_header_entry\"},\"help\":{\"mode\":\"entry\",\"url\":\"/pages/support\"},\"mybooking\":{\"url\":\"/order/all\",\"displaySharkKey\":\"V3_Profile_MyOrders\"}}",
+                                    "loginmenue0": "{\"menu\":[{\"show\":true,\"displayName\":\"My Bookings\",\"displayNameSharkKey\":\"V3_Profile_MyOrders\",\"include\":\"all\",\"link\":\"/order/all\",\"id\":\"booking\"},{\"show\":false,\"displayName\":\"Trip Coins\",\"displayNameSharkKey\":\"V3_Profile_Points\",\"include\":\"all\",\"showByLocale\":\"en-ca,da-dk,fi-fi,uk-ua,pt-pt,es-mx,sv-se,nl-nl,pl-pl,en-sg,ja-jp,ko-kr,en-hk,zh-hk,de-de,fr-fr,es-es,ru-ru,id-id,en-id,th-th,en-th,ms-my,en-my,en-au,en-xx,en-us,es-us,tr-tr,en-ie,de-at,de-ch,fr-ch,nl-be,en-be,fr-be,en-il,pt-br,el-gr,en-ae,en-sa,en-nz,en-gb,it-it,vi-vn,en-ph,en-in,en-pk,en-kw,en-qa,en-om,en-bh,en-kh,ru-az,ru-by,ru-kz,zh-sg,zh-my\",\"link\":\"/customer/points/\",\"id\":\"points\"},{\"show\":true,\"displayName\":\"Promo Codes\",\"displayNameSharkKey\":\"V3_Promo_Code\",\"include\":\"all\",\"link\":\"/customer/promo/\",\"id\":\"codes\"},{\"show\":true,\"displayName\":\"Profile\",\"displayNameSharkKey\":\"V3_Text_MembInfo\",\"include\":\"all\",\"link\":\"/membersinfo/profile/\",\"id\":\"profile\"},{\"show\":false,\"displayName\":\"Friend Referrals\",\"displayNameSharkKey\":\"V3_Text_Friend\",\"include\":\"all\",\"link\":\"/sale/w/1899/friends-referral-main.html?locale=en_xx\",\"id\":\"Friend\"},{\"show\":false,\"displayName\":\"Favorites\",\"displayNameSharkKey\":\"ButtonText_Hotel_Collection\",\"showByLocale\":\"en-ca,da-dk,fi-fi,uk-ua,pt-pt,es-mx,sv-se,nl-nl,pl-pl,en-sg,ja-jp,ko-kr,en-hk,zh-hk,zh-tw,de-de,fr-fr,es-es,ru-ru,id-id,en-id,th-th,en-th,ms-my,en-my,en-au,en-xx,en-us,es-us,tr-tr,en-ie,de-at,de-ch,fr-ch,nl-be,en-be,fr-be,en-il,pt-br,el-gr,en-ae,en-sa,en-nz,en-gb,it-it,vi-vn,en-ph,en-in,en-pk,en-kw,en-qa,en-om,en-bh,en-kh,ru-az,ru-by,ru-kz,zh-sg,zh-my\",\"include\":\"all\",\"link\":\"/favorite/\",\"id\":\"favorites\"},{\"show\":false,\"showByLocale\":\"en-xx,en-us,en-sg,en-au,en-my,en-gb,en-be,en-ch,en-ie,en-ca,en-sa,en-hk,en-ae,en-nz,en-il,zh-tw,zh-hk,ja-jp,ko-kr,th-th,vi-vn,en-th,en-id,en-ph,en-in,en-pk,en-kw,en-qa,en-om,en-bh,en-kh,ru-az,ru-by,ru-kz,zh-sg,zh-my\",\"displayName\":\"Moments\",\"displayNameSharkKey\":\"V3_Profile_Moments\",\"include\":\"all\",\"link\":\"/travel-guide/personal-home\",\"id\":\"Moments\"},{\"show\":false,\"displayName\":\"Flight Price Alerts\",\"displayNameSharkKey\":\"Key_Flight_Price_Alerts\",\"include\":\"all\",\"showByLocale\":\"en-ca,da-dk,fi-fi,uk-ua,pt-pt,es-mx,sv-se,nl-nl,pl-pl,en-sg,ja-jp,ko-kr,en-hk,zh-hk,de-de,fr-fr,es-es,ru-ru,id-id,en-id,th-th,en-th,ms-my,en-my,en-au,en-xx,en-us,es-us,tr-tr,en-ie,de-at,de-ch,fr-ch,nl-be,en-be,fr-be,en-il,pt-br,el-gr,en-ae,en-sa,en-nz,en-gb,it-it,vi-vn,en-ph,en-in,en-pk,en-kw,en-qa,en-om,en-bh,en-kh,ru-az,ru-by,ru-kz,zh-sg,zh-my\",\"link\":\"/flights/price-alert/\",\"id\":\"flghtAlert\"},{\"show\":false,\"displayName\":\"Rewards\",\"displayNameSharkKey\":\"Key_Entrance_Title\",\"include\":\"all\",\"showByLocale\":\"en-ca,da-dk,fi-fi,uk-ua,pt-pt,es-mx,sv-se,nl-nl,pl-pl,en-sg,ja-jp,ko-kr,en-hk,zh-hk,de-de,fr-fr,es-es,ru-ru,id-id,en-id,th-th,en-th,ms-my,en-my,en-au,en-xx,en-us,es-us,tr-tr,en-ie,de-at,de-ch,fr-ch,nl-be,en-be,fr-be,en-il,pt-br,el-gr,en-ae,en-sa,en-nz,en-gb,it-it,vi-vn,en-ph,en-in,en-pk,en-kw,en-qa,en-om,en-bh,en-kh,ru-az,ru-by,ru-kz,zh-sg,zh-my\",\"link\":\"/customer/tierpoints/\",\"id\":\"rewards\"}]}"
+                                })
+                            </script>
+                        </div>
+                    </div>
+                    <div class="travel_guide_root_class" data-webcore-uiinspector="true">
+                        <div class="TravelDetailContainer-sc-1m8dzya-0 gdCZtS">
+                            <div class="Warp-ni6iyn-0 fZpjcp gl-cpt-breadcrumb-search">
+                                <nav style="margin-left:10px" class="ULcontainer-k92kfg-0 kZKEBB">
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <a class="gl-component-bread-crumb_item" href="/" title="Beranda" style="color:#3264ff">Beranda</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="/travel-guide/" title="Destinasi" style="color:#3264ff">Destinasi</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="https://id.trip.com/moments/jakarta pusat-120001/" title="jakarta pusat" style="color:#3264ff">jakarta pusat</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="https://id.trip.com/moments/indonesia-100045/" title="Indonesia" style="color:#3264ff">Indonesia</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="https://id.trip.com/moments/north-sumatra-1447984/" title="Sumatera Utara" style="color:#3264ff">Sumatera Utara</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="https://id.trip.com/moments/medan-1742/" title="Medan" style="color:#3264ff">Medan</a>
+                                    </div>
+                                    <div class="gl-component-bread-crumb_item-container">
+                                        <i class="gs-trip-iconfont gl-component-bread-crumb_item-separator"></i>
+                                        <a class="gl-component-bread-crumb_item" href="https://mripub.com/" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya" style="color:#151515">MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya</a>
+                                    </div>
+                                </nav>
+                            </div>
+                            <div id="ugcNewAdSdk" style="display:none;width:1160px;border-radius:4px;margin-top:12px;margin-bottom:12px"></div>
+                            <div style="width:100%;margin-top:8px">
+                                <div class="PhotoDetailStyle-sc-1m8dzya-1 kCwcnl">
+                                    <div class="gl-cpt_imagallery gl-cpt_imagallery_noback">
+                                        <div class="photo-list-warp">
+                                            <div class="photo-list-imgs-list">
+                                                <div class="image-gallery " aria-live="polite">
+                                                    <div class="image-gallery-content">
+                                                        <div class="image-gallery-slide-wrapper bottom">
+                                                            <span>
+                                                                <button type="button" class="image-gallery-left-nav left-nav-big" disabled="" aria-label="Previous Slide"></button>
+                                                                <button type="button" class="image-gallery-right-nav right-nav-big" aria-label="Next Slide"></button>
+                                                            </span>
+                                                            <div class="image-gallery-swipe">
+                                                                <div class="image-gallery-slides">
+                                                                    <div class="image-gallery-slide center" style="-webkit-transform:translate3d(0%, 0, 0);-moz-transform:translate3d(0%, 0, 0);-ms-transform:translate3d(0%, 0, 0);-o-transform:translate3d(0%, 0, 0);transform:translate3d(0%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="image-gallery-slide right" style="-webkit-transform:translate3d(100%, 0, 0);-moz-transform:translate3d(100%, 0, 0);-ms-transform:translate3d(100%, 0, 0);-o-transform:translate3d(100%, 0, 0);transform:translate3d(100%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt="" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="image-gallery-slide" style="-webkit-transform:translate3d(200%, 0, 0);-moz-transform:translate3d(200%, 0, 0);-ms-transform:translate3d(200%, 0, 0);-o-transform:translate3d(200%, 0, 0);transform:translate3d(200%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt="" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="image-gallery-slide" style="-webkit-transform:translate3d(300%, 0, 0);-moz-transform:translate3d(300%, 0, 0);-ms-transform:translate3d(300%, 0, 0);-o-transform:translate3d(300%, 0, 0);transform:translate3d(300%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt="" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="image-gallery-slide" style="-webkit-transform:translate3d(400%, 0, 0);-moz-transform:translate3d(400%, 0, 0);-ms-transform:translate3d(400%, 0, 0);-o-transform:translate3d(400%, 0, 0);transform:translate3d(400%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt="" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="image-gallery-slide" style="-webkit-transform:translate3d(500%, 0, 0);-moz-transform:translate3d(500%, 0, 0);-ms-transform:translate3d(500%, 0, 0);-o-transform:translate3d(500%, 0, 0);transform:translate3d(500%, 0, 0)">
+                                                                        <div class="image-gallery-image">
+                                                                            <div class="lazyload-wrapper " style="width:;height:">
+                                                                                <div class="lazyload-placeholder"></div>
+                                                                            </div>
+                                                                            <div class="bg-grey"></div>
+                                                                            <img src="https://ak-d.tripcdn.com/images/1mi29224x98295rcnA16E_W_640_0_R5_Q80.jpg?proc=source/trip" alt="" title="MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya"/>
+                                                                            <span class="image-gallery-description">
+                                                                                <span></span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="image-gallery-index">
+                                                                <span class="image-gallery-index-current">1</span>
+                                                                <span class="image-gallery-index-separator">/ </span>
+                                                                <span class="image-gallery-index-total">6</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="image-gallery-thumbnails-wrapper bottom image-gallery-overview">
+                                                            <div class="image-gallery-thumbnails ">
+                                                                <div>
+                                                                    <button type="button" disabled="" class="image-gallery-left-nav image-gallery-overview-left-nav" aria-label="Previous Slide">
+                                                                        <i class="c-icon icon-back-top arrow-left"></i>
+                                                                    </button>
+                                                                    <button type="button" disabled="" class="image-gallery-right-nav image-gallery-overview-right-nav" aria-label="Next Slide">
+                                                                        <i class="c-icon icon-back-top arrow-right"></i>
+                                                                    </button>
+                                                                </div>
+                                                                <div class="image-gallery-thumbnails-container" style="-webkit-transform:translate3d(0px, 0, 0);-moz-transform:translate3d(0px, 0, 0);-ms-transform:translate3d(0px, 0, 0);-o-transform:translate3d(0px, 0, 0);transform:translate3d(0px, 0, 0)" aria-label="Thumbnail Navigation">
+                                                                    <a role="button" aria-pressed="true" aria-label="Go to Slide 1" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list active overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <a role="button" aria-pressed="false" aria-label="Go to Slide 2" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <a role="button" aria-pressed="false" aria-label="Go to Slide 3" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <a role="button" aria-pressed="false" aria-label="Go to Slide 4" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <a role="button" aria-pressed="false" aria-label="Go to Slide 5" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                    <a role="button" aria-pressed="false" aria-label="Go to Slide 6" class="image-gallery-thumbnail image-gallery-thumbnail-photo-list overview-list">
+                                                                        <div>
+                                                                            <img src="https://i.imgur.com/8KggGcN.png" alt=""/>
+                                                                            <div class="image-gallery-thumbnail-label"></div>
+                                                                        </div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="height:950px;position:relative;z-index:0" class="BoxRight-sc-1m8dzya-2 bTqxgT">
+                                        <div class="scroll_contentouter" style="position:relative;overflow:hidden;flex:1">
+                                            <div class="scroll_content" style="max-height:780px" tabindex="0">
+                                                <div class="User-sc-1m8dzya-3 hVKqXg userContainer">
+                                                    <div class="container">
+                                                        <div class="lazyload-wrapper " style="width:;height:">
+                                                            <div class="lazyload-placeholder"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="avat-info">
+                                                        <div class="line1">
+                                                            <span class="nickname" style="max-width:70%" data-ignorechecktext="true">ABYES</span>
+                                                            <span class="location">Malaysia</span>
+                                                        </div>
+                                                    </div>
+                                                    <div style="flex-shrink:0;display:flex;justify-content:flex-end">
+                                                        <i class="Share-sc-1m8dzya-4 kXKAQx facebook"></i>
+                                                        <i class="Share-sc-1m8dzya-4 kXKAQx twitter"></i>
+                                                        <i class="Share-sc-1m8dzya-4 kXKAQx copy" data-clipboard-text="https://mripub.com/"></i>
+                                                    </div>
+                                                </div>
+                                                <article class="info-wrapper">
+                                                    <h1 class="article-title" data-ignorechecktext="false">MATAUANGSLOT * Kronologis Pola Terbaik Spin Situs Slot Resmi Bet 200 Gacor Anti Kalah Terpercaya </h1>
+                                                    <br>
+                                                    <p>
+                                                        <span style="color: #ff0000;">
+                                                            <a style="color: #ff0000;" href="https://mripub.com/">MATAUANGSLOT</a>
+                                                        </span>
+                                                        menghadirkan pendekatan kepada para member di situs kami yang lebih terstruktur dalam membaca pola spin, bukan sekadar bermain tanpa arah tujuan. Kronologis yang disusun berdasarkan pergerakan hasil sebelumnya membuka sudut pandang baru bagi pemain untuk memahami kapan harus masuk, kapan menahan, dan kapan berhenti. Di sinilah letak perbedaannya, bukan hanya mengandalkan keberuntungan, tapi memanfaatkan ritme permainan yang sering terlewat oleh banyak orang. Dengan bet 200 sebagai titik awal, strategi ini dirancang agar tetap stabil dan tidak agresif secara berlebihan. Banyak pemain gagal karena terlalu cepat menaikkan taruhan tanpa membaca alur yang sedang berjalan. Di MATAUANGSLOT, pola yang dibangun justru fokus pada konsistensi, menjaga konsentrasi, dan memaksimalkan momen yang tepat berdasarkan kronologis spin yang sudah terbentuk.
+                                                    </p>
+                                                    <p>Pendekatan ini lahir dari analisa real-time yang terus diperhatikan, mulai dari frekuensi kemenangan kecil, jeda antar hasil besar, hingga pola transisi yang sering muncul tanpa disadari. Semua itu dirangkai menjadi satu sistem yang lebih terarah, sehingga peluang menang tidak lagi terasa acak, melainkan bisa diprediksi dengan cara yang lebih masuk akal. Keunggulan utama dari metode ini adalah kemampuannya dalam menekan risiko kekalahan. Bukan berarti tidak bisa kalah, tapi pemain jadi punya kontrol lebih besar terhadap keputusan yang diambil. Setiap langkah memiliki dasar, bukan sekadar feeling atau coba-coba. Bagi yang mencari cara bermain dengan pendekatan yang lebih cerdas dan terukur, MATAUANGSLOT menawarkan sudut pandang berbeda. Di sini, permainan bukan hanya soal menekan tombol spin, tapi soal membaca pola, memahami momentum, dan mengambil keputusan di waktu yang paling tepat.</p>
+                                                    
+                                                    <div class="dewa-wrapper">
+                                                        <a href="https://orangpusat.org/ampkhusus/mripub/" class="btn-dewa" target="_blank">SLOT GACOR
+  </a>
+                                                    </div>
+                                                    <script data-id="ibu-font-loader" type="text/javascript">
+                                                        document.head.insertAdjacentHTML('beforeend', '<link data-id="ibu-font" rel="preload" as="style" href="https://ak-s-cw.tripcdn.com/modules/ibu/online-assets/font.ddfdb9c8916dd1ec37cbf52f9391aca5.css" onload="this.rel=\'stylesheet\';">')
+                                                    </script>
+                                                    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"abb70ee5ea4346458008a968b72682f3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+        </body>
+    </html>
