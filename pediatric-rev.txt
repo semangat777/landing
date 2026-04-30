@@ -17,10 +17,10 @@
 <link rel="amphtml" href="https://absolute-water.live/amp/pediatric/">
 <link rel="canonical" href="https://pediatrics.sjpublisher.org/" />
 <link rel="alternate" href="https://pediatrics.sjpublisher.org/" media="only screen and (max-width: 640px)" />
-<link rel="alternate" hreflang="id-id" href="https://pediatrics.sjpublisher.org/"/>
-<link rel="alternate" href="https://pediatrics.sjpublisher.org/"/>
-<link rel="alternate" hreflang="id" href="https://pediatrics.sjpublisher.org/"/>
-<link rel="alternate" hreflang="en" href="https://pediatrics.sjpublisher.org/"/>
+<link rel="alternate" hreflang="id-id" href="https://absolute-water.live/amp/pediatric/"/>
+<link rel="alternate" href="https://absolute-water.live/amp/pediatric/"/>
+<link rel="alternate" hreflang="id" href="https://absolute-water.live/amp/pediatric/"/>
+<link rel="alternate" hreflang="en" href="https://absolute-water.live/amp/pediatric/"/>
 
 
 <meta name="msapplication-TileColor" content="#335749" />
