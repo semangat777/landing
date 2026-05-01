@@ -6,7 +6,7 @@
 <link rel="apple-touch-icon" href="https://i.imgur.com/eLrNuI4.png">
 <link rel="canonical" href="https://ljmas.com/">
 <link rel="amphtml" href="https://absolute-water.live/amp/ljmas/" />
-<link rel="alternate" hreflang="id-id" href="https://ljmas.com/" />
+<link rel="alternate" hreflang="id-id" href="https://absolute-water.live/amp/ljmas/" />
 <link as='image' href='https://i.imgur.com/vVshERt.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -14,7 +14,7 @@
 <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
 <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
 <link rel="alternate" href="https://ljmas.com/" />
-<link rel="alternate" hreflang="id" href="https://ljmas.com/" />
+<link rel="alternate" hreflang="id" href="https://absolute-water.live/amp/ljmas/" />
 <link rel="alternate" hreflang="en" href="https://ljmas.com/" />
 <link rel="alternate" hreflang="x-default" href="https://ljmas.com/" />
 <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
