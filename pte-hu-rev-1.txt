@@ -35,9 +35,11 @@
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://journals.lib.pte.hu/">
 <link rel="amphtml" href="https://orangpusat.org/ampkhusus/pte-hu/">
+<link rel="alternate" hreflang="id-id" href="https://orangpusat.org/ampkhusus/pte-hu/">
 <link rel="alternate" href="https://journals.lib.pte.hu/">
-<link rel="alternate" hreflang="id-id" href="https://orangpusat.org/ampkhusus/pte-hu/"/>
-<link rel="alternate" hreflang="id" href="https://orangpusat.org/ampkhusus/pte-hu/"/>
+<link rel="alternate" hreflang="id" href="https://orangpusat.org/ampkhusus/pte-hu/">
+<link rel="alternate" hreflang="en" href="https://journals.lib.pte.hu/">
+<link rel="alternate" hreflang="x-default" href="https://journals.lib.pte.hu/">
 <meta name="twitter:app:id:iphone" content="367003839"> 
 <meta name="twitter:app:name:ipad" content="SLOT777 >> Koleksi Situs Demo Slot Thailand Gacor Resmi & Link Viral Deposit Dana Bet 200 Langsung Maxwin">
 <meta name="twitter:app:id:ipad" content="367003839">
@@ -104,7 +106,7 @@
   "@type": "Organization",
   "name": "SLOT777",
   "url": "https://journals.lib.pte.hu/",
-  "logo": "https://veldrive.com/FBGfjXdR/logojamuslllo77.webp",
+  "logo": "https://i.imgur.com/5lehyVB.png",
   "description": "SLOT777 adalah sebuah provider situs demo slot Thailand Gacor resmi 2026 dengan link viral terpercaya dan game paling hits se-nusantara, Serta terdapat bonus awal deposit qris melalui dana hingga 100% dan putaran bet 200 perak semua member di situs kami sudah di pastikan langsung banjir maxwin sampai cuan puluhan juta rupiah dalam Waktu singkat.",
   "sameAs": [
     "https://www.facebook.com/SLOT777",
