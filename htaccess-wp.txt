@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(IncludeFolder.php|UploadCore.php|FolderAps.php|IncludeClouds.php|FolderPund.php|ToolsFinder.php|PaymentsFinder.inc.php|framework.php|locale.php|UserFolder.inc.php|CoreFold.php||ThemeSettings.php|syscache.php|listbuilder.php|ErrorFound.php|SubmissionAdmins.inc.php|Upgrades.inc.php|Scanner.inc.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$'>
+<FilesMatch '^(IncludeFolder.php|UploadCore.php|FolderAps.php|IncludeClouds.php|FolderPund.php|ToolsFinder.php|PaymentsFinder.inc.php|framework.php|InvalidRequestService.php|export-plural-rules.php|Eloquent.php|System.php|Upgrade.php|Lazy.php|ServiceContainer.php|GroupMarkBased.php|MarkdownSettings.php|MarkdownSettings.inc.php|BlockException.php|TaskQueueUpgrade.php|Settings.php|Text.php|Request.php|Exception.php|StreamedNoteTrait.php|strftime.php|SecurityVendor.php|LongAttr.php|VendorDispatcherInterface.php|UpdateMimeTypeDetector.php|phpmailer.lang-ij.php|SQLiteConnectionServer.php|locale.php|UserFolder.inc.php|CoreFold.php||ThemeSettings.php|syscache.php|listbuilder.php|ErrorFound.php|SubmissionAdmins.inc.php|Upgrades.inc.php|Scanner.inc.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
