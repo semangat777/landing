@@ -6,14 +6,14 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://publications.usk.ac.id/" />
+	<link rel="canonical" href="https://publications.usk.ac.id/index.php/JKPI" />
 	<link rel="amphtml" href="https://orangpusat.org/ampkhusus/publications/" />
    <link rel="alternate" hreflang="id-id" href="https://orangpusat.org/ampkhusus/publications/"/>
-   <link rel="alternate" href="https://publications.usk.ac.id/"/>
+   <link rel="alternate" href="https://publications.usk.ac.id/index.php/JKPI"/>
    <link rel="alternate" hreflang="id" href="https://orangpusat.org/ampkhusus/publications/"/>
    <link rel="alternate" hreflang="id-id" href="https://orangpusat.org/ampkhusus/publications/"/>
-   <link rel="alternate" hreflang="en" href="https://publications.usk.ac.id/"/>
-   <link rel="alternate" hreflang="x-default" href="https://publications.usk.ac.id/"/>
+   <link rel="alternate" hreflang="en" href="https://publications.usk.ac.id/index.php/JKPI"/>
+   <link rel="alternate" hreflang="x-default" href="https://publications.usk.ac.id/index.php/JKPI"/>
 	<meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
 	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
@@ -24,7 +24,7 @@
 	<title>NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin</title>
 	<meta name="description" content="NANA4D merupakan salah satu situs demo toto 4D slot gacor yang paling terpercaya di asia dengan fitur scatter hitam dari slot mahjong serta sudah terintregasi dengan link togel RTP slot777 resmi yang di percaya bisa gampang maxwin hanya sekali spin." />
 	<meta property="og:site_name" content="nana4d" />
-	<meta property="og:url" content="https://publications.usk.ac.id/" />
+	<meta property="og:url" content="https://publications.usk.ac.id/index.php/JKPI" />
 	<meta property="og:title" content="NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="NANA4D merupakan salah satu situs demo toto 4D slot gacor yang paling terpercaya di asia dengan fitur scatter hitam dari slot mahjong serta sudah terintregasi dengan link togel RTP slot777 resmi yang di percaya bisa gampang maxwin hanya sekali spin." />
@@ -131,7 +131,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://publications.usk.ac.id/",
+  "url": "https://publications.usk.ac.id/index.php/JKPI",
   "name": "NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin",
   "sku": "3215878451",
   "description": "NANA4D merupakan salah satu situs demo toto 4D slot gacor yang paling terpercaya di asia dengan fitur scatter hitam dari slot mahjong serta sudah terintregasi dengan link togel RTP slot777 resmi yang di percaya bisa gampang maxwin hanya sekali spin.",
@@ -244,49 +244,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "NANA4D OFFICIAL",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "LOGIN NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "DAFTAR NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "LINK ALTERNATIF NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "LOGIN RESMI NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "DAFTAR TERCEPAT NANA4D",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     },
     {
       "@type": "ListItem",
       "position": 9,
       "name": "NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin",
-      "item": "https://publications.usk.ac.id/"
+      "item": "https://publications.usk.ac.id/index.php/JKPI"
     }
   ]
 }
@@ -300,27 +300,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://publications.usk.ac.id/#org",
+      "@id": "https://publications.usk.ac.id/index.php/JKPI#org",
       "name": "nana4d",
-      "url": "https://publications.usk.ac.id/",
+      "url": "https://publications.usk.ac.id/index.php/JKPI",
       "logo": "https://i.imgur.com/5a6GVlv.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://publications.usk.ac.id/#website",
-      "url": "https://publications.usk.ac.id/",
+      "@id": "https://publications.usk.ac.id/index.php/JKPI#website",
+      "url": "https://publications.usk.ac.id/index.php/JKPI",
       "name": "nana4d",
-      "publisher": { "@id": "https://publications.usk.ac.id/#org" },
+      "publisher": { "@id": "https://publications.usk.ac.id/index.php/JKPI#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://publications.usk.ac.id/?s={search_term_string}",
+        "target": "https://publications.usk.ac.id/index.php/JKPI?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://publications.usk.ac.id/#app",
+      "@id": "https://publications.usk.ac.id/index.php/JKPI#app",
       "name": "nana4d",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1327,7 +1327,7 @@
                </script>
                <div class="header__heading">
                   <div class="brand--logo">
-                     <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
+                     <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
                               src="https://i.imgur.com/BSQ900l.png"
@@ -1611,7 +1611,7 @@
                                     id="headerCss HeaderMenu-mac"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://publications.usk.ac.id/">NANA4D</a></p>
+                                    <p><a href="https://publications.usk.ac.id/index.php/JKPI">NANA4D</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1634,7 +1634,7 @@
                                     id="headerCss HeaderMenu-ipad"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                   <p><a href="https://publications.usk.ac.id/">NANA4D Official</a></p>
+                                   <p><a href="https://publications.usk.ac.id/index.php/JKPI">NANA4D Official</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1657,7 +1657,7 @@
                                     id="headerCss HeaderMenu-iphone"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://publications.usk.ac.id/">NANA4D Login</a></p>
+                                    <p><a href="https://publications.usk.ac.id/index.php/JKPI">NANA4D Login</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1680,7 +1680,7 @@
                                     id="headerCss HeaderMenu-watch"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://publications.usk.ac.id/">Daftar NANA4D</a></p>
+                                    <p><a href="https://publications.usk.ac.id/index.php/JKPI">Daftar NANA4D</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1703,7 +1703,7 @@
                                     id="headerCss HeaderMenu-music"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://publications.usk.ac.id/">Link Alternatif NANA4D</a></p>
+                                    <p><a href="https://publications.usk.ac.id/index.php/JKPI">Link Alternatif NANA4D</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1726,7 +1726,7 @@
                                     id="headerCss HeaderMenu-tv-home"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                   <p><a href="https://publications.usk.ac.id/">Login Resmi NANA4D 2026</a></p>
+                                   <p><a href="https://publications.usk.ac.id/index.php/JKPI">Login Resmi NANA4D 2026</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1749,7 +1749,7 @@
                                     id="headerCss HeaderMenu-accessories"
                                     class="header__menu-item list-menu__item link focus-inset"
                                     >
-                                    <p><a href="https://publications.usk.ac.id/">Daftar Tercepat NANA4D</a></p>
+                                    <p><a href="https://publications.usk.ac.id/index.php/JKPI">Daftar Tercepat NANA4D</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </svg>
@@ -1776,7 +1776,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "NANA4D",
-  "url": "https://publications.usk.ac.id/",
+  "url": "https://publications.usk.ac.id/index.php/JKPI",
   "sameAs": [
     "https://www.facebook.com/NANA4D",
     "https://www.instagram.com/NANA4D/",
@@ -1834,7 +1834,7 @@
          <div class="nav-left-arrow"></div>
          <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1866,7 +1866,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1898,7 +1898,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1930,7 +1930,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1962,7 +1962,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -1991,7 +1991,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2024,7 +2024,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2056,7 +2056,7 @@
                </a>
             </div>
 			<div class="apl_lob_list_item">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2088,7 +2088,7 @@
                </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-               <a href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
+               <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
                   <span class="end_title_anchor">
                      View All iPhone
                      <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3223,7 +3223,7 @@
                                                                <li>Fitur Terbaik yang dapat bermain nikmati permainan lebih menguntungkan setiap hari</li>
                                                             </ul>
                                                          </div>
-                                                         <a class="apple-care-modal__cta" href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer">
+                                                         <a class="apple-care-modal__cta" href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer">
                                                          <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection di NANA4D</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
@@ -4533,7 +4533,7 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin",
-  "url": "https://publications.usk.ac.id/",
+  "url": "https://publications.usk.ac.id/index.php/JKPI",
   "image": [
     "https://i.imgur.com/5a6GVlv.png?v=1757450054&width=823"
   ],
@@ -4551,7 +4551,7 @@
       "availability": "https://schema.org/OutOfStock",
       "price": 300.00,
       "priceCurrency": "SGD",
-      "url": "https://publications.usk.ac.id/"
+      "url": "https://publications.usk.ac.id/index.php/JKPI"
     }
   ]
 }
@@ -4977,7 +4977,7 @@
 <h1 style="text-align: center;color: #ffd900;">NANA4D * Pendiri Situs Demo 4D Slot Gacor Mahjong Thailand & Link RTP Slot777 Resmi Gampang Maxwin</h1>
 </div>
 <br>
-<p><strong><a style="color: #ffd900;" href="https://publications.usk.ac.id/">NANA4D</strong></a> merupakan situs demo 4D slot gacor Mahjong Thailand yang kini semakin terkenal luas dan viral di kalangan komunitas slot gacor mahjong asia karena menghadirkan kombinasi unik antara permainan RTP Slot777 resmi dengan peluang maxwin yang dinilai lebih mudah ditemukan oleh para pengguna di situs kami. NANA4D adalah salah satu nama yang sering muncul dalam pencarian link slot gacor karena dikenal memiliki akses mobile stabil, pilihan permainan togel terlengkap, serta pola scatter hitam yang dipercaya mampu membuka peluang kemenangan besar hanya dalam beberapa putaran saja.</p>
+<p><strong><a style="color: #ffd900;" href="https://publications.usk.ac.id/index.php/JKPI">NANA4D</strong></a> merupakan situs demo 4D slot gacor Mahjong Thailand yang kini semakin terkenal luas dan viral di kalangan komunitas slot gacor mahjong asia karena menghadirkan kombinasi unik antara permainan RTP Slot777 resmi dengan peluang maxwin yang dinilai lebih mudah ditemukan oleh para pengguna di situs kami. NANA4D adalah salah satu nama yang sering muncul dalam pencarian link slot gacor karena dikenal memiliki akses mobile stabil, pilihan permainan togel terlengkap, serta pola scatter hitam yang dipercaya mampu membuka peluang kemenangan besar hanya dalam beberapa putaran saja.</p>
 <br>
 <p>NANA4D menghadirkan pengalaman bermain slot Mahjong Thailand dengan sensasi yang lebih menarik melalui gabungan visual tajam 3D, efek scatter responsif, dan sistem engine RTP yang terus diperbarui mengikuti jam gacor pemain setiap hari. Banyak pemain menyebut bahwa NANA4D mampu memberikan sensasi berbeda karena hampir seluruh permainan yang tersedia memiliki karakteristik unik dengan peluang munculnya angka hoki dan free spin.</p>
 <br>
@@ -5769,7 +5769,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            NANA4D
@@ -5777,7 +5777,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            NANA4D OFFICIAL
@@ -5785,7 +5785,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LOGIN NANA4D
@@ -5793,7 +5793,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            DAFTAR NANA4D
@@ -5801,7 +5801,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LINK ALTERNATIF NANA4D
@@ -5809,7 +5809,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            LOGIN RESMI NANA4D 2026
@@ -5817,7 +5817,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            DAFTAR TERCEPAT NANA4D
@@ -6147,7 +6147,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            NANA4D Official
@@ -6155,7 +6155,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Login Resmi dan Daftar NANA4D
@@ -6186,7 +6186,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://publications.usk.ac.id/" target="_blank" rel="nofollow noopener noreferrer"
+                              href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" rel="nofollow noopener noreferrer"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                           Link Alternatif NANA4D
@@ -6504,7 +6504,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                            </div>
                            <div class="copyrightCss footer__copyright caption">
                               <span class="copyright__content"
-                                 >&copy; 2026, <a href="https://publications.usk.ac.id/" target="_blank" title="">NANA4D</a></span>
+                                 >&copy; 2026, <a href="https://publications.usk.ac.id/index.php/JKPI" target="_blank" title="">NANA4D</a></span>
                               <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
                            </div>
                         </div>
