@@ -1,9 +1,4 @@
-<?php
 
-if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
-{
-?>
-   
 
 <html lang="id" class="wf-roboto-n4-active wf-roboto-n7-active wf-active">
   <head
@@ -683,8 +678,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
       [data-bv-show="inline_rating"] .bv_inline_rating_div_container {
         display: inline-block !important;
         width: 100% !important;
-      }
-      [data-bv-show="inline_rating"] .bv_hundred_percent_width {
+      }[data-bv-show="inline_rating"] .bv_hundred_percent_width {
         width: 100% !important;
       }
       [data-bv-show="inline_rating"] .incentivized_text {
@@ -1504,8 +1498,7 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
     />
     <meta
       property="og:image"
-      content="https://i.imgur.com/aCbXLa2.png"
-    />
+      content="https://i.imgur.com/aCbXLa2.png"/>
     <meta
       property="og:description"
       content="A mid-depth cap with classic style for any occasion, this Nike Club Cap comes in smooth cotton twill that's been softly washed for casual, daily comfort. Soft and unstructured, the precurved bill makes for easy styling, and the adjustable back-strap lets you find the right fit.
@@ -1937,7 +1930,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 stagePadding: "0",
                                 lazyLoad: "0",
                                 transition: "slide",
-                                autoplay: "1",
+                                autoplay:"1",
                                 autoplayTimeout: "5000",
                                 autoplayHoverPause: "0",
                                 autoHeight: "0",
@@ -2255,8 +2248,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     slider_config.center == 1 && animate_Out
                                       ? true
                                       : false,
-                                  items: items,
-                                  loop:
+                                  items: items,loop:
                                     parseInt(slider_config.loop) == 1
                                       ? true
                                       : false,
@@ -2415,8 +2407,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     >
                       <ul class="header links">
                         <li
-                          class="link authorization-link"
-                          data-label="or"
+                          class="link authorization-link"data-label="or"
                         ></li>
                         <li>
                           <a
@@ -2600,8 +2591,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                   <a
                     class="logo"
                     href="https://journal.iaihnw-lotim.ac.id/"
-                    title=""
-                    aria-label="store logo"
+                    title=""aria-label="store logo"
                   >
                     <img
                       src="https://i.imgur.com/BSQ900l.png"
@@ -3043,8 +3033,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                   >All White
                                                                   shoes</span
                                                                 ></a
-                                                              >
-                                                            </div>
+                                                              ></div>
                                                           </div>
                                                         </div>
                                                       </div>
@@ -3148,8 +3137,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >All White
-                                                              shoes</span
+                                                              >All Whiteshoes</span
                                                             ></a
                                                           >
                                                         </div>
@@ -3478,8 +3466,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 ></a
                                                               >
                                                             </div>
-                                                            <div
-                                                              id="vesitem-95317685419021731490273"
+                                                            <divid="vesitem-95317685419021731490273"
                                                               class="nav-item level2 nav-3-3-3 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
                                                               <a
@@ -3691,8 +3678,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     class="drill-opener"
                                                     style="display: none"
                                                   ></span
-                                                  ><span
-                                                    class="current-cat"
+                                                  ><spanclass="current-cat"
                                                   ></span
                                                 ></a>
                                               </div>
@@ -3796,8 +3782,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               1</span
                                                             ></a
                                                           >
-                                                        </div>
-                                                        <div
+                                                        </div><div
                                                           id="vesitem-1109176854190210957859562"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
@@ -3915,8 +3900,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       >
                                                         <div
                                                           id="vesitem-10861768541902563911989"
-                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                        >
+                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                           <a
                                                             href="https://www.footlocker.idhttps://www.flourpower.com/gallery"
                                                             title="Semua Koleksi Pria"
@@ -4021,8 +4005,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       class="item-content2 hidden-lg hidden-md"
                                                     >
                                                       <div
-                                                        id="vesitem-108617685419025639119892"
-                                                        class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
+                                                        id="vesitem-108617685419025639119892"class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
                                                         <a
                                                           href="https://www.footlocker.idhttps://www.flourpower.com/gallery"
@@ -4245,8 +4228,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             class="nav-anchor"
                                                             ><span
                                                               >Hoodie</span
-                                                            ></a
-                                                          >
+                                                            ></a>
                                                         </div>
                                                         <div
                                                           id="vesitem-94717685419021809585106"
@@ -4356,8 +4338,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                             </div>
                                           </div>
                                         </div>
-                                        <div
-                                          id="vesitem-951176854190213135211872"
+                                        <divid="vesitem-951176854190213135211872"
                                           class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent"
                                         >
                                           <a
@@ -4469,8 +4450,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >Perawatan
-                                                              Sepatu</span
+                                                              >PerawatanSepatu</span
                                                             ></a
                                                           >
                                                         </div>
@@ -4577,8 +4557,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           ></a
                                                         >
                                                       </div>
-                                                      <div
-                                                        id="vesitem-1366176854190220846303532"
+                                                      <divid="vesitem-1366176854190220846303532"
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
                                                         <a
@@ -4693,8 +4672,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <div
                                                           id="vesitem-111117685419021046451415"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                        >
-                                                          <a
+                                                        ><a
                                                             href="https://www.footlocker.id/men/icon/nike-blazer.html"
                                                             title="Nike Blazer"
                                                             target="_self"
@@ -4936,8 +4914,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 ></a
                                                               >
                                                             </div>
-                                                            <div
-                                                              id="vesitem-97417685419021869632553"
+                                                            <divid="vesitem-97417685419021869632553"
                                                               class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
                                                               <a
@@ -5036,8 +5013,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
-                                                            href="https://www.footlocker.id/women/shoes/running.html"
-                                                            title="Lari"
+                                                            href="https://www.footlocker.id/women/shoes/running.html"title="Lari"
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
@@ -5147,8 +5123,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                             >
                                               <div class="drilldown-back">
                                                 <a href="#"
-                                                  ><span
-                                                    class="drill-opener"
+                                                  ><spanclass="drill-opener"
                                                     style="display: none"
                                                   ></span
                                                   ><span
@@ -5358,8 +5333,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         </div>
                                                       </div>
                                                     </div>
-                                                  </div>
-                                                </div>
+                                                  </div></div>
                                               </div>
                                             </div>
                                           </div>
@@ -5468,8 +5442,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 class="nav-anchor"
                                                                 ><span
                                                                   >Kaos
-                                                                  Kaki</span
-                                                                ></a
+                                                                  Kaki</span></a
                                                               >
                                                             </div>
                                                             <div
@@ -5570,8 +5543,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         >
                                                           <a
                                                             href="https://www.footlocker.id/women/accessories/socks.html"
-                                                            title="Kaos Kaki"
-                                                            target="_self"
+                                                            title="Kaos Kaki"target="_self"
                                                             class="nav-anchor"
                                                             ><span
                                                               >Kaos Kaki</span
@@ -5685,8 +5657,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               id="vesitem-9971768541902327859258"
                                                               class="nav-item level2 nav-4-4-1 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
-                                                              <a
-                                                                href="https://www.footlocker.id/women/icon/nike-air-force-1.html"
+                                                              <ahref="https://www.footlocker.id/women/icon/nike-air-force-1.html"
                                                                 title="Nike Air Force 1"
                                                                 target="_self"
                                                                 class="nav-anchor"
@@ -5802,8 +5773,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 ></span
                                               ></a>
                                             </div>
-                                            <div
-                                              class="submenu-inner before-ves-submenu-inner"
+                                            <divclass="submenu-inner before-ves-submenu-inner"
                                             >
                                               <div class="content-wrapper">
                                                 <div
@@ -5908,8 +5878,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         </div>
                                                         <div
                                                           id="vesitem-299517685419021252792400"
-                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                        >
+                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                           <a
                                                             href="https://www.footlocker.id/catalogsearch/result/?q=women%20white%20shoes"
                                                             title="All White shoes"
@@ -6132,8 +6101,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           <a
                                                             href="https://www.footlocker.id/women/clothing/shorts.html"
                                                             title="Celana Pendek"
-                                                            target="_self"
-                                                            class="nav-anchor"
+                                                            target="_self"class="nav-anchor"
                                                             ><span
                                                               >Celana
                                                               Pendek</span
@@ -6240,8 +6208,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-anchor"
                                                           ><span
                                                             >Hoodie</span
-                                                          ></a
-                                                        >
+                                                          ></a>
                                                       </div>
                                                       <div
                                                         id="vesitem-98717685419022779823722"
@@ -6356,8 +6323,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
-                                                            href="https://www.footlocker.id/women/accessories/socks.html"
-                                                            title="Kaos Kaki"
+                                                            href="https://www.footlocker.id/women/accessories/socks.html"title="Kaos Kaki"
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
@@ -6463,8 +6429,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           title="Kaos Kaki"
                                                           target="_self"
                                                           class="nav-anchor"
-                                                          ><span
-                                                            >Kaos Kaki</span
+                                                          ><span>Kaos Kaki</span
                                                           ></a
                                                         >
                                                       </div>
@@ -6581,8 +6546,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             ></a
                                                           >
                                                         </div>
-                                                        <div
-                                                          id="vesitem-110617685419021959763593"
+                                                        <divid="vesitem-110617685419021959763593"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
@@ -6711,8 +6675,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                             <a
                                               href="https://www.footlocker.id/kids/boys/shoes.html"
                                               title="Sepatu Laki-Laki"
-                                              target="_self"
-                                              class="nav-anchor"
+                                              target="_self"class="nav-anchor"
                                               ><span>Sepatu Laki-Laki</span
                                               ><span class="opener"></span
                                               ><span
@@ -6818,8 +6781,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             <div
                                                               id="vesitem-265917685419021694645388"
                                                               class="nav-item level2 nav-5-4-6 submenu-alignleft subhover dropdown-submenu category-item"
-                                                            >
-                                                              <a
+                                                            ><a
                                                                 href="https://www.footlocker.id/kids/boys/shoes/casual.html"
                                                                 title="Kasual"
                                                                 target="_self"
@@ -6921,8 +6883,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >Basket</span
-                                                            ></a
+                                                              >Basket</span></a
                                                           >
                                                         </div>
                                                         <div
@@ -7034,8 +6995,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               <a
                                                                 href="https://www.footlocker.id/kids/girls/shoes/toddlers.html"
                                                                 title="Balita (Hingga 4 Tahun)"
-                                                                target="_self"
-                                                                class="nav-anchor"
+                                                                target="_self"class="nav-anchor"
                                                                 ><span
                                                                   >Balita
                                                                   (Hingga 4
@@ -7134,8 +7094,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             </div>
                                                           </div>
                                                         </div>
-                                                      </div>
-                                                      <div
+                                                      </div><div
                                                         class="item-content2 hidden-lg hidden-md"
                                                       >
                                                         <div
@@ -7239,8 +7198,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >Lihat Semua
                                                               Sepatu</span
                                                             ></a
-                                                          >
-                                                        </div>
+                                                          ></div>
                                                       </div>
                                                     </div>
                                                   </div>
@@ -7349,8 +7307,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             >
                                                               <a
                                                                 href="https://www.footlocker.id/kids/girls/clothing/pants.html"
-                                                                title="Celana"
-                                                                target="_self"
+                                                                title="Celana"target="_self"
                                                                 class="nav-anchor"
                                                                 ><span
                                                                   >Celana</span
@@ -7456,8 +7413,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   </div>
                                                 </div>
                                               </div>
-                                            </div>
-                                          </div>
+                                            </div></div>
                                           <div
                                             id="vesitem-267617685419021039184377"
                                             class="nav-item level1 nav-5-7 submenu-alignleft subhover dropdown-submenu category-item parent"
@@ -7564,8 +7520,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 ><span
                                                                   >Lihat Semua
                                                                   Pakaian</span
-                                                                ></a
-                                                              >
+                                                                ></a>
                                                             </div>
                                                           </div>
                                                         </div>
@@ -7680,8 +7635,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     <div
                                                       class="level2 nav-dropdown ves-column1"
                                                     >
-                                                      <div
-                                                        class="item-content1 hidden-xs hidden-sm"
+                                                      <divclass="item-content1 hidden-xs hidden-sm"
                                                       >
                                                         <div
                                                           class="mega-col mega-col-4 mega-col-level-2 col-xs-12"
@@ -7782,8 +7736,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <div
                                                           id="vesitem-2683176854190218322074432"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                        >
-                                                          <a
+                                                        ><a
                                                             href="https://www.footlocker.id/kids/accessories/socks.html"
                                                             title="Kaos Kaki"
                                                             target="_self"
@@ -7895,8 +7848,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >
                                                             </div>
                                                             <div
-                                                              id="vesitem-268817685419021572649893"
-                                                              class="nav-item level2 nav-5-9-4 submenu-alignleft subhover dropdown-submenu category-item"
+                                                              id="vesitem-268817685419021572649893"class="nav-item level2 nav-5-9-4 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
                                                               <a
                                                                 href="https://www.footlocker.id/kids/sports/slides-flip-flops.html"
@@ -8003,8 +7955,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                       >
                                         <div
                                           id="vesitem-2653176854190218958961902"
-                                          class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent"
-                                        >
+                                          class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
                                           <a
                                             href="https://www.footlocker.id/kids/boys/shoes.html"
                                             title="Sepatu Laki-Laki"
@@ -8116,8 +8067,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             href="https://www.footlocker.id/kids/boys/shoes/casual.html"
                                                             title="Kasual"
                                                             target="_self"
-                                                            class="nav-anchor"
-                                                            ><span
+                                                            class="nav-anchor"><span
                                                               >Kasual</span
                                                             ></a
                                                           >
@@ -8223,8 +8173,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <a
                                                           href="https://www.footlocker.id/kids/boys/shoes/casual.html"
                                                           title="Kasual"
-                                                          target="_self"
-                                                          class="nav-anchor"
+                                                          target="_self"class="nav-anchor"
                                                           ><span
                                                             >Kasual</span
                                                           ></a
@@ -8340,7 +8289,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >Anak (4-6
+                                                              >Anak(4-6
                                                               Tahun)</span
                                                             ></a
                                                           >
@@ -8446,8 +8395,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           href="https://www.footlocker.id/kids/girls/shoes/younger-kids.html"
                                                           title="Anak (4-6 Tahun)"
                                                           target="_self"
-                                                          class="nav-anchor"
-                                                          ><span
+                                                          class="nav-anchor"><span
                                                             >Anak (4-6
                                                             Tahun)</span
                                                           ></a
@@ -8561,8 +8509,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 ></span
                                                 ><span
                                                   class="current-cat"
-                                                ></span
-                                              ></a>
+                                                ></span></a>
                                             </div>
                                             <div
                                               class="submenu-inner before-ves-submenu-inner"
@@ -8670,8 +8617,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-anchor"
                                                           ><span
                                                             >Anak (4-6
-                                                            Tahun)</span
-                                                          ></a
+                                                            Tahun)</span></a
                                                         >
                                                       </div>
                                                       <div
@@ -9500,8 +9446,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 href="https://www.footlocker.id/hoka.html"
                                                 rel="noopener"
                                               >
-                                                <span
-                                                  class="mm__brand-logo"
+                                                <spanclass="mm__brand-logo"
                                                   style="
                                                     display: block;
                                                     padding: 0;
@@ -9751,8 +9696,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 "
                                                 href="https://www.footlocker.id/spalding.html"
                                                 rel="noopener"
-                                              >
-                                                <span
+                                              ><span
                                                   class="mm__brand-logo"
                                                   style="
                                                     display: block;
@@ -9877,8 +9821,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       object-fit: contain;
                                                       margin: auto;
                                                       height: 60px;
-                                                    "
-                                                    src="https://www.footlocker.id/media/wysiwyg/brand_images/wilson.png"
+                                                    "src="https://www.footlocker.id/media/wysiwyg/brand_images/wilson.png"
                                                     alt="Wilson Logo" /></span
                                               ></a>
                                             </div>
@@ -10000,8 +9943,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   >
                                                 </div>
                                                 <div>
-                                                  <a
-                                                    class="mm__link"
+                                                  <aclass="mm__link"
                                                     href="https://www.footlocker.id/catalogsearch/result/?q=740"
                                                     >740</a
                                                   >
@@ -10153,8 +10095,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 }
                                 $(this).children(".submenu").css({ top: mTop });
                               }
-                            }
-                          },
+                            }},
                           function () {
                             if ($(window).width() > 800) {
                               var id = $(this).attr("id");
@@ -10321,9 +10262,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                   }
                                   $(this).css("width", subWidth);
                                 });
-                            }
-
-                            // TABLET
+                            }// TABLET
                             $("#nav17685419036969cecf04b7f .nav-item").click(
                               function () {
                                 if (
@@ -10670,8 +10609,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             role="button"
                             aria-label="Next"
                             data-gallery-role="arrow"
-                            style="right: 82px"
-                          >
+                            style="right: 82px">
                             <div class="fotorama__arr__arr"></div>
                           </div>
                           <div class="fotorama__video-close"></div>
@@ -10844,8 +10782,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         <span
                           id="product-price-52165"
                           data-price-amount="9999"
-                          data-price-type="finalPrice"
-                          class="price-wrapper"
+                          data-price-type="finalPrice"class="price-wrapper"
                           ><span class="price">10.000</span></span
                         >
                       </span>
@@ -10995,8 +10932,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     id="bv_rating_summary_star_filled_1_0_99.99_5485-NIKFB4568796"
                                     x1="99.99%"
                                     y1="0%"
-                                    x2="100%"
-                                    y2="0%"
+                                    x2="100%"y2="0%"
                                   >
                                     <stop
                                       offset="0%"
@@ -11157,8 +11093,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     action="https://www.footlocker.id/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZm9vdGxvY2tlci5pZC9uaWtlLXVuc3RydWN0dXJlZC11bmlzZXgtZnV0dXJhLXdhc2gtY2FwLWJsYWNrLTMuaHRtbA%2C%2C/product/52165/"
                     method="post"
                     id="product_addtocart_form"
-                    novalidate="novalidate"
-                  >
+                    novalidate="novalidate">
                     <input type="hidden" name="product" value="52165" />
                     <input
                       type="hidden"
@@ -11327,8 +11262,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 tabindex="0"
                                 option-type="0"
                                 option-id="664"
-                                option-label="TOTO 4D"
-                                aria-label="TOTO 4D"
+                                option-label="TOTO 4D"aria-label="TOTO 4D"
                                 option-tooltip-thumb=""
                                 option-tooltip-value="TOTO 4D"
                                 role="option"
@@ -11653,8 +11587,7 @@ DAFTAR
                               cursor: auto !important;
                               direction: inherit !important;
                               display: inline !important;
-                              float: none !important;
-                              font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
+                              float: none !important;font-family: inherit !important; /* As with other inherit values, this needs to be set on the root container element */
                               font-size: inherit !important;
                               font-style: inherit !important;
                               font-variant: normal !important;
@@ -11781,8 +11714,7 @@ DAFTAR
 
                             [data-bv-show="rating_summary"] a {
                               color: blue !important;
-                              text-decoration: underline !important;
-                            }
+                              text-decoration: underline !important;}
 
                             [data-bv-show="rating_summary"] a:visited {
                               color: #529 !important;
@@ -12065,7 +11997,7 @@ DAFTAR
                               .bv_questionsAndAnswers_component_container
                               button:visited {
                               color: #036ad8 !important;
-                              font-family: Roboto, Arial, sans-serif !important;
+                              font-family: Roboto, Arial, sans-serif!important;
                               text-transform: none !important;
                               font-weight: normal !important;
                               font-style: normal !important;
@@ -12346,8 +12278,7 @@ DAFTAR
                               cursor: pointer !important;
                               background-image: none !important;
                               box-shadow: none !important;
-                              background-color: #be122b !important;
-                              color: #ffffff !important;
+                              background-color: #be122b !important;color: #ffffff !important;
                               font-family: Roboto, Arial, sans-serif !important;
                               text-transform: uppercase !important;
                               font-weight: bold !important;
@@ -12503,8 +12434,7 @@ DAFTAR
                                         stop-color: rgb(204, 204, 204);
                                         stop-opacity: 1;
                                       "
-                                    ></stop>
-                                  </linearGradient>
+                                    ></stop></linearGradient>
                                 </defs></svg
                               ><svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -12656,8 +12586,7 @@ DAFTAR
                               <div
                                 class="bv_button_component_container"
                                 style=""
-                              >
-                                <button
+                              ><button
                                   aria-label="Tulis Ulasan (membuka jendela sembul). Tindakan ini akan membuka dialog modal."
                                   type="button"
                                   class="bv_button_buttonMinimalist bv_war_button"
@@ -13722,8 +13651,7 @@ DAFTAR
                                   class="social"
                                   href="https://www.instagram.com/skechersidn/"
                                   target="_blank"
-                                  rel="noopener noreferrer"
-                                >
+                                  rel="noopener noreferrer">
                                   <i class="fab fa-instagram"></i>
                                 </a>
                               </li>
@@ -14628,8 +14556,7 @@ DAFTAR
               settings = xhr.settings;
             }
 
-            /* Search */
-            function getQueryParam(url, key) {
+            /* Search */function getQueryParam(url, key) {
               let queryStartPos = url.indexOf("?");
               if (queryStartPos === -1) {
                 return;
@@ -15048,8 +14975,7 @@ DAFTAR
         document.onreadystatechange = function () {
           if (document.readyState === "complete") {
             $(window).trigger("on.window.load", {});
-          }
-        };
+          }};
 
         setInterval(function () {
           var wishlistCollection = JSON.parse(
@@ -15292,7 +15218,7 @@ DAFTAR
             "click",
             ".swatch-option",
             function (e) {
-              setTimeout(function () {
+              setTimeout(function (){
                 initFbPixelCustomizeProduct(e.target);
               }, 200);
             },
@@ -15748,8 +15674,7 @@ DAFTAR
             setInterval(checkCounterChange, 100);
 
             $(document).on(
-              "touchstart",
-              ".fotorama__stage__frame.fotorama__active",
+              "touchstart",".fotorama__stage__frame.fotorama__active",
               function (e) {
                 const touch = e.originalEvent.touches[0];
                 touchStartX = touch.clientX;
@@ -16194,8 +16119,7 @@ DAFTAR
               var parts = cookies[i].split("=");
               var name = u_decodeAndParse(parts.shift());
               var cookie = parts.join("=");
-              if (key && key === name) {
-                try {
+              if (key && key === name) {try {
                   result = u_decodeAndParse(cookie);
                   break;
                 } catch (e) {
@@ -16613,8 +16537,7 @@ DAFTAR
                         "undefined"
                       ) {
                         config["stagePadding"] =
-                          jQuery(owlCarousel).data("stagepadding");
-                      }
+                          jQuery(owlCarousel).data("stagepadding");}
                       if (
                         typeof jQuery(owlCarousel).data("lazyload") !=
                         "undefined"
@@ -17072,7 +16995,7 @@ DAFTAR
                   discounted_price: "",
                   discount_percentage: "",
                   dimension22: "52165",
-                  brand: "nike",
+                  brand:"nike",
                   category: "kategori pria",
                   dimension4: "in stock",
                   dimension7: "no",
@@ -17498,8 +17421,7 @@ DAFTAR
 
     // 👉 render HANYA data page ini
     reviews.slice(start, end).forEach(r => {
-      const stars = '★★★★★☆☆☆☆☆'.slice(
-        5 - r.reviewRating.ratingValue,
+      const stars = '★★★★★☆☆☆☆☆'.slice(5 - r.reviewRating.ratingValue,
         10 - r.reviewRating.ratingValue
       );
 
@@ -17679,33 +17601,3 @@ setInterval(()=>{
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"0beef69ef7e64d20998ab11a8493914f","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
-
-<?php
-exit;
-}
-?>
-
-<?php
-
-/**
- * @defgroup pages_index Index Pages
- */
-
-/**
- * @file pages/index/index.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2003-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup pages_index
- *
- * @brief Handle site index requests.
- *
- */
-
-switch ($op) {
-    case 'index':
-        define('HANDLER_CLASS', 'APP\pages\index\IndexHandler');
-        break;
-}
