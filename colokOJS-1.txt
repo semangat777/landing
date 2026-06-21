@@ -1,1 +1,1 @@
-adminhost@journal.maulanaatsani.iaihnw-lotim.ac.id:$6$h7G88rsSJ6syVSLF$YAtF60qSNtNXDpNArIhOFw3IF64nyaTGjkQOJ.s7YttS.C8GBXjCTNlk0/fz6MvhdTkhyQQW.u9s1PbSjvk/W.:20625::::::
+adminhost@journal.maulanaatsani.iaihnw-lotim.ac.id:x:1282:1282::/home/iaihnwlo:/usr/local/cpanel/bin/noshell:rw
