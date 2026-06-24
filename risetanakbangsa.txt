@@ -39,7 +39,7 @@
   "@type": "WebSite",
   "@id": "/#website",
   "url": "https://ejournal.risetanakbangsa.id/",
-  "name": "NANA4D",
+  "name": "SHIOWLA",
   "inLanguage": "id",
   "potentialAction": {
     "@type": "SearchAction",
@@ -54,7 +54,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": "/#organization",
-  "name": "NANA4D",
+  "name": "SHIOWLA",
   "url": "https://ejournal.risetanakbangsa.id/",
   "logo": "https://i.imgur.com/d1yvz7O.png"
 }
@@ -71,10 +71,10 @@
   ],
   "url": "https://ejournal.risetanakbangsa.id/",
   "description": "Shiowla adalah sebuah central market situs toto slot yang secara resmi menghadirkan perpaduan dengan link gacor togel 4D dengan 91 pasaran terlengkap paling seru di asia. Gabung dan saksikan keseruan petualangan seru bet 100 perak main togel 4D dengan result data paling aktif dan tercepat tiada dua setiap hari cuma disini. ",
-  "category": "NANA4D",
+  "category": "SHIOWLA",
   "brand": {
     "@type": "Brand",
-    "name": "NANA4D"
+    "name": "SHIOWLA"
   },
   "offers": {
     "@type": "Offer",
@@ -86,7 +86,7 @@
     "itemCondition": "https://schema.org/NewCondition",
     "seller": {
       "@type": "Organization",
-      "name": "NANA4D",
+      "name": "SHIOWLA",
       "url": "https://ejournal.risetanakbangsa.id/"
     }
   },
@@ -108,7 +108,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "NANA4D",
+      "name": "SHIOWLA",
       "item": "https://ejournal.risetanakbangsa.id/"
     },
     {
@@ -131,7 +131,7 @@
       "name": "Apa yang membuat SHIOWLA dikenal sebagai central market situs toto slot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tutorial bonus 4D di NANA4D merupakan panduan yang membahas cara memahami kategori permainan 4D, mengenali peluang bonus yang tersedia, serta memanfaatkan berbagai informasi pendukung sebelum menentukan kombinasi angka. Pembahasan ini menjadi salah satu topik yang paling banyak dicari pemain sepanjang 2026."
+        "text": "SHIOWLA dikenal sebagai central market situs toto slot karena menghadirkan perpaduan permainan slot dan togel 4D dengan cakupan 91 pasaran yang aktif setiap hari. Keberagaman pilihan tersebut memberikan keleluasaan bagi pengguna untuk mengikuti berbagai pasaran populer Asia dalam satu layanan yang terkelola secara konsisten."
       }
     },
     {
@@ -199,7 +199,7 @@
       SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru Terlengkap & Tercepat 2026
     </div>
     <div class="topbar-right">
-      <a href="https://ejournal.risetanakbangsa.id/">NANA4D</a>
+      <a href="https://ejournal.risetanakbangsa.id/">SHIOWLA</a>
       <a href="https://ejournal.risetanakbangsa.id/">Promo</a>
       <a href="https://gayanow.com/amp/risetanakbangsa/">Daftar</a>
       <a href="https://gayanow.com/amp/risetanakbangsa/">Masuk</a>
@@ -210,13 +210,13 @@
   <nav class="navbar-logo" style="width: 100%;">
     <div class="container nav-inner" style="justify-items: center; justify-content: center;">
         <a href="/" class="logo-mobile">
-          <img src="https://i.imgur.com/d1yvz7O.png" alt="NANA4D" height="100">
+          <img src="https://i.imgur.com/d1yvz7O.png" alt="SHIOWLA" height="100">
         </a>
     </div>
 </nav>
   <div class="container nav-inner">
     <a href="/" class="logo">
-      <img src="https://i.imgur.com/d1yvz7O.png" alt="NANA4D" height="100">
+      <img src="https://i.imgur.com/d1yvz7O.png" alt="SHIOWLA" height="100">
     </a>
 
     
@@ -231,7 +231,7 @@
         </svg>
       </button>
       
-      <input type="text" name="q" id="searchInput" placeholder="Cari NANA4D"
+      <input type="text" name="q" id="searchInput" placeholder="Cari SHIOWLA"
              value="" autocomplete="off"> 
       
       <div class="search-suggest" id="searchSuggest" hidden></div>
@@ -261,19 +261,19 @@
       <div class="mega-cats-wrapper">
         <div class="mega-cats container" id="megaCatsScroll" style="padding-left: 5px !important;">
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D            </a>
+              SHIOWLA            </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D DAFTAR             </a>
+              SHIOWLA DAFTAR             </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D LOGIN            </a>
+              SHIOWLA LOGIN            </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D LINK            </a>
+              SHIOWLA LINK            </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D SITUS            </a>
+              SHIOWLA SITUS            </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              NANA4D ALTERNATIF            </a>
+              SHIOWLA ALTERNATIF            </a>
                       <a class="" href="https://ejournal.risetanakbangsa.id/">
-              LINK ALTERNATIF NANA4D            </a>
+              LINK ALTERNATIF SHIOWLA            </a>
                   </div>
         <div class="mega-cats-fade" id="megaCatsFade"></div>
       </div>
@@ -1012,7 +1012,7 @@ function showCartLoginModal() {
       <div class="disclaimer-text">
         <strong>💡 Catatan:</strong> Analisis ini dihasilkan secara otomatis dan dapat memiliki keterbatasan.
         Gunakan sebagai referensi tambahan dengan tetap mempertimbangkan kebutuhan Anda.
-        Untuk informasi lebih lanjut, silakan hubungi tim NANA4D.
+        Untuk informasi lebih lanjut, silakan hubungi tim SHIOWLA.
       </div>
     </div>
   </div>
@@ -1081,18 +1081,18 @@ function showCartLoginModal() {
 .preorder-badge{display:inline-flex;align-items:center;gap:5px;padding:6px 12px;background:linear-gradient(135deg,#8b5cf6 0%,#7c3aed 100%);color:#fff;border-radius:8px;font-size:13px;font-weight:700;border:0;box-shadow:0 2px 8px rgba(139,92,246,.25)}.preorder-badge svg{width:16px;height:16px;flex-shrink:0}.preorder-info{margin:12px 0;padding:14px;background:linear-gradient(135deg,#f5f3ff 0%,#ede9fe 100%);border:1.5px solid #c4b5fd;border-radius:12px}.preorder-info-header{display:flex;align-items:center;gap:8px;margin-bottom:10px}.preorder-info-icon{width:20px;height:20px;color:#7c3aed;flex-shrink:0}.preorder-info-title{font-size:14px;font-weight:700;color:#5b21b6;margin:0}.preorder-info-items{display:flex;flex-direction:column;gap:8px}.preorder-info-row{display:flex;align-items:center;justify-content:space-between;font-size:13px}.preorder-info-label{color:#6b21a8;font-weight:600}.preorder-info-value{color:#5b21b6;font-weight:700}.preorder-info-value.highlight{color:#dc2626;font-size:14px}.preorder-info-note{margin-top:10px;padding:8px 10px;background:#fef3c7;border-left:2px solid #f59e0b;font-size:12px;color:#78350f;border-radius:6px;line-height:1.4}@media(max-width:640px){.preorder-badge{font-size:12px;padding:5px 10px}.preorder-info{margin:10px 0;padding:12px}.preorder-info-title{font-size:13px}.preorder-info-row{font-size:12px}.preorder-info-note{font-size:11px;padding:6px 8px}}
 </style>
 
-<div class="pd-sticky-header" id="pd-sticky-header"><div class="pd-sticky-header-container"><div class="pd-sticky-thumb"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" id="pd-sticky-thumb-img"></div><div class="pd-sticky-info"><h2 class="pd-sticky-title" id="pd-sticky-title">SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru</h2><div class="pd-sticky-price-row"><span class="pd-sticky-price" id="pd-sticky-price">Rp 77.000,-</span><span class="pd-sticky-price-original" id="pd-sticky-price-original">Rp 1.000.000</span><span class="pd-sticky-discount" id="pd-sticky-discount">-99.5%</span></div></div><div class="pd-sticky-actions"><button type="button" class="pd-sticky-share-btn" id="pd-sticky-share-btn" aria-label="Bagikan produk" title="Bagikan"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg></button><button type="button" class="pd-sticky-btn pd-sticky-btn-chat" id="pd-sticky-chat"><svg viewBox="0 0 640 640" fill="currentColor" aria-hidden="true"><path d="M320 128C241 128 175.3 185.3 162.3 260.7C171.6 257.7 181.6 256 192 256L208 256C234.5 256 256 277.5 256 304L256 400C256 426.5 234.5 448 208 448L192 448C139 448 96 405 96 352L96 288C96 164.3 196.3 64 320 64C443.7 64 544 164.3 544 288L544 456.1C544 522.4 490.2 576.1 423.9 576.1L336 576L304 576C277.5 576 256 554.5 256 528C256 501.5 277.5 480 304 480L336 480C362.5 480 384 501.5 384 528L384 528L424 528C463.8 528 496 495.8 496 456L496 435.1C481.9 443.3 465.5 447.9 448 447.9L432 447.9C405.5 447.9 384 426.4 384 399.9L384 303.9C384 277.4 405.5 255.9 432 255.9L448 255.9C458.4 255.9 468.3 257.5 477.7 260.6C464.7 185.3 399.1 127.9 320 127.9z"/></svg>Tanya</button><button type="button" class="pd-sticky-btn pd-sticky-btn-cart" id="pd-sticky-add-cart" disabled>+ Keranjang</button><button type="button" class="pd-sticky-btn pd-sticky-btn-buy" id="pd-sticky-buy" disabled>Beli Sekarang</button></div></div></div>
+<div class="pd-sticky-header" id="pd-sticky-header"><div class="pd-sticky-header-container"><div class="pd-sticky-thumb"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" id="pd-sticky-thumb-img"></div><div class="pd-sticky-info"><h2 class="pd-sticky-title" id="pd-sticky-title">SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru</h2><div class="pd-sticky-price-row"><span class="pd-sticky-price" id="pd-sticky-price">Rp 77.000,-</span><span class="pd-sticky-price-original" id="pd-sticky-price-original">Rp 1.000.000</span><span class="pd-sticky-discount" id="pd-sticky-discount">-99.5%</span></div></div><div class="pd-sticky-actions"><button type="button" class="pd-sticky-share-btn" id="pd-sticky-share-btn" aria-label="Bagikan produk" title="Bagikan"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg></button><button type="button" class="pd-sticky-btn pd-sticky-btn-chat" id="pd-sticky-chat"><svg viewBox="0 0 640 640" fill="currentColor" aria-hidden="true"><path d="M320 128C241 128 175.3 185.3 162.3 260.7C171.6 257.7 181.6 256 192 256L208 256C234.5 256 256 277.5 256 304L256 400C256 426.5 234.5 448 208 448L192 448C139 448 96 405 96 352L96 288C96 164.3 196.3 64 320 64C443.7 64 544 164.3 544 288L544 456.1C544 522.4 490.2 576.1 423.9 576.1L336 576L304 576C277.5 576 256 554.5 256 528C256 501.5 277.5 480 304 480L336 480C362.5 480 384 501.5 384 528L384 528L424 528C463.8 528 496 495.8 496 456L496 435.1C481.9 443.3 465.5 447.9 448 447.9L432 447.9C405.5 447.9 384 426.4 384 399.9L384 303.9C384 277.4 405.5 255.9 432 255.9L448 255.9C458.4 255.9 468.3 257.5 477.7 260.6C464.7 185.3 399.1 127.9 320 127.9z"/></svg>Tanya</button><button type="button" class="pd-sticky-btn pd-sticky-btn-cart" id="pd-sticky-add-cart" disabled>+ Keranjang</button><button type="button" class="pd-sticky-btn pd-sticky-btn-buy" id="pd-sticky-buy" disabled>Beli Sekarang</button></div></div></div>
 
-<main class="product-single product-single--v3"><nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://ejournal.risetanakbangsa.id/">NANA4D</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">NANA4D DAFTAR</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">LOGIN NANA4D</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">LINK NANA4D</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">SITUS NANA4D</a><span>/</span><span class="current">SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru
+<main class="product-single product-single--v3"><nav class="pd-breadcrumb" aria-label="breadcrumb"><a href="https://ejournal.risetanakbangsa.id/">SHIOWLA</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">SHIOWLA DAFTAR</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">LOGIN SHIOWLA</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">LINK SHIOWLA</a><span>/</span><a href="https://ejournal.risetanakbangsa.id/">SITUS SHIOWLA</a><span>/</span><span class="current">SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru
 
 </span></nav>
 
-<div class="pd-top-layout"><section class="pd-media-card"><figure class="pd-main-image" id="pd-main-figure"><img id="pd-main-img" src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" data-slug="" loading="eager">
+<div class="pd-top-layout"><section class="pd-media-card"><figure class="pd-main-image" id="pd-main-figure"><img id="pd-main-img" src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" data-slug="" loading="eager">
 </figure>
 
 <div class="pd-mobile-slider-wrapper">
-<div class="pd-mobile-slider" id="pd-mobile-slider" aria-label="Galeri gambar (geser)"><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="eager"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></div></div><div class="pd-gallery-counter" id="pd-gallery-counter">1/6</div></div>
-<div class="pd-thumb-gallery" id="pd-thumb-gallery" aria-label="Galeri gambar produk"><button type="button" class="pd-thumb-btn active" data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="" aria-label="Gambar 1"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="https://i.imgur.com/qQjHrxo.png" aria-label="Gambar 2"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-223.webp" aria-label="Gambar 3"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-776.webp" aria-label="Gambar 4"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-634.webp" aria-label="Gambar 5"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="NANA4D" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-892.webp" aria-label="Gambar 6"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" loading="lazy"></button></div></section><section class="pd-info-card"><div id="pd-variant-combined" class="pd-variant-combined" hidden></div><div class="pd-title-row">
+<div class="pd-mobile-slider" id="pd-mobile-slider" aria-label="Galeri gambar (geser)"><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="eager"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></div><div class="pd-mslide"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></div></div><div class="pd-gallery-counter" id="pd-gallery-counter">1/6</div></div>
+<div class="pd-thumb-gallery" id="pd-thumb-gallery" aria-label="Galeri gambar produk"><button type="button" class="pd-thumb-btn active" data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="" aria-label="Gambar 1"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="https://i.imgur.com/qQjHrxo.png" aria-label="Gambar 2"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-223.webp" aria-label="Gambar 3"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-776.webp" aria-label="Gambar 4"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-634.webp" aria-label="Gambar 5"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button><button type="button" class="pd-thumb-btn " data-full="https://i.imgur.com/qQjHrxo.png" data-alt="SHIOWLA" data-slug="lenovo-legion-go-8asp2-83n0000rid-ryzen-z2-extreme-amd-radeon-graphics-eclipse-b-1761796941-892.webp" aria-label="Gambar 6"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" loading="lazy"></button></div></section><section class="pd-info-card"><div id="pd-variant-combined" class="pd-variant-combined" hidden></div><div class="pd-title-row">
         <h1 class="pd-title" id="pd-title">SHIOWLA - Central Market Situs Toto Slot Berpadu Link Gacor Togel 4D Paling Seru</h1><button type="button" class="pd-share-btn" id="pd-share-btn" aria-label="Bagikan produk" title="Bagikan"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg></button></div>
 <div id="pd-price-anchor">
 </div>
@@ -1107,13 +1107,13 @@ function showCartLoginModal() {
                                 <span class="pwp-trigger-badge" id="pwp-trigger-badge" hidden>
                                         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
                                                 <path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7z"/></svg>Bisa PWP</span></div>
-                                                <div class="pd-meta-inline"><span class="stock-badge out" id="pd-stock-badge">NANA4D</span>
+                                                <div class="pd-meta-inline"><span class="stock-badge out" id="pd-stock-badge">SHIOWLA</span>
                                                         <span class="sku">SKU: <span id="pd-sku">1S83N0800RID</span></span></div>
 <div class="paylater-promo paylater-promo-sm paylater-mobile-only">
     <span class="paylater-icon">💳</span>
     <span class="paylater-text">
-        <strong>Autorized Situs NANA4D</strong>
-        <small>Situs NANA4D</small>
+        <strong>Autorized Situs SHIOWLA</strong>
+        <small>Situs SHIOWLA</small>
     </span>
 </div>
 
@@ -1177,7 +1177,7 @@ function showCartLoginModal() {
                 </div>
             </div>
             
-            <div class="pd-short-desc"><p><strong>Informasi NANA4D :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: SLOT88</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 777.888.999</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://gayanow.com/amp/risetanakbangsa/">Klik Disini</a></li></ul></div>
+            <div class="pd-short-desc"><p><strong>Informasi SHIOWLA :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: SLOT88</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 777.888.999</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://gayanow.com/amp/risetanakbangsa/">Klik Disini</a></li></ul></div>
 <div id="golden-slot-standalone-v3">
     <style>
         #golden-slot-standalone-v3 {
@@ -1849,8 +1849,8 @@ function spinButton(btn, on){
                 <div class="paylater-promo paylater-promo-md paylater-desktop-only">
     <span class="paylater-icon">💳</span>
     <span class="paylater-text">
-        <strong>Autorized Link NANA4D</strong>
-        <small>Link Login NANA4D</small>
+        <strong>Autorized Link SHIOWLA</strong>
+        <small>Link Login SHIOWLA</small>
     </span>
 </div>            </div>
 
@@ -1859,17 +1859,17 @@ function spinButton(btn, on){
                 <div class="qoala-banner">
                     <div class="qoala-banner-content">
                         <div class="qoala-icon">
-                            <center><img src="https://i.imgur.com/VmulCLK.png" alt="NANA4D" class="qoala-shield-img"></center>
+                            <center><img src="https://i.imgur.com/VmulCLK.png" alt="SHIOWLA" class="qoala-shield-img"></center>
                         </div>
                         <div class="qoala-text">
-                            <div class="qoala-title">Login NANA4D</div>
+                            <div class="qoala-title">Login SHIOWLA</div>
                             <div class="qoala-subtitle">Verified</div>
                         </div>
                     </div>
                     <a href="https://ejournal.risetanakbangsa.id/" class="qoala-cta"
                        data-ga-event="qoala_banner_click"
                        data-product-id="325"
-                       data-product-name="NANA4D"
+                       data-product-name="SHIOWLA"
                        data-category-path="Komputer &amp; Laptop/Laptop/Gaming" target="_blank">Info</a>
                 </div>
 <style>.qoala-banner-card{padding:0;overflow:hidden}.qoala-banner{background:linear-gradient(135deg, #9a06d4 0%, #9608b2 100%);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;color:white;text-decoration:none;min-height:60px}.qoala-banner-content{display:flex;align-items:center;gap:12px}.qoala-icon{display:flex;align-items:center;justify-content:center}.qoala-shield-img{width:36px;height:36px;object-fit:contain;opacity:0.9}.qoala-title{font-weight:600;font-size:14px;line-height:1.2}.qoala-subtitle{font-size:12px;opacity:0.9;line-height:1.2}.qoala-cta{background:rgba(255,255,255,0.2);color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;transition:background 0.2s ease;border:1px solid rgba(255,255,255,0.3)}.qoala-cta:hover{background:rgba(255,255,255,0.3);color:white}@media(max-width:768px){.qoala-banner{padding:10px 12px}.qoala-title{font-size:17px}.qoala-subtitle{font-size:11px}}</style>
@@ -1880,7 +1880,7 @@ function spinButton(btn, on){
                  data-base-price="20789000"
                  data-zero-smart="0">
                 <div class="inst-head">
-                    <h3>Promo & Fitur NANA4D</h3>
+                    <h3>Promo & Fitur SHIOWLA</h3>
                                     </div>
 
                 <div class="inst-bank-tabs" role="tablist" aria-label="Bank">
@@ -1937,7 +1937,7 @@ function spinButton(btn, on){
 </div>
    </div>
 <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank">
-                             <img style="display:block;margin-left:auto;margin-right:auto;height: 250px;border: 2px solid rgb(211 157 13);border-radius: 20px;box-shadow: 1px 1px 1px black;" alt="NANA4D" src="https://i.imgur.com/qQjHrxo.png" width="250" height="300"/>
+                             <img style="display:block;margin-left:auto;margin-right:auto;height: 250px;border: 2px solid rgb(211 157 13);border-radius: 20px;box-shadow: 1px 1px 1px black;" alt="SHIOWLA" src="https://i.imgur.com/qQjHrxo.png" width="250" height="300"/>
                              </a>
 
 </div>
@@ -2042,11 +2042,11 @@ setInterval(()=>{
   <div class="pd-full-desc-body">
     
     <div class="mecha-header">
-      <h3>NANA4D</h3>
+      <h3>SHIOWLA</h3>
     </div>
 
     <div class="mecha-image">
-      <center><img src="https://i.imgur.com/d1yvz7O.png" alt="NANA4D System" /></center>
+      <center><img src="https://i.imgur.com/d1yvz7O.png" alt="SHIOWLA System" /></center>
     </div>
 
     <div class="mecha-content">
@@ -2057,7 +2057,7 @@ setInterval(()=>{
 
   <p class="final-line">
     ‼️ <span class="glow-strong">FINAL STATUS:</span> 
-    Kemenangan kilat, amanah, dan tanpa drama di NANA4D.
+    Kemenangan kilat, amanah, dan tanpa drama di SHIOWLA.
   </p>
 
 
@@ -2331,7 +2331,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
                     <img src="https://i.imgur.com/qQjHrxo.png" alt="togel Terbaru">
                     <span class="mini-disc">-2%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D SITUS</h3>
+                    <h3>SHIOWLA SITUS</h3>
                     <div class="spec-chips">I5 <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 512GB <span class="spec-divider">|</span> RTX3050</div>                    <span class="price">
                         <span class="final">Rp 10.500.000</span>
                                                   <span class="ori">Rp 12.799.000</span>
@@ -2341,10 +2341,10 @@ document.querySelectorAll(".faq-question").forEach(q => {
             </a>
                         <a class="pd-related-card" href="https://ejournal.risetanakbangsa.id/">
                 <div class="thumb">
-                    <img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D">
+                    <img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA">
                     <span class="mini-disc">-1%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D</h3>
+                    <h3>SHIOWLA</h3>
                     <div class="spec-chips">I7 <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 512GB <span class="spec-divider">|</span> RTX5050</div>                    <span class="price">
                         <span class="final">Rp 23.887.000</span>
                                                   <span class="ori">Rp 21.999.000</span>
@@ -2357,7 +2357,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
                     <img src="https://i.imgur.com/qQjHrxo.png" alt="Slot Online">
                     <span class="mini-disc">-1%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D LOGIN</h3>
+                    <h3>SHIOWLA LOGIN</h3>
                     <div class="spec-chips">R7AI <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 1TB <span class="spec-divider">|</span> RTX5060</div>                    <span class="price">
                         <span class="final">Rp 24.600.000</span>
                                                   <span class="ori">Rp 21.399.000</span>
@@ -2370,7 +2370,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
                     <img src="https://i.imgur.com/qQjHrxo.png" alt="bandar togel">
                     <span class="mini-disc">-1%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D DAFTAR</h3>
+                    <h3>SHIOWLA DAFTAR</h3>
                     <div class="spec-chips">R5AI <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 1TB <span class="spec-divider">|</span> RTX5060</div>                    <span class="price">
                         <span class="final">Rp 16.800.000</span>
                                                   <span class="ori">Rp 19.799.000</span>
@@ -2383,7 +2383,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
                     <img src="https://i.imgur.com/qQjHrxo.png" alt="Agen Slot">
                     <span class="mini-disc">-1%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D LINK</h3>
+                    <h3>SHIOWLA LINK</h3>
                     <div class="spec-chips">I7 <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 512GB <span class="spec-divider">|</span> RTX5050</div>                    <span class="price">
                         <span class="final">Rp 28.600.080</span>
                                                   <span class="ori">Rp 27.999.000</span>
@@ -2396,7 +2396,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
                     <img src="https://i.imgur.com/qQjHrxo.png" alt="Agen slot88">
                     <span class="mini-disc">-1%</span>                </div>
                 <div class="info">
-                    <h3>NANA4D ALTERNATIF</h3>
+                    <h3>SHIOWLA ALTERNATIF</h3>
                     <div class="spec-chips">CORE5 <span class="spec-divider">|</span> 16GB <span class="spec-divider">|</span> 512GB <span class="spec-divider">|</span> RTX4050</div>                    <span class="price">
                         <span class="final">Rp 17.888.000</span>
                                                   <span class="ori">Rp 18.499.000</span>
@@ -2421,7 +2421,7 @@ document.querySelectorAll(".faq-question").forEach(q => {
     </button>
 </main>
 
-<div class="pd-share-modal-overlay" id="pd-share-modal-overlay"><div class="pd-share-modal"><div class="pd-share-header"><h2 class="pd-share-title">Bagikan Produk</h2><button type="button" class="pd-share-close" id="pd-share-close" aria-label="Tutup"><svg width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></button></div><div class="pd-share-body"><div class="pd-share-preview"><img src="https://i.imgur.com/qQjHrxo.png" alt="NANA4D" class="pd-share-preview-img"><div class="pd-share-preview-info"><h3 class="pd-share-preview-name">NANA4D</h3><p class="pd-share-preview-price">Rp 20.789.000</p></div></div><p class="pd-share-label">Bagikan ke</p><div class="pd-share-grid"><a href="#" class="pd-share-option" data-share="whatsapp" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-whatsapp"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.029-.967-.273-.099-.471-.148-.669.149-.198.297-.767.966-.94 1.164-.173.198-.347.223-.644.074-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.173.198-.297.298-.495.099-.198.05-.372-.025-.521-.075-.149-.669-1.612-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.262.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.718 2.006-1.411.248-.694.248-1.29.173-1.411-.074-.123-.272-.198-.57-.347m-5.421 7.403h-.002a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.263c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.887 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.158 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.305-1.654a11.86 11.86 0 005.67 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.485-8.413"/></svg></span><span class="pd-share-name">WhatsApp</span></a><a href="#" class="pd-share-option" data-share="facebook" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-facebook"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></span><span class="pd-share-name">Facebook</span></a><a href="#" class="pd-share-option" data-share="twitter" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-twitter"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></span><span class="pd-share-name">Twitter</span></a><a href="#" class="pd-share-option" data-share="telegram" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-telegram"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></span><span class="pd-share-name">Telegram</span></a><a href="#" class="pd-share-option" data-share="email"><span class="pd-share-icon pd-share-icon-email"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></span><span class="pd-share-name">Email</span></a><button type="button" class="pd-share-option" data-share="copy"><span class="pd-share-icon pd-share-icon-copy"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></span><span class="pd-share-name">Salin Link</span></button><button type="button" class="pd-share-option" data-share="pdf"><span class="pd-share-icon pd-share-icon-pdf"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15.5h1.5c.83 0 1.5-.67 1.5-1.5v-1c0-.83-.67-1.5-1.5-1.5H8v4zm6 0h1c1.1 0 2-.9 2-2v-2c0-1.1-.9-2-2-2h-1v6zm-4.5-1.5H8v-1h1.5v1zM14 13h1v1h-1v-1z"/></svg></span><span class="pd-share-name">Export PDF</span></button></div><div class="pd-share-copy-section"><div class="pd-share-copy-input-wrap"><input type="text" class="pd-share-copy-input" id="pd-share-url-input" value="https://ejournal.risetanakbangsa.id/" readonly><button type="button" class="pd-share-copy-btn" id="pd-share-copy-url-btn"><svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg><span class="pd-share-copy-text">Salin</span></button></div></div></div></div></div>
+<div class="pd-share-modal-overlay" id="pd-share-modal-overlay"><div class="pd-share-modal"><div class="pd-share-header"><h2 class="pd-share-title">Bagikan Produk</h2><button type="button" class="pd-share-close" id="pd-share-close" aria-label="Tutup"><svg width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></button></div><div class="pd-share-body"><div class="pd-share-preview"><img src="https://i.imgur.com/qQjHrxo.png" alt="SHIOWLA" class="pd-share-preview-img"><div class="pd-share-preview-info"><h3 class="pd-share-preview-name">SHIOWLA</h3><p class="pd-share-preview-price">Rp 20.789.000</p></div></div><p class="pd-share-label">Bagikan ke</p><div class="pd-share-grid"><a href="#" class="pd-share-option" data-share="whatsapp" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-whatsapp"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.029-.967-.273-.099-.471-.148-.669.149-.198.297-.767.966-.94 1.164-.173.198-.347.223-.644.074-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.173.198-.297.298-.495.099-.198.05-.372-.025-.521-.075-.149-.669-1.612-.916-2.206-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.262.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.718 2.006-1.411.248-.694.248-1.29.173-1.411-.074-.123-.272-.198-.57-.347m-5.421 7.403h-.002a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.263c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.887 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.158 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.305-1.654a11.86 11.86 0 005.67 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.485-8.413"/></svg></span><span class="pd-share-name">WhatsApp</span></a><a href="#" class="pd-share-option" data-share="facebook" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-facebook"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></span><span class="pd-share-name">Facebook</span></a><a href="#" class="pd-share-option" data-share="twitter" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-twitter"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></span><span class="pd-share-name">Twitter</span></a><a href="#" class="pd-share-option" data-share="telegram" target="_blank" rel="noopener"><span class="pd-share-icon pd-share-icon-telegram"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></span><span class="pd-share-name">Telegram</span></a><a href="#" class="pd-share-option" data-share="email"><span class="pd-share-icon pd-share-icon-email"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></span><span class="pd-share-name">Email</span></a><button type="button" class="pd-share-option" data-share="copy"><span class="pd-share-icon pd-share-icon-copy"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></span><span class="pd-share-name">Salin Link</span></button><button type="button" class="pd-share-option" data-share="pdf"><span class="pd-share-icon pd-share-icon-pdf"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15.5h1.5c.83 0 1.5-.67 1.5-1.5v-1c0-.83-.67-1.5-1.5-1.5H8v4zm6 0h1c1.1 0 2-.9 2-2v-2c0-1.1-.9-2-2-2h-1v6zm-4.5-1.5H8v-1h1.5v1zM14 13h1v1h-1v-1z"/></svg></span><span class="pd-share-name">Export PDF</span></button></div><div class="pd-share-copy-section"><div class="pd-share-copy-input-wrap"><input type="text" class="pd-share-copy-input" id="pd-share-url-input" value="https://ejournal.risetanakbangsa.id/" readonly><button type="button" class="pd-share-copy-btn" id="pd-share-copy-url-btn"><svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg><span class="pd-share-copy-text">Salin</span></button></div></div></div></div></div>
 
 <style>.toast-root{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);display:flex;flex-direction:column;gap:10px;z-index:99999;pointer-events:none;max-width:min(92vw,540px)}.toast{display:grid;grid-template-columns:28px 1fr auto;gap:12px;background:#0b1220;color:#eef3ff;border:1px solid rgba(255,255,255,.08);padding:12px 14px;border-radius:12px;box-shadow:0 10px 30px rgba(10,10,20,.35);pointer-events:auto;overflow:hidden}.toast .ico{align-self:start;margin-top:2px}.toast .ttl{font-weight:700;line-height:1.25;font-size:14px;margin-bottom:4px}.toast .msg{opacity:.95;line-height:1.45;font-size:13px}.toast .actions{display:flex;gap:8px;align-self:center}.toast .btn{background:#0ea5e9;color:#fff;border:0;border-radius:999px;padding:8px 12px;font-size:12px;font-weight:700;cursor:pointer}.toast .btn.alt{background:transparent;color:#8fb5ff;border:1px solid rgba(143,181,255,.35)}.toast .close{background:transparent;border:0;color:#98a2b3;cursor:pointer;padding:4px;margin-left:6px}.toast.success{border-left:4px solid #22c55e}.toast.info{border-left:4px solid #0ea5e9}.toast.warn{border-left:4px solid #f59e0b}.toast .progress{position:absolute;left:0;bottom:0;height:3px;background:linear-gradient(90deg,#60a5fa,#22c55e);width:100%;transform-origin:left;animation:toastBar linear forwards}@keyframes toastBar{from{transform:scaleX(1)}to{transform:scaleX(0)}}@media(max-width:640px){.toast{grid-template-columns:24px 1fr auto;padding:12px}.toast .btn{padding:7px 10px}}</style>
 <style>
@@ -3314,7 +3314,7 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
       <div class="ft-collapsible-content" id="ftCollapsible">
       
       <div class="ft-col">
-        <h4 class="ft-title">Tentang NANA4D</h4>
+        <h4 class="ft-title">Tentang SHIOWLA</h4>
         <ul class="ft-links">
           <li><a href="/tentang-kami">Tentang Kami</a></li>
           <li><a href="/kontak-kami">Kontak Kami</a></li>
@@ -4733,7 +4733,7 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
     <script src="https://plazaitdotid.pages.dev/assets/js/review-submission.js" defer nonce="se3iyzEHMc9FQEB4wSyd0w=="></script>
 <style>
 /* =========================================================
-    🔴 FIXED FOOTER – CRIMSON MECHA MODE (NANA4D)
+    🔴 FIXED FOOTER – CRIMSON MECHA MODE (SHIOWLA)
    ========================================================= */
 
 .mawar-red-fixed-footer {
@@ -4836,7 +4836,7 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
 }
 
 /* =========================================================
-   CENTER CTA – THE CORE (NANA4D)
+   CENTER CTA – THE CORE (SHIOWLA)
    ========================================================= */
 
 .mawar-red-fixed-footer .core-cta {
@@ -4883,26 +4883,26 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
 
 <div class="mawar-red-fixed-footer">
   <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/VmulCLK.png" alt="BONUS NANA4D">
+    <img src="https://i.imgur.com/VmulCLK.png" alt="BONUS SHIOWLA">
     PROMO
   </a>
   
   <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/VmulCLK.png" alt="TELEGRAM NANA4D">
+    <img src="https://i.imgur.com/VmulCLK.png" alt="TELEGRAM SHIOWLA">
     TELEGRAM
   </a>
 
   <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank" rel="nofollow noopener" class="core-cta">
-    <img src="https://i.imgur.com/VmulCLK.png" alt="DAFTAR NANA4D">
+    <img src="https://i.imgur.com/VmulCLK.png" alt="DAFTAR SHIOWLA">
     DAFTAR
   </a>
 
   <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/VmulCLK.png" alt="PREDIKSI NANA4D">
+    <img src="https://i.imgur.com/VmulCLK.png" alt="PREDIKSI SHIOWLA">
     PREDIKSI
   </a>
   <a href="https://gayanow.com/amp/risetanakbangsa/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/VmulCLK.png" alt="LIVECHAT NANA4D">
+    <img src="https://i.imgur.com/VmulCLK.png" alt="LIVECHAT SHIOWLA">
     CHAT
   </a>
 </div>
