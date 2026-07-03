@@ -2022,12 +2022,12 @@
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-        <link rel="amphtml" href="https://poltekkeskalteng.org/amp/sjr-edu/"/>
-        <link rel="alternate" hreflang="id-id" href="https://poltekkeskalteng.org/amp/sjr-edu/">
-        <link rel="alternate" href="https://sjr.usp.edu.pk/">
-        <link rel="alternate" hreflang="id" href="https://poltekkeskalteng.org/amp/sjr-edu/">
-        <link rel="alternate" hreflang="en" href="https://sjr.usp.edu.pk/">
-        <link rel="alternate" hreflang="x-default" href="https://sjr.usp.edu.pk/">
+        <link rel="amphtml" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/"/>
+        <link rel="alternate" hreflang="id-id" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
+        <link rel="alternate" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
+        <link rel="alternate" hreflang="id" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
+        <link rel="alternate" hreflang="en" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
+        <link rel="alternate" hreflang="x-default" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
         <link rel="icon" type="image/x-icon" href="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp">
         <link rel="shortcut icon" type="image/x-icon" href="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp">
         <link rel="canonical" href="https://sjr.usp.edu.pk/">
@@ -6536,7 +6536,7 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li class="download-app-link">
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">download apps
         
                                             </a>
@@ -6547,12 +6547,12 @@
                                                             download app  from:
                 
                                                             <div class="view code app_store">
-                                                                <a class="sh-store-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                                 </a>
                                                             </div>
                                                             <div class="view code play_store">
-                                                                <a class="sh-store-link" data-test="google-play-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" data-test="google-play-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                                 </a>
                                                             </div>
@@ -6561,7 +6561,7 @@
                                                 </div>
                                             </div>
                                         </li>
-                                        <li><a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                        <li><a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">gift registry        
                                             </a>
                                         </li>
@@ -6676,17 +6676,17 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp">LOGIN
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp">DAFTAR
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank">
                                                 <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">Contact Us
                                             </a>
                                         </li>
@@ -8827,7 +8827,7 @@ font-size:12px;
                                         <a href="/customer/account" class="account-link">Akun Saya</a>
                                     </div>
                                     <button>
-                                        <a href="https://poltekkeskalteng.org/amp/sjr-edu/">Masuk</a>
+                                        <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">Masuk</a>
                                     </button>
                                 </div>
                             </div>
@@ -8840,7 +8840,7 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li class="download-app-link">
-                                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png"/>download apps
         
                                                     </a>
@@ -8851,12 +8851,12 @@ font-size:12px;
                                                                     download app  from:
                 
                                                                     <div class="view code app_store">
-                                                                        <a class="sh-store-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png"/>
                                                                         </a>
                                                                     </div>
                                                                     <div class="view code play_store">
-                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png"/>
                                                                         </a>
                                                                     </div>
@@ -8866,7 +8866,7 @@ font-size:12px;
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg"/>gift registry        
                                                     </a>
                                                 </li>
@@ -8964,17 +8964,17 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li>
-                                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp"/>LOGIN
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp"/>DAFTAR
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank">
+                                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank">
                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"/>Contact Us
                                                     </a>
                                                 </li>
@@ -9022,7 +9022,7 @@ font-size:12px;
                                 <div class="header_panel_info">
                                     <ul>
                                         <li class="download-app-link">
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />download apps
         
                                             </a>
@@ -9033,12 +9033,12 @@ font-size:12px;
                                                             download app  from:
                 
                                                             <div class="view code app_store">
-                                                                <a class="sh-store-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                <a class="sh-store-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                     <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                                                                 </a>
                                                             </div>
                                                             <div class="view code play_store">
-                                                                <a class="sh-store-link" data-test="google-play-link" href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                <a class="sh-store-link" data-test="google-play-link" href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                     <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                                                                 </a>
                                                             </div>
@@ -9047,7 +9047,7 @@ font-size:12px;
                                                 </div>
                                             </div>
                                         </li>
-                                        <li><a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                        <li><a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />gift registry        
                                             </a>
                                         </li>
@@ -9162,17 +9162,17 @@ font-size:12px;
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp" />LOGIN
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                 <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp" />DAFTAR
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/" target="_blank">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" target="_blank">
                                                 <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" />Contact Us
                                             </a>
                                         </li>
@@ -9322,7 +9322,7 @@ font-size:12px;
                         <div class="dropdown switcher-dropdown" data-target="dropdown">
                             <ul class="header links">
                                 <li class="link authorization-link loginRevamp" data-label="Atau">
-                                    <a href="https://poltekkeskalteng.org/amp/sjr-edu/">Masuk / buat akun            </a>
+                                    <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">Masuk / buat akun            </a>
                                 </li>
                                 <script data-breeze>
                                     require(['jquery'], function($) {
@@ -9522,7 +9522,7 @@ font-size:12px;
                                     <div class="product-info-price">
                                         <div class="product-info-stock-sku">
                                             <!-- Product is in stock, do nothing or show "In Stock" -->
-                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/" class="kc-points-lable">
+                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" class="kc-points-lable">
                                                 <img src="https://eb-assets.pages.dev/daftar.gif" itemprop="image" style="width:50%;height:50%;">
                                             </a>
                                             <div class="availability only configurable-variation-qty" title="Qty">
@@ -9647,7 +9647,7 @@ font-size:12px;
                                         </div>
                                     </div>
                                     <div class="kc-cashback check">
-                                        <a href="https://poltekkeskalteng.org/amp/sjr-edu/" class="kc-points-lable">
+                                        <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" class="kc-points-lable">
                                             <img src="https://imgstore.io/images/2025/06/23/logo_favicon_500x500-3.webp" class="kcpoints-img" width="30px">
                                             <span>
                                                 MIN DEPO : <span class="price">5.000</span>
@@ -9725,15 +9725,15 @@ font-size:12px;
                                                             </div>
                                                         </div>
                                                         <div class="actions">
-                                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                                                 <button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #388266;">
                                                                     <span>LOGIN</span>
                                                                 </button>
                                                             </a>
-                                                            <a href="https://poltekkeskalteng.org/amp/sjr-edu/" class="action towishlist" data-action="add-to-wishlist">
+                                                            <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" class="action towishlist" data-action="add-to-wishlist">
                                                                 <span>DAFTAR</span>
                                                             </a><div id="giftreg-message-pdp" style="">
-                                                                <a href="https://poltekkeskalteng.org/amp/sjr-edu/" class="notlogingift">
+                                                                <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/" class="notlogingift">
                                                                     <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt=""/>CLAIM BONUS
 	    
                                                                 </a>
@@ -13059,12 +13059,12 @@ function myFunction() {
                                 <div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q">
                                     <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi kami</h4>
                                     <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                        <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
                                         </a>
                                     </div>
                                     <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://poltekkeskalteng.org/amp/sjr-edu/">
+                                        <a href="https://jaya-nana4d.world/amp/sjr.usp.edu.pk/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play">
                                         </a>
                                         <style>
