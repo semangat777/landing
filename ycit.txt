@@ -8,23 +8,23 @@
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   
   <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport" />
-<title>SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang</title>
-<meta name="title" content="SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
+<title>SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang</title>
+<meta name="title" content="SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.ojs.ycit.or.id/">
-<link rel="amphtml" href="https://mobile-shiowla.vercel.app/">
-<link rel="alternate" hreflang="id-id" href="https://mobile-shiowla.vercel.app/">
-<link rel="alternate" href="https://www.ojs.ycit.or.id/">
-<link rel="alternate" hreflang="id" href="https://mobile-shiowla.vercel.app/">
-<link rel="alternate" hreflang="en" href="https://www.ojs.ycit.or.id/">
-<link rel="alternate" hreflang="x-default" href="https://www.ojs.ycit.or.id/">
+<link rel="amphtml" href="https://www.ycit.or.id/penerbit/amp/">
+<link rel="alternate" hreflang="id-id" href="https://www.ycit.or.id/penerbit/amp/">
+<link rel="alternate" href="https://www.ycit.or.id/penerbit/amp/">
+<link rel="alternate" hreflang="id" href="https://www.ycit.or.id/penerbit/amp/">
+<link rel="alternate" hreflang="en" href="https://www.ycit.or.id/penerbit/amp/">
+<link rel="alternate" hreflang="x-default" href="https://www.ycit.or.id/penerbit/amp/">
 <meta name="publisher" content="SHIOWLA">
 <meta name="description" content="SHIOWLA merupakan pusat login resmi WLA dengan 92 pasaran internasional yang sekaligus menawarkan link gacor situs toto togel 4D dengan hadiah paling besar dan gampang menang hari ini. Daftar sekarang untuk akses alternatif terpercaya paling update, pasaran toto macau terlengkap, dan fitur instant deposit cepat via qris hanya 10k rupiah.">
 <meta name="keywords" content="shiowla, link shiowla, shiowla link" />
 <meta name="date" content="2026-01-01">
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
+<meta name="twitter:title" content="SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
 <meta name="twitter:description" content="SHIOWLA merupakan pusat login resmi WLA dengan 92 pasaran internasional yang sekaligus menawarkan link gacor situs toto togel 4D dengan hadiah paling besar dan gampang menang hari ini. Daftar sekarang untuk akses alternatif terpercaya paling update, pasaran toto macau terlengkap, dan fitur instant deposit cepat via qris hanya 10k rupiah.">
 <meta name="twitter:url" content="https://www.ojs.ycit.or.id/">
 <meta name="twitter:image" content="https://i.imgur.com/cO3Jxob.png">
@@ -33,7 +33,7 @@
 <meta property="og:locale" content="id_ID">
 
 <meta property="og:url" content="https://www.ojs.ycit.or.id/">
-<meta property="og:title" content="SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
+<meta property="og:title" content="SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang">
 <meta property="og:description" content="SHIOWLA merupakan pusat login resmi WLA dengan 92 pasaran internasional yang sekaligus menawarkan link gacor situs toto togel 4D dengan hadiah paling besar dan gampang menang hari ini. Daftar sekarang untuk akses alternatif terpercaya paling update, pasaran toto macau terlengkap, dan fitur instant deposit cepat via qris hanya 10k rupiah.">
 <meta property="og:image" content="https://i.imgur.com/cO3Jxob.png">
 <link rel="icon" type="image/png" sizes="96x96" href="https://i.imgur.com/aCbXLa2.png">
@@ -1057,7 +1057,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </p>
         <p class="cookie-bar__desc">
          Website ini menggunakan cookie. Dengan mengklik TERIMA atau melanjutkan penelusuran website, Anda menyetujui penggunaan cookie kami.
-         <a href="https://mobile-shiowla.vercel.app/">
+         <a href="https://www.ycit.or.id/penerbit/amp/">
           Lihat Kebijakan Privasi kami di sini.
          </a>
         </p>
@@ -1066,7 +1066,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </button>
        </div>
        <div class="cookie-bar__manage">
-        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://mobile-shiowla.vercel.app/" title="Terima">
+        <a an-ac="cookie bar:accept" an-ca="other interaction" an-la="cookie bar:accept" an-tr="cod01_cookie bar-product detail-cta-button" class="cta cta--contained cta--emphasis" href="https://www.ycit.or.id/penerbit/amp/" title="Terima">
          Terima
         </a>
        </div>
@@ -1495,7 +1495,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://mobile-shiowla.vercel.app/" href="https://mobile-shiowla.vercel.app/" role="menuitem">
+         <a data-linkinfo="https://www.ycit.or.id/penerbit/amp/" href="https://www.ycit.or.id/penerbit/amp/" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -1564,11 +1564,11 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://mobile-shiowla.vercel.app/"
+              href="https://www.ycit.or.id/penerbit/amp/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://mobile-shiowla.vercel.app/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.ycit.or.id/penerbit/amp/'; return false;">
               Login/Sign-Up
             </a>
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -2131,7 +2131,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
             <div class="pd-buying-price__new-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPrice}}">
              <div class="pd-buying-price__new-price-inner">
-              SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
+              SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
              </div>
              <span class="pd-buying-price__monthly-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPriceMonthly}}">
               {{priceAnchor.priceWrapper.info.totalPriceMonthly}}
@@ -2162,10 +2162,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://mobile-shiowla.vercel.app/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.ycit.or.id/penerbit/amp/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://mobile-shiowla.vercel.app/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.ycit.or.id/penerbit/amp/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -3712,7 +3712,7 @@ digitalData.page.pageInfo.pageName = pageName;
        <input id="apiChangePdpUrl" name="apiChangePdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/"/>
        <input id="apiChangeFamilyCode" name="apiChangeFamilyCode" type="hidden" value="561454"/>
        <input id="apiChangeDisplayName" name="apiChangeDisplayName" type="hidden" value="Galaxy A07"/>
-       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang"/>
+       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang"/>
        <input id="apiChangeWtbUseYn" name="apiChangeWtbUseYn" type="hidden" value="N"/>
        <input id="apiChangeStockStatus" name="apiChangeStockStatus" type="hidden" value=""/>
        <input id="ecomStoreType" name="ecomStoreType" type="hidden"/>
@@ -3748,7 +3748,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="wt-mt-xs-1 wt-mb-xs-1">
 
 <h1 align="center" style="font-size:34px; line-height:1.4; font-weight:700;">
-SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
+SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
 </h1>
 
 <br/>
@@ -3887,8 +3887,8 @@ SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang
  
 <!-- CTA buttons -->
 <div class="cta-buttons">
-<a href="https://mobile-shiowla.vercel.app/" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
-<a href="https://mobile-shiowla.vercel.app/" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
+<a href="https://www.ycit.or.id/penerbit/amp/" rel="nofollow noreferrer" class="btn-cta btn-login" title="Masuk akun">LOGIN</a>
+<a href="https://www.ycit.or.id/penerbit/amp/" rel="nofollow noreferrer" class="btn-cta btn-register" title="Daftar sekarang">DAFTAR</a>
 </div>
 </div>
 </div>
@@ -4269,7 +4269,7 @@ opacity:.6;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://mobile-shiowla.vercel.app/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.ycit.or.id/penerbit/amp/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5179,7 +5179,7 @@ opacity:.6;
           </a>
          </div>
          <p class="pd-select-option__desc" data-sdf-test="{{care.description}}">
-          SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
+          SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal checkingSamsungCare">
           <svg aria-hidden="true" class="icon" focusable="false">
@@ -5962,9 +5962,9 @@ opacity:.6;
 </style>
 
 <div class="SHIOWLA-article">
-  <div style="font-size: 18px; line-height: 1.6;"> <h1 style="font-size: 28px;"> SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang</h1>
+  <div style="font-size: 18px; line-height: 1.6;"> <h1 style="font-size: 28px;"> SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang</h1>
   
-<p style="text-align: justify;"><a href="https://www.ojs.ycit.or.id/">SHIOWLA</a> merupakan pusat WLA pasaran internasional yang menyediakan akses login resmi menuju berbagai pasaran toto togel 4D dari berbagai negara dalam satu wadah. Dengan dukungan hingga 92 pasaran internasional yang aktif setiap hari, SHIOWLA memberikan kemudahan akses bagi pengguna yang menginginkan pilihan permainan angka 2D, D, dan 4D yang lebih lengkap tanpa perlu menggunakan banyak akun atau berpindah ke berbagai situs gacor lain nya. Keberadaan SHIOWLA semakin dikenal karena menghadirkan link gacor yang terhubung langsung dengan layanan toto togel 4D berhadiah besar. Setiap pasaran yang tersedia telah tersusun secara rapi sehingga pengguna dapat menemukan market favorit mereka dengan lebih mudah. Mulai dari pasaran Asia hingga berbagai pasaran internasional yang viral dapat diakses melalui jalur resmi yang terus diperbarui untuk menjaga kenyamanan pengguna saat login maupun melakukan transaksi secara mudah dan aman. Di tengah meningkatnya kebutuhan akan akses yang stabil dan terpercaya, SHIOWLA menghadirkan sistem alternatif yang selalu diperbarui agar pengguna tetap dapat terhubung kapan saja. Kehadiran link alternatif terpercaya menjadi bagian penting dari layanan yang diberikan sehingga proses login dapat berlangsung lebih lancar tanpa hambatan yang mengganggu aktivitas pengguna. Salah satu keunggulan yang banyak menjadi perhatian adalah tersedianya pasaran Toto Macau yang lengkap dan aktif setiap hari. Pasaran ini menjadi pilihan banyak pemain karena menawarkan beragam jenis taruhan mulai 100 perak pada pertandingan angka dengan jadwal result yang konsisten. Melalui SHIOWLA, seluruh informasi terkait Toto Macau dapat ditemukan dalam satu platform yang terintegrasi sehingga memudahkan pengguna untuk mengikuti perkembangan pasaran secara lebih optimal.</p>
+<p style="text-align: justify;"><a href="https://www.ojs.ycit.or.id/">SHIOWLA</a> merupakan pusat WLA pasaran internasional yang menyediakan akses login resmi menuju berbagai pasaran toto togel 4D dari berbagai negara dalam satu wadah. Dengan dukungan hingga 92 pasaran internasional yang aktif setiap hari, SHIOWLA memberikan kemudahan akses bagi pengguna yang menginginkan pilihan permainan angka 2D, D, dan 4D yang lebih lengkap tanpa perlu menggunakan banyak saldo. Keberadaan SHIOWLA semakin dekat karena menghadirkan link gacor yang terhubung langsung dengan layanan toto togel 4D berhadiah besar besar hingga ratusan juta rupiah. Setiap pasaran yang tersedia juga telah tersusun secara rapi sehingga pengguna dapat menemukan market favorit mereka dengan lebih gampang. Mulai dari pasaran Asia hingga berbagai pasaran internasional yang lagi viral dapat di klik melalui jalur resmi yang terus diperbarui untuk menjaga kenyamanan pengguna saat login maupun melakukan transaksi secara mudah dan aman. Di tengah meningkatnya kebutuhan akan akses yang stabil dan terpercaya, SHIOWLA menghadirkan sistem alternatif yang selalu diperbarui agar pengguna tetap dapat terhubung kapan saja. Kehadiran link alternatif terpercaya menjadi bagian penting dari layanan yang diberikan sehingga proses login dapat berlangsung lebih lancar tanpa hambatan yang mengganggu aktivitas pengguna. Salah satu keunggulan yang banyak menjadi perhatian adalah tersedianya pasaran Toto Macau yang lengkap dan aktif setiap hari. Pasaran ini menjadi pilihan banyak pemain karena menawarkan beragam jenis taruhan mulai 100 perak pada pertandingan angka dengan jadwal result yang konsisten. Melalui SHIOWLA, seluruh informasi terkait Toto Macau dapat ditemukan dalam satu platform yang terintegrasi sehingga memudahkan pengguna untuk mengikuti perkembangan pasaran secara lebih optimal.</p>
 <p style="text-align: justify;">Selain menghadirkan pilihan pasaran yang luas, SHIOWLA juga mendukung proses transaksi yang cepat melalui fitur instant deposit. Pengguna dapat melakukan deposit menggunakan QRIS mulai dari nominal 10 ribu rupiah tanpa prosedur yang rumit. Sistem pembayaran yang sederhana ini memberikan kemudahan bagi siapa saja yang ingin segera bergabung dan mengakses seluruh layanan daftar dan login cepat yang tersedia. Kombinasi antara 92 pasaran internasional, akses resmi WLA, link gacor toto togel 4D, pilihan pasaran Toto Macau yang lengkap, serta dukungan deposit QRIS mulai 10 ribu rupiah menjadikan SHIOWLA sebagai salah satu pusat layanan yang mampu memenuhi kebutuhan pengguna termasuk bonus mingguan yang royal. Dengan pembaruan akses yang dilakukan secara berkala dan dukungan pasaran yang terus aktif, SHIOWLA menghadirkan solusi praktis bagi pengguna yang menginginkan akses situs terpercaya, pilihan 91 pasaran yang luas, serta peluang hadiah bonus besar setiap harinya.</p>
 
     <style>
@@ -6848,42 +6848,42 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SHIOWLA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SITUS TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SITUS TERPERCAYA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SITUS TERPERCAYA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SITUS GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     TOGEL 4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     SLOT777
                   </a>
                 </li>
@@ -6909,37 +6909,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -6965,37 +6965,37 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7021,32 +7021,32 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -7073,22 +7073,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7112,22 +7112,22 @@ opacity:.6;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Tentang SHIOWLA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Kenapa Pilih SHIOWLA
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://mobile-shiowla.vercel.app/" an-as="">
+                  <a class="footer-category__link" href="https://www.ycit.or.id/penerbit/amp/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -10460,7 +10460,7 @@ try{(new g(100,"r","QSI_S_ZN_eWYlZPQdS1JT1sh","https://znewylzpqds1jt1sh-samsung
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js">
    </script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"SHIOWLA merupakan pusat login resmi WLA dengan 92 pasaran internasional yang sekaligus menawarkan link gacor situs toto togel 4D dengan hadiah paling besar dan gampang menang hari ini. Daftar sekarang untuk akses alternatif terpercaya paling update, pasaran toto macau terlengkap, dan fitur instant deposit cepat via qris hanya 10k rupiah.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"SHIOWLA merupakan pusat login resmi WLA dengan 92 pasaran internasional yang sekaligus menawarkan link gacor situs toto togel 4D dengan hadiah paling besar dan gampang menang hari ini. Daftar sekarang untuk akses alternatif terpercaya paling update, pasaran toto macau terlengkap, dan fitur instant deposit cepat via qris hanya 10k rupiah.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
    </script>
    <style>
     .bobarawr {
@@ -10797,12 +10797,12 @@ try{(new g(100,"r","QSI_S_ZN_eWYlZPQdS1JT1sh","https://znewylzpqds1jt1sh-samsung
             <img src="https://i.imgur.com/cO3Jxob.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://mobile-shiowla.vercel.app/">LOGIN</a>
-                <a href="https://mobile-shiowla.vercel.app/">DAFTAR</a>
+                <a href="https://www.ycit.or.id/penerbit/amp/">LOGIN</a>
+                <a href="https://www.ycit.or.id/penerbit/amp/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
-                SHIOWLA - Pusat WLA Pasaran Internasional Link Gacor Situs Toto Togel 4D Gampang Menang<br/>
+                SHIOWLA: Pusat Pasaran WLA Internasional Link Gacor Situs Toto Togel 4D Gampang Menang<br/>
                 <span style="color: #e0d20b; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 SHIOWLA x SEO SONIC</span>
             </div>
         </div>
