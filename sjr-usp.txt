@@ -6730,7 +6730,7 @@
                         <span>Toggle Nav</span>
                     </span>
                     <a class="logo" href="https://sjr.usp.edu.pk/" title="" aria-label="store logo">
-                        <img src="https://i.imgur.com/ESbHuIE.png" title="" alt="" width="155" height="28">
+                        <img src="https://i.imgur.com/HjXyPvW.gif" title="" alt="" width="155" height="28">
                     </a>
                     <div class="kanmo-middle-header">
                         <div class="navigation-wrapper">
@@ -13101,7 +13101,7 @@ function myFunction() {
                                             </span>
                                             <span>
                                                 <a target="_blank" href="https://sjr.usp.edu.pk/">
-                                                    <img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.imgur.com/ESbHuIE.png" alt="iso logo">
+                                                    <img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.imgur.com/HjXyPvW.gif" alt="iso logo">
                                                 </a>
                                             </span>
                                         </div>
