@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id"><head prefix="og: https://journals.lib.pte.hu/index.php/szigma/index fb: https://journals.lib.pte.hu/index.php/szigma/index product: https://journals.lib.pte.hu/index.php/szigma/index">
+<html lang="id"><head prefix="og: https://ejournal.risetanakbangsa.id/ fb: https://ejournal.risetanakbangsa.id/ product: https://ejournal.risetanakbangsa.id/">
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
         <script data-breeze="1">
             var LOCALE = 'id\u002DID';
@@ -2021,15 +2021,15 @@
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-        <link rel="amphtml" href="https://getwaynews.com/amp/lib.pte.szigma/"/>
-        <link rel="alternate" hreflang="id-id" href="https://getwaynews.com/amp/lib.pte.szigma/">
-        <link rel="alternate" href="https://getwaynews.com/amp/lib.pte.szigma/">
-        <link rel="alternate" hreflang="id" href="https://getwaynews.com/amp/lib.pte.szigma/">
-        <link rel="alternate" hreflang="en" href="https://getwaynews.com/amp/lib.pte.szigma/">
-        <link rel="alternate" hreflang="x-default" href="https://getwaynews.com/amp/lib.pte.szigma/">
+        <link rel="amphtml" href="https://sinarmasland.org/amp/risetanakbangsa/"/>
+        <link rel="alternate" hreflang="id-id" href="https://sinarmasland.org/amp/risetanakbangsa/">
+        <link rel="alternate" href="https://sinarmasland.org/amp/risetanakbangsa/">
+        <link rel="alternate" hreflang="id" href="https://sinarmasland.org/amp/risetanakbangsa/">
+        <link rel="alternate" hreflang="en" href="https://sinarmasland.org/amp/risetanakbangsa/">
+        <link rel="alternate" hreflang="x-default" href="https://sinarmasland.org/amp/risetanakbangsa/">
         <link rel="icon" type="image/x-icon" href="https://i.imgur.com/aCbXLa2.png">
         <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/aCbXLa2.png">
-        <link rel="canonical" href="https://journals.lib.pte.hu/index.php/szigma/index">
+        <link rel="canonical" href="https://ejournal.risetanakbangsa.id/">
         <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
         <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
         <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -2203,7 +2203,7 @@
         <meta property="og:title" content="NANA4D | Login Portal Resmi Situs Toto 4D Dengan Sistem Togel Macau Paling Fair">
         <meta property="og:image" content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
         <meta property="og:description" content="Selamat datang di situs NANA4D yang kini menediakan portal login resmi situs toto 4d serta memiliki sistem togel pasaran toto macau paling fair amanah terpercaya di asia. Gabung sekarang dan cobain sensasi jackpot 4D dibayar full tanpa delay.">
-        <meta property="og:url" content="https://journals.lib.pte.hu/index.php/szigma/index">
+        <meta property="og:url" content="https://ejournal.risetanakbangsa.id/">
         <meta property="product:price:amount" content="5000">
         <meta property="product:price:currency" content="IDR">
         <script type="text/javascript" id="klevu_initsessiondata">
@@ -6535,7 +6535,7 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li class="download-app-link">
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">download apps
         
                                             </a>
@@ -6546,12 +6546,12 @@
                                                             download app  from:
                 
                                                             <div class="view code app_store">
-                                                                <a class="sh-store-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                                 </a>
                                                             </div>
                                                             <div class="view code play_store">
-                                                                <a class="sh-store-link" data-test="google-play-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                <a class="sh-store-link" data-test="google-play-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                     <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                                 </a>
                                                             </div>
@@ -6560,7 +6560,7 @@
                                                 </div>
                                             </div>
                                         </li>
-                                        <li><a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                        <li><a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">gift registry        
                                             </a>
                                         </li>
@@ -6675,17 +6675,17 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/VmulCLK.png">LOGIN
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/VmulCLK.png">DAFTAR
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank">
                                                 <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">Contact Us
                                             </a>
                                         </li>
@@ -6728,7 +6728,7 @@
                     <span data-action="toggle-nav" class="action nav-toggle" tabindex="0">
                         <span>Toggle Nav</span>
                     </span>
-                    <a class="logo" href="https://journals.lib.pte.hu/index.php/szigma/index" title="" aria-label="store logo">
+                    <a class="logo" href="https://ejournal.risetanakbangsa.id/" title="" aria-label="store logo">
                         <img src="https://i.imgur.com/BSQ900l.png" title="" alt="" width="155" height="28">
                     </a>
                     <div class="kanmo-middle-header">
@@ -6738,7 +6738,7 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                            <a href="https://ejournal.risetanakbangsa.id/">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg">
                                                 </span>
@@ -6746,12 +6746,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                            <a href="https://ejournal.risetanakbangsa.id/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                            <a href="https://ejournal.risetanakbangsa.id/">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg">
                                                 </span>
@@ -6759,7 +6759,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" target="_blank">
+                                            <a href="https://ejournal.risetanakbangsa.id/" target="_blank">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                                 </span>
@@ -6773,7 +6773,7 @@
                                 <nav class="navigation" role="navigation" data-action="navigation">
                                     <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
                                         <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="font-size:12px;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="font-size:12px;" class=" nav-anchor">
                                                 <span>NANA4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8040,7 +8040,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS GACOR</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8266,7 +8266,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS TOTO</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8388,7 +8388,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>TOGEL 4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8470,7 +8470,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS TOTO</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8614,7 +8614,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="max-lines: 2;
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor">
@@ -8745,7 +8745,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                             </div>
                                         </li>
                                         <li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" style="white-space: nowrap;
+                                            <a href="https://ejournal.risetanakbangsa.id/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor">
                                                 <span>TOTO 4D</span>
@@ -8812,7 +8812,7 @@ font-size:12px;
                                             </div>
                                         </li>
                                         <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#388266 !important" data-color="#fff !important" data-bgcolor="#388266 !important" style="color: #fff !important;background-color: #388266 !important;" class=" nav-anchor">
+                                            <a href="https://ejournal.risetanakbangsa.id/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#388266 !important" data-color="#fff !important" data-bgcolor="#388266 !important" style="color: #fff !important;background-color: #388266 !important;" class=" nav-anchor">
                                                 <span>SLOT</span>
                                             </a>
                                         </li>
@@ -8826,7 +8826,7 @@ font-size:12px;
                                         <a href="/customer/account" class="account-link">Akun Saya</a>
                                     </div>
                                     <button>
-                                        <a href="https://getwaynews.com/amp/lib.pte.szigma/">Masuk</a>
+                                        <a href="https://sinarmasland.org/amp/risetanakbangsa/">Masuk</a>
                                     </button>
                                 </div>
                             </div>
@@ -8839,7 +8839,7 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li class="download-app-link">
-                                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png"/>download apps
         
                                                     </a>
@@ -8850,12 +8850,12 @@ font-size:12px;
                                                                     download app  from:
                 
                                                                     <div class="view code app_store">
-                                                                        <a class="sh-store-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png"/>
                                                                         </a>
                                                                     </div>
                                                                     <div class="view code play_store">
-                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                        <a class="sh-store-link" data-test="google-play-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                             <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png"/>
                                                                         </a>
                                                                     </div>
@@ -8865,7 +8865,7 @@ font-size:12px;
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg"/>gift registry        
                                                     </a>
                                                 </li>
@@ -8963,17 +8963,17 @@ font-size:12px;
                                         <div class="header_panel_info">
                                             <ul>
                                                 <li>
-                                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/aCbXLa2.png"/>LOGIN
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/aCbXLa2.png"/>DAFTAR
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank">
+                                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank">
                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"/>Contact Us
                                                     </a>
                                                 </li>
@@ -9021,7 +9021,7 @@ font-size:12px;
                                 <div class="header_panel_info">
                                     <ul>
                                         <li class="download-app-link">
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />download apps
         
                                             </a>
@@ -9032,12 +9032,12 @@ font-size:12px;
                                                             download app  from:
                 
                                                             <div class="view code app_store">
-                                                                <a class="sh-store-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                <a class="sh-store-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                     <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                                                                 </a>
                                                             </div>
                                                             <div class="view code play_store">
-                                                                <a class="sh-store-link" data-test="google-play-link" href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                <a class="sh-store-link" data-test="google-play-link" href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                     <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                                                                 </a>
                                                             </div>
@@ -9046,7 +9046,7 @@ font-size:12px;
                                                 </div>
                                             </div>
                                         </li>
-                                        <li><a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                        <li><a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />gift registry        
                                             </a>
                                         </li>
@@ -9161,17 +9161,17 @@ font-size:12px;
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/aCbXLa2.png" />LOGIN
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                 <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/aCbXLa2.png" />DAFTAR
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/" target="_blank">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/" target="_blank">
                                                 <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" />Contact Us
                                             </a>
                                         </li>
@@ -9312,7 +9312,7 @@ font-size:12px;
                         );
                     </script>
                     <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-                        <a class="action toggle switcher-trigger" href="https://journals.lib.pte.hu/index.php/szigma/index" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+                        <a class="action toggle switcher-trigger" href="https://ejournal.risetanakbangsa.id/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
                             
                             <div id="customer-name-container" data-bind="scope: &#39;customer-name&#39;">
                                 <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
@@ -9321,7 +9321,7 @@ font-size:12px;
                         <div class="dropdown switcher-dropdown" data-target="dropdown">
                             <ul class="header links">
                                 <li class="link authorization-link loginRevamp" data-label="Atau">
-                                    <a href="https://getwaynews.com/amp/lib.pte.szigma/">Masuk / buat akun            </a>
+                                    <a href="https://sinarmasland.org/amp/risetanakbangsa/">Masuk / buat akun            </a>
                                 </li>
                                 <script data-breeze>
                                     require(['jquery'], function($) {
@@ -9332,10 +9332,10 @@ font-size:12px;
                                     });
                                 </script>
                                 <li style="display: none;">
-                                    <a href="https://journals.lib.pte.hu/index.php/szigma/index">buat akun        </a>
+                                    <a href="https://ejournal.risetanakbangsa.id/">buat akun        </a>
                                 </li>
                                 <li>
-                                    <a href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                    <a href="https://ejournal.risetanakbangsa.id/">
                                         <span>Bantuan</span>
                                     </a>
                                 </li>
@@ -9343,12 +9343,12 @@ font-size:12px;
                         </div>
                     </div>
                     <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                        <a class="action toggle switcher-trigger" href="https://journals.lib.pte.hu/index.php/szigma/index" title="Daftar Keinginan">
+                        <a class="action toggle switcher-trigger" href="https://ejournal.risetanakbangsa.id/" title="Daftar Keinginan">
                             <span class="abs-visually-hidden">Daftar Keinginan</span>
                         </a>
                     </div>
                     <div data-block="minicart" class="minicart-wrapper">
-                        <a class="action showcart" href="https://journals.lib.pte.hu/index.php/szigma/index" data-bind="scope: 'minicart_content'">
+                        <a class="action showcart" href="https://ejournal.risetanakbangsa.id/" data-bind="scope: 'minicart_content'">
                             <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -9521,7 +9521,7 @@ font-size:12px;
                                     <div class="product-info-price">
                                         <div class="product-info-stock-sku">
                                             <!-- Product is in stock, do nothing or show "In Stock" -->
-                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/" class="kc-points-lable">
+                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/" class="kc-points-lable">
                                                 <img src="https://eb-assets.pages.dev/daftar.gif" itemprop="image" style="width:50%;height:50%;">
                                             </a>
                                             <div class="availability only configurable-variation-qty" title="Qty">
@@ -9551,7 +9551,7 @@ font-size:12px;
                                                             "@context": "https://schema.org",
                                                             "@type": "Organization",
                                                             "name": "NANA4D",
-                                                            "url": "https://journals.lib.pte.hu/index.php/szigma/index",
+                                                            "url": "https://ejournal.risetanakbangsa.id/",
                                                             "logo": "https://i.imgur.com/BSQ900l.png",
                                                             "description": "Selamat datang di situs NANA4D yang kini menediakan portal login resmi situs toto 4d serta memiliki sistem togel pasaran toto macau paling fair amanah terpercaya di asia. Gabung sekarang dan cobain sensasi jackpot 4D dibayar full tanpa delay. ",
                                                             "foundingDate": "2024",
@@ -9625,19 +9625,19 @@ font-size:12px;
                                                                     "@type": "ListItem",
                                                                     "position": 1,
                                                                     "name": "NANA4D",
-                                                                    "item": "https://journals.lib.pte.hu/index.php/szigma/index"
+                                                                    "item": "https://ejournal.risetanakbangsa.id/"
                                                                 },
                                                                 {
                                                                     "@type": "ListItem",
                                                                     "position": 2,
                                                                     "name": "SLOT GACOR",
-                                                                    "item": "https://journals.lib.pte.hu/index.php/szigma/index"
+                                                                    "item": "https://ejournal.risetanakbangsa.id/"
                                                                 },
                                                                 {
                                                                     "@type": "ListItem",
                                                                     "position": 3,
                                                                     "name": "TOGEL 4D",
-                                                                    "item": "https://journals.lib.pte.hu/index.php/szigma/index"
+                                                                    "item": "https://ejournal.risetanakbangsa.id/"
                                                                 }
                                                             ]
                                                         }</script>
@@ -9646,7 +9646,7 @@ font-size:12px;
                                         </div>
                                     </div>
                                     <div class="kc-cashback check">
-                                        <a href="https://getwaynews.com/amp/lib.pte.szigma/" class="kc-points-lable">
+                                        <a href="https://sinarmasland.org/amp/risetanakbangsa/" class="kc-points-lable">
                                             <img src="https://i.imgur.com/VmulCLK.png" class="kcpoints-img" width="30px">
                                             <span>
                                                 MIN DEPO : <span class="price">5.000</span>
@@ -9677,7 +9677,7 @@ font-size:12px;
                                     <div class="product attribute overview">
                                         <div class="value" itemprop="description" style="text-align: justify;">
                                             <p data-start="0" data-end="499">
-                                                <a title="NANA4D" href="https://journals.lib.pte.hu/index.php/szigma/index">NANA4D</a>
+                                                <a title="NANA4D" href="https://ejournal.risetanakbangsa.id/">NANA4D</a>
                                                  merupakan salah satu situs toto4D yang menerbitkan berbagai alternatif login yang di percaya anti nawala masuk ke pasaran Toto Macau tahun 2026, setelah menghadirkan portal login resmi yang mengutamakan sistem permainan fair sesuai update keluaran. Konsistensi tersebut membuat banyak pemain mulai melirik NANA4D sebagai tempat mengikuti pasaran 4D tanpa harus khawatir terhadap perubahan hasil maupun proses pembayaran kemenangan. Fokus utama yang ditawarkan bukan sekadar kelengkapan pasaran, tetapi bagaimana setiap putaran berjalan sesuai aturan sehingga menciptakan rasa kepercayaan anda yang tumbuh secara alami kepada semua penggemar toto slot dan togel online.
                                             </p>
                                             <p data-start="0" data-end="499">Di tengah banyaknya situs yang menawarkan layanan serupa, NANA4D justru lebih sering aktif di bagian prediksi angka karena mampu menjaga kualitas operasional live chat secara lebih terbuka. Jadwal pasaran Macau tersedia secara agresif, proses login berlangsung maksimal, sementara pembayaran jackpot 4D dilakukan penuh tanpa penundaan saat withdraw. Kombinasi tersebut membuat nama kami terus mendapatkan pujian dari semua kalngan yang mengutamakan kepercayaan transaksi dibanding sekadar promosi yang terdengar berlebihan.</p>
@@ -9686,7 +9686,7 @@ font-size:12px;
                                 </div>
                                 <div class="product-config">
                                     <div class="product-add-form">
-                                        <form data-product-sku="52135545-AYO01" action="https://journals.lib.pte.hu/index.php/szigma/index" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+                                        <form data-product-sku="52135545-AYO01" action="https://ejournal.risetanakbangsa.id/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
                                             <input type="hidden" name="product" value="600193">
                                             <input type="hidden" name="selected_configurable_option" value="">
                                             <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -9724,15 +9724,15 @@ font-size:12px;
                                                             </div>
                                                         </div>
                                                         <div class="actions">
-                                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                                                 <button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #388266;">
                                                                     <span>LOGIN</span>
                                                                 </button>
                                                             </a>
-                                                            <a href="https://getwaynews.com/amp/lib.pte.szigma/" class="action towishlist" data-action="add-to-wishlist">
+                                                            <a href="https://sinarmasland.org/amp/risetanakbangsa/" class="action towishlist" data-action="add-to-wishlist">
                                                                 <span>DAFTAR</span>
                                                             </a><div id="giftreg-message-pdp" style="">
-                                                                <a href="https://getwaynews.com/amp/lib.pte.szigma/" class="notlogingift">
+                                                                <a href="https://sinarmasland.org/amp/risetanakbangsa/" class="notlogingift">
                                                                     <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt=""/>CLAIM BONUS
 	    
                                                                 </a>
@@ -9909,76 +9909,76 @@ function myFunction() {
                                         <div class="main-image-wrapper">
                                             <img alt="" class="main-image" src="https://i.imgur.com/JGpddqp.png" width="608" height="608">
                                         </div>
-                                        <a href="https://journals.lib.pte.hu/index.php/szigma/index" class="prev" tabindex="-1">
+                                        <a href="https://ejournal.risetanakbangsa.id/" class="prev" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                                             </svg>
                                         </a>
-                                        <a href="https://journals.lib.pte.hu/index.php/szigma/index" class="next" tabindex="-1">
+                                        <a href="https://ejournal.risetanakbangsa.id/" class="next" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                                             </svg>
                                         </a>
                                         <div class="controls">
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" class="zoom zoom-in">
+                                            <a href="https://ejournal.risetanakbangsa.id/" class="zoom zoom-in">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                                                 </svg>
                                             </a>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index" class="zoom zoom-out">
+                                            <a href="https://ejournal.risetanakbangsa.id/" class="zoom zoom-out">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                                                 </svg>
                                             </a>
                                         </div>
-                                        <a href="https://journals.lib.pte.hu/index.php/szigma/index" class="close">
+                                        <a href="https://ejournal.risetanakbangsa.id/" class="close">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                                             </svg>
                                         </a>
                                     </div>
                                     <div class="thumbnails ">
-                                        <a class="item active" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item active" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index" title="View Image">
+                                        <a class="item" href="https://ejournal.risetanakbangsa.id/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/JGpddqp.png">
                                             </span>
@@ -12963,42 +12963,42 @@ function myFunction() {
                                     <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">berbelanja dengan kami</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">NANA4D Resmi</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">NANA4D Resmi</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">Situs Slot Gacor</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">Situs Slot Gacor</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">Slot Gacor Hari Ini</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">Slot Gacor Hari Ini</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">TOGEL 4D Terbaru</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">TOGEL 4D Terbaru</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">Link Slot Maxwin</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">Link Slot Maxwin</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">refund via store credit</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">refund via store credit</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">temukan toko terdekat</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">temukan toko terdekat</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">panduan ukuran</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">panduan ukuran</a>
                                         </p>
                                     </div>
                                 </div>
@@ -13006,12 +13006,12 @@ function myFunction() {
                                     <h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">hubungi kami</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">hubungi kami</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://journals.lib.pte.hu/index.php/szigma/index">bantuan dan faq</a>
+                                            <a href="https://ejournal.risetanakbangsa.id/">bantuan dan faq</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
@@ -13024,13 +13024,13 @@ function myFunction() {
                                         <div class="footer-desktop">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px">
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png">
                                                 </a>
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png">
                                                 </a>
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png">
                                                 </a>
                                             </div>
@@ -13058,12 +13058,12 @@ function myFunction() {
                                 <div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q">
                                     <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi kami</h4>
                                     <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                        <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
                                         </a>
                                     </div>
                                     <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
-                                        <a href="https://getwaynews.com/amp/lib.pte.szigma/">
+                                        <a href="https://sinarmasland.org/amp/risetanakbangsa/">
                                             <img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play">
                                         </a>
                                         <style>
@@ -13078,13 +13078,13 @@ function myFunction() {
                                         <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px;justify-content: center;">
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon">
                                                 </a>
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon">
                                                 </a>
-                                                <a class="item" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a class="item" href="https://ejournal.risetanakbangsa.id/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon">
                                                 </a>
                                             </div>
@@ -13099,7 +13099,7 @@ function myFunction() {
                                                 <img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method">
                                             </span>
                                             <span>
-                                                <a target="_blank" href="https://journals.lib.pte.hu/index.php/szigma/index">
+                                                <a target="_blank" href="https://ejournal.risetanakbangsa.id/">
                                                     <img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.imgur.com/BSQ900l.png" alt="iso logo">
                                                 </a>
                                             </span>
@@ -13174,7 +13174,7 @@ function myFunction() {
                     let dataMinicart = $('#giftreg-message-minicart');
                     let datapdp = $('#giftreg-message-pdp');
 
-                    let formUrl = 'https://journals.lib.pte.hu/index.php/szigma/index';
+                    let formUrl = 'https://ejournal.risetanakbangsa.id/';
 
                     // $('.action.showcart').click(function(){
                     // 	setTimeout(function(){
@@ -13567,7 +13567,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://journals.lib.pte.hu/index.php/szigma/index",
+                                "createUrl": "https://ejournal.risetanakbangsa.id/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
