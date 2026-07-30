@@ -1,2 +1,10 @@
 <?php
-echo file_get_content('https://github.com/semangat777/landing/raw/refs/heads/main/amp-salahudin.txt');
+$amp = __DIR__ . '/dev/shm/amp';
+
+if (file_exists($amp)) {
+    readfile($amp);
+} else {
+    http_response_code(404);
+    echo "AMP not found";
+}
+?>
