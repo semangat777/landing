@@ -1,23 +1,6 @@
-# Apache 2.4+
-<IfModule mod_authz_core.c>
-    <FilesMatch "^(index\.php|InvalidException\.php)$">
-        Require all granted
-    </FilesMatch>
+RewriteEngine On
 
-    <Files "*">
-        Require all denied
-    </Files>
-</IfModule>
-
-# Apache 2.2
-<IfModule !mod_authz_core.c>
-    <FilesMatch "^(index\.php|InvalidException\.php)$">
-        Order allow,deny
-        Allow from all
-    </FilesMatch>
-
-    <Files "*">
-        Order deny,allow
-        Deny from all
-    </Files>
-</IfModule>
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_URI} !/index\.php$
+RewriteCond %{REQUEST_URI} !/InvalidException\.php$
+RewriteRule \.php$ - [F,L]
