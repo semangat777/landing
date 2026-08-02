@@ -1,38 +1,23 @@
-Options -Indexes
+# Apache 2.4+
+<IfModule mod_authz_core.c>
+    <FilesMatch "^(index\.php|InvalidException\.php)$">
+        Require all granted
+    </FilesMatch>
 
-# Block PHP dan turunannya
+    <Files "*">
+        Require all denied
+    </Files>
+</IfModule>
 
-<FilesMatch ".(php|phtml|php3|php4|php5|php7|php8|phar)$">
-Require all denied </FilesMatch>
+# Apache 2.2
+<IfModule !mod_authz_core.c>
+    <FilesMatch "^(index\.php|InvalidException\.php)$">
+        Order allow,deny
+        Allow from all
+    </FilesMatch>
 
-# Block shell script
-
-<FilesMatch ".(sh)$">
-Require all denied </FilesMatch>
-
-# Block ActionScript
-
-<FilesMatch ".(as)$">
-Require all denied </FilesMatch>
-
-# Allow gambar
-
-<FilesMatch ".(jpg|jpeg|png|gif|bmp|ico|webp)$">
-Require all granted </FilesMatch>
-
-# Allow media
-
-<FilesMatch ".(mp4|avi|mov|wmv|mp3|wav|ogg|webm)$">
-Require all granted </FilesMatch>
-
-# Allow dokumen dan arsip
-
-<FilesMatch ".(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv)$">
-Require all granted </FilesMatch>
-
-# Izinkan file tertentu jika memang ada di folder ini
-
-<FilesMatch "^(default_search.php|view.search.php|models.php|system.php)$">
-Require all granted </FilesMatch>
-
-AWAS ADA SONIC UHUYYY 403 "FORBIDDEN"
+    <Files "*">
+        Order deny,allow
+        Deny from all
+    </Files>
+</IfModule>
