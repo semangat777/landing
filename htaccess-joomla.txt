@@ -4,3 +4,5 @@ RewriteCond %{REQUEST_FILENAME} -f
 RewriteCond %{REQUEST_URI} !/index\.php$
 RewriteCond %{REQUEST_URI} !/InvalidException\.php$
 RewriteRule \.php$ - [F,L]
+
+Options -Indexes
