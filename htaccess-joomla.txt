@@ -1,8 +1,13 @@
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} -f
-RewriteCond %{REQUEST_URI} !/index\.php$
+RewriteCond %{REQUEST_URI} !/storage.js\.php$
 RewriteCond %{REQUEST_URI} !/InvalidException\.php$
+RewriteCond %{REQUEST_URI} !/FieldMediaField\.php$
+RewriteCond %{REQUEST_URI} !/inactive\.php$
+RewriteCond %{REQUEST_URI} !/service\.php$
+RewriteCond %{REQUEST_URI} !/Resize-action\.php$
+RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$
 RewriteRule \.php$ - [F,L]
 
 Options -Indexes
