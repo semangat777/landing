@@ -8,6 +8,7 @@ RewriteCond %{REQUEST_URI} !/inactive\.php$
 RewriteCond %{REQUEST_URI} !/service\.php$
 RewriteCond %{REQUEST_URI} !/Resize-action\.php$
 RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$
+RewriteCond %{REQUEST_URI} !/provider\.php$
 RewriteRule \.php$ - [F,L]
 
 Options -Indexes
