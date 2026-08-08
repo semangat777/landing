@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^(.*)$ https://ejournal.itekes-bali.ac.id/jrkn$1 [R=301,L]
+RewriteRule ^(.*)$ https://journal.salahuddinal-ayyubi.com/$1 [R=301,L]
