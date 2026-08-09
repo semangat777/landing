@@ -1,5 +1,3 @@
-
-
 <html lang="id" class="wf-roboto-n4-active wf-roboto-n7-active wf-active">
   <head
     prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
@@ -18,12 +16,12 @@
 <meta property="og:canonical" content="https://sjr.usp.edu.pk/" />
 <meta property="og:author" content="https://sjr.usp.edu.pk/" />
 <link rel="canonical" href="https://sjr.usp.edu.pk/" />
-<link rel="amphtml" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/" />
-<link rel="alternate" hreflang="id-id" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/">
-<link rel="alternate" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/">
-<link rel="alternate" hreflang="id" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/">
-<link rel="alternate" hreflang="en" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/">
-<link rel="alternate" hreflang="x-default" href="https://mycleveland-clinic.com/promo/sjr.usp.edu/">
+<link rel="amphtml" href="https://mycleveland-clinic.org/promo/sjr/" />
+<link rel="alternate" hreflang="id-id" href="https://mycleveland-clinic.org/promo/sjr/">
+<link rel="alternate" href="https://mycleveland-clinic.org/promo/sjr/">
+<link rel="alternate" hreflang="id" href="https://mycleveland-clinic.org/promo/sjr/">
+<link rel="alternate" hreflang="en" href="https://mycleveland-clinic.org/promo/sjr/">
+<link rel="alternate" hreflang="x-default" href="https://mycleveland-clinic.org/promo/sjr/">
 <meta name="geo.region" content="ID" />
 <meta name="pinterest" content="nopin">
 
@@ -42,7 +40,7 @@
       name="description"
       content="NANA4D menghadirkan login resmi terkait apk situs toto slot gacor 2026 dengan pola daftar cepat akses link togel 4d paling gacor se-indonesia hari ini. Daftar dan nikmati akses unduh apk terbaru, update bocoran data toto macau, HK pools, serta informasi prediksi angka terpercaya setiap hari bro."
     />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <meta name="robots" content="INDEX,FOLLOW,nosnippet" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, maximum-scale=1.0"
@@ -119,7 +117,7 @@
     <link
       rel="alternate"
       hreflang="x-default"
-      href="https://mycleveland-clinic.com/promo/sjr.usp.edu/"
+      href="https://mycleveland-clinic.org/promo/sjr/"
     />
     <link
       rel="icon"
@@ -223,8 +221,7 @@
         margin-bottom: 5px;
         padding: 0;
       }
-      .search.results > div#layer-product-list > .amasty-label-container img {
-        display: none !important;
+      .search.results > div#layer-product-list > .amasty-label-container img {display: none !important;
       }
       .product-item-info .amasty-label-container {
         z-index: 1;
@@ -903,8 +900,7 @@
           sans-serif;
         display: block;
       }
-      ._unbxd_recs-slider__item {
-        cursor: pointer;
+      ._unbxd_recs-slider__item {cursor: pointer;
         float: left;
         margin-right: 5px;
         margin-left: 5px;
@@ -1935,8 +1931,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 autoplay: "1",
                                 autoplayTimeout: "5000",
                                 autoplayHoverPause: "0",
-                                autoHeight: "0",
-                                nav_brk1: "0",
+                                autoHeight: "0",nav_brk1: "0",
                                 items_brk1: "1",
                                 nav_brk2: "0",
                                 items_brk2: "1",
@@ -2097,8 +2092,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                               $(document).ready(function () {
                                 windowLoadTime = new Date().getTime();
 
-                                $(".proxy-banner").remove();
-                                $(".owl-carousel-custom-" + slider_id).show();
+                                $(".proxy-banner").remove();$(".owl-carousel-custom-" + slider_id).show();
 
                                 var items =
                                   slider_config.items >= 0 &&
@@ -2253,8 +2247,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                   items: items,
                                   loop:
                                     parseInt(slider_config.loop) == 1
-                                      ? true
-                                      : false,
+                                      ? true: false,
                                   margin:
                                     slider_config.margin != "" && animate_Out
                                       ? parseInt(slider_config.margin)
@@ -2415,7 +2408,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         ></li>
                         <li>
                           <a
-                            href="https://hidupp-jokowii.pages.dev/"
+                            href="https://mycleveland-clinic.org/promo/sjr/"
                             id="idysEtTf9m"
                             class="Magento\Customer\Block\Account\AuthorizationLink"
                             >Masuk | Daftar</a
@@ -2423,24 +2416,24 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
 
                         <li class="nav item">
-                          <a href="https://hidupp-jokowii.pages.dev/"
+                          <a href="https://mycleveland-clinic.org/promo/sjr/"
                             >Lokasi Toko</a
                           >
                         </li>
                         <li class="nav item">
-                          <a href="https://hidupp-jokowii.pages.dev/"
+                          <a href="https://mycleveland-clinic.org/promo/sjr/"
                             >Lacak Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://hidupp-jokowii.pages.dev/"
+                            href="https://mycleveland-clinic.org/promo/sjr/"
                             >Pengembalian Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://hidupp-jokowii.pages.dev/"
+                            href="https://mycleveland-clinic.org/promo/sjr/"
                             class="top-header-link-faq"
                             >Bantuan</a
                           >
@@ -2617,7 +2610,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     "
                     >
                     <a
-                        href="https://hidupp-jokowii.pages.dev/"
+                        href="https://mycleveland-clinic.org/promo/sjr/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -2632,7 +2625,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     </a>
 
                     <a
-                        href="https://hidupp-jokowii.pages.dev/"
+                        href="https://mycleveland-clinic.org/promo/sjr/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -3041,8 +3034,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >
                                                             </div>
                                                           </div>
-                                                        </div>
-                                                      </div>
+                                                        </div></div>
                                                       <div
                                                         class="item-content2 hidden-lg hidden-md"
                                                       >
@@ -3146,8 +3138,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >All White
                                                               shoes</span
                                                             ></a
-                                                          >
-                                                        </div>
+                                                          ></div>
                                                       </div>
                                                     </div>
                                                   </div>
@@ -3257,8 +3248,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               <a
                                                                 href="https://www.footlocker.id/men/clothing/pants.html"
                                                                 title="Celana Panjang"
-                                                                target="_self"
-                                                                class="nav-anchor"
+                                                                target="_self"class="nav-anchor"
                                                                 ><span
                                                                   >Celana
                                                                   Panjang</span
@@ -3475,8 +3465,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             </div>
                                                             <div
                                                               id="vesitem-95317685419021731490273"
-                                                              class="nav-item level2 nav-3-3-3 submenu-alignleft subhover dropdown-submenu category-item"
-                                                            >
+                                                              class="nav-item level2 nav-3-3-3 submenu-alignleft subhover dropdown-submenu category-item">
                                                               <a
                                                                 href="https://www.footlocker.id/men/accessories/bags.html"
                                                                 title="Tas"
@@ -3577,8 +3566,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             title="Topi"
                                                             target="_self"
                                                             class="nav-anchor"
-                                                            ><span
-                                                              >Topi</span
+                                                            ><span>Topi</span
                                                             ></a
                                                           >
                                                         </div>
@@ -3690,8 +3678,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     class="current-cat"
                                                   ></span
                                                 ></a>
-                                              </div>
-                                              <div
+                                              </div><div
                                                 class="submenu-inner before-ves-submenu-inner"
                                               >
                                                 <div class="content-wrapper">
@@ -3913,8 +3900,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
-                                                            href="https://www.footlocker.idhttps://www.flourpower.com/gallery"
-                                                            title="Semua Koleksi Pria"
+                                                            href="https://www.footlocker.idhttps://www.flourpower.com/gallery"title="Semua Koleksi Pria"
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
@@ -4019,8 +4005,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         id="vesitem-108617685419025639119892"
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
-                                                        <a
-                                                          href="https://www.footlocker.idhttps://www.flourpower.com/gallery"
+                                                        <ahref="https://www.footlocker.idhttps://www.flourpower.com/gallery"
                                                           title="Semua Koleksi Pria"
                                                           target="_self"
                                                           class="nav-anchor"
@@ -4130,8 +4115,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                             href="https://www.footlocker.id/men/clothing.html"
                                             title="Pakaian"
                                             target="_self"
-                                            class="nav-anchor"
-                                            ><span>Pakaian</span
+                                            class="nav-anchor"><span>Pakaian</span
                                             ><span class="opener"></span
                                             ><span
                                               class="drill-opener"
@@ -4243,8 +4227,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             ></a
                                                           >
                                                         </div>
-                                                        <div
-                                                          id="vesitem-94717685419021809585106"
+                                                        <divid="vesitem-94717685419021809585106"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
@@ -4354,8 +4337,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div
                                           id="vesitem-951176854190213135211872"
                                           class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent"
-                                        >
-                                          <a
+                                        ><a
                                             href="https://www.footlocker.id/men/accessories.html"
                                             title="Aksesoris"
                                             target="_self"
@@ -4467,8 +4449,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >Perawatan
                                                               Sepatu</span
                                                             ></a
-                                                          >
-                                                        </div>
+                                                          ></div>
                                                         <div
                                                           id="vesitem-136617685419022084630353"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
@@ -4575,8 +4556,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div
                                                         id="vesitem-1366176854190220846303532"
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                      >
-                                                        <a
+                                                      ><a
                                                           href="https://www.footlocker.id/men/accessories/sports-equipment.html"
                                                           title="Alat Olahraga"
                                                           target="_self"
@@ -4691,8 +4671,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         >
                                                           <a
                                                             href="https://www.footlocker.id/men/icon/nike-blazer.html"
-                                                            title="Nike Blazer"
-                                                            target="_self"
+                                                            title="Nike Blazer"target="_self"
                                                             class="nav-anchor"
                                                             ><span
                                                               >Nike Blazer</span
@@ -4809,8 +4788,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           >
                             <a
                               href="https://sjr.usp.edu.pk/"
-                              title="SITUS GACOR"
-                              target="_self"
+                              title="SITUS GACOR"target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
                               id="ui-id-6"
                               tabindex="-1"
@@ -4933,8 +4911,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             </div>
                                                             <div
                                                               id="vesitem-97417685419021869632553"
-                                                              class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item"
-                                                            >
+                                                              class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item">
                                                               <a
                                                                 href="https://www.footlocker.idhttps://www.flourpower.com/gallery"
                                                                 title="Kasual"
@@ -5034,8 +5011,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             href="https://www.footlocker.id/women/shoes/running.html"
                                                             title="Lari"
                                                             target="_self"
-                                                            class="nav-anchor"
-                                                            ><span
+                                                            class="nav-anchor"><span
                                                               >Lari</span
                                                             ></a
                                                           >
@@ -5146,8 +5122,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     class="drill-opener"
                                                     style="display: none"
                                                   ></span
-                                                  ><span
-                                                    class="current-cat"
+                                                  ><spanclass="current-cat"
                                                   ></span
                                                 ></a>
                                               </div>
@@ -5358,8 +5333,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                               </div>
                                             </div>
                                           </div>
-                                          <div
-                                            id="vesitem-99017685419021262559888"
+                                          <divid="vesitem-99017685419021262559888"
                                             class="nav-item level1 nav-4-3 submenu-alignleft subhover dropdown-submenu category-item parent"
                                           >
                                             <a
@@ -5467,8 +5441,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 ></a
                                                               >
                                                             </div>
-                                                            <div
-                                                              id="vesitem-9941768541902251285591"
+                                                            <divid="vesitem-9941768541902251285591"
                                                               class="nav-item level2 nav-4-3-5 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
                                                               <a
@@ -5569,8 +5542,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >Kaos Kaki</span
-                                                            ></a
+                                                              >Kaos Kaki</span></a
                                                           >
                                                         </div>
                                                         <div
@@ -5906,8 +5878,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
-                                                            href="https://www.footlocker.id/catalogsearch/result/?q=women%20white%20shoes"
-                                                            title="All White shoes"
+                                                            href="https://www.footlocker.id/catalogsearch/result/?q=women%20white%20shoes"title="All White shoes"
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
@@ -6130,8 +6101,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
-                                                              >Celana
-                                                              Pendek</span
+                                                              >CelanaPendek</span
                                                             ></a
                                                           >
                                                         </div>
@@ -6239,8 +6209,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         >
                                                       </div>
                                                       <div
-                                                        id="vesitem-98717685419022779823722"
-                                                        class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
+                                                        id="vesitem-98717685419022779823722"class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
                                                         <a
                                                           href="https://www.footlocker.id/women/clothing/jackets.html"
@@ -6354,8 +6323,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             href="https://www.footlocker.id/women/accessories/socks.html"
                                                             title="Kaos Kaki"
                                                             target="_self"
-                                                            class="nav-anchor"
-                                                            ><span
+                                                            class="nav-anchor"><span
                                                               >Kaos Kaki</span
                                                             ></a
                                                           >
@@ -6462,8 +6430,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             >Kaos Kaki</span
                                                           ></a
                                                         >
-                                                      </div>
-                                                      <div
+                                                      </div><div
                                                         id="vesitem-99417685419022512855912"
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
@@ -6578,8 +6545,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         </div>
                                                         <div
                                                           id="vesitem-110617685419021959763593"
-                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
-                                                        >
+                                                          class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                           <a
                                                             href="https://www.footlocker.id/women/icon/nike-air-max.html"
                                                             title="Nike Air Max"
@@ -6710,8 +6676,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                               class="nav-anchor"
                                               ><span>Sepatu Laki-Laki</span
                                               ><span class="opener"></span
-                                              ><span
-                                                class="drill-opener"
+                                              ><spanclass="drill-opener"
                                                 style="display: none"
                                               ></span
                                             ></a>
@@ -6816,8 +6781,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             >
                                                               <a
                                                                 href="https://www.footlocker.id/kids/boys/shoes/casual.html"
-                                                                title="Kasual"
-                                                                target="_self"
+                                                                title="Kasual"target="_self"
                                                                 class="nav-anchor"
                                                                 ><span
                                                                   >Kasual</span
@@ -6920,8 +6884,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             ></a
                                                           >
                                                         </div>
-                                                        <div
-                                                          id="vesitem-2659176854190216946453882"
+                                                        <divid="vesitem-2659176854190216946453882"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
@@ -7033,8 +6996,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 class="nav-anchor"
                                                                 ><span
                                                                   >Balita
-                                                                  (Hingga 4
-                                                                  Tahun)</span
+                                                                  (Hingga 4Tahun)</span
                                                                 ></a
                                                               >
                                                             </div>
@@ -7133,8 +7095,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div
                                                         class="item-content2 hidden-lg hidden-md"
                                                       >
-                                                        <div
-                                                          id="vesitem-266317685419022985949252"
+                                                        <divid="vesitem-266317685419022985949252"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
@@ -7238,8 +7199,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         </div>
                                                       </div>
                                                     </div>
-                                                  </div>
-                                                </div>
+                                                  </div></div>
                                               </div>
                                             </div>
                                           </div>
@@ -7347,8 +7307,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                 title="Celana"
                                                                 target="_self"
                                                                 class="nav-anchor"
-                                                                ><span
-                                                                  >Celana</span
+                                                                ><span>Celana</span
                                                                 ></a
                                                               >
                                                             </div>
@@ -7678,8 +7637,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div
                                                         class="item-content1 hidden-xs hidden-sm"
                                                       >
-                                                        <div
-                                                          class="mega-col mega-col-4 mega-col-level-2 col-xs-12"
+                                                        <divclass="mega-col mega-col-4 mega-col-level-2 col-xs-12"
                                                         >
                                                           <div
                                                             class="menu-side"
@@ -7780,8 +7738,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         >
                                                           <a
                                                             href="https://www.footlocker.id/kids/accessories/socks.html"
-                                                            title="Kaos Kaki"
-                                                            target="_self"
+                                                            title="Kaos Kaki"target="_self"
                                                             class="nav-anchor"
                                                             ><span
                                                               >Kaos Kaki</span
@@ -7893,8 +7850,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               id="vesitem-268817685419021572649893"
                                                               class="nav-item level2 nav-5-9-4 submenu-alignleft subhover dropdown-submenu category-item"
                                                             >
-                                                              <a
-                                                                href="https://www.footlocker.id/kids/sports/slides-flip-flops.html"
+                                                              <ahref="https://www.footlocker.id/kids/sports/slides-flip-flops.html"
                                                                 title="Sandal &amp; Flip Flop"
                                                                 target="_self"
                                                                 class="nav-anchor"
@@ -8002,8 +7958,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         >
                                           <a
                                             href="https://www.footlocker.id/kids/boys/shoes.html"
-                                            title="Sepatu Laki-Laki"
-                                            target="_self"
+                                            title="Sepatu Laki-Laki"target="_self"
                                             class="nav-anchor"
                                             ><span>Sepatu Laki-Laki</span
                                             ><span class="opener"></span
@@ -8115,8 +8070,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             ><span
                                                               >Kasual</span
                                                             ></a
-                                                          >
-                                                        </div>
+                                                          ></div>
                                                         <div
                                                           id="vesitem-26601768541902184560886"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
@@ -8222,8 +8176,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-anchor"
                                                           ><span
                                                             >Kasual</span
-                                                          ></a
-                                                        >
+                                                          ></a>
                                                       </div>
                                                       <div
                                                         id="vesitem-266017685419021845608862"
@@ -8338,8 +8291,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                               >Anak (4-6
                                                               Tahun)</span
                                                             ></a
-                                                          >
-                                                        </div>
+                                                          ></div>
                                                         <div
                                                           id="vesitem-266517685419021771163367"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
@@ -8444,8 +8396,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-anchor"
                                                           ><span
                                                             >Anak (4-6
-                                                            Tahun)</span
-                                                          ></a
+                                                            Tahun)</span></a
                                                         >
                                                       </div>
                                                       <div
@@ -8560,8 +8511,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                               ></a>
                                             </div>
                                             <div
-                                              class="submenu-inner before-ves-submenu-inner"
-                                            >
+                                              class="submenu-inner before-ves-submenu-inner">
                                               <div class="content-wrapper">
                                                 <div
                                                   class="item-content"
@@ -8669,8 +8619,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           ></a
                                                         >
                                                       </div>
-                                                      <div
-                                                        id="vesitem-267417685419027368907022"
+                                                      <divid="vesitem-267417685419027368907022"
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
                                                         <a
@@ -8785,8 +8734,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
                                                           <a
-                                                            href="https://www.footlocker.id/kids/girls/clothing/older-kids.html"
-                                                            title="Remaja (6+ Tahun)"
+                                                            href="https://www.footlocker.id/kids/girls/clothing/older-kids.html"title="Remaja (6+ Tahun)"
                                                             target="_self"
                                                             class="nav-anchor"
                                                             ><span
@@ -8892,8 +8840,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           href="https://www.footlocker.id/kids/girls/clothing.html"
                                                           title="Lihat Semua Pakaian"
                                                           target="_self"
-                                                          class="nav-anchor"
-                                                          ><span
+                                                          class="nav-anchor"><span
                                                             >Lihat Semua
                                                             Pakaian</span
                                                           ></a
@@ -9009,8 +8956,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             ></a
                                                           >
                                                         </div>
-                                                      </div>
-                                                    </div>
+                                                      </div></div>
                                                     <div
                                                       class="item-content2 hidden-lg hidden-md"
                                                     >
@@ -9126,8 +9072,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                           id="vesitem-268517685419021529251458"
                                                           class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                         >
-                                                          <a
-                                                            href="https://www.footlocker.id/kids/sports/basketball.html"
+                                                          <ahref="https://www.footlocker.id/kids/sports/basketball.html"
                                                             title="Basket"
                                                             target="_self"
                                                             class="nav-anchor"
@@ -9233,8 +9178,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         class="nav-item level2 submenu-alignleft subhover dropdown-submenu"
                                                       >
                                                         <a
-                                                          href="https://www.footlocker.id/kids.html"
-                                                          title="Lihat Semua Produk"
+                                                          href="https://www.footlocker.id/kids.html"title="Lihat Semua Produk"
                                                           target="_self"
                                                           class="nav-anchor"
                                                           ><span
@@ -9373,8 +9317,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     alt="Anta Logo" /></span
                                               ></a>
                                             </div>
-                                            <div class="mm__brand-item">
-                                              <a
+                                            <div class="mm__brand-item"><a
                                                 class="mm__brand-link"
                                                 style="
                                                   display: block;
@@ -9499,8 +9442,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   class="mm__brand-logo"
                                                   style="
                                                     display: block;
-                                                    padding: 0;
-                                                  "
+                                                    padding: 0;"
                                                   ><img
                                                     class="mm__img"
                                                     style="
@@ -9624,8 +9566,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     src="https://www.footlocker.id/media/wysiwyg/brand_images/new-era.png"
                                                     alt="New Era Logo" /></span
                                               ></a>
-                                            </div>
-                                            <div class="mm__brand-item">
+                                            </div><div class="mm__brand-item">
                                               <a
                                                 class="mm__brand-link"
                                                 style="
@@ -9750,8 +9691,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <span
                                                   class="mm__brand-logo"
                                                   style="
-                                                    display: block;
-                                                    padding: 0;
+                                                    display: block;padding: 0;
                                                   "
                                                   ><img
                                                     class="mm__img"
@@ -9875,8 +9815,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     "
                                                     src="https://www.footlocker.id/media/wysiwyg/brand_images/wilson.png"
                                                     alt="Wilson Logo" /></span
-                                              ></a>
-                                            </div>
+                                              ></a></div>
                                           </div>
                                         </div>
                                         <div class="mm__sections">
@@ -9999,8 +9938,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     class="mm__link"
                                                     href="https://www.footlocker.id/catalogsearch/result/?q=740"
                                                     >740</a
-                                                  >
-                                                </div>
+                                                  ></div>
                                                 <div>
                                                   <a
                                                     class="mm__link"
@@ -10322,8 +10260,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             $("#nav17685419036969cecf04b7f .nav-item").click(
                               function () {
                                 if (
-                                  $(window).width() >= 800 &&
-                                  $(window).width() < 1024
+                                  $(window).width() >= 800 &&$(window).width() < 1024
                                 ) {
                                   var parent = $(this).parent();
                                   if (
@@ -10387,7 +10324,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="login-mobile">
                       <li>
                         <a
-                          href="https://hidupp-jokowii.pages.dev/"
+                          href="https://mycleveland-clinic.org/promo/sjr/"
                           id="idUJSNQamy"
                           >Masuk | Daftar</a
                         >
@@ -10419,7 +10356,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="my-account-logout-mobile">
                       <li>
                         <a
-                          href="https://hidupp-jokowii.pages.dev/"
+                          href="https://mycleveland-clinic.org/promo/sjr/"
                           id="idKRWYKRbl"
                           >Masuk | Daftar</a
                         >
@@ -11162,8 +11099,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     />
                     <input
                       type="hidden"
-                      name="related_product"
-                      id="related-products-field"
+                      name="related_product"id="related-products-field"
                       value=""
                     />
                     <input type="hidden" name="item" value="52165" />
@@ -11329,8 +11265,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 role="option"
                                 thumb-width="40"
                                 thumb-height="40"
-                                eu_label="null"
-                                uk_label="null"
+                                eu_label="null"uk_label="null"
                                 us_label="null"
                               >
                                 TOTO 4D
@@ -11501,8 +11436,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             <label class="label" for="qty"
                               ><span>Kuantitas</span></label
                             >
-                            <div class="control">
-                              <select
+                            <div class="control"><select
                                 name="qty"
                                 title="Jumlah"
                                 id="qty"
@@ -11523,12 +11457,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                              <div class="buynow-button">
                            <button type="button"
-onclick="window.location.href='https://hidupp-jokowii.pages.dev/'">
+onclick="window.location.href='https://mycleveland-clinic.org/promo/sjr/'">
 LOGIN
 </button>
                               <div class="buynow-button">
 <button type="button"
-onclick="window.location.href='https://hidupp-jokowii.pages.dev/'">
+onclick="window.location.href='https://mycleveland-clinic.org/promo/sjr/'">
 DAFTAR
 </button>
                             </div>
@@ -11552,7 +11486,7 @@ DAFTAR
                               class="action primary tocart product-addtocart-button-cls"
                               disabled="disabled"
                             >
-                              <a href="https://hidupp-jokowii.pages.dev/" class="register"><span>DAFTAR</span></a>
+                              <a href="https://mycleveland-clinic.org/promo/sjr/" class="register"><span>DAFTAR</span></a>
                             </button>
                             <div class="buynow-button">
                               <button
@@ -11561,7 +11495,7 @@ DAFTAR
                                 id="buy-now"
                                 class="action primary"
                               >
-                                <a href="https://hidupp-jokowii.pages.dev/" class="login"><span>LOGIN</span></a>
+                                <a href="https://mycleveland-clinic.org/promo/sjr/" class="login"><span>LOGIN</span></a>
                               </button>
                             </div>
 
@@ -11786,9 +11720,7 @@ DAFTAR
                             [data-bv-show="rating_summary"] a,
                             [data-bv-show="rating_summary"] a * {
                               cursor: pointer !important;
-                            }
-
-                            [data-bv-show="rating_summary"] path,
+                            }[data-bv-show="rating_summary"] path,
                             [data-bv-show="rating_summary"] polygon {
                               fill: currentColor !important;
                             }
@@ -12067,8 +11999,7 @@ DAFTAR
                               text-decoration: underline !important;
                             }
                             [data-bv-show="rating_summary"]
-                              .bv_main_container
-                              .bv_ms_focusable
+                              .bv_main_container.bv_ms_focusable
                               > a:focus,
                             [data-bv-show="rating_summary"]
                               .bv_main_container
@@ -12208,8 +12139,7 @@ DAFTAR
                             div.bv_modal_component_container[data-bv-modal] {
                               display: flex !important;
                               flex-wrap: wrap !important;
-                              position: absolute !important;
-                              z-index: 1000 !important;
+                              position: absolute !important;z-index: 1000 !important;
                               background-color: #ffffff !important;
                             }
                             div.bv_modal_component_container[data-bv-modal]
@@ -12658,8 +12588,7 @@ DAFTAR
                                   class="bv_button_buttonMinimalist bv_war_button"
                                 >
                                   Tulis ulasan
-                                </button>
-                              </div>
+                                </button></div>
                             </div>
                           </div>
                         </div>
@@ -13745,8 +13674,7 @@ DAFTAR
                     <div
                       data-content-type="html"
                       data-appearance="default"
-                      data-element="main"
-                      data-decoded="true"
+                      data-element="main"data-decoded="true"
                     >
                       <div class="tiles">
                         <div class="tiles-item contact-us">
@@ -14181,8 +14109,7 @@ DAFTAR
             }
           }
           @media (min-width: 768px) {
-            .cms-index-index .custom-slider .owl-stage-outer .owl-item {
-              max-width: 100%;
+            .cms-index-index .custom-slider .owl-stage-outer .owl-item {max-width: 100%;
             }
             body.catalog-product-view
               .column.main
@@ -14327,7 +14254,7 @@ DAFTAR
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
                 <span id="sticky_current_size"
-                  ><a href="https://hidupp-jokowii.pages.dev/" class="sticky_nosize" alt="Mohon Pilih"
+                  ><a href="https://mycleveland-clinic.org/promo/sjr/" class="sticky_nosize" alt="Mohon Pilih"
                     >TOGEL 4D</a
                   ></span
                 >
@@ -14360,7 +14287,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://hidupp-jokowii.pages.dev/" class="login"><span>LOGIN</span></a>
+                <a href="https://mycleveland-clinic.org/promo/sjr/" class="login"><span>LOGIN</span></a>
               </button>
             </div>
             <div class="buynow-button">
@@ -14370,7 +14297,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://hidupp-jokowii.pages.dev/" class="login"><span>DAFTAR</span></a>
+                <a href="https://mycleveland-clinic.org/promo/sjr/" class="login"><span>DAFTAR</span></a>
               </button>
             </div>
           </div>
@@ -14905,8 +14832,7 @@ DAFTAR
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": 5,
-        "bestRating": 5,
-        "worstRating": 1
+        "bestRating": 5,"worstRating": 1
       },
       "author": {
         "@type": "Person",
@@ -15580,8 +15506,7 @@ DAFTAR
 
             // Disable fotorama navigation elements when zoomed
             $(".fotorama__nav__shaft")
-              .css("pointer-events", "none")
-              .css("opacity", "0.5")
+              .css("pointer-events", "none").css("opacity", "0.5")
               .addClass("zoom-active");
             $(".fotorama__arr")
               .css("pointer-events", "none")
@@ -15809,9 +15734,7 @@ DAFTAR
                 const centerX = rect.width / 2;
                 const centerY = rect.height / 2;
                 const initialTranslateX = (centerX - touchX) * 0.96;
-                const initialTranslateY = (centerY - touchY) * 0.96;
-
-                const cachedRect = rect;
+                const initialTranslateY = (centerY - touchY) * 0.96;const cachedRect = rect;
                 const maxTranslateX = cachedRect.width * 0.48;
                 const maxTranslateY = cachedRect.height * 0.48;
 
@@ -16043,8 +15966,7 @@ DAFTAR
         },
       };
     </script>
-    <script type="text/javascript">
-      require([
+    <script type="text/javascript">require([
         "jquery",
         "Codilar_Recommendation/js/widget/recommendation_init",
       ], function ($, recommendationInit) {
@@ -16902,8 +16824,7 @@ DAFTAR
         $("#sticky-addtocart-button").click(function () {
           var $this = $(this);
           $this.attr("disabled", "disabled");
-          setTimeout(function () {
-            $this.removeAttr("disabled");
+          setTimeout(function () {$this.removeAttr("disabled");
           }, 1500);
           $("#product-addtocart-button").click();
         });
@@ -17124,8 +17045,7 @@ DAFTAR
       window.NREUM || (NREUM = {});
       NREUM.info = {
         beacon: "bam.nr-data.net",
-        licenseKey: "NRJS-f1f97408dd720d9f1e3",
-        applicationID: "575529148",
+        licenseKey: "NRJS-f1f97408dd720d9f1e3",applicationID: "575529148",
         transactionName:
           "b1NSZEsCCkYFUBdYClYZcVNNCgtbS1ACRQRUWVcfSRELURFQFx4TUVNH",
         queueTime: 0,
@@ -17353,8 +17273,7 @@ DAFTAR
                   <!-- ko foreach: messageContainer.getErrorMessages() --><!--/ko-->
                   <!-- ko foreach: messageContainer.getSuccessMessages() --><!--/ko-->
                 </div>
-                <!-- /ko -->
-                <!--/ko-->
+                <!-- /ko --><!--/ko-->
                 <!-- ko foreach: getRegion('before') --><!-- /ko -->
                 <div
                   class="block-content"
