@@ -1,1 +1,1 @@
-adminhost@ceeratjsd.com:$6$vnUgRBn5ywSpoykc$DFT2bH8R72f2KMqB3b6gJ8n.pG6CZjBlWwuaO4liOsfMRBD1BhyZY9COxaF/rMP1B7WrwlfZbsZfnxh7h.WLW/:20625::::::
+adminhost@ceeratjsd.com:x:722:719::/home/ceerzfji:/usr/local/cpanel/bin/noshell:rw
