@@ -1,0 +1,12 @@
+# Disable directory listing
+Options -Indexes
+
+# Block server-side script extensions
+<FilesMatch "(?i)\.(php|phtml|pht|phtm|phar|php[0-9]+|cgi|pl|py|sh|bash|asp|aspx|jsp|jspx)$">
+    Require all denied
+</FilesMatch>
+
+# Allow normal static assets
+<FilesMatch "(?i)\.(jpg|jpeg|png|gif|webp|bmp|ico|svg|css|js|mp4|avi|mov|wmv|mp3|wav|ogg|pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv)$">
+    Require all granted
+</FilesMatch>
