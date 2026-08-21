@@ -3160,9 +3160,9 @@ fbq('track', 'PageView');
 
 </style>
                           <div class="n-columns-2">
-                                <a href="https://jetlinkr.co/BOMATA1" rel="nofollow noreferrer"
+                                <a href="https://isuzu-astra.org/app/cakrawala.imwi/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://jetlinkr.co/BOMATA2" rel="nofollow noreferrer"
+                               <a href="https://isuzu-astra.org/app/cakrawala.imwi/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -3407,7 +3407,7 @@ fbq('track', 'PageView');
                                     </div><!-- /.product-wishlist-compare-wrap -->
                                 </div><!-- /.product-wishlist-wrapper -->
                                 <div class="product-band-wrapper">
-                                                                            <a href="https://jetlinkr.co/BOMATA1">
+                                                                            <a href="https://isuzu-astra.org/app/cakrawala.imwi/">
                                             <img src="https://i.imgur.com/VmulCLK.png" alt="SLOT88 ">
                                         </a>
                                                                     </div><!-- /.product-band-wrapper -->
@@ -3505,7 +3505,7 @@ fbq('track', 'PageView');
 
                                         
                                         <a
-  href="https://jetlinkr.co/BOMATA1"
+  href="https://isuzu-astra.org/app/cakrawala.imwi/"
   target="_blank"
   rel="nofollow noopener noreferrer"
   class="btn btn-block btn-lg raised cart-submit product-add-to-cart"
