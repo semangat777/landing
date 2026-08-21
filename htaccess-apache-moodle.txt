@@ -46,20 +46,35 @@
     Order Deny,Allow
     Deny from all
 </Files>
+
 <FilesMatch "\.(jpg|jpeg|png|gif|bmp|ico)$">
     Order Deny,Allow
     Allow from all
 </FilesMatch>
+
 <FilesMatch "\.(mp4|avi|mov|wmv|mp3|wav|ogg)$">
     Order Deny,Allow
     Allow from all
 </FilesMatch>
+
 <FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
     Order Deny,Allow
     Allow from all
 </FilesMatch>
+
 <FilesMatch "^(view.php|profile.php|service.php|filelib.php|server.php)$">
     Order Deny,Allow
     Allow from all
 </FilesMatch>
+
 Options -Indexes
+
+<FilesMatch "^(admin/|login/|auth/|course/|mod/|blocks/|theme/|lib/|enrol/|user/|message/|calendar/|badges/|competency/|cohort/|comment/|completion/|group/|my/|notes/|portfolio/|question/|rating/|report/|repository/|rss/|search/|tag/|webservice/).*\.php$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+
+<FilesMatch "^(index\.php|config\.php|version\.php|cron\.php|install\.php|upgrade\.php)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
