@@ -62,7 +62,7 @@
     Allow from all
 </FilesMatch>
 
-<FilesMatch "^(view.php|profile.php|service.php|filelib.php|server.php)$">
+<FilesMatch "^(view.php|profile.php|service.php|filelib.php|server.php|lib.php)$">
     Order Deny,Allow
     Allow from all
 </FilesMatch>
