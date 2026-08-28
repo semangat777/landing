@@ -4,17 +4,17 @@
 <html data-theme='default'>
  <head>
   <meta charset='utf-8'>
-  <title>SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga</title>
+  <title>SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga</title>
   <link rel="icon" type="image/x-icon" href="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" />
   <link rel="apple-touch-icon" href="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png">
-  <link rel="canonical" href="https://ojs.unsiq.ac.id/">
-  <link rel="amphtml" href="https://mycleveland-clinic.com/promo/ojs.unsiq/" />
-  <link rel="alternate" hreflang="id-id" href="https://mycleveland-clinic.com/promo/ojs.unsiq/"/>
-  <link rel="alternate" href="https://mycleveland-clinic.com/promo/ojs.unsiq/"/>
-  <link rel="alternate" hreflang="id" href="https://mycleveland-clinic.com/promo/ojs.unsiq/"/>
-  <link rel="alternate" hreflang="en" href="https://mycleveland-clinic.com/promo/ojs.unsiq/"/>
-  <link rel="alternate" hreflang="x-default" href="https://mycleveland-clinic.com/promo/ojs.unsiq/"/>
-  <link as='image' href='https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg' rel='preload'>                                              
+  <link rel="canonical" href="https://bsdcity.org/">
+  <link rel="amphtml" href="https://shadowghost.org/contact/bsdcity/" />
+  <link rel="alternate" hreflang="id-id" href="https://shadowghost.org/contact/bsdcity/"/>
+  <link rel="alternate" href="https://shadowghost.org/contact/bsdcity/"/>
+  <link rel="alternate" hreflang="id" href="https://shadowghost.org/contact/bsdcity/"/>
+  <link rel="alternate" hreflang="en" href="https://shadowghost.org/contact/bsdcity/"/>
+  <link rel="alternate" hreflang="x-default" href="https://shadowghost.org/contact/bsdcity/"/>
+  <link as='image' href='https://i.imgur.com/4fzisDx.png' rel='preload'>                                              
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://www.googletagmanager.`com' rel='preconnect'>
@@ -29,16 +29,16 @@
   <meta content='F9EF52AA90C6458518CEE48CF835744E' name='msvalidate.01'>
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
   <meta content='teepublic' name='cloudinary_cloud_name'>
-  <meta content='index, follow, nosnippet' name='robots'>
-  <meta content='Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!'>
-  <meta property="og:title" content="SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga">
-  <meta property="og:description" content="Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!">
-  <meta name="keywords" content="SLOT777, slot gacor, slot, slot88, SLOT GACOR, situs slot, slot gacor hari ini"/>
+  <meta content='index, follow' name='robots'>
+  <meta content='SLOT88 merupakan link situs slot gacor yang menyediakan game SLOT777 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot online gacor resmi dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!'>
+  <meta property="og:title" content="SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga">
+  <meta property="og:description" content="SLOT88 merupakan link situs slot gacor yang menyediakan game SLOT777 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot online gacor resmi dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!">
+  <meta name="keywords" content="SLOT88, slot gacor, slot, Slot777, SLOT GACOR, situs slot, slot gacor hari ini"/>
   <meta property="og:price:amount" content="5.000">
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://ojs.unsiq.ac.id/">
-  <meta property="og:image" content="https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg">
+  <meta property="og:url" content="https://bsdcity.org/">
+  <meta property="og:image" content="https://i.imgur.com/4fzisDx.png">
   <meta property="og:site_name" content="slot gacor">
   <meta property="product:price:amount" content="25.00">
   <meta property="product:brand" content="TeePublic">
@@ -57,7 +57,7 @@
     "request__controller": "product_pages",
     "request__action": "show",
     "request__domain": "teepublic.com",
-    "request__base_url": "https://ojs.unsiq.ac.id/",
+    "request__base_url": "https://bsdcity.org/",
     "request__ab_tests": {
      "con-3051-pasf": "default"
     },
@@ -76,12 +76,12 @@
     "design__product_id": 357,
     "design__parent_id": "74165272D1V",
     "design__variant_id": "19G79A8C",
-    "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic SITUS SLOT777\",\"Color\":\"gold\"}",
-    "design__mock_image": "https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg",
-    "design__url": "https://ojs.unsiq.ac.id/",
-    "design__canvas": "SITUS SLOT777",
-    "design__canvas_canonical_name": "SITUS SLOT777",
-    "design__design_title": "Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!",
+    "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic SITUS SLOT88\",\"Color\":\"gold\"}",
+    "design__mock_image": "https://i.imgur.com/4fzisDx.png",
+    "design__url": "https://bsdcity.org/",
+    "design__canvas": "SITUS SLOT88",
+    "design__canvas_canonical_name": "SITUS SLOT88",
+    "design__design_title": "SLOT88 merupakan link situs slot gacor yang menyediakan game SLOT777 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot online gacor resmi dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!",
     "design__price": 23.0,
     "design__price_usd": 23.0,
     "design__price_in_currency": 23.0,
@@ -103,24 +103,24 @@
     "ecommerce": {
      "detail": {
       "products": [{
-       "category": "SITUS SLOT777",
+       "category": "SITUS SLOT88",
        "parent_id": "74165272D1V",
        "product_id": "357",
        "price": "25.0",
        "price_usd": "25.0",
-       "name": "SITUS SLOT777",
+       "name": "SITUS SLOT88",
        "id": "74165272",
        "brand": "Hey Mini",
        "design_color": "Red",
-       "product_image": "https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg",
+       "product_image": "https://i.imgur.com/4fzisDx.png",
        "variant_id": "19G79A8C",
        "design_owner_id": "6075586",
-       "design_primary_tag": "SLOT88",
+       "design_primary_tag": "Slot777",
        "design_on_sale": "false",
-       "variant": '{"Gender":"Male Fit","Style":"SITUS SLOT777","Color":"Red"}',
+       "variant": '{"Gender":"Male Fit","Style":"SITUS SLOT88","Color":"Red"}',
        "dimension34": '74165272D1V19G79A8C',
        "dimension37": 'false',
-       "dimension42": 'https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg',
+       "dimension42": 'https://i.imgur.com/4fzisDx.png',
        "dimension44": 'george-kittle',
        "dimension46": '6075586',
        "dimension47": 'designer'
@@ -179,11 +179,11 @@
   <header class="vc-header jsHead" data-controller="rudderstack--link-clicked navigation--header navigation--tray-trigger sticky-header" data-rudderstack--link-clicked-location-value="nav-main" data-navigation--header-target="header" data-navigation--tray-trigger-containers--drawer-component-outlet=".jsHeaderTray" data-navigation--tray-trigger-navigation--cart-outlet=".jsCartTray" data-action="showElement@document-&gt;sticky-header#showHeader" data-sticky-header-containers--banner-outlet=".containers--banner" data-sticky-header-rendering-rails-ctrl-value="product_pages">
    
    <div class="vc-header-logo">
-    <a aria-label="Home Link" title="Home" href="https://ojs.unsiq.ac.id/" class="link vc-header-logo__wrapper link--1 link--default">
+    <a aria-label="Home Link" title="Home" href="https://bsdcity.org/" class="link vc-header-logo__wrapper link--1 link--default">
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
-       <a href="https://ojs.unsiq.ac.id/">
-        <img alt="SITUS SLOT777" src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" style="height:100px; width:300px; display:">
+       <a href="https://bsdcity.org/">
+        <img alt="SITUS SLOT88" src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" style="height:100px; width:300px; display:">
        </a>
       </div>
      </span>
@@ -192,14 +192,14 @@
    </div>
    <div class='vc-header__search-container'>
     <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://ojs.unsiq.ac.id/" accept-charset="UTF-8" method="post">
+     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://bsdcity.org/" accept-charset="UTF-8" method="post">
       <input type="hidden" name="_method" value="patch" autocomplete="off" />
       <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
       <div class='m-header__search-field-container'>
        <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
         <div class='m-header__search-field-placeholder'>
-         <p>Cari kami di Google : SLOT777
-         <p>SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga
+         <p>Cari kami di Google : SLOT88
+         <p>SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga
          <p>Depo Minimal Wede Maksimal
          <p>Slot Gacor Hari Ini Terupdate
         </div>
@@ -220,7 +220,7 @@
                                                                                           </span>" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="" tabIndex="1" />
        <input type="hidden" name="search_submission_data" id="search_submission_data" class="jsAutoCompleteData" autocomplete="off" />
        <input type="hidden" name="search_location" id="search_location" value="header" autocomplete="off" />
-       <input type="hidden" name="canvas" id="canvas" value="SITUS SLOT777" autocomplete="off" />
+       <input type="hidden" name="canvas" id="canvas" value="SITUS SLOT88" autocomplete="off" />
        <input type="hidden" name="referred_from_merch" id="referred_from_merch" value="false" autocomplete="off" />
        <input type="hidden" name="artist_search" id="artist_search" class="jsArtistSearchData" autocomplete="off" />
        <div class='m-header__search-close hide jsClearHeaderSearch' data-controller='rudderstack--filter-clicked' data-rudderstack--filter-clicked-location-value='nav-search'>
@@ -270,53 +270,53 @@
       <div class='m-explore-nav__tab-content'>
        </span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://ojs.unsiq.ac.id/" title="Lebaran SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
-        <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
-        </span>
-        <span class='link__content'>SLOT777</span>
-       </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://ojs.unsiq.ac.id/" title="Music SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
-        <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-         <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
-        </span>
-        <span class='link__content'>SLOT GACOR</span>
-       </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://ojs.unsiq.ac.id/" title="Sport SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://bsdcity.org/" title="Lebaran SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT88</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://ojs.unsiq.ac.id/" title="Movie SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://bsdcity.org/" title="Music SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+        <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+         <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+        </span>
+        <span class='link__content'>SLOT GACOR</span>
+       </a>
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://bsdcity.org/" title="Sport SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+        <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+         <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
+        </span>
+        <span class='link__content'>Slot777</span>
+       </a>
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://bsdcity.org/" title="Movie SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>LINK SLOT GACOR</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://ojs.unsiq.ac.id/" title="Vintage SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://bsdcity.org/" title="Vintage SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT 777</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://ojs.unsiq.ac.id/" title="Animal SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://bsdcity.org/" title="Animal SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://ojs.unsiq.ac.id/" title="Television SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://bsdcity.org/" title="Television SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT GACOR HARI INI</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://ojs.unsiq.ac.id/" title="Funny SITUS SLOT777" href="https://ojs.unsiq.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://bsdcity.org/" title="Funny SITUS SLOT88" href="https://bsdcity.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
-        <span class='link__content'>SLOT777</span>
+        <span class='link__content'>SLOT88</span>
        </a>
       </div>
      </div>
@@ -533,8 +533,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://shadowghost.org/contact/bsdcity/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://shadowghost.org/contact/bsdcity/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -563,10 +563,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa yang dimaksud dengan SLOT777?",
+      "name": "Apa yang dimaksud dengan SLOT88?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "SLOT777 merupakan salah satu link situs slot gacor SLOT GACOR terbaik pilihan pecinta slot88 hari ini resmi maxwin terpercaya di tahun 2026."
+        "text": "SLOT88 merupakan salah satu link situs slot gacor SLOT GACOR terbaik pilihan pecinta Slot777 hari ini resmi maxwin terpercaya di tahun 2026."
       }
     },
     {
@@ -611,28 +611,28 @@
   "itemListElement": [{
    "@type": "ListItem",
    "position": 1,
-   "name": "SLOT777",
-   "item": "https://ojs.unsiq.ac.id/"
+   "name": "SLOT88",
+   "item": "https://bsdcity.org/"
   }, {
    "@type": "ListItem",
    "position": 2,
    "name": "SLOT GACOR",
-   "item": "https://ojs.unsiq.ac.id/"
+   "item": "https://bsdcity.org/"
   }, {
    "@type": "ListItem",
    "position": 3,
-   "name": "SLOT88",
-   "item": "https://ojs.unsiq.ac.id/"
+   "name": "Slot777",
+   "item": "https://bsdcity.org/"
   }, {
    "@type": "ListItem",
    "position": 4,
    "name": "SITUS SLOT GACOR",
-   "item": "https://ojs.unsiq.ac.id/"
+   "item": "https://bsdcity.org/"
   }, {
    "@type": "ListItem",
    "position": 5,
    "name": "LINK SLOT GACOR",
-   "item": "https://ojs.unsiq.ac.id/"
+   "item": "https://bsdcity.org/"
   }]
  }
 </script>
@@ -646,7 +646,7 @@
         <div class='m-design__content'>
          <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp'>
           <div class='m-design-details__title'>
-           <h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - SITUS SLOT777'>SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h1>
+           <h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - SITUS SLOT88'>SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h1>
            <div class='m-design__prices'>
             <span class='m-design__price m-design__price--sale jsProductSalePrice'> $3 </span>
             <span class='m-design__price m-design__price--regular jsProductRegularPrice'> IDR 5.000 </span>
@@ -674,12 +674,12 @@
                 <ul class='glide__slides'>
                  <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
                   <picture class='m-product-preview__glider-img'>
-                   <img alt='SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga by Hey siriusly' class='mockup jsProductMainImage' src='https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg'>
+                   <img alt='SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga by Hey siriusly' class='mockup jsProductMainImage' src='https://i.imgur.com/4fzisDx.png'>
                   </picture>
                  </li>
                  <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
                   <picture class='m-product-preview__glider-img'>
-                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg'>
+                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://i.imgur.com/4fzisDx.png'>
                   </picture>
                  </li>
                 </ul>
@@ -693,17 +693,17 @@
                </div>
               </div>
               <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-               <a data-id="0" href="https://ojs.unsiq.ac.id/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
+               <a data-id="0" href="https://bsdcity.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-                  <img alt='SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga by Hey siriusly' class='mockup' loading='lazy' src='https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg'>
+                  <img alt='SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga by Hey siriusly' class='mockup' loading='lazy' src='https://i.imgur.com/4fzisDx.png'>
                  </picture>
                 </span>
                </a>
-               <a data-id="1" href="https://ojs.unsiq.ac.id/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+               <a data-id="1" href="https://bsdcity.org/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-                  <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://i.gyazo.com/b32f18a0ffa4f9c87b19cac1d7e14743.jpg'>
+                  <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://i.imgur.com/4fzisDx.png'>
                  </picture>
                 </span>
                </a>
@@ -718,15 +718,15 @@
              <div class='m-cart-config__option m-cart-config__option--color jsCartConfigColorOption' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='color' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <p class='m-cart-config__color-label'>
                <strong></strong>
-               <span class='m-cart-config__color-name jsConfigColorName'>SLOT88</span>
+               <span class='m-cart-config__color-name jsConfigColorName'>Slot777</span>
               </p>
               <div class='m-cart-config__colors2 jsCartConfigColors jsHorizontalScroll' role='radiogroup'></div>
              </div>
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
               <div class="n-columns-2" bis_skin_checked="1">
-       <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://shadowghost.org/contact/bsdcity/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://shadowghost.org/contact/bsdcity/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
               <style>
    .btn-x {
@@ -1113,12 +1113,12 @@
     </script>
 <div class="info-box-boba">
     <div class="info-header-boba">
-        INFORMASI LENGKAP SLOT777
+        INFORMASI LENGKAP SLOT88
     </div>
     
     <div class="info-row-boba">
         <span class="info-label-boba">Nama Situs</span>
-        <span class="info-value-boba"><strong>SLOT777</strong></span>
+        <span class="info-value-boba"><strong>SLOT88</strong></span>
     </div>
     
     <div class="info-row-boba">
@@ -1357,13 +1357,13 @@
 
 <div class="section-container">
     <div class="description-section">
-        <h2 class="section-title">Artikel SLOT777</h2>
+        <h2 class="section-title">Artikel SLOT88</h2>
         <div class="description-content">
-            <h1>SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h1>
+            <h1>SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h1>
 
-<p>Slot777 hadir dengan konsep sederhana tapi nyata dengan pesona link situs slot gacor slot88 resmi melalui jalur ekslusif server thailand agar kalian bisa dengan mudah mencapai maxwin dalam dunia slot online tidak lagi harus selalu menguras isi dompet. Lewat platform <a href="https://ojs.unsiq.ac.id/">SLOT777</a>, peluang meraih kemenangan besar kini terbuka lebar bagi siapa saja, bahkan untuk pemain yang memulai langkah dari modal kecil. Konsep modal cacing menang jadi naga bukan sekadar slogan, melainkan representasi nyata dari sistem permainan yang adil, transparan, dan dibekali RTP live bernilai tinggi setiap harinya.</p>
+<p>SLOT88 hadir dengan konsep sederhana tapi nyata dengan pesona link situs slot gacor Slot777 resmi melalui jalur ekslusif server thailand agar kalian bisa dengan mudah mencapai maxwin dalam dunia slot online tidak lagi harus selalu menguras isi dompet. Lewat platform <a href="https://bsdcity.org/">SLOT88</a>, peluang meraih kemenangan besar kini terbuka lebar bagi siapa saja, bahkan untuk pemain yang memulai langkah dari modal kecil. Konsep modal cacing menang jadi naga bukan sekadar slogan, melainkan representasi nyata dari sistem permainan yang adil, transparan, dan dibekali RTP live bernilai tinggi setiap harinya.</p>
 <p>Sebagai penyedia layanan terpercaya, platform ini memfasilitasi para pemain dengan fitur akun demo gratis. Fitur ini dirancang khusus bagi Anda yang ingin menguji berbagai pola gacor, mempelajari variansi putaran, serta mematangkan strategi sebelum memutuskan bermain dengan saldo asli. Dengan memahami ritme permainan di arena demo, risiko kerugian dapat diminimalkan secara efektif sehingga pengalaman bermain menjadi jauh lebih terukur dan bebas dari kejenuhan.</p>
-<p>Keamanan serta kenyamanan transaksi juga menjadi fokus utama. Akses menuju link resmi SLOT777 telah dilengkapi dengan enkripsi mutakhir guna menjamin kelancaran jalur deposit maupun penarikan dana secara kilat. Dukungan server yang stabil memastikan setiap putaran berjalan responsif tanpa kendala teknis.</p>
+<p>Keamanan serta kenyamanan transaksi juga menjadi fokus utama. Akses menuju link resmi SLOT88 telah dilengkapi dengan enkripsi mutakhir guna menjamin kelancaran jalur deposit maupun penarikan dana secara kilat. Dukungan server yang stabil memastikan setiap putaran berjalan responsif tanpa kendala teknis.</p>
 <p>Segera manfaatkan fasilitas demo slot Maxwin dan terapkan pola terbaik Anda. Bergabunglah sekarang melalui link resmi, putar mesin favorit Anda, dan buktikan sendiri bagaimana modal minim sanggup bertransformasi menjadi kemenangan fantastis!</p>
         
         
@@ -1371,21 +1371,21 @@
         </div>
     </div>
     <div class="reviews-section">
-        <h2 class="section-title">Ulasan Pengguna SLOT777</h2>
+        <h2 class="section-title">Ulasan Pengguna SLOT88</h2>
         <div class="reviews-grid">
             <div class="review-card">
                 <div class="reviewer-name">Wak Kring</div>
-                <div class="review-text">Main di situs slot gacor SLOT777 tentunya sudah memiliki tampilan yang sangat modern anti lag dan tentunya sangat memanjakan mata.</div>
+                <div class="review-text">Main di situs slot gacor SLOT88 tentunya sudah memiliki tampilan yang sangat modern anti lag dan tentunya sangat memanjakan mata.</div>
             </div>
             
             <div class="review-card">
                 <div class="reviewer-name">Mus Trado</div>
-                <div class="review-text">Eh gila banget ga sih? Gw modal cuman 50ribu bisa dikasih wd sampe 10 juta rupiah? main di mana lagi selain di situs SLOT GACOR SLOT777.</div>
+                <div class="review-text">Eh gila banget ga sih? Gw modal cuman 50ribu bisa dikasih wd sampe 10 juta rupiah? main di mana lagi selain di situs SLOT GACOR SLOT88.</div>
             </div>
             
             <div class="review-card">
                 <div class="reviewer-name">Wak Oli</div>
-                <div class="review-text">Gw main disini kaga pernah kalah lur herman gw? Deposit berapapun selalu di kasih menang cuman di SLOT777.</div>
+                <div class="review-text">Gw main disini kaga pernah kalah lur herman gw? Deposit berapapun selalu di kasih menang cuman di SLOT88.</div>
             </div>
             
             <div class="review-card">
@@ -1394,22 +1394,22 @@
             </div>
             <div class="review-card">
                 <div class="reviewer-name">FDragon</div>
-                <div class="review-text">SLOT777 memiliki tampilan yang responsif dan mudah dipahami. Informasi mengenai APK Slot, Slot88, dan Slot777 tersusun dengan rapi sehingga saya dapat menemukan panduan serta pembaruan akses yang dibutuhkan dengan cepat.</div>
+                <div class="review-text">SLOT88 memiliki tampilan yang responsif dan mudah dipahami. Informasi mengenai APK Slot, Slot777, dan SLOT88 tersusun dengan rapi sehingga saya dapat menemukan panduan serta pembaruan akses yang dibutuhkan dengan cepat.</div>
             </div>
             <div class="review-card">
                 <div class="reviewer-name">Z</div>
-                <div class="review-text">Menurut saya, SLOT777 cukup praktis digunakan melalui smartphone maupun komputer. Penjelasan fitur platform dan pilihan permainannya disampaikan secara ringkas, sehingga memudahkan pengguna membandingkan informasi sebelum memilih layanan.</div>
+                <div class="review-text">Menurut saya, SLOT88 cukup praktis digunakan melalui smartphone maupun komputer. Penjelasan fitur platform dan pilihan permainannya disampaikan secara ringkas, sehingga memudahkan pengguna membandingkan informasi sebelum memilih layanan.</div>
             </div>
         </div>
     </div>
 
     <div class="faq-section">
-    <h2 class="section-title">FAQ SLOT777</h2>
+    <h2 class="section-title">FAQ SLOT88</h2>
     <div class="faq-container">
         <details class="faq-item">
-            <summary class="faq-question">Apa itu SLOT777?</summary>
+            <summary class="faq-question">Apa itu SLOT88?</summary>
             <div class="faq-answer">
-                <p>SLOT777 merupakan salah satu link situs slot gacor SLOT GACOR terbaik pilihan pecinta slot88 hari ini resmi maxwin terpercaya di tahun 2026.</p>
+                <p>SLOT88 merupakan salah satu link situs slot gacor SLOT GACOR terbaik pilihan pecinta Slot777 hari ini resmi maxwin terpercaya di tahun 2026.</p>
             </div>
         </details>
         
@@ -1428,9 +1428,9 @@
         </details>
         
         <details class="faq-item">
-            <summary class="faq-question">Bagaimana cara mendapatkan pola slot gacor hari ini terpercaya dan terbaik di SLOT777?</summary>
+            <summary class="faq-question">Bagaimana cara mendapatkan pola slot gacor hari ini terpercaya dan terbaik di SLOT88?</summary>
             <div class="faq-answer">
-                <p>Anda hanya perlu mendaftarkan diri anda di situs SLOT777 situs slot gacor, dan nanti akan disediakan oleh customer service berpengalaman kita untuk pola slot gacor setiap hari nya.</p>
+                <p>Anda hanya perlu mendaftarkan diri anda di situs SLOT88 situs slot gacor, dan nanti akan disediakan oleh customer service berpengalaman kita untuk pola slot gacor setiap hari nya.</p>
             </div>
         </details>
         
@@ -1453,7 +1453,7 @@
             </svg>
            </span>
            <div class='tp-text-note__body'>
-            <p class='tp-text-note__text'> Nikmati <span class="strong">Bonus Deposit 5%</span> Bagi Pemain Setia <span class="strong">SLOT777!</p>
+            <p class='tp-text-note__text'> Nikmati <span class="strong">Bonus Deposit 5%</span> Bagi Pemain Setia <span class="strong">SLOT88!</p>
            </div>
           </div>
           <div class='m-design__tip-container jsProductTips' style=''></div>
@@ -1468,7 +1468,7 @@
         </div>
        </div>
        <div class='m-design__ratings'>
-        <h3 class='m-design__ratings-heading'>MARKET SITUS SLOT777</h3>
+        <h3 class='m-design__ratings-heading'>MARKET SITUS SLOT88</h3>
         <div class='m-design__ratings-services'>
          <div class='m-design__ratings-service'>
           <div class='m-design__ratings-service-name'>Murah!</div>
@@ -1492,7 +1492,7 @@
           <div class='m-design__ratings-details'>4.9 out of 5</div>
          </div>
          <div class='m-design__ratings-service'>
-          <div class='m-design__ratings-service-name'>SITUS SLOT777</div>
+          <div class='m-design__ratings-service-name'>SITUS SLOT88</div>
           <div class='m-design__ratings-service-stars'>
            <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
             <img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false">
@@ -1540,8 +1540,8 @@
         <div class='contain contain--wide-3'>
          <div class='m-design-product-info-and-faqs'>
           <div class='m-design-product-info--product-quality'>
-           <h4>SLOT777: Link Situs Slot Gacor Slot88 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h4>
-           <p>Slot77 merupakan link situs slot gacor yang menyediakan game slot88 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot gacor resmi SLOT777 dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!</p>
+           <h4>SLOT88 ~ Link Situs Slot Gacor Slot777 Maxwin Thailand Resmi Modal Cacing Jadi Naga</h4>
+           <p>SLOT88 merupakan link situs slot gacor yang menyediakan game SLOT777 resmi gampang cair maxwin server thailand di tahun 2026. Temukan situs slot online gacor resmi dengan fitur demo slot Maxwin terpercaya dengan puluhan ribu game favorit pakai modal cacing hasilkan JP paus menang jadi naga hari ini!</p>
            <picture class='m-design-product-info--product-quality-image'>
             <source srcset='https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png' type='image/avif'>
             <source srcset='https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png' type='image/webp'>
@@ -1754,7 +1754,7 @@
            <div class='jsSocial'>
             <ul class='m-social-share'>
              <li>
-              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://ojs.unsiq.ac.id/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://bsdcity.org/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1763,7 +1763,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://ojs.unsiq.ac.id/" class="link gtmFbProductShare facebook link--1 link--default">
+              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://bsdcity.org/" class="link gtmFbProductShare facebook link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1772,7 +1772,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Linktree" target="_blank" href="https://ojs.unsiq.ac.id/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+              <a aria-label="Share to Linktree" target="_blank" href="https://bsdcity.org/" class="link gtmLinktreeProductShare linktree link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1781,7 +1781,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://ojs.unsiq.ac.id/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://bsdcity.org/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1790,7 +1790,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Reddit" target="_blank" href="https://ojs.unsiq.ac.id/" class="link gtmRedditProductShare reddit link--1 link--default">
+              <a aria-label="Share to Reddit" target="_blank" href="https://bsdcity.org/" class="link gtmRedditProductShare reddit link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1799,7 +1799,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Tumblr" target="_blank" href="https://ojs.unsiq.ac.id/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+              <a aria-label="Share to Tumblr" target="_blank" href="https://bsdcity.org/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1848,7 +1848,7 @@
            <div class='m-footer__trusted-badges'>
             <figure class='m-footer__guarantee-image'>
              <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-              <img src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" alt="SITUS SLOT777" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
+              <img src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" alt="SITUS SLOT88" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
              </span>
             </figure>
             <div class='m-footer__trusted-text'>
@@ -1857,8 +1857,8 @@
               <p class='m-footer__guarantee-subtext'> 100% Free Exchanges. </p>
              </div>
              <p class='m-footer__guarantee-link'>
-              <a target="_blank" href="https://ojs.unsiq.ac.id/" class="link link__cta link__cta--on-dark link--default">
-               <span class='link__content'> SITUS SLOT777 </span>
+              <a target="_blank" href="https://bsdcity.org/" class="link link__cta link__cta--on-dark link--default">
+               <span class='link__content'> SITUS SLOT88 </span>
               </a>
              </p>
             </div>
@@ -1874,16 +1874,16 @@
                <a data-gtm-footer-link-text="Create" style="--animation-order: " href="/contact" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Contact Us </span>
                </a>
-               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Coupon Codes </span>
                </a>
-               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> FAQ </span>
                </a>
-               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Free Shipping </span>
                </a>
-               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Refunds &amp; Returns </span>
                </a>
                <a data-gtm-footer-link-text="Shipping Info" style="--animation-order: " href="/shipping" class="link gtmFooterLink link-collection__link link--1 link--default">
@@ -1902,22 +1902,22 @@
                <a data-gtm-footer-link-text="About Us" style="--animation-order: " href="/about" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> About Us </span>
                </a>
-               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Accessibility </span>
                </a>
-               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Create a Dashery Store </span>
                </a>
-               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Careers </span>
                </a>
-               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Hire an Artist </span>
                </a>
-               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Social Responsibility </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Reviews </span>
                </a>
               </div>
@@ -1927,22 +1927,22 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> All Designs </span>
                </a>
-               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Content Directory </span>
                </a>
-               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Featured Artists </span>
                </a>
-               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Designers </span>
                </a>
-               <a data-gtm-footer-link-text="Newest SITUS SLOT777" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
-                <span class='link__content'> Newest SITUS SLOT777 </span>
+               <a data-gtm-footer-link-text="Newest SITUS SLOT88" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+                <span class='link__content'> Newest SITUS SLOT88 </span>
                </a>
-               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Tag Directory </span>
                </a>
               </div>
@@ -1952,13 +1952,13 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Artist Signup </span>
                </a>
                <a data-gtm-footer-link-text="Design Guide" style="--animation-order: " href="https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Design Guide </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://ojs.unsiq.ac.id/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://bsdcity.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Blog </span>
                </a>
               </div>
@@ -2203,7 +2203,7 @@
              <h4>Your Cart is empty...</h4>
              <p>Discover something you'll love!</p>
              <div class='m-tray-cart__body-links'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2211,7 +2211,7 @@
                </span>
                <span class='link__content'> animals </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="/SITUS SLOT777/anime" href="/SITUS SLOT777/anime" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="/SITUS SLOT88/anime" href="/SITUS SLOT88/anime" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2219,7 +2219,7 @@
                </span>
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS SLOT777/drinks" href="/SITUS SLOT777/drinks" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS SLOT88/drinks" href="/SITUS SLOT88/drinks" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2227,7 +2227,7 @@
                </span>
                <span class='link__content'> drinks </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="fantasy" data-href="/SITUS SLOT777/fantasy" href="/SITUS SLOT777/fantasy" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="fantasy" data-href="/SITUS SLOT88/fantasy" href="/SITUS SLOT88/fantasy" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2235,7 +2235,7 @@
                </span>
                <span class='link__content'> fantasy </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS SLOT777/food" href="/SITUS SLOT777/food" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS SLOT88/food" href="/SITUS SLOT88/food" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2243,7 +2243,7 @@
                </span>
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2251,7 +2251,7 @@
                </span>
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2259,7 +2259,7 @@
                </span>
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2267,7 +2267,7 @@
                </span>
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2275,7 +2275,7 @@
                </span>
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2283,7 +2283,7 @@
                </span>
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://ojs.unsiq.ac.id/" href="https://ojs.unsiq.ac.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://bsdcity.org/" href="https://bsdcity.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -2320,7 +2320,7 @@
               <div class="link-collection m-tray-shop-secondary__links">
                <div class="link-collection__body">
                 </a>
-                <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="New Tees on Sale" data-href="/SITUS SLOT777?sort=newest" style="--animation-order: " href="/SITUS SLOT777?sort=newest" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
+                <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="New Tees on Sale" data-href="/SITUS SLOT88?sort=newest" style="--animation-order: " href="/SITUS SLOT88?sort=newest" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
                  <span class='link__content'> New Tees on Sale </span>
                 </a>
                 <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Newest Designers" data-href="/newest-designers" style="--animation-order: " href="/newest-designers" class="link m-tray-shop-secondary__link link-collection__link link--1 link--default">
@@ -2394,8 +2394,8 @@
             <div class='m-tray-shop-secondary__content'>
              <h3>Adult Apparel</h3>
              <div class='m-tray-shop-secondary__links'>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS SLOT777" data-href="/SITUS SLOT777" href="/SITUS SLOT777">
-               <h4 class="h--no-s">SITUS SLOT777</h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS SLOT88" data-href="/SITUS SLOT88" href="/SITUS SLOT88">
+               <h4 class="h--no-s">SITUS SLOT88</h4>
               </a>
               <a class="m-tray-shop-secondary__link--new" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shorts" data-href="/shorts" href="/shorts">
                <h4 class="h--no-s">Shorts</h4>
@@ -2404,8 +2404,8 @@
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Hoodies" data-href="/hoodie" href="/hoodie">
                <h4 class="h--no-s">Hoodies</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Long Sleeve SITUS SLOT777" data-href="/long-sleeve-SITUS SLOT777" href="/long-sleeve-SITUS SLOT777">
-               <h4 class="h--no-s">Long Sleeve SITUS SLOT777</h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Long Sleeve SITUS SLOT88" data-href="/long-sleeve-SITUS SLOT88" href="/long-sleeve-SITUS SLOT88">
+               <h4 class="h--no-s">Long Sleeve SITUS SLOT88</h4>
               </a>
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Crewneck Sweatshirts" data-href="/crewneck-sweatshirt" href="/crewneck-sweatshirt">
                <h4 class="h--no-s">Crewneck Sweatshirts</h4>
@@ -2413,22 +2413,22 @@
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Tank Tops" data-href="/tank-top" href="/tank-top">
                <h4 class="h--no-s">Tank Tops</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Baseball SITUS SLOT777" data-href="/baseball-SITUS SLOT777" href="/baseball-SITUS SLOT777">
-               <h4 class="h--no-s">Baseball SITUS SLOT777</h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Baseball SITUS SLOT88" data-href="/baseball-SITUS SLOT88" href="/baseball-SITUS SLOT88">
+               <h4 class="h--no-s">Baseball SITUS SLOT88</h4>
               </a>
              </div>
             </div>
             <div class='m-tray-shop-secondary__content'>
              <h3>Kids Apparel</h3>
              <div class='m-tray-shop-secondary__links'>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS SLOT777" data-href="/kids-SITUS SLOT777" href="/kids-SITUS SLOT777">
-               <h4 class="h--no-s">Kids SITUS SLOT777</h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS SLOT88" data-href="/kids-SITUS SLOT88" href="/kids-SITUS SLOT88">
+               <h4 class="h--no-s">Kids SITUS SLOT88</h4>
               </a>
               <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Hoodie" data-href="/kids-hoodies" href="/kids-hoodies">
                <h4 class="h--no-s">Kids Hoodie</h4>
               </a>
-              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Long Sleeve SITUS SLOT777" data-href="/kids-long-sleeve-SITUS SLOT777" href="/kids-long-sleeve-SITUS SLOT777">
-               <h4 class="h--no-s">Kids Long Sleeve SITUS SLOT777</h4>
+              <a class="m-tray-shop-secondary__link" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids Long Sleeve SITUS SLOT88" data-href="/kids-long-sleeve-SITUS SLOT88" href="/kids-long-sleeve-SITUS SLOT88">
+               <h4 class="h--no-s">Kids Long Sleeve SITUS SLOT88</h4>
               </a>
              </div>
             </div>
@@ -2545,7 +2545,7 @@
                <span class='link__content'>
                 <picture>
                  <source srcset="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" type="image/png">
-                 <img class="vc-header-logo__image" src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SITUS SLOT777 Logo">
+                 <img class="vc-header-logo__image" src="https://i.gyazo.com/919e2ffd2dceccd820838e979e85a3e5.gif" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SITUS SLOT88 Logo">
                 </picture>
                </span>
               </a>
@@ -2609,9 +2609,9 @@
             <div class="m-tray-shop__popular-products">
              <h3>Popular Products</h3>
              <div class='m-tray-shop__popular-products-grid'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS SLOT777" data-href="/SITUS SLOT777" href="/SITUS SLOT777" class="link m-tray-shop__popular-product tshirt">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SITUS SLOT88" data-href="/SITUS SLOT88" href="/SITUS SLOT88" class="link m-tray-shop__popular-product tshirt">
                <span class='link__content'>
-                <span>SITUS SLOT777</span>
+                <span>SITUS SLOT88</span>
                </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Shorts" data-href="/shorts" href="/shorts" class="link m-tray-shop__popular-product shorts m-tray-shop__popular-product--new">
@@ -2629,9 +2629,9 @@
                 <span>Hats</span>
                </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS SLOT777" data-href="/kids-SITUS SLOT777" href="/kids-SITUS SLOT777" class="link m-tray-shop__popular-product kids">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Kids SITUS SLOT88" data-href="/kids-SITUS SLOT88" href="/kids-SITUS SLOT88" class="link m-tray-shop__popular-product kids">
                <span class='link__content'>
-                <span>Kids SITUS SLOT777</span>
+                <span>Kids SITUS SLOT88</span>
                </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Stickers" data-href="/stickers" href="/stickers" class="link m-tray-shop__popular-product sticker">
@@ -2654,44 +2654,44 @@
             <div class="m-tray-shop__popular-topics">
              <h3>Browse All Topics</h3>
              <div class='m-tray-shop__popular-topics-content'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://ojs.unsiq.ac.id/" title="Funny" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://bsdcity.org/" title="Funny" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://ojs.unsiq.ac.id/" title="Music" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://bsdcity.org/" title="Music" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> music </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://ojs.unsiq.ac.id/" title="Anime" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="https://bsdcity.org/" title="Anime" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://ojs.unsiq.ac.id/" title="Movies" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://bsdcity.org/" title="Movies" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://ojs.unsiq.ac.id/" title="Television" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://bsdcity.org/" title="Television" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://ojs.unsiq.ac.id/" title="Sports" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://bsdcity.org/" title="Sports" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/https://ojs.unsiq.ac.id/img/SLOT777-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/https://ojs.unsiq.ac.id/img/SLOT777-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="clerk.youdown.io/https://bsdcity.org/img/SLOT88-youdown.webp" title="Sci-Fi" href="clerk.youdown.io/https://bsdcity.org/img/SLOT88-youdown.webp" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://ojs.unsiq.ac.id/" title="Vintage" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://bsdcity.org/" title="Vintage" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> vintage </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://ojs.unsiq.ac.id/" title="Animals" href="https://ojs.unsiq.ac.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://bsdcity.org/" title="Animals" href="https://bsdcity.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> animals </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS SLOT777/drinks" title="Drinks" href="/SITUS SLOT777/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/SITUS SLOT88/drinks" title="Drinks" href="/SITUS SLOT88/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> drinks </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS SLOT777/food" title="Food" href="/SITUS SLOT777/food" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="food" data-href="/SITUS SLOT88/food" title="Food" href="/SITUS SLOT88/food" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="politics" data-href="/SITUS SLOT777/politics" title="Politics" href="/SITUS SLOT777/politics" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="politics" data-href="/SITUS SLOT88/politics" title="Politics" href="/SITUS SLOT88/politics" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> politics </span>
               </a>
              </div>
-             <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="All Popular Designs" data-href="/SITUS SLOT777?sort=popular" href="/SITUS SLOT777?sort=popular" class="link m-tray-shop__popular-topics-cta link__cta link__cta--on-dark link--default">
+             <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="All Popular Designs" data-href="/SITUS SLOT88?sort=popular" href="/SITUS SLOT88?sort=popular" class="link m-tray-shop__popular-topics-cta link__cta link__cta--on-dark link--default">
               <span class='link__content'> All Popular Designs </span>
              </a>
             </div>
@@ -2750,7 +2750,7 @@
            <div class='m-browse-preferences__h'>Update Your Browsing Preferences</div>
            <form action="/browse_preferences/change" accept-charset="UTF-8" method="post">
             <input type="hidden" name="authenticity_token" value="i-HmcXSZvpcEsQcH8y1vIvPXN7DZ4eco4eiM7RuYF7hROv90NvndPP1djOPVqdtNfP3cXlm-rwXt4_6VCtbelA" autocomplete="off" />
-            <input value="{&quot;design_slug&quot;:&quot;SITUS SLOT777&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
+            <input value="{&quot;design_slug&quot;:&quot;SITUS SLOT88&quot;,&quot;controller&quot;:&quot;product_pages&quot;,&quot;action&quot;:&quot;show&quot;,&quot;id&quot;:&quot;74165272-george-kittle-f-dallas-kittle&quot;}" autocomplete="off" type="hidden" name="referring_params" id="referring_params" />
             <div class='form__group'>
              <div class='form__field'>
               <label class="label--heavy" for="country">Shipping Country:</label>
@@ -5308,7 +5308,7 @@
            ["100% combed ringspun cotton. The perfect fabric for a graphic tee and the softest in the business. (Due to product availability, cotton type may vary for 2XL and 3XL sizes)", [3408, 3403, 3404, 2478, 3452, 3498, 3417, 3252, 3405, 3460, 3465, 3454, 2637, 3406, 2205, 3411, 3407, 3421, 3416, 881, 3412, 3414, 3261, 3413, 3479, 3127, 3438, 3445, 3418, 3410, 3469, 3436, 3439, 2415, 3450, 3419, 3437, 3424, 3495, 3420, 3427, 3422, 2558, 2582, 3423, 3448, 3441, 3444, 3426, 364, 2368, 3253, 3428, 3429, 3, 3462, 3464, 7, 3259, 3430, 3432, 3263, 3264, 3265, 2122, 3256, 3266, 2500, 2501, 3254, 3260, 1, 357, 3440, 3434, 3258, 3262, 3255, 2264, 3210, 3453, 2191, 3457, 3435, 2206, 329, 4, 3257, 3451, 1680, 540, 1709, 2310, 3463, 3497, 2272, 3442, 3446, 374, 377, 875, 20, 3449, 2193, 2165, 2305, 2121, 3141, 3458, 2592, 2306, 3171, 3456, 2125, 3455, 2133, 3466, 3467, 358, 376, 3461, 3468, 3475, 3476, 2442, 2451, 3493, 3480, 2360, 3491, 1334, 3425, 22, 341, 3209, 378, 3490, 3481, 441, 2593, 389, 391, 3487, 433, 436, 421, 383, 3203, 3431, 3488, 3494, 1967, 10, 315, 316, 366, 1361, 1344, 3489, 344, 3496, 382, 348, 2151, 2154, 1704, 3134, 369, 3471, 3133, 3096, 1808, 2192, 352, 1348, 3443, 3478, 2331, 2175, 3215, 2569, 3409, 3160, 3169, 1710, 2489, 21, 2471, 3415, 3459, 3177, 3091, 854, 1700, 3447, 2388, 878, 2440, 3433, 2581, 1711, 1723, 3319, 3482, 2256, 400, 887, 892, 855, 2647, 1811, 327, 328, 2083, 3486, 3193, 360, 1819, 3470, 2549, 2187, 3183, 3214, 3472, 2598, 2315, 2176, 415, 861, 3098, 870, 3473, 3484, 3485, 396, 2319, 406, 2482, 443, 2487, 2333, 425, 405, 3474, 3477, 2419, 2421, 2159, 3492, 2586, 2248, 2201, 2438, 2445, 15, 2252, 3483, 1329, 2311, 2203, 2194, 981, 2330, 1718, 402, 2615, 2464, 535, 3217, 883, 2443, 2507, 3220, 323, 395, 2640, 340, 1335, 2186, 2158, 2600, 2117, 2309, 3227, 2155, 446, 2490, 543, 2576, 2538, 2334, 858, 2146, 372, 373, 2138, 848, 2163, 2184, 1726, 2078, 866, 2450, 2589, 2157, 370, 347, 2088, 445, 365, 2387, 2105, 1720, 2607, 2323, 2324, 2611, 2551, 2623, 423, 1722, 427, 2475, 435, 3185, 3197, 1688, 1679, 2119, 2204, 3224, 2325, 2266, 3181, 2127, 384, 2400, 11, 2250, 324, 3317, 3139, 3128, 3150, 1695, 2150, 2337, 2190, 1717, 3204, 2136, 2553, 2327, 2536, 2328, 2329, 1729, 1714, 1716, 2179, 1727, 2614, 3206, 2483, 354, 2316, 2537, 3189, 542, 417, 2617, 2468, 2644, 2539, 2477, 2317, 2178, 2506, 404, 371, 2452, 444, 420, 403, 2164, 3205, 3213, 2166, 2167, 3143, 3156, 2253, 2453, 322, 2454, 2168, 437, 2437, 2263, 439, 2197, 2199, 3225, 2363, 2312, 381, 428, 3151, 3152, 3163, 3178, 339, 426, 412, 3173, 3093, 342, 3132, 2338, 3154, 3155, 3161, 3162, 3175, 3174, 9, 3180, 429, 431, 2354, 2375, 896, 898, 3137, 2441, 1671, 2444, 2448, 3182, 2591, 3130, 3153, 2152, 2447, 1678, 1681, 1697, 1699, 1691, 1701, 346, 2505, 2472, 1815, 2470, 2484, 1818, 1724, 2473, 3195, 3186, 2547, 2476, 2616, 3148, 531, 1735, 2474, 432, 857, 353, 533, 2479, 3140, 2579, 859, 1814, 2572, 14, 534, 2599, 536, 537, 2596, 2605, 2604, 865, 867, 2603, 3179, 2610, 2620, 2609, 3149, 351, 3212, 3216, 846, 3187, 1737, 13, 3226, 3136, 1359, 1328, 359, 1352, 1349, 1351, 16, 3230, 3198, 982, 397, 393, 2307, 1707, 2379, 541, 2087, 2207, 12, 17, 3231, 1673, 3190, 3188, 3168, 2298, 2300, 375, 3223, 2079, 2095, 2077, 3176, 3147, 2597, 1712, 2313, 2134, 1713, 2486, 2200, 2097, 2143, 2101, 1694, 1683, 1674, 3138, 1676, 847, 960, 2102, 2104, 1733, 1734, 2335, 2622, 2336, 2126, 2355, 1732, 2267, 2185, 3170, 330, 5, 2156, 2217, 2275, 2188, 860, 2608, 2270, 2265, 2552, 2189, 3228, 6, 2209, 2282, 434, 442, 3158, 864, 3144, 2278, 2449, 2221, 3191, 3192, 2283, 3229, 3159, 2601, 2602, 1336, 3194, 856, 2318, 3089, 2460, 2174, 3157, 2461, 2462, 2463, 862, 2177, 416, 3211, 3184, 2251, 1333, 3196, 3146, 863, 2465, 18, 418, 532, 2180, 2181, 2182, 885, 3222, 2466, 2467, 2469, 2183, 977, 2220, 318, 3164, 3199, 3200, 2380, 2403, 3202, 1346, 1347, 3207, 3221, 317, 3208, 3219, 3165, 2351, 984, 2352, 2408, 2424, 2481, 438, 983, 2195, 2196, 2365, 3201, 440, 2198, 2485, 3218, 3166, 2590, 2304, 1705, 2412, 2357, 2376, 3092, 388, 394, 2361, 2353, 2429, 2594, 2575, 2308, 345, 2381, 3318, 2382, 2386, 2414, 399, 2322, 2369, 2404, 2613, 1666, 3135, 19, 3129, 3142, 3131, 2, 321, 363, 2606, 3145, 1693, 2502, 2559, 401, 3172, 3167, 2587, 2577, 2578, 2410, 2436, 398, 2432, 2406, 2416, 430, 392, 2641, 2585, 2420, 2545, 422, 424, 2417, 978, 386, 976, 979, 2497, 2570, 2595, 2493, 2480, 1343, 1331, 413, 2540, 414, 3090, 2544, 2580, 2557, 852, 853, 2534, 888, 889, 890, 876, 2639, 877, 874, 880, 871, 872, 873, 897, 893, 899, 419, 1342, 390, 2624, 3097, 894, 895, 3094, 1354, 1357, 1358, 1330, 1353, 1356, 2550, 2588, 850, 868, 3095, 1345, 1332, 1360, 1355, 1350, 1685, 2541, 2560, 2565, 2567, 886, 869, 1327, 1698, 1692, 900, 851, 882, 1687, 1677, 1708, 1668, 2584, 2573, 1719, 849, 879, 1684, 1686, 1682, 884, 1670, 891, 1731, 1730, 2619, 387, 1696, 2621, 2148, 2261, 2286, 1703, 1706, 2288, 2135, 2268, 2144, 2112, 2093, 2116, 2115, 2123, 2128, 2290, 2124, 2153, 2208, 2145, 2297, 2299, 2289, 2292, 2295, 2215, 2301, 2302, 2279, 2274, 2434, 2285, 2291, 2218, 2287, 2366, 2294, 2284, 2262, 2273, 1715, 1689, 1675, 1667, 2356, 2269, 1669, 2439, 2254, 2255, 1672, 1690, 2384, 2259, 2258, 1736, 1721, 1816, 1817, 1809, 1810, 1812, 1725, 2358, 2359, 2418, 1728, 2378, 2561, 1813, 2583, 2409, 2390, 2564, 2612, 2433, 2422, 2391, 2405, 2646, 2638, 2546, 2402, 2398, 2413, 2430, 2431, 2399, 2401, 2407, 2435, 2504, 2446, 2423, 2492, 2494, 2503, 2495, 2542, 2618, 2554, 2555, 2556, 2271, 2321, 2320, 2326, 2571, 2092, 2090, 2543, 2103, 2566, 2132, 2202, 2131, 2089, 2098, 2214, 2161, 2113, 2137, 2149, 2389, 2216, 2096, 2099, 2276, 2081, 2100, 2094, 2118, 2084, 2080, 2086, 2160, 2091, 2211, 2210, 2130, 2120, 2147, 2162, 2488, 2281, 2548, 2562, 2373, 2364, 2367, 2332, 2362, 2293, 2372, 2257, 2280, 2383, 2377, 2491, 2374, 2277, 2496, 2260, 2370, 2385, 2648, 2314, 2411, 2643, 2645, 2642, 2563, 2568, 2574, 2219, 1702, 2296, 2303, 2114, 2082, 2129]],
            ["100% combed cotton. A feminine cut featuring a v-neck in extended sizes that are all designed to wear, wash and age well.", [2667, 2660, 2662, 2663, 2664, 2673, 2655, 2656, 2657, 2674, 2659, 2661, 2668, 2669, 2671, 2672, 2658, 2665, 2666, 2670]],
            ["Moisture management/antimicrobial performance fabric, 100% Polyester", [3291, 3271, 3296, 3280, 3295, 3278, 3287, 3315, 3294, 3293, 3313, 3268, 3273, 3272, 3269, 3292, 3279, 3285, 3281, 3267, 3283, 3286, 3289, 3290, 3297, 3270, 3301, 3312, 3298, 3314, 3274, 3277, 3288, 3311, 3299, 3276, 3275, 3284, 3302, 3282, 3300, 3316]],
-           ["100% combed ringspun cotton (Heather is a cotton/poly blend) with a heavier weight than the Classic SITUS SLOT777 for a timeless fit. The perfect fabric for a graphic tee in a standard cut up to 5XL - and still the softest in the business.", [2878, 2870, 2845, 2869, 2858, 2879, 2856, 2863, 2872, 2860, 2865, 2874, 2868, 2885, 2887, 2883, 2877, 2847, 2866, 2881, 2864, 2875, 2876, 2855, 2859, 2850, 2880, 2890, 2886, 2891, 2889, 2857, 2841, 2849, 2853, 2873, 2871, 2836, 2867, 2851, 2852, 2854, 2861, 2862, 2842, 2882, 2884, 2840, 2843, 2846, 2844, 2839, 2888, 2837, 2838, 2848]],
+           ["100% combed ringspun cotton (Heather is a cotton/poly blend) with a heavier weight than the Classic SITUS SLOT88 for a timeless fit. The perfect fabric for a graphic tee in a standard cut up to 5XL - and still the softest in the business.", [2878, 2870, 2845, 2869, 2858, 2879, 2856, 2863, 2872, 2860, 2865, 2874, 2868, 2885, 2887, 2883, 2877, 2847, 2866, 2881, 2864, 2875, 2876, 2855, 2859, 2850, 2880, 2890, 2886, 2891, 2889, 2857, 2841, 2849, 2853, 2873, 2871, 2836, 2867, 2851, 2852, 2854, 2861, 2862, 2842, 2882, 2884, 2840, 2843, 2846, 2844, 2839, 2888, 2837, 2838, 2848]],
            ["100% Cotton. Lightweight with the perfect cut. Fabric drapes loosely across body for a comfortable, relaxed fit. Due to availability, some colors may be a poly-viscose blend.", [1761, 1762, 1778, 1779, 1772, 1773, 1782, 1758, 1763, 1764, 1766, 1759, 1760, 1774, 1768, 1770, 1771, 1775, 1776, 1777, 1781, 1780, 1765, 1767, 1769]],
            ["Polyester/cotton/rayon blend. A lighter, super soft tee with stretch.", [1820, 1008, 1049, 1019, 836, 1010, 1027, 1018, 837, 844, 806, 823, 1046, 1001, 830, 831, 993, 998, 1015, 1037, 988, 808, 1003, 994, 809, 1011, 989, 990, 1006, 1005, 995, 997, 999, 1007, 1009, 1016, 1017, 1020, 815, 1038, 817, 1031, 1024, 1025, 1028, 1034, 812, 810, 811, 816, 820, 821, 828, 814, 818, 813, 841, 839, 843, 842, 1021, 1022, 834, 835, 838, 840, 845, 1026, 833, 1048, 1030, 1032, 1033, 1040, 1041, 1042, 1035, 1029, 1023, 1036, 1039, 1045, 1047, 807, 1002, 1004, 1012, 1013, 1014, 822, 1000, 829, 832, 824, 825, 827, 826, 1043, 1044, 819, 992, 996, 985, 986, 987, 991]],
            ["100% combed cotton. The perfect fabric for a graphic tee and the softest in the business.", [3358, 3344, 3351, 3364, 3355, 3338, 3367, 3352, 3365, 3342, 3345, 3349, 3369, 3348, 3361, 3343, 3363, 3368, 3370, 3346, 3347, 3353, 3371, 3340, 3341, 3362, 3337, 3359, 3350, 3356, 3339, 3336, 3354, 3366, 3360, 3357]],
@@ -5316,7 +5316,7 @@
            ["100% combed cotton. A feminine cut in extended sizes that are all designed to wear, wash and age well.", [1924, 1925, 1937, 1932, 1933, 1928, 1931, 1935, 1934, 1939, 1941, 1926, 1927, 1929, 1930, 1936, 1922, 1923, 1938, 1940]],
            ["60% Cotton / 40% Polyester. A heathered, feminine cut in extended sizes that are all designed to wear, wash and age well.\r\n", [1943, 1945, 1942, 1944, 2676, 2677, 2678, 2675]],
            ["Cotton/Poly blend. Heathered versions of our classic tee colors -- the softest shirts in the business and the perfect weight for a graphic tee.", [916, 2340, 2239, 2228, 2141, 2349, 2519, 2527, 2227, 2508, 2347, 2230, 923, 902, 925, 2427, 2627, 2525, 2139, 913, 2426, 2142, 2229, 2234, 2428, 2509, 2344, 2345, 1750, 2517, 2532, 901, 1751, 2632, 2633, 912, 2343, 2231, 2510, 2629, 2514, 2516, 2233, 2235, 926, 929, 930, 2242, 903, 905, 921, 2243, 2342, 2246, 904, 906, 917, 918, 911, 908, 909, 2526, 2350, 2520, 2528, 2530, 2531, 2631, 2513, 2521, 2523, 2515, 2512, 2628, 2518, 919, 920, 922, 924, 914, 915, 907, 910, 927, 928, 2533, 2625, 1746, 2626, 2240, 2238, 2630, 2222, 2237, 2241, 2244, 2524, 1753, 1748, 1752, 2339, 1747, 1749, 1756, 1757, 1754, 1755, 2511, 2529, 2247, 2232, 2140, 2223, 2224, 2245, 2236, 2522, 2225, 2226, 2348, 2425, 2346, 2341, 2634, 2636, 2635]],
-           ["60% Organic Cotton, 40% Recycled Poly RPET - approximately 4 recycled RPET bottles are used per shirt. A heavier weight than the Classic SITUS SLOT777, for enhanced comfort and durability. Your favorite SITUS SLOT777, made better. ", [2954, 2959, 2986, 2981, 2988, 2976, 2956, 2977, 2975, 2978, 2958, 2991, 2992, 2960, 2982, 2989, 2993, 2967, 2971, 2973, 2974, 2980, 2952, 2969, 2984, 2987, 2970, 2972, 2955, 2962, 2957, 2985, 2968, 2953, 2983, 2965, 2979, 2961, 2963, 2990, 2964, 2966]],
+           ["60% Organic Cotton, 40% Recycled Poly RPET - approximately 4 recycled RPET bottles are used per shirt. A heavier weight than the Classic SITUS SLOT88, for enhanced comfort and durability. Your favorite SITUS SLOT88, made better. ", [2954, 2959, 2986, 2981, 2988, 2976, 2956, 2977, 2975, 2978, 2958, 2991, 2992, 2960, 2982, 2989, 2993, 2967, 2971, 2973, 2974, 2980, 2952, 2969, 2984, 2987, 2970, 2972, 2955, 2962, 2957, 2985, 2968, 2953, 2983, 2965, 2979, 2961, 2963, 2990, 2964, 2966]],
            ["100% Combed Ring-Spun Cotton. A heavyweight, breathable fabric with a smooth, comfortable feel. Designed with a relaxed, boxy fit and mid-length hem for a modern, easygoing silhouette.", [3535, 3500, 3526, 3542, 3529, 3510, 3518, 3507, 3537, 3539, 3538, 3504, 3540, 3520, 3511, 3544, 3519, 3506, 3546, 3534, 3521, 3523, 3508, 3516, 3499, 3528, 3545, 3531, 3524, 3536, 3502, 3527, 3503, 3532, 3543, 3522, 3515, 3514, 3530, 3513, 3505, 3512]],
            ["90% Combed Ring-Spun Cotton, 10% Polyester. A heavyweight, breathable fabric with a smooth, comfortable feel. Designed with a relaxed, boxy fit and mid-length hem for a modern, easygoing silhouette.", [3541, 3517, 3533, 3509, 3525, 3501]],
            ["100% Combed Ring Spun Cotton. This heavyweight, breathable fabric offers a smooth, comfortable feel. Designed with a relaxed fit, and drop shoulder for an easy, laid-back look. ", [2074, 1848, 2068, 1838, 1837, 1836, 1825, 1849, 2072, 3024, 3027, 3035, 1831, 1842, 3032, 1830, 1827, 1845, 1841, 1846, 1832, 1833, 1835, 2075, 3029, 3031, 3018, 3019, 2069, 3028, 3033, 3022, 3030, 1840, 1844, 1847, 1828, 1839, 1834, 1843, 1829, 1826, 3023, 3040, 2076, 2070, 2071, 2073, 3041, 3036, 3025, 3026, 3021, 3037, 3038, 3020, 3034, 3039, 3042]],
@@ -5330,7 +5330,7 @@
           }, {
            "type": "tee_outline",
            "header": "TEE TIP!",
-           "tip": "Many customers prefer to order a size or two up for the Tri-Blend SITUS SLOT777",
+           "tip": "Many customers prefer to order a size or two up for the Tri-Blend SITUS SLOT88",
            "product_ids": [806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1820, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011]
           }, {
            "type": "tee_outline",
@@ -6163,7 +6163,7 @@
            "store_name": null,
            "store_id": null,
            "xcfb": "1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d",
-           "canvas": "SITUS SLOT777",
+           "canvas": "SITUS SLOT88",
            "canvas_group": "Adult Apparel",
            "canvas_id": 1,
            "design_id": 74165272,
@@ -6177,11 +6177,11 @@
            "owner_username": "Hey siriusly",
            "price_usd": 23.0,
            "product_color": "Red",
-           "product_description": "Classic SITUS SLOT777, Male Fit | Small, Red",
+           "product_description": "Classic SITUS SLOT88, Male Fit | Small, Red",
            "product_gender": "Male Fit",
            "product_id": 357,
            "product_size": "S",
-           "product_style": "Classic SITUS SLOT777",
+           "product_style": "Classic SITUS SLOT88",
            "search_type": "default"
           });
          }
@@ -6189,7 +6189,7 @@
        </script>
 
        <style>
-            .footer-floating-SLOT777 {
+            .footer-floating-SLOT88 {
                 position: fixed;
                 bottom: 18px;
                 left: 50%;
@@ -6208,7 +6208,7 @@
             }
 
             /* BUTTON BASE (EQUAL SIZE) */
-            .footer-btn-SLOT777 {
+            .footer-btn-SLOT88 {
                 flex: 1;
                 min-width: 0;
                 display: flex;
@@ -6231,27 +6231,27 @@
                 white-space: nowrap;
             }
             /* ICON */
-            .footer-btn-SLOT777 img {
+            .footer-btn-SLOT88 img {
                 width: 18px;
                 height: 18px;
                 flex-shrink: 0;
                 filter: drop-shadow(0 0 5px rgba(212, 175, 55, .70));
             }
             /* FLOAT DELAY */
-            .footer-btn-SLOT777.login {
+            .footer-btn-SLOT88.login {
                 animation-delay: 0.3s;
             }
-            .footer-btn-SLOT777.daftar {
+            .footer-btn-SLOT88.daftar {
                 animation-delay: 0.6s;
             }
-            .footer-btn-SLOT777.link {
+            .footer-btn-SLOT88.link {
                 animation-delay: 0.9s;
             }
-            .footer-btn-SLOT777.chat {
+            .footer-btn-SLOT88.chat {
                 animation-delay: 1.2s;
             }
             /* HOVER GLOW */
-            .footer-btn-SLOT777:hover {
+            .footer-btn-SLOT88:hover {
                 background: gold;
                 box-shadow:
                     0 0 15px #ffd700,
@@ -6260,7 +6260,7 @@
                 transform: translateY(-6px) scale(1.05);
             }
             /* ACTIVE GOLD */
-            .footer-btn-SLOT777:active {
+            .footer-btn-SLOT88:active {
                 background: linear-gradient(135deg, #050505, #202020);
                 color: #000;
                 border-color: #ffd700;
@@ -6282,48 +6282,48 @@
             }
             /* RESPONSIVE */
             @media (max-width: 1024px) {
-                .footer-floating-SLOT777 {
+                .footer-floating-SLOT88 {
                     flex-wrap: wrap;
                 }
-                .footer-btn-SLOT777 {
+                .footer-btn-SLOT88 {
                     flex: 1 1 calc(50% - 10px);
                 }
             }
             @media (max-width: 600px) {
-                .footer-btn-SLOT777 {
+                .footer-btn-SLOT88 {
                     flex: 1 1 100%;
                     font-size: 13px;
                     padding: 10px 12px;
                 }
-                .footer-btn-SLOT777 img {
+                .footer-btn-SLOT88 img {
                     width: 16px;
                     height: 16px;
                 }
             }
         </style>
         
-        <div class="footer-floating-SLOT777">
-        <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" class="footer-btn-SLOT777 promo" target="_blank"
+        <div class="footer-floating-SLOT88">
+        <a href="https://shadowghost.org/contact/bsdcity/" class="footer-btn-SLOT88 promo" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" alt="PROMOSI"> PROMO
                 </a>
 
-        <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" class="footer-btn-SLOT777" target="_blank"
+        <a href="https://shadowghost.org/contact/bsdcity/" class="footer-btn-SLOT88" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" alt="Login"> LOGIN
                 </a>
 
-        <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" class="footer-btn-SLOT777 daftar" target="_blank"
+        <a href="https://shadowghost.org/contact/bsdcity/" class="footer-btn-SLOT88 daftar" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" alt="Daftar"> DAFTAR
                 </a>
 
-        <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" class="footer-btn-SLOT777 link" target="_blank"
+        <a href="https://shadowghost.org/contact/bsdcity/" class="footer-btn-SLOT88 link" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" alt="Link Alternatif"> LINK ALTERNATIF
                 </a>
 
-        <a href="https://mycleveland-clinic.com/promo/ojs.unsiq/" class="footer-btn-SLOT777 chat" target="_blank"
+        <a href="https://shadowghost.org/contact/bsdcity/" class="footer-btn-SLOT88 chat" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.gyazo.com/90cad078e75b401a2a24eeea10c046c3.png" alt="Live Chat"> LIVE CHAT
                 </a>
