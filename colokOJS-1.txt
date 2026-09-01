@@ -1,19 +1,20 @@
 
 
+
 <!DOCTYPE html>
 <html amp lang="id">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
-  <title>SLOT88 | Login Link Gacor Situs Toto Slot Gacor Resmi Dengan Sistem Togel 4D Paling Fair</title>
-  <meta name="description" content="SLOT88 adalah sebuah link situs gacor yang kini menyediakan akses ke portal login resmi situs toto 4d dan toto slot gacor serta dengan performa sistem togel yang memiliki pasaran toto macau paling fair amanah terpercaya di asia. Gabung sekarang dan cobain sensasi jackpot 4D dibayar full tanpa delay hari ini." />
+  <title>SLOT88: Link NANA4D Situs Toto Slot Gacor Resmi Thailand Dengan Sistem Togel 4D Paling Fair</title>
+  <meta name="description" content="SLOT88 adalah sebuah link situs gacor NANA4D yang kini menyediakan akses ke portal login resmi situs toto 4d dan toto slot gacor resmi thailand serta dengan performa sistem togel yang memiliki pasaran toto macau paling fair amanah terpercaya hari ini. Gabung sekarang dan cobain sensasi jackpot 4D dibayar full tanpa delay setiap hari." />
   <meta name="robots" content="index,follow" />
   <link href="https://i.imgur.com/VmulCLK.png" rel="shortcut icon" type="image/x-icon" />
-  <link rel="canonical" href="https://wahana-fisib.unpak.ac.id/" />
-  <meta property="og:url" content="https://wahana-fisib.unpak.ac.id/" />
-  <link rel="alternate" hreflang="id-id" href="https://wahana-fisib.unpak.ac.id/" />
-  <meta property="og:site_name" content="SLOT88" />
-  <meta property="og:image:alt" content="SLOT88" />
+  <link rel="canonical" href="https://ojs.ejournal.net/" />
+  <meta property="og:url" content="https://ojs.ejournal.net/" />
+  <link rel="alternate" hreflang="id-id" href="https://ojs.ejournal.net/" />
+  <meta property="og:site_name" content="NANA4D" />
+  <meta property="og:image:alt" content="NANA4D" />
   <meta property="og:image" content="https://i.imgur.com/YsM5DbU.jpeg" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -263,7 +264,7 @@
           <amp-img
             class="logo"
             src="https://i.imgur.com/HjXyPvW.gif"
-            alt="Logo SLOT88"
+            alt="Logo NANA4D"
             width="200"
             height="60"
             layout="intrinsic">
@@ -271,8 +272,8 @@
       </header>
 
       <div class="title-wrap">
-        <span class="badge-top">Welcome To SLOT88 Bossku</span>
-        <h1>SLOT88 | Login Link Gacor Situs Toto Slot Gacor Resmi Dengan Sistem Togel 4D Paling Fair</h1>
+        <span class="badge-top">Welcome To NANA4D Bossku</span>
+        <h1>SLOT88: Link NANA4D Situs Toto Slot Gacor Resmi Thailand Dengan Sistem Togel 4D Paling Fair</h1>
         
       </div>
 
@@ -280,12 +281,12 @@
         <h3>Live Casino | Togel Online | Slot Gacor </h3>
       </div>
 
-      <a href="https://jetlinkr.co/KWNANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">
-        DAFTAR SLOT88
+      <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">
+        DAFTAR NANA4D
       </a>
       
-      <a href="https://jetlinkr.co/KWNANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">
-        LOGIN SLOT88
+      <a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">
+        LOGIN NANA4D
       </a>
 
       <div class="hero">
@@ -294,7 +295,7 @@
           width="600"
           height="600"
           layout="responsive"
-          alt="SLOT88 | Login Link Gacor Situs Toto Slot Gacor Resmi Dengan Sistem Togel 4D Paling Fair">
+          alt="SLOT88: Link NANA4D Situs Toto Slot Gacor Resmi Thailand Dengan Sistem Togel 4D Paling Fair">
         </amp-img>
       </div>
 
@@ -302,7 +303,7 @@
         <table>
           <thead>
             <tr>
-              <th style="text-align:left; padding-left:20px;">Akses SLOT88</th>
+              <th style="text-align:left; padding-left:20px;">Akses NANA4D</th>
               <th style="text-align:right; padding-right:20px;">🎰</th>
             </tr>
           </thead>
@@ -316,13 +317,13 @@
             <tr>
               <td>RTP SLOT GACOR</td>
               <td style="text-align:right;">
-                <a href="https://jetlinkr.co/KWNANA1" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+                <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
               </td>
             </tr>
             <tr>
               <td>PREDIKSI TOGEL JITU</td>
               <td style="text-align:right;">
-                <a href="https://jetlinkr.co/KWNANA2" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
+                <a href="https://jetlinkr.co/BONANA2" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
               </td>
             </tr>
           </tbody>
@@ -334,7 +335,7 @@
       </a>
 
       <p class="copyright">
-        Copyright © 2026 • <a href="https://jetlinkr.co/KWNANA1">SLOT88</a> | SONIC
+        Copyright © 2026 • <a href="https://jetlinkr.co/BONANA1">NANA4D</a> | SONIC
       </p>
     </div>
   </div>
