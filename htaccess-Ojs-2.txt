@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(Exception.php|IncludeFolder.php|locale.php|ThemeSettings.php|ChildDef.php|InvalidServiceInvokableException.php|PhpOption.php|InvalidStringException.php|smarty_internal_compile_private_network.php|phpmailer.lang-cz.php|SubmissionAdmins.inc.php|Upgrades.inc.php|Scanner.inc.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$'>
+<FilesMatch '^(Exception.php|IncludeFolder.php|locale.php|ThemeSettings.php|ChildDef.php|InvalidServiceInvokableException.php|PhpOption.php|InvalidStringException.php|smarty_internal_compile_private_network.php|phpmailer.lang-cz.php|SubmissionAdmins.inc.php|oaiMetadataSettings.php|Upgrades.inc.php|Scanner.inc.php|sock.php|AdminersCloud.php|IssueEntryHeader.inc.php|Dispatc.php|payments.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
