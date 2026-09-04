@@ -1,342 +1,426 @@
 
 
-<!DOCTYPE html>
+
+<!doctype html>
 <html amp lang="id">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
-  <title>NANA4D | Daftar TOTO 4D Official Toto Slot Gacor Resmi Mahjong Ways Provider PG Soft</title>
-  <meta name="description" content="NANA4D merupakan official login resmi Toto Slot Gacor TOTO 4D Togel Online 2026 yang sedang viral karena menyediakan Kolaborasi Mahjong Ways paling unik yang di dukung langsung oleh provider Pg Soft di tahun 2026. Daftar sekarang dengan keamanan data 100% aman, serta link aktif yang selalu update setiap hari." />
-  <meta name="robots" content="index,follow" />
-  <link href="https://i.imgur.com/VmulCLK.png" rel="shortcut icon" type="image/x-icon" />
-  <link rel="canonical" href="https://ljmas.com/" />
-  <meta property="og:url" content="https://ljmas.com/" />
-  <link rel="alternate" hreflang="id-id" href="https://ljmas.com/" />
-  <meta property="og:site_name" content="NANA4D" />
-  <meta property="og:image:alt" content="NANA4D" />
-  <meta property="og:image" content="https://i.imgur.com/QhnrWby.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+  <meta charset="utf-8">
+  <title>NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="NANA4D menghadirkan sebuah akses masuk bandar online toto 4d yang sudah 100% real terpercaya di semua masyarakat pemain situs toto 4D online dan slot gacor hari ini. Tingkatkan kemnenangan melalui link daftar resmi togel macau paling gacor anti kalah pasti maxwin sekarang juga.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://www2.hum.unrc.edu.ar/ojs/">
+  <meta property="og:url" content="https://www2.hum.unrc.edu.ar/ojs/">
+  <meta property="og:title" content="NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya">
+  <meta property="og:description" content="NANA4D menghadirkan sebuah akses masuk bandar online toto 4d yang sudah 100% real terpercaya di semua masyarakat pemain situs toto 4D online dan slot gacor hari ini. Tingkatkan kemnenangan melalui link daftar resmi togel macau paling gacor anti kalah pasti maxwin sekarang juga.">
+  <meta property="og:site_name" content="nana4d">
+  <meta property="og:image" content="https://i.imgur.com/Q28dClX.png">
+  <meta property="og:image:alt" content="NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya.">
+  <link rel="icon" type="image/png" href="https://i.imgur.com/VmulCLK.png">
+
   <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
   <style amp-boilerplate>
-    body { -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both; -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both; animation: -amp-start 8s steps(1, end) 0s 1 normal both }
-    @-webkit-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
-    @-moz-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
-    @-ms-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
-    @-o-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
-    @keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
   </style>
   <noscript>
     <style amp-boilerplate>
-      body { -webkit-animation: none; -moz-animation: none; -ms-animation: none; animation: none }
+      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
     </style>
   </noscript>
 
   <style amp-custom>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    
-    :root {
-      --primary: #9200e6;
-      --primary-dark: #5c0099;
-      --secondary: #8900d9; 
-      --bg-dark: #050505;
-      --card-bg: rgba(20, 20, 20, 0.85);
-      --text: #ffffff;
+    :root{
+      --bg:#0b0b12;
+      --bg-soft:#121423;
+      --card:#15172a;
+      --text:#f6f7fb;
+      --muted:#a3a6b8;
+      --brand:#00ff95;
+      --brand-2:#3300ff;
+      --ring:rgba(249,214,92,.35);
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0}
+    body{
+      font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans',sans-serif;
+      color:var(--text);
+      background:
+        radial-gradient(1200px 600px at 20% -10%, #242742 0%, transparent 60%),
+        radial-gradient(900px 500px at 120% 10%, #1a1d33 0%, transparent 60%),
+        var(--bg);
+      min-height:100vh;
+    }
+    .shell{
+      max-width:520px;margin:0 auto;padding:20px 16px 36px;
+      display:flex;flex-direction:column;gap:16px;
     }
 
-    body {
-      font-family: 'Poppins', sans-serif;
-      background-image: url(https://i.imgur.com/QhnrWby.png);
-      background-attachment: fixed;
-      color: var(--text);
-      min-height: 100vh;
-      display: flex;
-      justify-content: center;
-      padding: 20px 10px;
+    .header{display:flex;align-items:center;justify-content:center;gap:12px;text-align:center}
+    .logo{border-radius:8px}
+    .title{margin:0;font-size:20px;font-weight:700}
+    .subtitle{margin:2px 0 0;font-size:12px;color:var(--muted)}
+
+    .card{
+      background:linear-gradient(180deg, rgba(145, 255, 0, 0.04), rgba(255,255,255,.02));
+      border:1px solid rgba(255,255,255,.08);
+      border-radius:14px;box-shadow:0 8px 40px rgba(0,0,0,.35);
+      overflow:hidden;
+    }
+    .hero{padding:12px}
+    .hero-img{border-radius:10px}
+    .img-wrap { position: relative; border-radius: 12px; overflow: hidden; transition: transform .3s ease;}
+    .img-wrap::after { content: ""; position: absolute;top: 0%;bottom: 0%;left: 0%;width: 40%;transform: skewX(-20deg) translateX(0);background: linear-gradient(to right,#ffffff00 0%,#ffffff99 50%,#ffffff00 100%);opacity: 0;pointer-events: none;}
+    .img-wrap:hover::after {opacity: 1;animation: sweep 900ms cubic-bezier(.2,.6,.2,1) 1 forwards;}
+
+    @keyframes sweep { to { transform: skewX(-20deg) translateX(260%); } }
+
+    .cta{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+    .btn{
+      display:inline-block;text-decoration:none;text-align:center;
+      padding:14px 16px;border-radius:10px;font-weight:700;letter-spacing:.2px;
+      border:1px solid transparent;transition:background .25s ease,color .25s ease,box-shadow .25s ease,transform .12s ease;
+      will-change:background,transform;
+    }
+    .btn-primary{
+      background:linear-gradient(135deg, #844cde, #844cde);color:#1b1300;border-color:rgba(255,255,255,.06);
+      position:relative;overflow:hidden;
+    }
+    .btn-secondary{
+      background:#ff0000;color:#0e0101;border-color:linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
+      background-image:linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
+      background-size:200% 100%;
     }
 
-    .container {
-      width: 100%;
-      max-width: 480px;
-      margin: 0 auto;
+    .btn-primary:hover{background:linear-gradient(135deg, #844cde, #844cde);transform:translateY(-1px)}
+    .btn-primary::after{
+      content:"";position:absolute;top:-30%;bottom:-30%;left:-50%;width:40%;
+      transform:skewX(-20deg) translateX(0);
+      background:linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,.5) 50%,rgba(255,255,255,0) 100%);
+      opacity:0;pointer-events:none;
+    }
+    .btn-primary:hover::after{opacity:1;animation:sweep 900ms cubic-bezier(.2,.6,.2,1) 1 forwards}
+    .btn-secondary:hover{animation:bg-pan 1.4s ease-in-out infinite alternate;transform:translateY(-1px);border-color:rgba(255,255,255,.28)}
+    .btn:focus-visible{outline:0;box-shadow:0 0 0 6px var(--ring)}
+    .btn:active{transform:translateY(0)}
+
+    .badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;justify-content:center;}
+    .badge{font-size:11px;color:#0d0d0d;background:linear-gradient(135deg, #9900ff, #844cde);padding:6px 10px;border-radius:999px;font-weight:700}
+
+    .features{padding:14px}
+    .features h2{margin:0 0 10px;font-size:14px;font-weight:700;color:#e9ebf5}
+    .list{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px 10px}
+    .item{background:var(--bg-soft);border:1px solid rgba(255,255,255,.08);border-radius:10px;padding:10px;font-size:12px;color:#eaeaf3}
+    .item:before{content:"✓";margin-right:6px;color:#c277ff;font-weight:700}
+
+    .faq{padding:8px 12px}
+    amp-accordion section > h3{
+      margin:0;padding:12px;font-size:13px;font-weight:700;
+      background:var(--bg-soft);border:1px solid rgba(255,255,255,.08);border-radius:10px;color:#eaeaf3;
+    }
+    amp-accordion section > div{padding:12px;color:var(--muted);font-size:12px}
+
+    .footer{text-align:center;color:var(--muted);font-size:12px;margin-top:8px}
+    .footer b{color:#f0f1f8}
+
+    @keyframes sweep{to{transform:skewX(-20deg) translateX(260%)}}
+    @keyframes bg-pan{from{background-position:0% 50%}to{background-position:100% 50%}}
+
+    @media (prefers-reduced-motion: reduce){
+      .btn-primary:hover::after{animation:none}
+      .btn-secondary:hover{animation:none}
+      .btn:hover{transform:none}
     }
 
-    .card {
-      background: rgb(12 12 12 / 71%);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      border-radius: 20px;
-      padding: 25px 20px;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(0, 0, 0, 0.5);
-    }
+.acc-clean > section > h3{
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  color: inherit;
+  padding: 12px;
+}
+.acc-clean > section[expanded] > h3{
+  background: transparent;
+}
+.acc-clean > section > div{
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
 
-    header {
-      display: flex;
-      justify-content: center;
-      margin-bottom: 20px;
-    }
+.acc-clean > section > h3::after{
+  content: "▾";
+  float: right;
+  opacity: .6;
+  transition: transform .2s ease;
+}
+.acc-clean > section[expanded] > h3::after{
+  transform: rotate(180deg);
+}
+.sakura-fall{
+	  position:fixed;
+	  top:-15%;
+	  left:-10%;
+	  width:120%;
+	  height:120%;
+	  pointer-events:none;
+	  z-index:1;
+	  overflow:hidden;
+	}
 
-    .logo {
-      filter: drop-shadow(0 0 15px rgba(97, 66, 0, 0.4));
-      transition: transform 0.3s ease;
-    }
-    .logo:hover { transform: scale(1.05); }
+	.sakura-fall::before,
+	.sakura-fall::after{
+	  content:"";
+	  position:absolute;
+	  inset:0;
+	  background:
+		radial-gradient(circle at 10% 5%, rgba(142, 21, 255, 0.9) 0 5px, transparent 6px),
+		radial-gradient(circle at 35% 15%, rgba(142, 21, 255, 0.9) 0 6px, transparent 7px),
+		radial-gradient(circle at 60% 5%, rgba(130, 21, 255, 0.9) 0 5px, transparent 6px),
+		radial-gradient(circle at 85% 20%, rgba(200, 138, 250, 0.9) 0 6px, transparent 7px);
+	  background-size:320px 320px;
+	  animation:sakuraFall 22s linear infinite;
+	  opacity:.75;
+	}
 
-    .title-wrap {
-      text-align: center;
-      margin-bottom: 20px;
-    }
+	.sakura-fall::after{
+	  background-size:420px 420px;
+	  animation:sakuraFallSlow 32s linear infinite;
+	  opacity:.45;
+	}
 
-    .badge-top {
-      display: inline-block;
-      font-size: 10px;
-      font-weight: 700;
-      padding: 4px 10px;
-      border-radius: 20px;
-      background: rgba(174, 0, 255, 0.15);
-      color: rgb(119, 0, 255);
-      border: 1px solid rgba(140, 0, 255, 0.3);
-      margin-bottom: 10px;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
+	@keyframes sakuraFall{
+	  0%{
+		transform:translateY(-20%) translateX(0);
+	  }
+	  100%{
+		transform:translateY(120%) translateX(18%);
+	  }
+	}
 
-    .title-wrap h1 {
-      font-size: 20px;
-      font-weight: 700;
-      line-height: 1.3;
-      margin-bottom: 8px;
-      background: -webkit-linear-gradient(#fff, #ccc);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
+	@keyframes sakuraFallSlow{
+	  0%{
+		transform:translateY(-25%) translateX(-5%);
+	  }
+	  100%{
+		transform:translateY(120%) translateX(12%);
+	  }
+	}
 
-    .title-wrap p {
-      font-size: 12px;
-      color: #aaa;
-      font-weight: 300;
-    }
+	.imlek-premium-frame{
+	  position:fixed;
+	  inset:0;
+	  pointer-events:none;
+	  z-index:0;
+	  overflow:hidden;
+	}
 
-    .welcome {
-      background: rgba(0, 0, 0, 0.3);
-      border-radius: 8px;
-      padding: 10px;
-      margin-bottom: 20px;
-      text-align: center;
-      border-left: 3px solid rgb(132, 0, 255);
-    }
+	.imlek-premium-frame::before{
+	  content:"";
+	  position:absolute;
+	  inset:0;
+	  background:
+		radial-gradient(circle at 8% 50%, rgba(255,215,150,.18) 0 120px, transparent 130px),
+		radial-gradient(circle at 12% 60%, rgba(255,200,120,.14) 0 90px, transparent 100px),
+		radial-gradient(circle at 92% 48%, rgba(255,215,150,.18) 0 120px, transparent 130px),
+		radial-gradient(circle at 88% 62%, rgba(255,200,120,.14) 0 90px, transparent 100px);
+	  filter:blur(2px);
+	}
 
-    .welcome h3 {
-      font-size: 12px;
-      color: #fff;
-      font-family: 'Courier New', Courier, monospace; 
-      overflow: hidden;
-      border-right: .15em solid rgb(119, 0, 255);
-      white-space: nowrap;
-      margin: 0 auto;
-      width: fit-content;
-      animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-    }
+	.imlek-premium-frame::after{
+	  content:"";
+	  position:absolute;
+	  inset:-20%;
+	  background:
+		radial-gradient(circle, rgba(255, 0, 0, 0.8) 1px, transparent 2px),
+		radial-gradient(circle, rgba(255,235,160,.6) 1px, transparent 2px);
+	  background-size:160px 160px, 220px 220px;
+	  animation:goldFloat 28s linear infinite;
+	  opacity:.35;
+	}
 
-    @keyframes typing { from { width: 0 } to { width: 100% } }
-    @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: #ffa600; } }
+	@keyframes goldFloat{
+	  from{
+		transform:translateY(0);
+	  }
+	  to{
+		transform:translateY(-160px);
+	  }
+	}
+	.img-frame-imlek{
+	  padding: 3px;
+	  border-radius: 6px;
+	  background: linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
+	  box-shadow:
+		0 0 20px rgba(0,0,0,.35),
+		0 0 36px rgba(0,0,0,.65);
+	}
 
-    .btn {
-      display: block;
-      width: 100%;
-      padding: 14px;
-      border-radius: 50px;
-      text-decoration: none;
-      text-align: center;
-      font-weight: 700;
-      font-size: 14px;
-      margin-bottom: 12px;
-      position: relative;
-      transition: all 0.3s ease;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
+	.img-frame-imlek .img-wrap{
+	  border-radius: 12px;
+	  overflow: hidden;
+	  background: #000;
+	}
+	
+		.img-wrap{
+		  position: relative;
+		  overflow: hidden;
+		  border-radius: 12px;
+		}
 
-    .btn-primary {
-      background:linear-gradient(135deg, #9200e6 0%, #5c0099 100%);
-      color: #fff;
-      box-shadow: 0 4px 15px rgba(119, 0, 230, 0.4);
-      animation: pulse 2s infinite;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
+		.img-wrap::after{
+		  content:"";
+		  position:absolute;
+		  top:-40%;
+		  left:-60%;
+		  width:50%;
+		  height:180%;
+		  background: linear-gradient(
+			120deg,
+			rgba(255,255,255,0) 0%,
+			rgba(255,255,255,.35) 50%,
+			rgba(255,255,255,0) 100%
+		  );
+		  transform: rotate(20deg);
+		  animation: glassShine 3.8s ease-in-out infinite;
+		  pointer-events:none;
+		}
 
-    .btn-secondary {
-      background: rgba(255, 255, 255, 0.05);
-      color: #8900d9;
-      border: 1px solid #8900d9;
-    }
+		@keyframes glassShine{
+		  0%{
+			transform: translateX(-120%) rotate(20deg);
+			opacity:0;
+		  }
+		  20%{
+			opacity:1;
+		  }
+		  50%{
+			transform: translateX(220%) rotate(20deg);
+			opacity:.9;
+		  }
+		  100%{
+			transform: translateX(220%) rotate(20deg);
+			opacity:0;
+		  }
+		}
+		.full-bg{
+		  position: fixed;
+		  inset: 0;
+		  z-index: -2;
+		  background-image:
+			linear-gradient(
+			  rgba(0,0,0,.35),
+			  rgba(0,0,0,.7)
+			),
+			url("https://i.imgur.com/Q28dClX.png");
+		  background-size: cover;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		}
+		.footer{
+		  text-align:center;
+		  margin-top:14px;
+		  font-size:13px;
+		}
 
-    .btn-outline {
-      background: transparent;
-      border: 1px solid #444;
-      color: #ccc;
-      font-size: 12px;
-      padding: 10px;
-    }
+		.typing-gold{
+		  display:inline-block;
+		  font-weight:700;
+		  letter-spacing:.6px;
 
-    @keyframes pulse {
-      0% { box-shadow: 0 0 0 0 rgba(100, 0, 230, 0.7); }
-      70% { box-shadow: 0 0 0 10px rgba(230, 0, 0, 0); }
-      100% { box-shadow: 0 0 0 0 rgba(230, 0, 0, 0); }
-    }
+		  background: linear-gradient(
+			90deg,
+			#d0ff00f5,
+			#feffff,
+			#b3d89e,
+			#844cde,
+			#ffd500
+		  );
+		  background-size:200% auto;
+		  -webkit-background-clip:text;
+		  background-clip:text;
+		  color:transparent;
 
+		  -webkit-text-stroke: .6px #c40000;
 
-    .hero {
-      margin: 20px 0;
-      border-radius: 15px;
-      overflow: hidden;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
+		  overflow:hidden;
+		  white-space:nowrap;
+		  animation:
+			typingReveal 7.5s ease forwards,
+			goldShimmer 6s linear infinite 4s;
+		}
 
-    .table-wrapper {
-      background: rgba(0, 0, 0, 0.2);
-      border-radius: 15px;
-      overflow: hidden;
-      margin-top: 10px;
-    }
+		@keyframes typingReveal{
+		  from{
+			max-width:0;
+			opacity:0;
+		  }
+		  to{
+			max-width:100%;
+			opacity:1;
+		  }
+		}
 
-    table {
-      width: 100%;
-      border-collapse: separate;
-      border-spacing: 0;
-    }
-
-    th {
-      background: linear-gradient(90deg, rgb(112, 2, 215), #3d0083);
-      color: #fff;
-      padding: 12px;
-      font-size: 14px;
-      font-weight: 700;
-      text-transform: uppercase;
-    }
-
-    td {
-      padding: 12px;
-      background: rgba(255, 255, 255, 0.02);
-      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-      vertical-align: middle;
-    }
-    
-    tr:last-child td { border-bottom: none; }
-
-    td:first-child {
-      font-weight: 600;
-      font-size: 13px;
-      color: #ddd;
-    }
-
-    .btn-mini {
-      display: inline-block;
-      padding: 6px 15px;
-      background: #9300d7;
-      color: #000000;
-      font-weight: 700;
-      font-size: 11px;
-      border-radius: 20px;
-      text-decoration: none;
-      box-shadow: 0 2px 5px rgba(76, 0, 255, 0.3);
-    }
-
-    .copyright {
-      margin-top: 25px;
-      text-align: center;
-      font-size: 11px;
-      color: #666;
-    }
-    .copyright a { color: #8900d9; text-decoration: none; }
+		@keyframes goldShimmer{
+		  from{background-position:0% center}
+		  to{background-position:200% center}
+		}
   </style>
 </head>
-
 <body>
-  <div class="container">
-    <div class="card">
-      <header>
-          <amp-img
-            class="logo"
-            src="https://i.imgur.com/HjXyPvW.gif"
-            alt="Logo NANA4D"
-            width="200"
-            height="60"
-            layout="intrinsic">
-          </amp-img>
-      </header>
+<div class="full-bg"></div>
+<div class="imlek-premium-frame"></div>
+<div class="sakura-fall"></div>
+  <div class="shell">
+    <header class="header">
+      <amp-img
+        class="logo"
+        src="https://i.imgur.com/BSQ900l.png"
+        width="300" height="120" layout="fixed"
+        alt="nana4d- Logo">
+      </amp-img>
+    </header>
+    <section class="card hero">
+     <div class="img-frame-imlek">
+		  <div class="img-wrap">
+			<amp-img
+			  class="hero-img"
+			  src="https://i.imgur.com/Q28dClX.png"
+			  width="1946"
+			  height="1946"
+			  layout="responsive"
+			  alt="Link gacor nana4d">
+			</amp-img>
+		  </div>
+		</div>
 
-      <div class="title-wrap">
-        <span class="badge-top">Welcome To NANA4D Bossku</span>
-        <h1>NANA4D | Daftar TOTO 4D Official Toto Slot Gacor Resmi Mahjong Ways Provider PG Soft</h1>
-        
+      <div class="cta">
+        <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">LOGIN</a>
+        <a href="https://jetlinkr.co/BONANA2" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">DAFTAR</a>
+		<a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">PREDIKSI & RTP VIP NANA4D</a>
+		<a href="https://jetlinkr.co/apk-nana4d" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">DOWNLOAD APK NANA4D</a>
       </div>
-
-      <div class="welcome">
-        <h3>Live Casino | Togel Online | Slot Gacor </h3>
+      <div class="badges">
+        <span class="badge">Min Depo 10K</span>
+        <span class="badge">Min WD 25K</span>
+        <span class="badge">Situs Gacor</span>
+        <span class="badge">Server Thailand</span>
+        <span class="badge">Transaksi Aman</span>
+        <a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="badge">LINK GACOR</a>
       </div>
-
-      <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">
-        DAFTAR NANA4D
-      </a>
-      
-      <a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">
-        LOGIN NANA4D
-      </a>
-
-      <div class="hero">
-        <amp-img
-          src="https://i.imgur.com/QhnrWby.png"
-          width="600"
-          height="600"
-          layout="responsive"
-          alt="NANA4D | Daftar TOTO 4D Official Toto Slot Gacor Resmi Mahjong Ways Provider PG Soft">
-        </amp-img>
-      </div>
-
-      <div class="table-wrapper">
-        <table>
-          <thead>
-            <tr>
-              <th style="text-align:left; padding-left:20px;">Akses NANA4D</th>
-              <th style="text-align:right; padding-right:20px;">🎰</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>LAYANAN CS</td>
-              <td style="text-align:right;">
-                <a href="https://direct.lc.chat/12910419" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
-              </td>
-            </tr>
-            <tr>
-              <td>RTP SLOT GACOR</td>
-              <td style="text-align:right;">
-                <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
-              </td>
-            </tr>
-            <tr>
-              <td>PREDIKSI TOGEL JITU</td>
-              <td style="text-align:right;">
-                <a href="https://jetlinkr.co/BONANA2" target="_blank" rel="noreferrer noopener" class="btn-mini">KLIK SINI</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <a href="https://jetlinkr.co/apk-nana4d" target="_blank" rel="noreferrer noopener" class="btn btn-outline" style="margin-top:15px;">
-        🌐 DOWNLOAD APK NANA4D RESMI
-      </a>
-
-      <p class="copyright">
-        Copyright © 2026 • <a href="https://jetlinkr.co/BONANA1">NANA4D</a> | SONIC
-      </p>
-    </div>
+    </section>
+	<footer class="footer">
+	  <span class="typing-gold">NANA4D X SONIC</span>
+	</footer>
   </div>
 </body>
 </html>
