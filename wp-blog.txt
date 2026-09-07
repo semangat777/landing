@@ -1,426 +1,564 @@
+; <?php exit; // DO NOT DELETE?>
+; DO NOT DELETE THE ABOVE LINE!!!
+; Doing so will expose this configuration file through your web site!
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; config.TEMPLATE.inc.php
+;
+; Copyright (c) 2014-2021 Simon Fraser University
+; Copyright (c) 2003-2021 John Willinsky
+; Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+;
+; OJS Configuration settings.
+; Rename config.TEMPLATE.inc.php to config.inc.php to use.
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
+;;;;;;;;;;;;;;;;;;;;
+; General Settings ;
+;;;;;;;;;;;;;;;;;;;;
 
-<!doctype html>
-<html amp lang="id">
-<head>
-  <meta charset="utf-8">
-  <title>NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="NANA4D menghadirkan sebuah akses masuk bandar online toto 4d yang sudah 100% real terpercaya di semua masyarakat pemain situs toto 4D online dan slot gacor hari ini. Tingkatkan kemnenangan melalui link daftar resmi togel macau paling gacor anti kalah pasti maxwin sekarang juga.">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://www2.hum.unrc.edu.ar/ojs/">
-  <meta property="og:url" content="https://www2.hum.unrc.edu.ar/ojs/">
-  <meta property="og:title" content="NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya">
-  <meta property="og:description" content="NANA4D menghadirkan sebuah akses masuk bandar online toto 4d yang sudah 100% real terpercaya di semua masyarakat pemain situs toto 4D online dan slot gacor hari ini. Tingkatkan kemnenangan melalui link daftar resmi togel macau paling gacor anti kalah pasti maxwin sekarang juga.">
-  <meta property="og:site_name" content="nana4d">
-  <meta property="og:image" content="https://i.imgur.com/Q28dClX.png">
-  <meta property="og:image:alt" content="NANA4D: Akses Bandar Toto Slot Online Gacor & Situs Toto Togel 4D Macau Resmi Terpercaya.">
-  <link rel="icon" type="image/png" href="https://i.imgur.com/VmulCLK.png">
+[general]
 
-  <script async src="https://cdn.ampproject.org/v0.js"></script>
-  <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+; Set this to On once the system has been installed
+; (This is generally done automatically by the installer)
+installed = On
 
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+; The canonical URL to the OJS installation (excluding the trailing slash)
+base_url = "https://jurnal.lidigin.com"
 
-  <style amp-boilerplate>
-    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}
-    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
-  </style>
-  <noscript>
-    <style amp-boilerplate>
-      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
-    </style>
-  </noscript>
+; Enable strict mode. This will more aggressively cause errors/warnings when
+; deprecated behaviour exists in the codebase.
+strict = Off
 
-  <style amp-custom>
-    :root{
-      --bg:#0b0b12;
-      --bg-soft:#121423;
-      --card:#15172a;
-      --text:#f6f7fb;
-      --muted:#a3a6b8;
-      --brand:#00ff95;
-      --brand-2:#3300ff;
-      --ring:rgba(249,214,92,.35);
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0}
-    body{
-      font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans',sans-serif;
-      color:var(--text);
-      background:
-        radial-gradient(1200px 600px at 20% -10%, #242742 0%, transparent 60%),
-        radial-gradient(900px 500px at 120% 10%, #1a1d33 0%, transparent 60%),
-        var(--bg);
-      min-height:100vh;
-    }
-    .shell{
-      max-width:520px;margin:0 auto;padding:20px 16px 36px;
-      display:flex;flex-direction:column;gap:16px;
-    }
+; Session cookie name
+session_cookie_name = OJSID
 
-    .header{display:flex;align-items:center;justify-content:center;gap:12px;text-align:center}
-    .logo{border-radius:8px}
-    .title{margin:0;font-size:20px;font-weight:700}
-    .subtitle{margin:2px 0 0;font-size:12px;color:var(--muted)}
+; Session cookie path; if not specified, defaults to the detected base path
+; session_cookie_path = /
 
-    .card{
-      background:linear-gradient(180deg, rgba(145, 255, 0, 0.04), rgba(255,255,255,.02));
-      border:1px solid rgba(255,255,255,.08);
-      border-radius:14px;box-shadow:0 8px 40px rgba(0,0,0,.35);
-      overflow:hidden;
-    }
-    .hero{padding:12px}
-    .hero-img{border-radius:10px}
-    .img-wrap { position: relative; border-radius: 12px; overflow: hidden; transition: transform .3s ease;}
-    .img-wrap::after { content: ""; position: absolute;top: 0%;bottom: 0%;left: 0%;width: 40%;transform: skewX(-20deg) translateX(0);background: linear-gradient(to right,#ffffff00 0%,#ffffff99 50%,#ffffff00 100%);opacity: 0;pointer-events: none;}
-    .img-wrap:hover::after {opacity: 1;animation: sweep 900ms cubic-bezier(.2,.6,.2,1) 1 forwards;}
+; Number of days to save login cookie for if user selects to remember
+; (set to 0 to force expiration at end of current session)
+session_lifetime = 30
 
-    @keyframes sweep { to { transform: skewX(-20deg) translateX(260%); } }
+; SameSite configuration for the cookie, see possible values and explanations
+; at https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
+; To set the "Secure" attribute for the cookie see the setting force_ssl at the [security] group
+session_samesite = Lax
 
-    .cta{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
-    .btn{
-      display:inline-block;text-decoration:none;text-align:center;
-      padding:14px 16px;border-radius:10px;font-weight:700;letter-spacing:.2px;
-      border:1px solid transparent;transition:background .25s ease,color .25s ease,box-shadow .25s ease,transform .12s ease;
-      will-change:background,transform;
-    }
-    .btn-primary{
-      background:linear-gradient(135deg, #844cde, #844cde);color:#1b1300;border-color:rgba(255,255,255,.06);
-      position:relative;overflow:hidden;
-    }
-    .btn-secondary{
-      background:#ff0000;color:#0e0101;border-color:linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
-      background-image:linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
-      background-size:200% 100%;
-    }
+; Enable support for running scheduled tasks
+; Set this to On if you have set up the scheduled tasks script to
+; execute periodically
+scheduled_tasks = Off
 
-    .btn-primary:hover{background:linear-gradient(135deg, #844cde, #844cde);transform:translateY(-1px)}
-    .btn-primary::after{
-      content:"";position:absolute;top:-30%;bottom:-30%;left:-50%;width:40%;
-      transform:skewX(-20deg) translateX(0);
-      background:linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,.5) 50%,rgba(255,255,255,0) 100%);
-      opacity:0;pointer-events:none;
-    }
-    .btn-primary:hover::after{opacity:1;animation:sweep 900ms cubic-bezier(.2,.6,.2,1) 1 forwards}
-    .btn-secondary:hover{animation:bg-pan 1.4s ease-in-out infinite alternate;transform:translateY(-1px);border-color:rgba(255,255,255,.28)}
-    .btn:focus-visible{outline:0;box-shadow:0 0 0 6px var(--ring)}
-    .btn:active{transform:translateY(0)}
+; Site time zone
+; Please refer to https://www.php.net/timezones for a full list of supported
+; time zones.
+; I.e.: "Europe/Amsterdam"
+; time_zone="Europe/Amsterdam"
+time_zone = America/New_York
 
-    .badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;justify-content:center;}
-    .badge{font-size:11px;color:#0d0d0d;background:linear-gradient(135deg, #9900ff, #844cde);padding:6px 10px;border-radius:999px;font-weight:700}
+; Short and long date formats
+date_format_short = "Y-m-d"
+date_format_long = "F j, Y"
+datetime_format_short = "Y-m-d h:i A"
+datetime_format_long = "F j, Y - h:i A"
+time_format = "h:i A"
 
-    .features{padding:14px}
-    .features h2{margin:0 0 10px;font-size:14px;font-weight:700;color:#e9ebf5}
-    .list{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px 10px}
-    .item{background:var(--bg-soft);border:1px solid rgba(255,255,255,.08);border-radius:10px;padding:10px;font-size:12px;color:#eaeaf3}
-    .item:before{content:"✓";margin-right:6px;color:#c277ff;font-weight:700}
+; Use fopen(...) for URL-based reads. Modern versions of dspace
+; will not accept requests using fopen, as it does not provide a
+; User Agent, so this option is disabled by default. If this feature
+; is disabled by PHP's configuration, this setting will be ignored.
+allow_url_fopen = Off
 
-    .faq{padding:8px 12px}
-    amp-accordion section > h3{
-      margin:0;padding:12px;font-size:13px;font-weight:700;
-      background:var(--bg-soft);border:1px solid rgba(255,255,255,.08);border-radius:10px;color:#eaeaf3;
-    }
-    amp-accordion section > div{padding:12px;color:var(--muted);font-size:12px}
+; Base URL override settings: Entries like the following examples can
+; be used to override the base URLs used by OJS. If you want to use a
+; proxy to rewrite URLs to OJS, configure your proxy's URL with this format.
+; Syntax: base_url[journal_path] = http://www.example.com
+;
+; Example1: URLs that aren't part of a particular journal.
+;    Example1: base_url[index] = http://www.example.com
+; Example2: URLs that map to a subdirectory.
+;    Example2: base_url[myJournal] = http://www.example.com/myJournal
+; Example3: URLs that map to a subdomain.
+;    Example3: base_url[myOtherJournal] = http://myOtherJournal.example.com
 
-    .footer{text-align:center;color:var(--muted);font-size:12px;margin-top:8px}
-    .footer b{color:#f0f1f8}
+; Generate RESTful URLs using mod_rewrite.  This requires the
+; rewrite directive to be enabled in your .htaccess or httpd.conf.
+; See FAQ for more details.
+restful_urls = Off
 
-    @keyframes sweep{to{transform:skewX(-20deg) translateX(260%)}}
-    @keyframes bg-pan{from{background-position:0% 50%}to{background-position:100% 50%}}
+; Restrict the list of allowed hosts to prevent HOST header injection.
+; See docs/README.md for more details. The list should be JSON-formatted.
+; An empty string indicates that all hosts should be trusted (not recommended!)
+; Example:
+; allowed_hosts = '["myjournal.tld", "anotherjournal.tld", "mylibrary.tld"]'
+allowed_hosts = "[\"jurnal.lidigin.com\"]"
 
-    @media (prefers-reduced-motion: reduce){
-      .btn-primary:hover::after{animation:none}
-      .btn-secondary:hover{animation:none}
-      .btn:hover{transform:none}
-    }
+; Allow the X_FORWARDED_FOR header to override the REMOTE_ADDR as the source IP
+; Set this to "On" if you are behind a reverse proxy and you control the X_FORWARDED_FOR
+; Warning: This defaults to "On" if unset for backwards compatibility.
+trust_x_forwarded_for = Off
 
-.acc-clean > section > h3{
-  background: transparent;
-  border: none;
-  box-shadow: none;
-  color: inherit;
-  padding: 12px;
-}
-.acc-clean > section[expanded] > h3{
-  background: transparent;
-}
-.acc-clean > section > div{
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
+; Set the maximum number of citation checking processes that may run in parallel.
+; Too high a value can increase server load and lead to too many parallel outgoing
+; requests to citation checking web services. Too low a value can lead to significantly
+; slower citation checking performance. A reasonable value is probably between 3
+; and 10. The more your connection bandwidth allows the better.
+citation_checking_max_processes = 3
 
-.acc-clean > section > h3::after{
-  content: "▾";
-  float: right;
-  opacity: .6;
-  transition: transform .2s ease;
-}
-.acc-clean > section[expanded] > h3::after{
-  transform: rotate(180deg);
-}
-.sakura-fall{
-	  position:fixed;
-	  top:-15%;
-	  left:-10%;
-	  width:120%;
-	  height:120%;
-	  pointer-events:none;
-	  z-index:1;
-	  overflow:hidden;
-	}
+; Display a message on the site admin and journal manager user home pages if there is an upgrade available
+show_upgrade_warning = On
 
-	.sakura-fall::before,
-	.sakura-fall::after{
-	  content:"";
-	  position:absolute;
-	  inset:0;
-	  background:
-		radial-gradient(circle at 10% 5%, rgba(142, 21, 255, 0.9) 0 5px, transparent 6px),
-		radial-gradient(circle at 35% 15%, rgba(142, 21, 255, 0.9) 0 6px, transparent 7px),
-		radial-gradient(circle at 60% 5%, rgba(130, 21, 255, 0.9) 0 5px, transparent 6px),
-		radial-gradient(circle at 85% 20%, rgba(200, 138, 250, 0.9) 0 6px, transparent 7px);
-	  background-size:320px 320px;
-	  animation:sakuraFall 22s linear infinite;
-	  opacity:.75;
-	}
+; Set the following parameter to off if you want to work with the uncompiled (non-minified) JavaScript
+; source for debugging or if you are working off a development branch without compiled JavaScript.
+enable_minified = On
 
-	.sakura-fall::after{
-	  background-size:420px 420px;
-	  animation:sakuraFallSlow 32s linear infinite;
-	  opacity:.45;
-	}
+; Provide a unique site ID and OAI base URL to PKP for statistics and security
+; alert purposes only.
+enable_beacon = On
 
-	@keyframes sakuraFall{
-	  0%{
-		transform:translateY(-20%) translateX(0);
-	  }
-	  100%{
-		transform:translateY(120%) translateX(18%);
-	  }
-	}
+; Set this to "On" if you would like to only have a single, site-wide Privacy
+; Statement, rather than a separate Privacy Statement for each journal. Setting
+; this to "Off" will allow you to enter a site-wide Privacy Statement as well
+; as separate Privacy Statements for each journal.
+sitewide_privacy_statement = Off
 
-	@keyframes sakuraFallSlow{
-	  0%{
-		transform:translateY(-25%) translateX(-5%);
-	  }
-	  100%{
-		transform:translateY(120%) translateX(12%);
-	  }
-	}
+; The number of days a new user has to validate their account
+; A new user account will be expired and removed if this many days have passed since the user registered
+; their account, and they have not validated their account or logged in. If the user_validation_period is set to
+; 0, unvalidated accounts will never be removed. Use this setting to automatically remove bot registrations.
+user_validation_period = 28
 
-	.imlek-premium-frame{
-	  position:fixed;
-	  inset:0;
-	  pointer-events:none;
-	  z-index:0;
-	  overflow:hidden;
-	}
+; Turn sandbox mode to On in order to prevent the software from interacting with outside systems.
+; Use this for development or testing purposes.
+sandbox = Off
 
-	.imlek-premium-frame::before{
-	  content:"";
-	  position:absolute;
-	  inset:0;
-	  background:
-		radial-gradient(circle at 8% 50%, rgba(255,215,150,.18) 0 120px, transparent 130px),
-		radial-gradient(circle at 12% 60%, rgba(255,200,120,.14) 0 90px, transparent 100px),
-		radial-gradient(circle at 92% 48%, rgba(255,215,150,.18) 0 120px, transparent 130px),
-		radial-gradient(circle at 88% 62%, rgba(255,200,120,.14) 0 90px, transparent 100px);
-	  filter:blur(2px);
-	}
 
-	.imlek-premium-frame::after{
-	  content:"";
-	  position:absolute;
-	  inset:-20%;
-	  background:
-		radial-gradient(circle, rgba(255, 0, 0, 0.8) 1px, transparent 2px),
-		radial-gradient(circle, rgba(255,235,160,.6) 1px, transparent 2px);
-	  background-size:160px 160px, 220px 220px;
-	  animation:goldFloat 28s linear infinite;
-	  opacity:.35;
-	}
+;;;;;;;;;;;;;;;;;;;;;
+; Database Settings ;
+;;;;;;;;;;;;;;;;;;;;;
 
-	@keyframes goldFloat{
-	  from{
-		transform:translateY(0);
-	  }
-	  to{
-		transform:translateY(-160px);
-	  }
-	}
-	.img-frame-imlek{
-	  padding: 3px;
-	  border-radius: 6px;
-	  background: linear-gradient(135deg, #6b0bc5, #7e09c1, #930ae2);
-	  box-shadow:
-		0 0 20px rgba(0,0,0,.35),
-		0 0 36px rgba(0,0,0,.65);
-	}
+[database]
 
-	.img-frame-imlek .img-wrap{
-	  border-radius: 12px;
-	  overflow: hidden;
-	  background: #000;
-	}
-	
-		.img-wrap{
-		  position: relative;
-		  overflow: hidden;
-		  border-radius: 12px;
-		}
+driver = mysqli
+host = localhost
+username = u185018458_jurnallidigin
+password = GuruSyarif1
+name = u185018458_jurnallidigin
 
-		.img-wrap::after{
-		  content:"";
-		  position:absolute;
-		  top:-40%;
-		  left:-60%;
-		  width:50%;
-		  height:180%;
-		  background: linear-gradient(
-			120deg,
-			rgba(255,255,255,0) 0%,
-			rgba(255,255,255,.35) 50%,
-			rgba(255,255,255,0) 100%
-		  );
-		  transform: rotate(20deg);
-		  animation: glassShine 3.8s ease-in-out infinite;
-		  pointer-events:none;
-		}
+; Set the non-standard port and/or socket, if used
+; port = 3306
+; unix_socket = /var/run/mysqld/mysqld.sock
 
-		@keyframes glassShine{
-		  0%{
-			transform: translateX(-120%) rotate(20deg);
-			opacity:0;
-		  }
-		  20%{
-			opacity:1;
-		  }
-		  50%{
-			transform: translateX(220%) rotate(20deg);
-			opacity:.9;
-		  }
-		  100%{
-			transform: translateX(220%) rotate(20deg);
-			opacity:0;
-		  }
-		}
-		.full-bg{
-		  position: fixed;
-		  inset: 0;
-		  z-index: -2;
-		  background-image:
-			linear-gradient(
-			  rgba(0,0,0,.35),
-			  rgba(0,0,0,.7)
-			),
-			url("https://i.imgur.com/Q28dClX.png");
-		  background-size: cover;
-		  background-position: center;
-		  background-repeat: no-repeat;
-		}
-		.footer{
-		  text-align:center;
-		  margin-top:14px;
-		  font-size:13px;
-		}
+; Database collation
+; collation = utf8_general_ci
 
-		.typing-gold{
-		  display:inline-block;
-		  font-weight:700;
-		  letter-spacing:.6px;
+; Enable database debug output (very verbose!)
+debug = Off
 
-		  background: linear-gradient(
-			90deg,
-			#d0ff00f5,
-			#feffff,
-			#b3d89e,
-			#844cde,
-			#ffd500
-		  );
-		  background-size:200% auto;
-		  -webkit-background-clip:text;
-		  background-clip:text;
-		  color:transparent;
+;;;;;;;;;;;;;;;;;;
+; Cache Settings ;
+;;;;;;;;;;;;;;;;;;
 
-		  -webkit-text-stroke: .6px #c40000;
+[cache]
 
-		  overflow:hidden;
-		  white-space:nowrap;
-		  animation:
-			typingReveal 7.5s ease forwards,
-			goldShimmer 6s linear infinite 4s;
-		}
+; Choose the type of object data caching to use. Options are:
+; - memcache: Use the memcache server configured below
+; - xcache: Use the xcache variable store
+; - apc: Use the APC variable store
+; - none: Use no caching.
+object_cache = none
 
-		@keyframes typingReveal{
-		  from{
-			max-width:0;
-			opacity:0;
-		  }
-		  to{
-			max-width:100%;
-			opacity:1;
-		  }
-		}
+; Enable memcache support
+memcache_hostname = localhost
+memcache_port = 11211
 
-		@keyframes goldShimmer{
-		  from{background-position:0% center}
-		  to{background-position:200% center}
-		}
-  </style>
-</head>
-<body>
-<div class="full-bg"></div>
-<div class="imlek-premium-frame"></div>
-<div class="sakura-fall"></div>
-  <div class="shell">
-    <header class="header">
-      <amp-img
-        class="logo"
-        src="https://i.imgur.com/BSQ900l.png"
-        width="300" height="120" layout="fixed"
-        alt="nana4d- Logo">
-      </amp-img>
-    </header>
-    <section class="card hero">
-     <div class="img-frame-imlek">
-		  <div class="img-wrap">
-			<amp-img
-			  class="hero-img"
-			  src="https://i.imgur.com/Q28dClX.png"
-			  width="1946"
-			  height="1946"
-			  layout="responsive"
-			  alt="Link gacor nana4d">
-			</amp-img>
-		  </div>
-		</div>
+; For site visitors who are not logged in, many pages are often entirely
+; static (e.g. About, the home page, etc). If the option below is enabled,
+; these pages will be cached in local flat files for the number of hours
+; specified in the web_cache_hours option. This will cut down on server
+; overhead for many requests, but should be used with caution because:
+; 1) Things like journal metadata changes will not be reflected in cached
+;    data until the cache expires or is cleared, and
+; 2) This caching WILL NOT RESPECT DOMAIN-BASED SUBSCRIPTIONS.
+; However, for situations like hosting high-volume open access journals, it's
+; an easy way of decreasing server load.
+;
+; When using web_cache, configure a tool to periodically clear out cache files
+; such as CRON. For example, configure it to run the following command:
+; find .../ojs/cache -maxdepth 1 -name wc-\*.html -mtime +1 -exec rm "{}" ";"
+web_cache = Off
+web_cache_hours = 1
 
-      <div class="cta">
-        <a href="https://jetlinkr.co/BONANA1" target="_blank" rel="noreferrer noopener" class="btn btn-primary">LOGIN</a>
-        <a href="https://jetlinkr.co/BONANA2" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">DAFTAR</a>
-		<a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">PREDIKSI & RTP VIP NANA4D</a>
-		<a href="https://jetlinkr.co/apk-nana4d" target="_blank" rel="noreferrer noopener" class="btn btn-secondary">DOWNLOAD APK NANA4D</a>
-      </div>
-      <div class="badges">
-        <span class="badge">Min Depo 10K</span>
-        <span class="badge">Min WD 25K</span>
-        <span class="badge">Situs Gacor</span>
-        <span class="badge">Server Thailand</span>
-        <span class="badge">Transaksi Aman</span>
-        <a href="https://jetlinkr.co/BONANA3" target="_blank" rel="noreferrer noopener" class="badge">LINK GACOR</a>
-      </div>
-    </section>
-	<footer class="footer">
-	  <span class="typing-gold">NANA4D X SONIC</span>
-	</footer>
-  </div>
-</body>
-</html>
+
+;;;;;;;;;;;;;;;;;;;;;;;;;
+; Localization Settings ;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[i18n]
+
+; Default locale
+locale = en
+
+; Database connection character set
+connection_charset = utf8
+
+
+;;;;;;;;;;;;;;;;;
+; File Settings ;
+;;;;;;;;;;;;;;;;;
+
+[files]
+
+; Complete path to directory to store uploaded files
+; (This directory should not be directly web-accessible)
+; Windows users should use forward slashes
+files_dir = /home/u185018458/domains/lidigin.com/public_html/jurnal/public/cache/ojsdatalidigin
+
+; Path to the directory to store public uploaded files
+; (This directory should be web-accessible and the specified path
+; should be relative to the base OJS directory)
+; Windows users should use forward slashes
+public_files_dir = public
+
+; The maximum allowed size in kilobytes of each user's public files
+; directory. This is where user's can upload images through the
+; tinymce editor to their bio. Editors can upload images for
+; some of the settings.
+; Set this to 0 to disallow such uploads.
+public_user_dir_size = 5000
+
+; Permissions mask for created files and directories
+umask = 0022
+
+; The minimum percentage similarity between filenames that should be considered
+; a possible revision
+filename_revision_match = 70
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Fileinfo (MIME) Settings ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[finfo]
+; mime_database_path = /etc/magic.mime
+
+
+;;;;;;;;;;;;;;;;;;;;;
+; Security Settings ;
+;;;;;;;;;;;;;;;;;;;;;
+
+[security]
+
+; Force SSL connections site-wide and also sets the "Secure" flag for session cookies
+; See https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie#secure
+force_ssl = Off
+
+; Force SSL connections for login only
+force_login_ssl = Off
+
+; This check will invalidate a session if the user's IP address changes.
+; Enabling this option provides some amount of additional security, but may
+; cause problems for users behind a proxy farm (e.g., AOL).
+session_check_ip = Off
+
+; The encryption (hashing) algorithm to use for encrypting user passwords
+; Valid values are: md5, sha1
+; NOTE: This hashing method is deprecated, but necessary to permit gradual
+; migration of old password hashes.
+encryption = sha1
+
+; The unique salt to use for generating password reset hashes
+salt = "YouMustSetASecretKeyHere!!"
+
+; The unique secret used for encoding and decoding API keys
+api_key_secret = ""
+
+; The number of seconds before a password reset hash expires (defaults to 7200 / 2 hours)
+reset_seconds = 7200
+
+; Allowed HTML tags for fields that permit restricted HTML.
+; Use e.g. "img[src,alt],p" to allow "src" and "alt" attributes to the "img"
+; tag, and also to permit the "p" paragraph tag. Unspecified attributes will be
+; stripped.
+allowed_html = "a[href|target|title],em,strong,cite,code,ul,ol,li[class],dl,dt,dd,b,i,u,img[src|alt],sup,sub,br,p"
+
+; Allowed HTML tags for submission titles only
+; Unspecified attributes will be stripped.
+allowed_title_html = "b,i,u,sup,sub"
+
+;N.b.: The implicit_auth parameter has been removed in favor of plugin implementations such as shibboleth
+
+;;;;;;;;;;;;;;;;;;
+; Email Settings ;
+;;;;;;;;;;;;;;;;;;
+
+[email]
+
+; Default method to send emails
+; Available options: sendmail, smtp, log, phpmailer
+default = smtp
+
+; Path to the sendmail, -bs argument is for using SMTP protocol
+sendmail_path = "/usr/sbin/sendmail -bs"
+
+; Use SMTP for sending mail instead of mail()
+; smtp = On
+
+; SMTP server settings
+smtp_server = smtp.gmail.com
+smtp_port = 587
+
+; Enable SMTP authentication
+; Supported smtp_auth: ssl, tls (see PHPMailer SMTPSecure)
+smtp_auth = tls
+smtp_username = "infojurnallidigin@gmail.com"
+smtp_password = "ipjj ozxp uqng ksbl"
+
+; Enable suppressing SSL/TLS peer verification by SMTP transports
+; Note: this is not recommended for security reasons
+; smtp_suppress_cert_check = On
+
+; Allow envelope sender to be specified
+; (may not be possible with some server configurations)
+; allow_envelope_sender = Off
+
+; Default envelope sender to use if none is specified elsewhere
+; default_envelope_sender = "infojurnallidigin@gmail.com"
+
+; Force the default envelope sender (if present)
+; This is useful if setting up a site-wide no-reply address
+; The reply-to field will be set with the reply-to or from address.
+; force_default_envelope_sender = On
+
+; Force a DMARC compliant from header (RFC5322.From)
+; If any of your users have email addresses in domains not under your control
+; you may need to set this to be compliant with DMARC policies published by
+; those 3rd party domains.
+; Setting this will move the users address into the reply-to field and the
+; from field wil be rewritten with the default_envelope_sender.
+; To use this you must set force_default_enveloper_sender = On and
+; default_envelope_sender must be set to a valid address in a domain you own.
+; force_dmarc_compliant_from = Off
+
+; The display name to use with a DMARC compliant from header
+; By default the DMARC compliant from will have an empty name but this can
+; be changed by adding a text here.
+; You can use '%n' to insert the users name from the original from header
+; and '%s' to insert the localized sitename.
+; dmarc_compliant_from_displayname = '%n via %s'
+
+; If enabled, email addresses must be validated before login is possible.
+require_validation = Off
+
+; Maximum number of days before an unvalidated account expires and is deleted
+validation_timeout = 14
+
+
+;;;;;;;;;;;;;;;;;;;
+; Search Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[search]
+
+; Minimum indexed word length
+min_word_length = 3
+
+; The maximum number of search results fetched per keyword. These results
+; are fetched and merged to provide results for searches with several keywords.
+results_per_keyword = 500
+
+; Paths to helper programs for indexing non-text files.
+; Programs are assumed to output the converted text to stdout, and "%s" is
+; replaced by the file argument.
+; Note that using full paths to the binaries is recommended.
+; Uncomment applicable lines to enable (at most one per file type).
+; Additional "index[MIME_TYPE]" lines can be added for any mime type to be
+; indexed.
+
+; PDF
+; index[application/pdf] = "/usr/bin/pstotext -enc UTF-8 -nopgbrk %s - | /usr/bin/tr '[:cntrl:]' ' '"
+; index[application/pdf] = "/usr/bin/pdftotext -enc UTF-8 -nopgbrk %s - | /usr/bin/tr '[:cntrl:]' ' '"
+
+; PostScript
+; index[application/postscript] = "/usr/bin/pstotext -enc UTF-8 -nopgbrk %s - | /usr/bin/tr '[:cntrl:]' ' '"
+; index[application/postscript] = "/usr/bin/ps2ascii %s | /usr/bin/tr '[:cntrl:]' ' '"
+
+; Microsoft Word
+; index[application/msword] = "/usr/bin/antiword %s"
+; index[application/msword] = "/usr/bin/catdoc %s"
+
+
+;;;;;;;;;;;;;;;;
+; OAI Settings ;
+;;;;;;;;;;;;;;;;
+
+[oai]
+
+; Enable OAI front-end to the site
+oai = On
+
+; OAI Repository identifier. This setting forms part of OAI-PMH record IDs.
+; Changing this setting may affect existing clients and is not recommended.
+repository_id = "ojs2.jurnal.lidigin.com"
+
+; Maximum number of records per request to serve via OAI
+oai_max_records = 100
+
+;;;;;;;;;;;;;;;;;;;;;;
+; Interface Settings ;
+;;;;;;;;;;;;;;;;;;;;;;
+
+[interface]
+
+; Number of items to display per page; can be overridden on a per-journal basis
+items_per_page = 25
+
+; Number of page links to display; can be overridden on a per-journal basis
+page_links = 10
+
+
+;;;;;;;;;;;;;;;;;;;;
+; Captcha Settings ;
+;;;;;;;;;;;;;;;;;;;;
+
+[captcha]
+
+; Whether or not to enable ReCaptcha
+recaptcha = off
+
+; Public key for reCaptcha (see http://www.google.com/recaptcha)
+recaptcha_public_key = your_public_key
+
+; Private key for reCaptcha (see http://www.google.com/recaptcha)
+recaptcha_private_key = your_private_key
+
+; Whether or not to use Captcha on user registration
+captcha_on_register = on
+
+; Whether or not to use Captcha on user login
+captcha_on_login = on
+
+; Validate the hostname in the ReCaptcha response
+recaptcha_enforce_hostname = Off
+
+;;;;;;;;;;;;;;;;;;;;;
+; External Commands ;
+;;;;;;;;;;;;;;;;;;;;;
+
+[cli]
+
+; These are paths to (optional) external binaries used in
+; certain plug-ins or advanced program features.
+
+; Using full paths to the binaries is recommended.
+
+; tar (used in backup plugin, translation packaging)
+tar = /bin/tar
+
+; On systems that do not have libxsl/xslt libraries installed, or for those who
+; require a specific XSLT processor, you may enter the complete path to the
+; XSLT renderer tool, with any required arguments. Use %xsl to substitute the
+; location of the XSL stylesheet file, and %xml for the location of the XML
+; source file; eg:
+; /usr/bin/java -jar ~/java/xalan.jar -HTML -IN %xml -XSL %xsl
+xslt_command = ""
+
+;;;;;;;;;;;;;;;;;;
+; Proxy Settings ;
+;;;;;;;;;;;;;;;;;;
+
+[proxy]
+
+; The HTTP proxy configuration to use
+; http_proxy = "http://username:password@192.168.1.1:8080"
+; https_proxy = "https://username:password@192.168.1.1:8080"
+
+
+;;;;;;;;;;;;;;;;;;
+; Debug Settings ;
+;;;;;;;;;;;;;;;;;;
+
+[debug]
+
+; Display a stack trace when a fatal error occurs.
+; Note that this may expose privateinformation and should be disabled
+; for any production system.
+show_stacktrace = Off
+
+; Display an error message when something goes wrong.
+display_errors = Off
+
+; Display deprecation warnings
+deprecation_warnings = Off
+
+; Log web service request information for debugging
+log_web_service_info = Off
+
+; declare a cainfo path if a certificate other than PHP's default should be used for curl calls.
+; This setting overrides the 'curl.cainfo' parameter of the php.ini configuration file.
+[curl]
+; cainfo = ""
+
+
+;;;;;;;;;;;;;;;;;;;;;;;
+; Job Queues Settings ;
+;;;;;;;;;;;;;;;;;;;;;;;
+
+[queues]
+
+; Default queue driver
+default_connection = "database"
+
+; Default queue to use when a job is added to the queue
+default_queue = "queue"
+
+; Whether or not to turn on the built-in job runner
+;
+; When enabled, jobs will be processed at the end of each web
+; request to the application.
+;
+; Use of the built-in job runner is highly discouraged for high-volume
+; sites. Instead, a worker daemon or cron job should be configured
+; to process jobs off the application's main thread.
+;
+; See: https://docs.pkp.sfu.ca/admin-guide/en/deploy-jobs
+;
+job_runner = On
+
+; The maximum number of jobs to run in a single request when using
+; the built-in job runner.
+job_runner_max_jobs = 30
+
+; The maximum number of seconds the built-in job runner should spend
+; running jobs in a single request.
+;
+; This should be less than the max_execution_time the server has
+; configured for PHP.
+;
+; Lower this setting if jobs are failing due to timeouts.
+job_runner_max_execution_time = 30
+
+; The maximum consumerable memory that should be spent by the built-in
+; job runner when running jobs.
+;
+; Set as a percentage, such as 80%:
+;
+; job_runner_max_memory = 80
+;
+; Or set as a fixed value in megabytes:
+;
+; job_runner_max_memory = 128M
+;
+; When setting a fixed value in megabytes, this should be less than the
+; memory_limit the server has configured for PHP.
+job_runner_max_memory = 80
+
+; Remove failed jobs from the database after the following number of days.
+; Remove this setting to leave failed jobs in the database.
+delete_failed_jobs_after = 180
