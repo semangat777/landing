@@ -18,12 +18,12 @@
 <meta property="og:canonical" content="https://journal.kapin.org/" />
 <meta property="og:author" content="https://journal.kapin.org/" />
 <link rel="canonical" href="https://journal.kapin.org/" />
-<link rel="amphtml" href="https://nyairumput.store/contact/journal.kapin/" />
-<link rel="alternate" hreflang="id-id" href="https://nyairumput.store/contact/journal.kapin/">
-<link rel="alternate" href="https://nyairumput.store/contact/journal.kapin/">
-<link rel="alternate" hreflang="id" href="https://nyairumput.store/contact/journal.kapin/">
-<link rel="alternate" hreflang="en" href="https://nyairumput.store/contact/journal.kapin/">
-<link rel="alternate" hreflang="x-default" href="https://nyairumput.store/contact/journal.kapin/">
+<link rel="amphtml" href="https://mitra-keluarga.world/about/journal-kapin/" />
+<link rel="alternate" hreflang="id-id" href="https://mitra-keluarga.world/about/journal-kapin/">
+<link rel="alternate" href="https://mitra-keluarga.world/about/journal-kapin/">
+<link rel="alternate" hreflang="id" href="https://mitra-keluarga.world/about/journal-kapin/">
+<link rel="alternate" hreflang="en" href="https://mitra-keluarga.world/about/journal-kapin/">
+<link rel="alternate" hreflang="x-default" href="https://mitra-keluarga.world/about/journal-kapin/">
 <meta name="geo.region" content="ID" />
 <meta name="pinterest" content="nopin">
 
@@ -119,7 +119,7 @@
     <link
       rel="alternate"
       hreflang="x-default"
-      href="https://nyairumput.store/contact/journal.kapin/"
+      href="https://mitra-keluarga.world/about/journal-kapin/"
     />
     <link
       rel="icon"
@@ -2415,7 +2415,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         ></li>
                         <li>
                           <a
-                            href="https://nyairumput.store/contact/journal.kapin/"
+                            href="https://mitra-keluarga.world/about/journal-kapin/"
                             id="idysEtTf9m"
                             class="Magento\Customer\Block\Account\AuthorizationLink"
                             >Masuk | Daftar</a
@@ -2423,24 +2423,24 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
 
                         <li class="nav item">
-                          <a href="https://nyairumput.store/contact/journal.kapin/"
+                          <a href="https://mitra-keluarga.world/about/journal-kapin/"
                             >Lokasi Toko</a
                           >
                         </li>
                         <li class="nav item">
-                          <a href="https://nyairumput.store/contact/journal.kapin/"
+                          <a href="https://mitra-keluarga.world/about/journal-kapin/"
                             >Lacak Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://nyairumput.store/contact/journal.kapin/"
+                            href="https://mitra-keluarga.world/about/journal-kapin/"
                             >Pengembalian Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://nyairumput.store/contact/journal.kapin/"
+                            href="https://mitra-keluarga.world/about/journal-kapin/"
                             class="top-header-link-faq"
                             >Bantuan</a
                           >
@@ -2617,7 +2617,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     "
                     >
                     <a
-                        href="https://nyairumput.store/contact/journal.kapin/"
+                        href="https://mitra-keluarga.world/about/journal-kapin/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -2632,7 +2632,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     </a>
 
                     <a
-                        href="https://nyairumput.store/contact/journal.kapin/"
+                        href="https://mitra-keluarga.world/about/journal-kapin/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -10387,7 +10387,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="login-mobile">
                       <li>
                         <a
-                          href="https://nyairumput.store/contact/journal.kapin/"
+                          href="https://mitra-keluarga.world/about/journal-kapin/"
                           id="idUJSNQamy"
                           >Masuk | Daftar</a
                         >
@@ -10419,7 +10419,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="my-account-logout-mobile">
                       <li>
                         <a
-                          href="https://nyairumput.store/contact/journal.kapin/"
+                          href="https://mitra-keluarga.world/about/journal-kapin/"
                           id="idKRWYKRbl"
                           >Masuk | Daftar</a
                         >
@@ -11523,12 +11523,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                              <div class="buynow-button">
                            <button type="button"
-onclick="window.location.href='https://nyairumput.store/contact/journal.kapin/'">
+onclick="window.location.href='https://mitra-keluarga.world/about/journal-kapin/'">
 LOGIN
 </button>
                               <div class="buynow-button">
 <button type="button"
-onclick="window.location.href='https://nyairumput.store/contact/journal.kapin/'">
+onclick="window.location.href='https://mitra-keluarga.world/about/journal-kapin/'">
 DAFTAR
 </button>
                             </div>
@@ -11552,7 +11552,7 @@ DAFTAR
                               class="action primary tocart product-addtocart-button-cls"
                               disabled="disabled"
                             >
-                              <a href="https://nyairumput.store/contact/journal.kapin/" class="register"><span>DAFTAR</span></a>
+                              <a href="https://mitra-keluarga.world/about/journal-kapin/" class="register"><span>DAFTAR</span></a>
                             </button>
                             <div class="buynow-button">
                               <button
@@ -11561,7 +11561,7 @@ DAFTAR
                                 id="buy-now"
                                 class="action primary"
                               >
-                                <a href="https://nyairumput.store/contact/journal.kapin/" class="login"><span>LOGIN</span></a>
+                                <a href="https://mitra-keluarga.world/about/journal-kapin/" class="login"><span>LOGIN</span></a>
                               </button>
                             </div>
 
@@ -14327,7 +14327,7 @@ DAFTAR
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
                 <span id="sticky_current_size"
-                  ><a href="https://nyairumput.store/contact/journal.kapin/" class="sticky_nosize" alt="Mohon Pilih"
+                  ><a href="https://mitra-keluarga.world/about/journal-kapin/" class="sticky_nosize" alt="Mohon Pilih"
                     >TOGEL 4D</a
                   ></span
                 >
@@ -14360,7 +14360,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://nyairumput.store/contact/journal.kapin/" class="login"><span>LOGIN</span></a>
+                <a href="https://mitra-keluarga.world/about/journal-kapin/" class="login"><span>LOGIN</span></a>
               </button>
             </div>
             <div class="buynow-button">
@@ -14370,7 +14370,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://nyairumput.store/contact/journal.kapin/" class="login"><span>DAFTAR</span></a>
+                <a href="https://mitra-keluarga.world/about/journal-kapin/" class="login"><span>DAFTAR</span></a>
               </button>
             </div>
           </div>
