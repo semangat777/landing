@@ -1,0 +1,435 @@
+<?php
+// Simple standalone PHP landing page.
+// Tidak membutuhkan database atau framework.
+?>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Salam aja buat yang di dalem sini.">
+  <meta name="theme-color" content="#070308">
+  <title>Salam Aja ✦</title>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #070308;
+      --bg2: #12050a;
+      --blood: #b30021;
+      --red: #ff173d;
+      --hot: #ff4b62;
+      --darkred: #410814;
+      --text: #fff5f6;
+      --muted: #bdaeb1;
+      --glass: rgba(18, 5, 10, .68);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      min-height: 100vh;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 18% 20%, rgba(255, 23, 61, .15), transparent 30%),
+        radial-gradient(circle at 85% 75%, rgba(179, 0, 33, .20), transparent 34%),
+        linear-gradient(135deg, #040205 0%, var(--bg) 48%, #100207 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      overflow-x: hidden;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      pointer-events: none;
+      opacity: .22;
+      background-image:
+        linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
+      background-size: 44px 44px;
+      mask-image: linear-gradient(to bottom, black, transparent);
+    }
+
+    .page {
+      min-height: 100vh;
+      position: relative;
+      isolation: isolate;
+    }
+
+    /* Floating blood-red particles */
+    .orb {
+      position: fixed;
+      border-radius: 50%;
+      pointer-events: none;
+      filter: blur(1px);
+      box-shadow: 0 0 22px rgba(255, 23, 61, .7);
+      background: #ff173d;
+      opacity: .55;
+      animation: drift 7s ease-in-out infinite;
+    }
+
+    .o1 { width: 4px; height: 4px; left: 11%; top: 23%; }
+    .o2 { width: 3px; height: 3px; left: 42%; top: 13%; animation-delay: 1.4s; }
+    .o3 { width: 5px; height: 5px; left: 74%; top: 31%; animation-delay: 2.2s; }
+    .o4 { width: 3px; height: 3px; left: 87%; top: 67%; animation-delay: .8s; }
+    .o5 { width: 4px; height: 4px; left: 54%; top: 82%; animation-delay: 3s; }
+
+    header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 20;
+      height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 6vw;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      background: rgba(5, 2, 4, .42);
+      backdrop-filter: blur(18px);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      font-size: .85rem;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+      color: #e9dadd;
+    }
+
+    .logo-mark {
+      color: #ff2447;
+      font-size: 1.8rem;
+      text-shadow: 0 0 20px rgba(255,23,61,.8);
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: #a99a9e;
+      font-size: .76rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #ff173d;
+      box-shadow: 0 0 14px #ff173d;
+    }
+
+    .hero {
+      min-height: 100vh;
+      max-width: 1450px;
+      margin: auto;
+      padding: 125px 6vw 80px;
+      display: grid;
+      grid-template-columns: minmax(0, .92fr) minmax(330px, 1.08fr);
+      align-items: center;
+      gap: 20px;
+    }
+
+    .copy {
+      position: relative;
+      z-index: 5;
+      max-width: 720px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 25px;
+      color: #d7bfc3;
+      font-size: .75rem;
+      letter-spacing: .35em;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 42px;
+      height: 2px;
+      border-radius: 99px;
+      background: linear-gradient(90deg, #ff173d, #8d001b);
+      box-shadow: 0 0 18px #ff173d;
+    }
+
+    h1 {
+      font-size: clamp(3.3rem, 7vw, 7rem);
+      line-height: .91;
+      letter-spacing: -.06em;
+      margin-bottom: 30px;
+    }
+
+    h1 span {
+      display: block;
+      background: linear-gradient(100deg, #fff 10%, #ff9eab 47%, #ff173d 90%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      text-shadow: 0 0 35px rgba(255,23,61,.08);
+    }
+
+    .message {
+      max-width: 590px;
+      color: var(--muted);
+      font-size: clamp(1rem, 1.5vw, 1.15rem);
+      line-height: 1.9;
+    }
+
+    .message strong {
+      color: #fff;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 13px;
+      margin-top: 34px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      padding: 14px 21px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,.14);
+      color: #fff;
+      text-decoration: none;
+      background: rgba(255,255,255,.035);
+      backdrop-filter: blur(12px);
+      transition: .25s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+      border-color: rgba(255,23,61,.55);
+    }
+
+    .btn.primary {
+      border-color: transparent;
+      background: linear-gradient(110deg, #8d001b, #e31538);
+      box-shadow: 0 12px 38px rgba(179,0,33,.34);
+    }
+
+    .art {
+      position: relative;
+      min-height: 650px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .art::before {
+      content: "";
+      position: absolute;
+      width: 74%;
+      height: 74%;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(255,23,61,.20), transparent 68%);
+      filter: blur(35px);
+    }
+
+    .gift-card {
+      position: relative;
+      z-index: 3;
+      width: min(610px, 100%);
+      padding: 12px;
+      border-radius: 30px;
+      background:
+        linear-gradient(135deg, rgba(255,23,61,.65), rgba(50,2,10,.75)) padding-box,
+        linear-gradient(135deg, #ff173d, transparent 55%, #710016) border-box;
+      border: 1px solid transparent;
+      box-shadow:
+        0 35px 90px rgba(0,0,0,.65),
+        0 0 70px rgba(255,23,61,.14);
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .gift-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+      min-height: 330px;
+      max-height: 600px;
+      object-fit: contain;
+      border-radius: 20px;
+      background: #080308;
+    }
+
+    .gift-caption {
+      padding: 14px 8px 4px;
+      display: flex;
+      justify-content: space-between;
+      gap: 15px;
+      color: #bfaeb2;
+      font-size: .78rem;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .gift-caption b {
+      color: #ff526b;
+    }
+
+    .seal {
+      position: absolute;
+      z-index: 5;
+      right: -18px;
+      bottom: 8%;
+      width: 92px;
+      height: 92px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: rgba(12,2,6,.82);
+      border: 1px solid rgba(255,23,61,.55);
+      box-shadow: 0 0 35px rgba(255,23,61,.25);
+      color: #ff4861;
+      font-size: 1.7rem;
+    }
+
+    .footer {
+      position: absolute;
+      left: 6vw;
+      right: 6vw;
+      bottom: 25px;
+      z-index: 10;
+      display: flex;
+      justify-content: space-between;
+      gap: 15px;
+      color: #716367;
+      font-size: .78rem;
+    }
+
+    .footer b { color: #bda4a9; }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(.2deg); }
+      50% { transform: translateY(-12px) rotate(-.2deg); }
+    }
+
+    @keyframes drift {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(8px, -18px); }
+    }
+
+    @media (max-width: 900px) {
+      header { padding: 0 5vw; }
+      .status { display: none; }
+
+      .hero {
+        grid-template-columns: 1fr;
+        padding: 110px 5vw 95px;
+      }
+
+      .art {
+        min-height: 430px;
+        margin-top: -10px;
+      }
+
+      .gift-card {
+        width: min(600px, 100%);
+      }
+
+      .seal {
+        right: -5px;
+        bottom: 7%;
+        width: 72px;
+        height: 72px;
+      }
+
+      .footer {
+        position: relative;
+        left: 0;
+        right: 0;
+        bottom: auto;
+        padding: 0 5vw 25px;
+      }
+    }
+
+    @media (max-width: 520px) {
+      h1 { font-size: clamp(3rem, 16vw, 4.4rem); }
+      .message { font-size: .95rem; }
+      .art { min-height: 330px; }
+      .gift-card { padding: 8px; border-radius: 22px; }
+      .gift-card img { min-height: 230px; border-radius: 15px; }
+      .gift-caption { font-size: .65rem; }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page">
+    <span class="orb o1"></span>
+    <span class="orb o2"></span>
+    <span class="orb o3"></span>
+    <span class="orb o4"></span>
+    <span class="orb o5"></span>
+
+    <header>
+      <div class="logo">
+        <span class="logo-mark">✦</span>
+        <span>Simple Greetings</span>
+      </div>
+      <div class="status">
+        <span class="dot"></span>
+        Blood Moon Edition
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="copy">
+        <div class="eyebrow">Salam datang</div>
+
+        <h1>
+          Salam aja
+          <span>buat yang di dalem sini</span>
+        </h1>
+
+        <p class="message">
+          <strong>Salam aja buat yang di dalem sini.</strong><br>
+          Semoga semuanya baik-baik aja, tetap tenang,
+          tetap keren, dan nikmati vibe malam ini.
+        </p>
+
+        <div class="actions">
+          <a class="btn primary" href="#gift">✦ Salam balik</a>
+          <a class="btn" href="#salam">♡ Stay chill & Tos dulu</a>
+        </div>
+      </div>
+
+      <div class="art" id="gift">
+        <div class="gift-card">
+          <img
+            src="https://i.imgur.com/lgpmx49.gif"
+            alt="Gift anime bernuansa merah"
+            loading="eager"
+          >
+          <div class="gift-caption">
+            <span><b>✦ Gift</b> · blood vibes</span>
+            <span>夜 · good vibes</span>
+          </div>
+        </div>
+        <div class="seal">♡</div>
+      </div>
+    </section>
+
+    <footer class="footer" id="salam">
+      <span>✦ salam hangat <b>hashxyz1337</b></span>
+      <span>made with blood-red vibes ♡</span>
+    </footer>
+  </main>
+</body>
+</html>
