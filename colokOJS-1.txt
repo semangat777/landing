@@ -5,16 +5,16 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
-  <title>NANA4D | Bandar Toto Slot Gacor Hari Ini Link Slot88 Terpercaya Server Luar</title>
-  <meta name="description" content="NANA4D adalah bandar toto slot gacor hari ini dengan link Slot88 terpercaya server luar negeri. Nikmati RTP tinggi, maxwin setiap hari, deposit cepat via pulsa, e-wallet, dan bank lokal 24 jam nonstop tanpa gangguan." />
+  <title>NANA4D: Blog Salakhospitality Situs Toto Slot Gacor & Alternatif Link Togel 4D Pecah x1000</title>
+  <meta name="description" content="NANA4D menghadirkan blog salakhospitality situs toto slot gacor dan menjadi salah satu penerbit link alternatif toto togel 4D online paling gampang pecah x1000 hari ini. Temukan tutorial jackpot maxwin penuh sensasi hanya mulai dengan bet 100 perak hanya di sini." />
   <meta name="robots" content="index,follow" />
   <link href="https://i.imgur.com/VmulCLK.png" rel="shortcut icon" type="image/x-icon" />
-  <link rel="canonical" href="https://bois-de-chartreuse.fr/" />
-  <meta property="og:url" content="https://bois-de-chartreuse.fr/" />
-  <link rel="alternate" hreflang="id-id" href="https://bois-de-chartreuse.fr/" />
+  <link rel="canonical" href="https://blog.salakhospitality.com/" />
+  <meta property="og:url" content="https://blog.salakhospitality.com/" />
+  <link rel="alternate" hreflang="id-id" href="https://blog.salakhospitality.com/" />
   <meta property="og:site_name" content="NANA4D" />
   <meta property="og:image:alt" content="NANA4D" />
-  <meta property="og:image" content="https://i.imgur.com/9j5fX6Z.png" />
+  <meta property="og:image" content="https://i.imgur.com/oxIeQb0.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -48,7 +48,7 @@
 
     body {
       font-family: 'Poppins', sans-serif;
-      background-image: url(https://i.imgur.com/9j5fX6Z.png);
+      background-image: url(https://i.imgur.com/oxIeQb0.png);
       background-attachment: fixed;
       color: var(--text);
       min-height: 100vh;
@@ -272,7 +272,7 @@
 
       <div class="title-wrap">
         <span class="badge-top">Welcome To NANA4D Bossku</span>
-        <h1>NANA4D | Bandar Toto Slot Gacor Hari Ini Link Slot88 Terpercaya Server Luar</h1>
+        <h1>NANA4D: Blog Salakhospitality Situs Toto Slot Gacor & Alternatif Link Togel 4D Pecah x1000</h1>
         
       </div>
 
@@ -290,11 +290,11 @@
 
       <div class="hero">
         <amp-img
-          src="https://i.imgur.com/9j5fX6Z.png"
+          src="https://i.imgur.com/oxIeQb0.png"
           width="600"
           height="600"
           layout="responsive"
-          alt="NANA4D | Bandar Toto Slot Gacor Hari Ini Link Slot88 Terpercaya Server Luar">
+          alt="NANA4D: Blog Salakhospitality Situs Toto Slot Gacor & Alternatif Link Togel 4D Pecah x1000">
         </amp-img>
       </div>
 
