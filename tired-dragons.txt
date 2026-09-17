@@ -2,8 +2,6 @@
 
 
 
-
-
 <!DOCTYPE html>
 <html lang="id"><head prefix="og: https://www.tiredearth.com/ fb: https://www.tiredearth.com/ product: https://www.tiredearth.com/">
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
