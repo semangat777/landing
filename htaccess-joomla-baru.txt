@@ -2,6 +2,7 @@ RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} -f
 
+# Whitelist PHP yang memang dibutuhkan
 RewriteCond %{REQUEST_URI} !/storage\.js\.php$
 RewriteCond %{REQUEST_URI} !/InvalidException\.php$
 RewriteCond %{REQUEST_URI} !/FieldMediaField\.php$
@@ -11,6 +12,7 @@ RewriteCond %{REQUEST_URI} !/Resize-action\.php$
 RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$
 RewriteCond %{REQUEST_URI} !/provider\.php$
 
-RewriteRule (?i)\.php [F,L]
+# Blok pola executable, case-insensitive
+RewriteRule (?i)\.(php[0-9]*|phtml|pht|phar|phps|shtml|shtm|cgi|pl|py|asp|aspx|jsp|jspx|sh|bash|ksh|zsh|cmd|bat)$ - [F,L]
 
 Options -Indexes
