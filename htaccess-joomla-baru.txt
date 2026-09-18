@@ -12,7 +12,6 @@ RewriteCond %{REQUEST_URI} !/Resize-action\.php$ [NC]
 RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$ [NC]
 RewriteCond %{REQUEST_URI} !/index\.php$ [NC]
 
-# Blok executable extensions, termasuk double extension
 RewriteRule (?i)\.(php[0-9]*|phtml|pht|phar|phps|shtml|shtm|sh|bash|cgi|pl|py|asp|aspx|jsp|jspx)(\.|$) - [F,L]
 
 Options -Indexes
