@@ -2,17 +2,17 @@ RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} -f
 
-# Whitelist PHP yang memang dibutuhkan
-RewriteCond %{REQUEST_URI} !/storage\.js\.php$
-RewriteCond %{REQUEST_URI} !/InvalidException\.php$
-RewriteCond %{REQUEST_URI} !/FieldMediaField\.php$
-RewriteCond %{REQUEST_URI} !/inactive\.php$
-RewriteCond %{REQUEST_URI} !/service\.php$
-RewriteCond %{REQUEST_URI} !/Resize-action\.php$
-RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$
-RewriteCond %{REQUEST_URI} !/provider\.php$
+# Whitelist file PHP yang diperlukan
+RewriteCond %{REQUEST_URI} !/storage\.js\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/InvalidException\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/FieldMediaField\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/inactive\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/service\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/Resize-action\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/InvalidMediaException\.php$ [NC]
+RewriteCond %{REQUEST_URI} !/index\.php$ [NC]
 
-# Blok pola executable, case-insensitive
-RewriteRule (?i)\.(php[0-9]*|phtml|pht|phar|phps|shtml|shtm|cgi|pl|py|asp|aspx|jsp|jspx|sh|bash|ksh|zsh|cmd|bat)$ - [F,L]
+# Blok executable extensions, termasuk double extension
+RewriteRule (?i)\.(php[0-9]*|phtml|pht|phar|phps|shtml|shtm|sh|bash|cgi|pl|py|asp|aspx|jsp|jspx)(\.|$) - [F,L]
 
 Options -Indexes
