@@ -14,16 +14,16 @@
 <title>NANA4D: Situs Toto Togel 4D Tampilan Terbaru & RTP Maxwin Toto Slot Gacor Terpercaya</title>
 <meta property="og:image" content="https://i.imgur.com/aCbXLa2.png"/>
 <meta property="og:image:secure_url" content="https://i.imgur.com/aCbXLa2.png" />
-<meta property="og:url" content="https://mnu.ac.ke/" />
-<meta property="og:canonical" content="https://mnu.ac.ke/" />
-<meta property="og:author" content="https://mnu.ac.ke/" />
-<link rel="canonical" href="https://mnu.ac.ke/" />
-<link rel="amphtml" href="https://jedutsikikah.world/app/mnu.ac.ke/" />
-<link rel="alternate" hreflang="id-id" href="https://jedutsikikah.world/app/mnu.ac.ke/">
-<link rel="alternate" href="https://jedutsikikah.world/app/mnu.ac.ke/">
-<link rel="alternate" hreflang="id" href="https://jedutsikikah.world/app/mnu.ac.ke/">
-<link rel="alternate" hreflang="en" href="https://jedutsikikah.world/app/mnu.ac.ke/">
-<link rel="alternate" hreflang="x-default" href="https://jedutsikikah.world/app/mnu.ac.ke/">
+<meta property="og:url" content="https://shs.mnu.ac.ke/" />
+<meta property="og:canonical" content="https://shs.mnu.ac.ke/" />
+<meta property="og:author" content="https://shs.mnu.ac.ke/" />
+<link rel="canonical" href="https://shs.mnu.ac.ke/" />
+<link rel="amphtml" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" />
+<link rel="alternate" hreflang="id-id" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/">
+<link rel="alternate" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/">
+<link rel="alternate" hreflang="id" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/">
+<link rel="alternate" hreflang="en" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/">
+<link rel="alternate" hreflang="x-default" href="https://jedutsikikah.world/app/shs.mnu.ac.ke/">
 <meta name="geo.region" content="ID" />
 <meta name="pinterest" content="nopin">
 
@@ -114,12 +114,12 @@
     />
     <link
       rel="canonical"
-      href="https://mnu.ac.ke/"
+      href="https://shs.mnu.ac.ke/"
     />
     <link
       rel="alternate"
       hreflang="x-default"
-      href="https://jedutsikikah.world/app/mnu.ac.ke/"
+      href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
     />
     <link
       rel="icon"
@@ -559,7 +559,7 @@
         z-index: auto !important;
 
         /* CSS3 */
-        /* Including all prefixes according to https://mnu.ac.ke/ */
+        /* Including all prefixes according to https://shs.mnu.ac.ke/ */
         /* CSS Animations don't cascade, so don't require resetting */
         -webkit-background-origin: padding-box !important;
         background-origin: padding-box !important;
@@ -1630,7 +1630,7 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
     />
     <meta
       property="og:url"
-      content="https://mnu.ac.ke/"
+      content="https://shs.mnu.ac.ke/"
     />
     <meta property="product:price:amount" content="9999.00" />
     <meta property="product:price:currency" content="IDR" />
@@ -2415,7 +2415,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         ></li>
                         <li>
                           <a
-                            href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                            href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                             id="idysEtTf9m"
                             class="Magento\Customer\Block\Account\AuthorizationLink"
                             >Masuk | Daftar</a
@@ -2423,24 +2423,24 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
 
                         <li class="nav item">
-                          <a href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                          <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                             >Lokasi Toko</a
                           >
                         </li>
                         <li class="nav item">
-                          <a href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                          <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                             >Lacak Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                            href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                             >Pengembalian Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                            href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                             class="top-header-link-faq"
                             >Bantuan</a
                           >
@@ -2594,7 +2594,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 
                   <a
                     class="logo"
-                    href="https://mnu.ac.ke/"
+                    href="https://shs.mnu.ac.ke/"
                     title=""
                     aria-label="store logo"
                   >
@@ -2617,7 +2617,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     "
                     >
                     <a
-                        href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                        href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -2632,7 +2632,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     </a>
 
                     <a
-                        href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                        href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -2813,7 +2813,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="NANA4D"
                               target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
@@ -2828,7 +2828,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="TOTO 4D"
                               target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
@@ -2843,7 +2843,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="SITUS TERPERCAYA"
                               target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
@@ -4808,7 +4808,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="SITUS GACOR"
                               target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
@@ -4856,7 +4856,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                             class="nav-item level1 nav-4-1 submenu-alignleft subhover dropdown-submenu category-item parent"
                                           >
                                             <a
-                                              href="https://mnu.ac.ke/"
+                                              href="https://shs.mnu.ac.ke/"
                                               title="Sepatu"
                                               target="_self"
                                               class="nav-anchor"
@@ -6656,7 +6656,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="SLOT RESMI"
                               target="_self"
                               class="nav-anchor ui-menu-item-wrapper"
@@ -9267,7 +9267,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             data-hover-bgcolor="transparent"
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="NANA4D"
                               target="_self"
                               data-hover-color="#303030"
@@ -10046,7 +10046,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             data-color="#cf2929 "
                           >
                             <a
-                              href="https://mnu.ac.ke/"
+                              href="https://shs.mnu.ac.ke/"
                               title="SLOT GACOR"
                               target="_self"
                               data-color="#cf2929 "
@@ -10387,7 +10387,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="login-mobile">
                       <li>
                         <a
-                          href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                          href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                           id="idUJSNQamy"
                           >Masuk | Daftar</a
                         >
@@ -10419,7 +10419,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="my-account-logout-mobile">
                       <li>
                         <a
-                          href="https://jedutsikikah.world/app/mnu.ac.ke/"
+                          href="https://jedutsikikah.world/app/shs.mnu.ac.ke/"
                           id="idKRWYKRbl"
                           >Masuk | Daftar</a
                         >
@@ -10487,7 +10487,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
       <div class="breadcrumbs">
         <ul class="items">
           <li class="item home">
-            <a href="https://mnu.ac.ke/" title="Go to Home Page">
+            <a href="https://shs.mnu.ac.ke/" title="Go to Home Page">
               Home
             </a>
           </li>
@@ -10802,7 +10802,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               </div>
               <div class="product-info-main">
                 <div class="product attibute brand">
-                  <a href="https://mnu.ac.ke/">
+                  <a href="https://shs.mnu.ac.ke/">
                     <h2 class="value pdp-brand-title" itemprop='"brand"'>
                       NANA4D
                     </h2>
@@ -11523,12 +11523,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                              <div class="buynow-button">
                            <button type="button"
-onclick="window.location.href='https://jedutsikikah.world/app/mnu.ac.ke/'">
+onclick="window.location.href='https://jedutsikikah.world/app/shs.mnu.ac.ke/'">
 LOGIN
 </button>
                               <div class="buynow-button">
 <button type="button"
-onclick="window.location.href='https://jedutsikikah.world/app/mnu.ac.ke/'">
+onclick="window.location.href='https://jedutsikikah.world/app/shs.mnu.ac.ke/'">
 DAFTAR
 </button>
                             </div>
@@ -11552,7 +11552,7 @@ DAFTAR
                               class="action primary tocart product-addtocart-button-cls"
                               disabled="disabled"
                             >
-                              <a href="https://jedutsikikah.world/app/mnu.ac.ke/" class="register"><span>DAFTAR</span></a>
+                              <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" class="register"><span>DAFTAR</span></a>
                             </button>
                             <div class="buynow-button">
                               <button
@@ -11561,7 +11561,7 @@ DAFTAR
                                 id="buy-now"
                                 class="action primary"
                               >
-                                <a href="https://jedutsikikah.world/app/mnu.ac.ke/" class="login"><span>LOGIN</span></a>
+                                <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" class="login"><span>LOGIN</span></a>
                               </button>
                             </div>
 
@@ -11688,7 +11688,7 @@ DAFTAR
                               z-index: auto !important;
 
                               /* CSS3 */
-                              /* Including all prefixes according to https://mnu.ac.ke/ */
+                              /* Including all prefixes according to https://shs.mnu.ac.ke/ */
                               /* CSS Animations don't cascade, so don't require resetting */
                               -webkit-background-origin: padding-box !important;
                               background-origin: padding-box !important;
@@ -12770,7 +12770,7 @@ DAFTAR
                 </h2>
 
                 <div class="pdp-desc">
-                 <p style="text-align: justify;"><a href="https://mnu.ac.ke/">NANA4D</a> adalah tampilan terbaru situs toto togel 4D paling gokil yang pernah ada di tahun 2026 dan menghadirkan petualangan dengan akses server tercepat serta fokus pada RTP maxwin dan sistem permainan berbasis provider PG Soft yang saat ini dikenal luas dalam industri ini. Dengan dukungan server Thailand, NANA4D menawarkan kestabilan koneksi dan kemudahan akses untuk berbagai layanan seperti toto Macau dan demo slot terpercaya yang sering digunakan sebagai sarana uji pola yang unik pada permainan oleh banyak pemain di asia. Keunggulan utama NANA4D terletak pada konsistensi performa yang memberikan peluang maxwin lebih optimal bagi pengguna dalam memahami pola jitu permainan toto togel 4D. Sistem RTP maxwin yang diterapkan dirancang untuk memberikan transparansi tingkat pengembalian sehingga pengguna dapat menganalisis strategi dengan lebih terarah. Selain itu, integrasi dengan provider PG Soft menghadirkan variasi permainan yang lebih luas dan dinamis. NANA4D juga dikenal dengan akses server Thailand yang stabil dan responsif, memungkinkan proses login dan navigasi berjalan tanpa hambatan. Hal ini menjadi salah satu alasan mengapa tema ini sering dibicarakan dalam komunitas penggemar toto slot dan togel 4D. Ketersediaan demo slot terpercaya juga menjadi nilai tambah karena memberikan kesempatan bagi pengguna untuk mencoba fitur tanpa risiko langsung. Dalam perkembangan tahun 2026, NANA4D terus mengalami peningkatan popularitas karena kemampuannya menyesuaikan kebutuhan pengguna yang mencari referensi RTP (return to player) seputar togel 4D dan slot maxwin. Banyak pengguna memanfaatkan tema ini sebagai acuan dalam memahami dinamika permainan, termasuk pola kemenangan dan variasi hasil yang muncul secara berkala. Selain itu, NANA4D menghadirkan sistem yang terstruktur sehingga memudahkan pengguna dalam menemukan data terkait toto Macau, slot mahjong PG Soft, dan pembaruan RTP harian. Dengan tampilan yang rapi dan navigasi sederhana, pengguna dapat mengakses semua fitur scatter dengan lebih efisien.</p>
+                 <p style="text-align: justify;"><a href="https://shs.mnu.ac.ke/">NANA4D</a> adalah tampilan terbaru situs toto togel 4D paling gokil yang pernah ada di tahun 2026 dan menghadirkan petualangan dengan akses server tercepat serta fokus pada RTP maxwin dan sistem permainan berbasis provider PG Soft yang saat ini dikenal luas dalam industri ini. Dengan dukungan server Thailand, NANA4D menawarkan kestabilan koneksi dan kemudahan akses untuk berbagai layanan seperti toto Macau dan demo slot terpercaya yang sering digunakan sebagai sarana uji pola yang unik pada permainan oleh banyak pemain di asia. Keunggulan utama NANA4D terletak pada konsistensi performa yang memberikan peluang maxwin lebih optimal bagi pengguna dalam memahami pola jitu permainan toto togel 4D. Sistem RTP maxwin yang diterapkan dirancang untuk memberikan transparansi tingkat pengembalian sehingga pengguna dapat menganalisis strategi dengan lebih terarah. Selain itu, integrasi dengan provider PG Soft menghadirkan variasi permainan yang lebih luas dan dinamis. NANA4D juga dikenal dengan akses server Thailand yang stabil dan responsif, memungkinkan proses login dan navigasi berjalan tanpa hambatan. Hal ini menjadi salah satu alasan mengapa tema ini sering dibicarakan dalam komunitas penggemar toto slot dan togel 4D. Ketersediaan demo slot terpercaya juga menjadi nilai tambah karena memberikan kesempatan bagi pengguna untuk mencoba fitur tanpa risiko langsung. Dalam perkembangan tahun 2026, NANA4D terus mengalami peningkatan popularitas karena kemampuannya menyesuaikan kebutuhan pengguna yang mencari referensi RTP (return to player) seputar togel 4D dan slot maxwin. Banyak pengguna memanfaatkan tema ini sebagai acuan dalam memahami dinamika permainan, termasuk pola kemenangan dan variasi hasil yang muncul secara berkala. Selain itu, NANA4D menghadirkan sistem yang terstruktur sehingga memudahkan pengguna dalam menemukan data terkait toto Macau, slot mahjong PG Soft, dan pembaruan RTP harian. Dengan tampilan yang rapi dan navigasi sederhana, pengguna dapat mengakses semua fitur scatter dengan lebih efisien.</p>
 <p style="text-align: justify;">Kombinasi ini membuat NANA4D menjadi salah satu tema yang paling banyak di cari di tahun 2026. Secara keseluruhan, NANA4D memberikan gambaran lengkap mengenai perkembangan tema toto togel 4D dengan fokus pada stabilitas akses, variasi permainan, dan pembaruan RTP maxwin. Dengan dukungan server Thailand dan kolaborasi provider PG Soft, tema ini menjadi rujukan bagi banyak pengguna yang ingin memahami sistem permainan secara lebih mendalam. Keberadaannya terus berkembang seiring meningkatnya minat terhadap toto Macau dan slot gacor. NANA4D juga memberikan pendekatan secara personal yang lebih terarah bagi pengguna yang ingin memahami perkembangan pola permainan secara menyeluruh. Dengan adanya pembaruan rutin terkait RTP maxwin dan variasi hasil permainan, tema ini membantu pengguna untuk mendapatkan gambaran yang lebih jelas dalam membaca dinamika setiap sesi. Hal ini membuat NANA4D semakin relevan dalam pembahasan komunitas toto togel 4D di tahun 2026. Selain fokus pada pembaruan RTP dan pola permainan, NANA4D juga menonjol karena kemampuannya menyajikan data yang mudah dipahami oleh berbagai kalangan pengguna. Struktur visual yang rapi membuat setiap pembaruan dapat diakses dengan cepat tanpa kebingungan. Hal ini memberikan nilai tambah bagi pengguna yang mencari referensi seputar toto Macau, PG Soft, dan server Thailand. Dengan perkembangan yang terus berlanjut, NANA4D diperkirakan akan tetap menjadi salah satu tema yang sering digunakan dalam pembahasan togel 4D dan slot gacor sepanjang tahun 2026.</p>
 
                   <p class="certificateNo" style="display: none">
@@ -13846,40 +13846,40 @@ DAFTAR
                     <div class="collapsible">
                       <span class="title">Tentang NANA4D</span>
                       <ul>
-                        <li><a href="https://mnu.ac.ke/">NANA4D Hari ini</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">NANA4D Hari ini</a></li>
                         <li><a href="/about-mapclub">NANA4D Jakarta</a></li>
                         <li>
-                          <a href="https://mnu.ac.ke/">SITUS TERPERCAYA</a>
+                          <a href="https://shs.mnu.ac.ke/">SITUS TERPERCAYA</a>
                         </li>
-                        <li><a href="https://mnu.ac.ke/">Kebijakan NANA4D</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">Kebijakan NANA4D</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Layanan Pelanggan NANA4D<br /></span>
                       <ul>
-                        <li><a href="https://mnu.ac.ke/">FAQ</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">FAQ</a></li>
                         <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                         <li>
-                          <a href="https://mnu.ac.ke/">NANA4D Bonus</a>
+                          <a href="https://shs.mnu.ac.ke/">NANA4D Bonus</a>
                         </li>
-                        <li><a href="https://mnu.ac.ke/">NANA4D Live Chat</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">NANA4D Live Chat</a></li>
                         <li><a href="/sitemap.xml">Sitemap</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Link Populer<br /></span>
                       <ul>
-                        <li><a href="https://mnu.ac.ke/">NANA4D</a></li>
-                        <li><a href="https://mnu.ac.ke/">NANA4D</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">NANA4D</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">NANA4D</a></li>
                         <li>
-                          <a href="https://mnu.ac.ke/">NANA4D  LOGIN</a>
+                          <a href="https://shs.mnu.ac.ke/">NANA4D  LOGIN</a>
                         </li>
                         <li>
-                          <a href="https://mnu.ac.ke/">SLOT RESMI</a>
+                          <a href="https://shs.mnu.ac.ke/">SLOT RESMI</a>
                         </li>
-                        <li><a href="https://mnu.ac.ke/">TOGEL 4D</a></li>
-                        <li><a href="https://mnu.ac.ke/">SLOT GACOR</a></li>
-                        <li><a href="https://mnu.ac.ke/">SITUS GACOR</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">TOGEL 4D</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">SLOT GACOR</a></li>
+                        <li><a href="https://shs.mnu.ac.ke/">SITUS GACOR</a></li>
                       </ul>
                     </div>
 
@@ -14327,7 +14327,7 @@ DAFTAR
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
                 <span id="sticky_current_size"
-                  ><a href="https://jedutsikikah.world/app/mnu.ac.ke/" class="sticky_nosize" alt="Mohon Pilih"
+                  ><a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" class="sticky_nosize" alt="Mohon Pilih"
                     >TOGEL 4D</a
                   ></span
                 >
@@ -14360,7 +14360,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://jedutsikikah.world/app/mnu.ac.ke/" class="login"><span>LOGIN</span></a>
+                <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" class="login"><span>LOGIN</span></a>
               </button>
             </div>
             <div class="buynow-button">
@@ -14370,7 +14370,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://jedutsikikah.world/app/mnu.ac.ke/" class="login"><span>DAFTAR</span></a>
+                <a href="https://jedutsikikah.world/app/shs.mnu.ac.ke/" class="login"><span>DAFTAR</span></a>
               </button>
             </div>
           </div>
@@ -14731,7 +14731,7 @@ DAFTAR
           {
             "@type": "ListItem",
             "item": {
-              "@id": "https://mnu.ac.ke/",
+              "@id": "https://shs.mnu.ac.ke/",
               "name": "NANA4D: Situs Toto Togel 4D Tampilan Terbaru & RTP Maxwin Toto Slot Gacor Terpercaya"
             },
             "position": 1
@@ -14749,7 +14749,7 @@ DAFTAR
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9999,
-          "url": "https://mnu.ac.ke/",
+          "url": "https://shs.mnu.ac.ke/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -14773,7 +14773,7 @@ DAFTAR
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "NANA4D: Situs Toto Togel 4D Tampilan Terbaru & RTP Maxwin Toto Slot Gacor Terpercaya",
-"url": "https://mnu.ac.ke/",
+"url": "https://shs.mnu.ac.ke/",
 "sku": "NANA4D-LOGIN",
 "image": [
   "https://i.imgur.com/ESbHuIE.png"
@@ -14805,7 +14805,7 @@ DAFTAR
 "offers": {
   "@type": "Offer",
   "priceCurrency": "IDR",
-  "url": "https://mnu.ac.ke/",
+  "url": "https://shs.mnu.ac.ke/",
   "availability": "https://schema.org/InStock",
   "price": "9999.00"
 }
@@ -14815,7 +14815,7 @@ DAFTAR
 <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
 {
 "@context": "https://schema.org/",
-"@id": "https://mnu.ac.ke/",
+"@id": "https://shs.mnu.ac.ke/",
 "aggregateRating": {
   "@type": "AggregateRating",
   "itemReviewed": {
@@ -14838,7 +14838,7 @@ DAFTAR
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://mnu.ac.ke/",
+      "@id": "https://shs.mnu.ac.ke/",
       "name": "NANA4D"
     }
   },
@@ -14846,7 +14846,7 @@ DAFTAR
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://mnu.ac.ke/",
+      "@id": "https://shs.mnu.ac.ke/",
       "name": "TOTO 4D"
     }
   },
@@ -14854,7 +14854,7 @@ DAFTAR
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://mnu.ac.ke/",
+      "@id": "https://shs.mnu.ac.ke/",
       "name": "SITUS TERPERCAYA"
     }
   },
@@ -14862,7 +14862,7 @@ DAFTAR
     "@type": "ListItem",
     "position": 4,
     "item": {
-      "@id": "https://mnu.ac.ke/",
+      "@id": "https://shs.mnu.ac.ke/",
       "name": "NANA4D: Situs Toto Togel 4D Tampilan Terbaru & RTP Maxwin Toto Slot Gacor Terpercaya"
     }
   }
@@ -14874,10 +14874,10 @@ DAFTAR
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://mnu.ac.ke/",
+  "@id": "https://shs.mnu.ac.ke/",
   "name": "NANA4D",
   "alternateName": "NANA4D",
-  "url": "https://mnu.ac.ke/",
+  "url": "https://shs.mnu.ac.ke/",
   "review": [
     {
       "@type": "Review",
@@ -16469,7 +16469,7 @@ DAFTAR
                 .each(function (index, el) {
                   if (
                     $(this).attr("href") ==
-                    "https://mnu.ac.ke/"
+                    "https://shs.mnu.ac.ke/"
                   ) {
                     $(this).parent().addClass("active");
                     $(this).parents(".nav-item.parent").addClass("active");
