@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id"><head prefix="og: https://realtimeuk.com/ fb: https://realtimeuk.com/ product: https://realtimeuk.com/">
+<html lang="id"><head prefix="og: https://vestnik-surgery.com/ fb: https://vestnik-surgery.com/ product: https://vestnik-surgery.com/">
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
         <script data-breeze="1">
             var LOCALE = 'id\u002DID';
@@ -2029,7 +2029,7 @@
         <link rel="alternate" hreflang="x-default" href="https://nana4dshop.world/">
         <link rel="icon" type="image/x-icon" href="https://i.imgur.com/aCbXLa2.png">
         <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/aCbXLa2.png">
-        <link rel="canonical" href="https://realtimeuk.com/">
+        <link rel="canonical" href="https://vestnik-surgery.com/">
         <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
         <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
         <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -2203,7 +2203,7 @@
         <meta property="og:title" content="NANA4D | Daftar Situs Toto Slot Gacor Thailand Slot777 & Link Slot88 Banjir Maxwin Hari Ini">
         <meta property="og:image" content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
         <meta property="og:description" content="NANA4D adalah Portal login link situs toto slot gacor thailand sekaligus menjadi penyedia game slot777 provider slot88 resmi di asia. Daftar di link situs gacor sekarang untuk menikmati peruntungan scatter maxwin setiap hari dengan potensi kemenangan presentase yang akurat.">
-        <meta property="og:url" content="https://realtimeuk.com/">
+        <meta property="og:url" content="https://vestnik-surgery.com/">
         <meta property="product:price:amount" content="5000">
         <meta property="product:price:currency" content="IDR">
         <script type="text/javascript" id="klevu_initsessiondata">
@@ -6728,7 +6728,7 @@
                     <span data-action="toggle-nav" class="action nav-toggle" tabindex="0">
                         <span>Toggle Nav</span>
                     </span>
-                    <a class="logo" href="https://realtimeuk.com/" title="" aria-label="store logo">
+                    <a class="logo" href="https://vestnik-surgery.com/" title="" aria-label="store logo">
                         <img src="https://i.imgur.com/BSQ900l.png" title="" alt="" width="155" height="28">
                     </a>
                     <div class="kanmo-middle-header">
@@ -6738,7 +6738,7 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://realtimeuk.com/">
+                                            <a href="https://vestnik-surgery.com/">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg">
                                                 </span>
@@ -6746,12 +6746,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://realtimeuk.com/">
+                                            <a href="https://vestnik-surgery.com/">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://realtimeuk.com/">
+                                            <a href="https://vestnik-surgery.com/">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg">
                                                 </span>
@@ -6759,7 +6759,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://realtimeuk.com/" target="_blank">
+                                            <a href="https://vestnik-surgery.com/" target="_blank">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                                 </span>
@@ -6773,7 +6773,7 @@
                                 <nav class="navigation" role="navigation" data-action="navigation">
                                     <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
                                         <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="font-size:12px;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" style="font-size:12px;" class=" nav-anchor">
                                                 <span>NANA4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8040,7 +8040,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS GACOR</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8266,7 +8266,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS TOTO</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8388,7 +8388,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>TOGEL 4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8470,7 +8470,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS TOTO</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -8614,7 +8614,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="max-lines: 2;
+                                            <a href="https://vestnik-surgery.com/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor">
@@ -8745,7 +8745,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                             </div>
                                         </li>
                                         <li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" style="white-space: nowrap;
+                                            <a href="https://vestnik-surgery.com/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor">
                                                 <span>TOTO 4D</span>
@@ -8812,7 +8812,7 @@ font-size:12px;
                                             </div>
                                         </li>
                                         <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://realtimeuk.com/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#388266 !important" data-color="#fff !important" data-bgcolor="#388266 !important" style="color: #fff !important;background-color: #388266 !important;" class=" nav-anchor">
+                                            <a href="https://vestnik-surgery.com/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#388266 !important" data-color="#fff !important" data-bgcolor="#388266 !important" style="color: #fff !important;background-color: #388266 !important;" class=" nav-anchor">
                                                 <span>SLOT</span>
                                             </a>
                                         </li>
@@ -9312,7 +9312,7 @@ font-size:12px;
                         );
                     </script>
                     <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-                        <a class="action toggle switcher-trigger" href="https://realtimeuk.com/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+                        <a class="action toggle switcher-trigger" href="https://vestnik-surgery.com/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
                             
                             <div id="customer-name-container" data-bind="scope: &#39;customer-name&#39;">
                                 <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
@@ -9332,10 +9332,10 @@ font-size:12px;
                                     });
                                 </script>
                                 <li style="display: none;">
-                                    <a href="https://realtimeuk.com/">buat akun        </a>
+                                    <a href="https://vestnik-surgery.com/">buat akun        </a>
                                 </li>
                                 <li>
-                                    <a href="https://realtimeuk.com/">
+                                    <a href="https://vestnik-surgery.com/">
                                         <span>Bantuan</span>
                                     </a>
                                 </li>
@@ -9343,12 +9343,12 @@ font-size:12px;
                         </div>
                     </div>
                     <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                        <a class="action toggle switcher-trigger" href="https://realtimeuk.com/" title="Daftar Keinginan">
+                        <a class="action toggle switcher-trigger" href="https://vestnik-surgery.com/" title="Daftar Keinginan">
                             <span class="abs-visually-hidden">Daftar Keinginan</span>
                         </a>
                     </div>
                     <div data-block="minicart" class="minicart-wrapper">
-                        <a class="action showcart" href="https://realtimeuk.com/" data-bind="scope: 'minicart_content'">
+                        <a class="action showcart" href="https://vestnik-surgery.com/" data-bind="scope: 'minicart_content'">
                             <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -9551,7 +9551,7 @@ font-size:12px;
                                                             "@context": "https://schema.org",
                                                             "@type": "Organization",
                                                             "name": "NANA4D",
-                                                            "url": "https://realtimeuk.com/",
+                                                            "url": "https://vestnik-surgery.com/",
                                                             "logo": "https://i.imgur.com/BSQ900l.png",
                                                             "description": "NANA4D adalah Portal login link situs toto slot gacor thailand sekaligus menjadi penyedia game slot777 provider slot88 resmi di asia. Daftar di link situs gacor sekarang untuk menikmati peruntungan scatter maxwin setiap hari dengan potensi kemenangan presentase yang akurat. ",
                                                             "foundingDate": "2024",
@@ -9625,19 +9625,19 @@ font-size:12px;
                                                                     "@type": "ListItem",
                                                                     "position": 1,
                                                                     "name": "NANA4D",
-                                                                    "item": "https://realtimeuk.com/"
+                                                                    "item": "https://vestnik-surgery.com/"
                                                                 },
                                                                 {
                                                                     "@type": "ListItem",
                                                                     "position": 2,
                                                                     "name": "SLOT GACOR",
-                                                                    "item": "https://realtimeuk.com/"
+                                                                    "item": "https://vestnik-surgery.com/"
                                                                 },
                                                                 {
                                                                     "@type": "ListItem",
                                                                     "position": 3,
                                                                     "name": "TOGEL 4D",
-                                                                    "item": "https://realtimeuk.com/"
+                                                                    "item": "https://vestnik-surgery.com/"
                                                                 }
                                                             ]
                                                         }</script>
@@ -9677,7 +9677,7 @@ font-size:12px;
                                     <div class="product attribute overview">
                                         <div class="value" itemprop="description" style="text-align: justify;">
                                             <p data-start="0" data-end="499">
-                                                <a title="NANA4D" href="https://realtimeuk.com/">NANA4D</a>
+                                                <a title="NANA4D" href="https://vestnik-surgery.com/">NANA4D</a>
                                                  adalah portal login online yang menghadirkan akses menuju Slot777 provider slot88, serta pilihan permainan bertema Asia yang lagi hits di kalangan komunitas link situs slot gacor indonesia. Bukan cuma itu, kami juga mengusung tampilan visual modern dengan navigasi daftar yang ringkas dan praktis, Selain itu juga kami memberikan kemudahan saat membuka halaman melalui komputer, tablet, maupun smartphone. Seolah itu, Slot88 menjadi salah satu permainan yang banyak dikenal melalui karakter visual khas Tiongkok, simbol bernuansa oriental, serta fitur permainan toto slot gaor online yang membuat setiap putaran terasa dinamis. Pada beranda NANA4D, kalian dapat menemukan akses menuju permainan Slot777 dengan susunan menu yang dibuat mudah dan modern.
                                             </p>
                                             <p data-start="0" data-end="499">NANA4D juga menyediakan fitur login yang dapat diakses secara cepat tanpa embel-embel yang berlebihan. Struktur beranda dibuat responsif sehingga proses membuka situs tetap nyaman ketika menggunakan jaringan maupun perangkat berbeda. Informasi mengenai nama permainan dengan tingkat RTP slot gacor maxwin, fitur scatter, wild, bonus, dan karakteristik masing-masing game dapat menjadi bahan tambahan untuk mereka sebelum masuk ke arena game.</p>
@@ -9686,7 +9686,7 @@ font-size:12px;
                                 </div>
                                 <div class="product-config">
                                     <div class="product-add-form">
-                                        <form data-product-sku="52135545-AYO01" action="https://realtimeuk.com/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+                                        <form data-product-sku="52135545-AYO01" action="https://vestnik-surgery.com/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
                                             <input type="hidden" name="product" value="600193">
                                             <input type="hidden" name="selected_configurable_option" value="">
                                             <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -9909,76 +9909,76 @@ function myFunction() {
                                         <div class="main-image-wrapper">
                                             <img alt="" class="main-image" src="https://i.imgur.com/4fzisDx.png" width="608" height="608">
                                         </div>
-                                        <a href="https://realtimeuk.com/" class="prev" tabindex="-1">
+                                        <a href="https://vestnik-surgery.com/" class="prev" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                                             </svg>
                                         </a>
-                                        <a href="https://realtimeuk.com/" class="next" tabindex="-1">
+                                        <a href="https://vestnik-surgery.com/" class="next" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                                             </svg>
                                         </a>
                                         <div class="controls">
-                                            <a href="https://realtimeuk.com/" class="zoom zoom-in">
+                                            <a href="https://vestnik-surgery.com/" class="zoom zoom-in">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                                                 </svg>
                                             </a>
-                                            <a href="https://realtimeuk.com/" class="zoom zoom-out">
+                                            <a href="https://vestnik-surgery.com/" class="zoom zoom-out">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                                                 </svg>
                                             </a>
                                         </div>
-                                        <a href="https://realtimeuk.com/" class="close">
+                                        <a href="https://vestnik-surgery.com/" class="close">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                                             </svg>
                                         </a>
                                     </div>
                                     <div class="thumbnails ">
-                                        <a class="item active" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item active" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://realtimeuk.com/" title="View Image">
+                                        <a class="item" href="https://vestnik-surgery.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt="" src="https://i.imgur.com/4fzisDx.png">
                                             </span>
@@ -12963,42 +12963,42 @@ function myFunction() {
                                     <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">berbelanja dengan kami</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">NANA4D Resmi</a>
+                                            <a href="https://vestnik-surgery.com/">NANA4D Resmi</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">Situs Slot Gacor</a>
+                                            <a href="https://vestnik-surgery.com/">Situs Slot Gacor</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">Slot Gacor Hari Ini</a>
+                                            <a href="https://vestnik-surgery.com/">Slot Gacor Hari Ini</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">TOGEL 4D Terbaru</a>
+                                            <a href="https://vestnik-surgery.com/">TOGEL 4D Terbaru</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">Link Slot Maxwin</a>
+                                            <a href="https://vestnik-surgery.com/">Link Slot Maxwin</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">refund via store credit</a>
+                                            <a href="https://vestnik-surgery.com/">refund via store credit</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">temukan toko terdekat</a>
+                                            <a href="https://vestnik-surgery.com/">temukan toko terdekat</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">panduan ukuran</a>
+                                            <a href="https://vestnik-surgery.com/">panduan ukuran</a>
                                         </p>
                                     </div>
                                 </div>
@@ -13006,12 +13006,12 @@ function myFunction() {
                                     <h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">hubungi kami</a>
+                                            <a href="https://vestnik-surgery.com/">hubungi kami</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="https://realtimeuk.com/">bantuan dan faq</a>
+                                            <a href="https://vestnik-surgery.com/">bantuan dan faq</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
@@ -13024,13 +13024,13 @@ function myFunction() {
                                         <div class="footer-desktop">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px">
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png">
                                                 </a>
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png">
                                                 </a>
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png">
                                                 </a>
                                             </div>
@@ -13078,13 +13078,13 @@ function myFunction() {
                                         <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px;justify-content: center;">
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon">
                                                 </a>
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon">
                                                 </a>
-                                                <a class="item" href="https://realtimeuk.com/">
+                                                <a class="item" href="https://vestnik-surgery.com/">
                                                     <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon">
                                                 </a>
                                             </div>
@@ -13099,7 +13099,7 @@ function myFunction() {
                                                 <img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method">
                                             </span>
                                             <span>
-                                                <a target="_blank" href="https://realtimeuk.com/">
+                                                <a target="_blank" href="https://vestnik-surgery.com/">
                                                     <img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.imgur.com/BSQ900l.png" alt="iso logo">
                                                 </a>
                                             </span>
@@ -13174,7 +13174,7 @@ function myFunction() {
                     let dataMinicart = $('#giftreg-message-minicart');
                     let datapdp = $('#giftreg-message-pdp');
 
-                    let formUrl = 'https://realtimeuk.com/';
+                    let formUrl = 'https://vestnik-surgery.com/';
 
                     // $('.action.showcart').click(function(){
                     // 	setTimeout(function(){
@@ -13567,7 +13567,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://realtimeuk.com/",
+                                "createUrl": "https://vestnik-surgery.com/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
