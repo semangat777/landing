@@ -64,7 +64,7 @@
 
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://ik.imagekit.io/ugxs6hqv0/8831b6be-928e-4744-9ca5-ca9d93a45eea.png" />
+<meta property="og:image" content="https://i.imgur.com/1bgzTA7.png" />
 <meta property="og:title" content="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" />
 <meta property="og:description" content="NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya.">
 <meta property="og:url" content="https://bapin.or.id/" />
@@ -78,7 +78,7 @@
 <meta name="twitter:creator" content="@kompascom">
 <meta name="twitter:title" content="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" />
 <meta name="twitter:description" content="NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya." />
-<meta name="twitter:image" content="https://ik.imagekit.io/ugxs6hqv0/8831b6be-928e-4744-9ca5-ca9d93a45eea.png" />
+<meta name="twitter:image" content="https://i.imgur.com/1bgzTA7.png" />
 <!-- E:tweeter card -->
 
 <meta name="content_category" content="Prov" />
@@ -103,7 +103,7 @@
 <meta name="content_total_pages" content="1" />
 <meta name="content_current_page" content="1" />
 
-<link rel="preload" as="image" href="https://ik.imagekit.io/ugxs6hqv0/8831b6be-928e-4744-9ca5-ca9d93a45eea.png">
+<link rel="preload" as="image" href="https://i.imgur.com/1bgzTA7.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
 
@@ -1067,7 +1067,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://ik.imagekit.io/ugxs6hqv0/8831b6be-928e-4744-9ca5-ca9d93a45eea.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru">
+                    <img width="780" height="520" src="https://i.imgur.com/1bgzTA7.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru">
                        
             </div>
 </div>
@@ -3293,7 +3293,7 @@ if (onSubmitNps !== null) {
         <!-- Border mewah -->
         <div class="luxury-border"></div>
         <div class="style">
-            <img src="https://ik.imagekit.io/ugxs6hqv0/8831b6be-928e-4744-9ca5-ca9d93a45eea.png" alt="Popup Banner" class="popup-image" />
+            <img src="https://i.imgur.com/1bgzTA7.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
                 <a href="https://nana4dsuport.online/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
