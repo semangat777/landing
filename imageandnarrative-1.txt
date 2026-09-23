@@ -5,12 +5,12 @@
   <meta name="description" content="Nana4D merupakan Daftar konsolidasi situs TOTO 4D dan bandar togel online dalam satu platform kolaboratif. Akses masuk mudah, segi deposit dana cepat, dan aman. Nikmati ekosistem digital seamless dengan berbagai fitur premium hanya di sini.">
   <meta name="robots" content="index,follow,nosnipet">
   <link rel="canonical" href="https://www.imageandnarrative.be/">
-  <link rel="amphtml" href="https://mycleveland-clinic.org/app/imageandnarrative/">
-  <link rel="alternate" hreflang="id-id" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="id" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="en" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="x-default" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
+  <link rel="amphtml" href="https://pbhi-group.world/app/imageandnarrative/">
+  <link rel="alternate" hreflang="id-id" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="id" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="en" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="x-default" href="https://pbhi-group.world/app/imageandnarrative/"/>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0LSM1YJSPZ" nonce=""></script>
   <script nonce="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"granted",wait_for_update:500});gtag("js",new Date);gtag("config","G-0LSM1YJSPZ",{send_page_view:!0,linker:{domains:["plazait.co.id","www.plazait.co.id"]}});window.ga4Ecomm={viewItem:function(e){if(!window.gtag)return;try{gtag("event","view_item",{currency:e.currency||"IDR",value:e.value||0,items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:1}]})}catch(t){}},addToCart:function(e){if(!window.gtag)return;try{gtag("event","add_to_cart",{currency:e.currency||"IDR",value:(e.price||0)*(e.quantity||1),items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:e.quantity||1}]})}catch(t){}}};</script>
@@ -304,8 +304,8 @@
     <div class="topbar-right">
       <a href="https://www.imageandnarrative.be/">NANA4D</a>
       <a href="https://www.imageandnarrative.be/">Promo</a>
-      <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Daftar</a>
-      <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Masuk</a>
+      <a href="https://pbhi-group.world/app/imageandnarrative/">Daftar</a>
+      <a href="https://pbhi-group.world/app/imageandnarrative/">Masuk</a>
     </div>
   </div>
 </header>
@@ -1282,7 +1282,7 @@ function showCartLoginModal() {
                 </div>
             </div>
             
-            <div class="pd-short-desc"><p><strong>Informasi NANA4D :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: TOGEL ONLINE</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 249.888.889</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Klik Disini</a></li></ul></div>
+            <div class="pd-short-desc"><p><strong>Informasi NANA4D :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: TOGEL ONLINE</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 249.888.889</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://pbhi-group.world/app/imageandnarrative/">Klik Disini</a></li></ul></div>
 <div id="golden-slot-standalone-v3">
     <style>
         #golden-slot-standalone-v3 {
@@ -2036,7 +2036,7 @@ function spinButton(btn, on){
 
 </div> 
    </div>
-<a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank">
+<a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;height: 250px;border: 2px solid rgb(211 157 13);border-radius: 20px;box-shadow: 1px 1px 1px black;" alt="NANA4D" src="https://ik.imagekit.io/uo1lbzfni/togel-nana4d.png" width="250" height="300"/>
                              </a>
 
@@ -4978,26 +4978,26 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
 </style>
 
 <div class="mawar-red-fixed-footer">
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="BONUS NANA4D">
     PROMO
   </a>
   
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="TELEGRAM NANA4D">
     TELEGRAM
   </a>
 
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener" class="core-cta">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener" class="core-cta">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="DAFTAR NANA4D">
     DAFTAR
   </a>
 
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="PREDIKSI NANA4D">
     PREDIKSI
   </a>
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="LIVECHAT NANA4D">
     CHAT
   </a>
