@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="id" style="--viewport-height: 6095px;"><head>
+<html lang="id" style="--viewport-height: 6169px;"><head>
   
   <title>Nana4D | Daftar Konsolidasi Situs TOTO 4D dan Bandar Togel Online Terpercaya dalam Satu platform</title>
   <meta name="description" content="Nana4D merupakan Daftar konsolidasi situs TOTO 4D dan bandar togel online dalam satu platform kolaboratif. Akses masuk mudah, segi deposit dana cepat, dan aman. Nikmati ekosistem digital seamless dengan berbagai fitur premium hanya di sini.">
-  <meta name="robots" content="index,follow,nosnipet">
+  <meta name="robots" content="index,follow">
   <link rel="canonical" href="https://www.imageandnarrative.be/">
-  <link rel="amphtml" href="https://mycleveland-clinic.org/app/imageandnarrative/">
-  <link rel="alternate" hreflang="id-id" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="id" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="en" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
-  <link rel="alternate" hreflang="x-default" href="https://mycleveland-clinic.org/app/imageandnarrative/"/>
+  <link rel="amphtml" href="https://pbhi-group.world/app/imageandnarrative/">
+  <link rel="alternate" hreflang="id-id" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="id" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="en" href="https://pbhi-group.world/app/imageandnarrative/"/>
+  <link rel="alternate" hreflang="x-default" href="https://pbhi-group.world/app/imageandnarrative/"/>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0LSM1YJSPZ" nonce=""></script>
   <script nonce="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"granted",wait_for_update:500});gtag("js",new Date);gtag("config","G-0LSM1YJSPZ",{send_page_view:!0,linker:{domains:["plazait.co.id","www.plazait.co.id"]}});window.ga4Ecomm={viewItem:function(e){if(!window.gtag)return;try{gtag("event","view_item",{currency:e.currency||"IDR",value:e.value||0,items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:1}]})}catch(t){}},addToCart:function(e){if(!window.gtag)return;try{gtag("event","add_to_cart",{currency:e.currency||"IDR",value:(e.price||0)*(e.quantity||1),items:[{item_id:e.item_id||"",item_name:e.item_name||"",item_brand:e.item_brand||"",item_category:e.item_category||"",price:e.price||0,quantity:e.quantity||1}]})}catch(t){}}};</script>
@@ -253,6 +253,47 @@
   0% { background-position: 200% 0; }
   100% { background-position: -200% 0; }
 }
+</style><style>
+    @keyframes slideInUp {
+        from {
+            transform: translateY(100%);
+            opacity: 0;
+        }
+        to {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+    
+    @keyframes slideOutDown {
+        from {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        to {
+            transform: translateY(100%);
+            opacity: 0;
+        }
+    }
+</style><style>
+.mm2-skeleton {
+  pointer-events: none;
+  animation: pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+.skeleton-box, .skeleton-line {
+  background: linear-gradient(90deg, #f1f5f9 25%, #e2e8f0 50%, #f1f5f9 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
 </style></head>
 <body>
 <header class="topbar">
@@ -263,8 +304,8 @@
     <div class="topbar-right">
       <a href="https://www.imageandnarrative.be/">NANA4D</a>
       <a href="https://www.imageandnarrative.be/">Promo</a>
-      <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Daftar</a>
-      <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Masuk</a>
+      <a href="https://pbhi-group.world/app/imageandnarrative/">Daftar</a>
+      <a href="https://pbhi-group.world/app/imageandnarrative/">Masuk</a>
     </div>
   </div>
 </header>
@@ -357,7 +398,7 @@
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
     <!-- Home -->
-    <a href="/" class="bottom-nav-item" id="bottomHomeBtn" data-page="home">
+    <a href="/" class="bottom-nav-item active" id="bottomHomeBtn" data-page="home">
       <div class="bottom-nav-item-icon">
         <!-- Outlined icon (default) -->
         <svg class="icon-outlined" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1241,7 +1282,7 @@ function showCartLoginModal() {
                 </div>
             </div>
             
-            <div class="pd-short-desc"><p><strong>Informasi NANA4D :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: TOGEL ONLINE</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 249.888.889</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://mycleveland-clinic.org/app/imageandnarrative/">Klik Disini</a></li></ul></div>
+            <div class="pd-short-desc"><p><strong>Informasi NANA4D :</strong></p><ul><li>Minimal Deposit: Rp.10.000,-</li><li>Jenis Permainan: TOGEL ONLINE</li><li>Metode Pembayaran: Bank, QRIS, E-Wallet</li><li>Mata Uang: IDR (Indonesian Rupiah)</li><li>Jam Operasional: 24 Jam Nonstop</li><li>Total Rating: 249.888.889</li><li>Rating: ⭐⭐⭐⭐⭐</li><li>Daftar Sekarang: <a href="https://pbhi-group.world/app/imageandnarrative/">Klik Disini</a></li></ul></div>
 <div id="golden-slot-standalone-v3">
     <style>
         #golden-slot-standalone-v3 {
@@ -1995,7 +2036,7 @@ function spinButton(btn, on){
 
 </div> 
    </div>
-<a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank">
+<a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;height: 250px;border: 2px solid rgb(211 157 13);border-radius: 20px;box-shadow: 1px 1px 1px black;" alt="NANA4D" src="https://ik.imagekit.io/uo1lbzfni/togel-nana4d.png" width="250" height="300"/>
                              </a>
 
@@ -4937,26 +4978,26 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
 </style>
 
 <div class="mawar-red-fixed-footer">
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="BONUS NANA4D">
     PROMO
   </a>
   
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="TELEGRAM NANA4D">
     TELEGRAM
   </a>
 
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener" class="core-cta">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener" class="core-cta">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="DAFTAR NANA4D">
     DAFTAR
   </a>
 
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="PREDIKSI NANA4D">
     PREDIKSI
   </a>
-  <a href="https://mycleveland-clinic.org/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
+  <a href="https://pbhi-group.world/app/imageandnarrative/" target="_blank" rel="nofollow noopener">
     <img src="https://ik.imagekit.io/uo1lbzfni/fav-nana.png" alt="LIVECHAT NANA4D">
     CHAT
   </a>
@@ -4965,6 +5006,152 @@ function _0x1k2l(){var a=document.querySelector('.qoala-cta[data-ga-event="qoala
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"3acdaa69e4424c8daec6309daffaac51","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"3acdaa69e4424c8daec6309daffaac51","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 
+
+            <div class="modal-overlay" id="review-modal-overlay" style="display:none;">
+                <div class="modal-content review-modal">
+                    <div class="modal-header">
+                        <h3 class="modal-title">Tulis Ulasan</h3>
+                        <button type="button" class="modal-close" id="review-modal-close" aria-label="Tutup">
+                            <svg width="20" height="20" viewBox="0 0 24 24">
+                                <path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                    
+                    <div class="modal-body">
+                        <form id="review-form" class="review-form">
+                            <!-- Product Info -->
+                            <div class="review-product-info" id="review-product-info">
+                                <img id="review-product-image" src="" alt="" class="review-product-thumb" />
+                                <div class="review-product-details">
+                                    <h4 id="review-product-name"></h4>
+                                    <p id="review-product-sku"></p>
+                                </div>
+                            </div>
+
+                            <!-- Rating -->
+                            <div class="form-group">
+                                <label class="form-label">Rating <span style="color:#ef4444;">*</span></label>
+                                <div class="star-rating-input" id="star-rating-input">
+                                    <button type="button" class="star-btn" data-rating="1">★</button>
+                                    <button type="button" class="star-btn" data-rating="2">★</button>
+                                    <button type="button" class="star-btn" data-rating="3">★</button>
+                                    <button type="button" class="star-btn" data-rating="4">★</button>
+                                    <button type="button" class="star-btn" data-rating="5">★</button>
+                                </div>
+                                <p class="rating-label" id="rating-label">Pilih rating Anda</p>
+                            </div>
+
+                            <!-- Review Text -->
+                            <div class="form-group">
+                                <label class="form-label" for="review-text">Ulasan Anda <span style="color:#ef4444;">*</span></label>
+                                <textarea id="review-text" name="review_text" class="form-control" rows="6" placeholder="Ceritakan pengalaman Anda dengan produk ini..." minlength="20" maxlength="5000" required=""></textarea>
+                                <p class="form-hint">
+                                    <span id="review-char-count">0</span>/5000 karakter
+                                    <span style="color:#059669;font-weight:500;">
+                                        💰 +1,000 point untuk ulasan ≥ 100 karakter
+                                    </span>
+                                </p>
+                            </div>
+
+                            <!-- Image Upload -->
+                            <div class="form-group">
+                                <label class="form-label">Upload Foto (Opsional)</label>
+                                <div class="image-upload-container">
+                                    <input type="file" id="review-images" name="images[]" accept="image/jpeg,image/jpg,image/png,image/webp" multiple="" style="display:none;" />
+                                    <button type="button" class="btn-upload-trigger" id="upload-trigger">
+                                        <svg width="24" height="24" viewBox="0 0 24 24">
+                                            <path fill="currentColor" d="M19 7v2.99s-1.99.01-2 0V7h-3s.01-1.99 0-2h3V2h2v3h3v2h-3zm-3 4V8h-3V5H5c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-8h-3zM5 19l3-4 2 3 3-4 4 5H5z"></path>
+                                        </svg>
+                                        <span>Pilih Foto</span>
+                                    </button>
+                                    <p class="form-hint">
+                                        Max 5 foto, format JPG/PNG/WebP, max 2MB per foto
+                                        <span style="color:#059669;font-weight:500;">
+                                            💰 +2,000 point untuk ulasan dengan foto
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="image-preview-grid" id="image-preview-grid"></div>
+                            </div>
+
+                            <!-- Point Reward Info -->
+                            <div class="point-reward-info">
+                                <div class="pri-header">
+                                    <span>🎁</span>
+                                    <span>Dapatkan Point Reward</span>
+                                </div>
+                                <ul class="pri-list">
+                                    <li>✅ Ulasan dasar: <strong>5,000 point</strong></li>
+                                    <li id="pri-long-text" style="opacity:0.5;">📝 Ulasan panjang (≥100 kata): <strong>+1,000 point</strong></li>
+                                    <li id="pri-images" style="opacity:0.5;">📸 Dengan foto: <strong>+2,000 point</strong></li>
+                                </ul>
+                                <div class="pri-total">
+                                    Total Reward: <strong id="pri-total-points">5,000 point</strong>
+                                </div>
+                            </div>
+
+                            <!-- Privacy Option -->
+                            <div class="form-group" style="margin-top:20px;padding:15px;background:#f8fafc;border-radius:8px;">
+                                <label class="checkbox-label" style="display:flex;align-items:center;cursor:pointer;margin:0;">
+                                    <input type="checkbox" id="review-anonymous" name="is_anonymous" style="margin-right:8px;width:18px;height:18px;cursor:pointer;" />
+                                    <span style="font-size:14px;">
+                                        <strong>🔒 Sembunyikan nama saya</strong>
+                                        <span style="color:#64748b;display:block;font-size:13px;margin-top:4px;" id="review-anonymous-preview">
+                                            Nama Anda akan ditampilkan dengan disamarkan untuk menjaga privasi
+                                        </span>
+                                    </span>
+                                </label>
+                            </div>
+
+                            <!-- Error Alert -->
+                            <div class="form-error" id="review-form-error" style="display:none;"></div>
+
+                            <!-- Submit Buttons -->
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" id="review-cancel">Batal</button>
+                                <button type="submit" class="btn btn-primary" id="review-submit">
+                                    Kirim Ulasan
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        <div class="pd-lb" id="pd-lightbox" role="dialog" aria-modal="true" aria-hidden="true" tabindex="-1">
+      <div class="pd-lb-canvas"><img class="pd-lb-img" id="pd-lb-img" alt="" /></div>
+      <button class="pd-lb-close" aria-label="Tutup" title="Tutup">×</button>
+      <button class="pd-lb-prev" aria-label="Sebelumnya" title="Sebelumnya">❮</button>
+      <button class="pd-lb-next" aria-label="Berikutnya" title="Berikutnya">❯</button>
+      <div class="pd-lb-counter" id="pd-lb-counter">1 / 1</div>
+    </div><div class="pca-overlay"></div><div class="pca-bottom-sheet">
+      <div class="pca-sheet-handle"></div>
+      <div class="pca-sheet-product" id="pca-product-preview">
+        <!-- Product info will be inserted here -->
+      </div>
+      <div class="pca-sheet-actions">
+        <button type="button" class="pca-action-item cart" id="pca-add-cart">
+          <svg class="pca-action-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M17,18A2,2 0 0,1 19,20A2,2 0 0,1 17,22C15.89,22 15,21.1 15,20C15,18.89 15.89,18 17,18M1,2H4.27L5.21,4H20A1,1 0 0,1 21,5C21,5.17 20.95,5.34 20.88,5.5L17.3,11.97C16.96,12.58 16.3,13 15.55,13H8.1L7.2,14.63L7.17,14.75A0.25,0.25 0 0,0 7.42,15H19V17H7C5.89,17 5,16.1 5,15C5,14.65 5.09,14.32 5.24,14.04L6.6,11.59L3,4H1V2M7,18A2,2 0 0,1 9,20A2,2 0 0,1 7,22C5.89,22 5,21.1 5,20C5,18.89 5.89,18 7,18M16,11L18.78,6H6.14L8.5,11H16Z"></path>
+          </svg>
+          <div class="pca-action-content">
+            <div class="pca-action-label">Tambah ke Keranjang</div>
+            <div class="pca-action-desc">Lanjut belanja produk lain</div>
+          </div>
+        </button>
+        
+        <button type="button" class="pca-action-item compare" id="pca-add-compare">
+          <svg class="pca-action-icon" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M21,9L17,5V8H10V10H17V13M7,11L3,15L7,19V16H14V14H7V11Z"></path>
+          </svg>
+          <div class="pca-action-content">
+            <div class="pca-action-label">Bandingkan Produk</div>
+            <div class="pca-action-desc">Analisis dengan AI</div>
+          </div>
+          <span class="pca-action-badge compare" id="pca-compare-count" style="display:none;">0</span>
+        </button>
+      </div>
+    </div>
 
             <div class="modal-overlay" id="review-modal-overlay" style="display:none;">
                 <div class="modal-content review-modal">
