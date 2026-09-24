@@ -20,8 +20,8 @@
 <meta content="website" property="og:type" />
 <meta content="https://cardiology.sjpublisher.org/" property="og:url" />
 <meta content="NANA4D" property="og:site_name" />
-<meta content="NANA4D ! Informasi Situs Toto Slot Gacor Hari Ini APK Slot Online Thailand Hujan Duit" property="og:title" />
-<meta content="NANA4D memberikan daftar situs slot gacor hari ini rekanan terpercaya dan toto slot online thailand gampang menang bisa membuat hujan duit partner resmi Slot777" property="og:description" />
+<meta content="NANA4D ! Informasi Situs Toto Slot Gacor Hari Ini APK Slot Online Thailand Hujan Duit" name="og:title" />
+<meta content="NANA4D memberikan daftar situs slot gacor hari ini rekanan terpercaya dan toto slot online thailand gampang menang bisa membuat hujan duit partner resmi Slot777" name="og:description" />
 <meta content="id-ID" name="language" />
 <meta content="website" name="categories" />
 <meta content="ID" name="geo.region" />
