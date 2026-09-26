@@ -40,14 +40,14 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">
-<link rel="alternate" hreflang="id-id" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"/>
-<link rel="alternate" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"/>
-<link rel="alternate" hreflang="id" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"/>
-<link rel="alternate" hreflang="en" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"/>
-<link rel="alternate" hreflang="x-default" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"/>
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" />
-<link rel="alternate" media="handheld" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" />
+<link rel="amphtml" href="https://bois-de-chartreuse.fr/about/">
+<link rel="alternate" hreflang="id-id" href="https://bois-de-chartreuse.fr/about/"/>
+<link rel="alternate" href="https://bois-de-chartreuse.fr/about/"/>
+<link rel="alternate" hreflang="id" href="https://bois-de-chartreuse.fr/about/"/>
+<link rel="alternate" hreflang="en" href="https://bois-de-chartreuse.fr/about/"/>
+<link rel="alternate" hreflang="x-default" href="https://bois-de-chartreuse.fr/about/"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://bois-de-chartreuse.fr/about/" />
+<link rel="alternate" media="handheld" href="https://bois-de-chartreuse.fr/about/" />
 <link rel="icon" type="image/x-icon" href="https://i.imgur.com/HjXyPvW.gif">
 <link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/HjXyPvW.gif">
 <link rel="canonical" href="https://bois-de-chartreuse.fr/">
@@ -441,7 +441,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">
+        <a href="https://bois-de-chartreuse.fr/about/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -451,12 +451,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://bois-de-chartreuse.fr/about/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://bois-de-chartreuse.fr/about/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -467,7 +467,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">
+        <a href="https://bois-de-chartreuse.fr/about/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -568,9 +568,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/HjXyPvW.gif">LOGIN</a></li>
-      <li><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/HjXyPvW.gif">DAFTAR</a></li>
-      <li><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://bois-de-chartreuse.fr/about/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.imgur.com/HjXyPvW.gif">LOGIN</a></li>
+      <li><a href="https://bois-de-chartreuse.fr/about/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.imgur.com/HjXyPvW.gif">DAFTAR</a></li>
+      <li><a href="https://bois-de-chartreuse.fr/about/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1881,7 +1881,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">Masuk</a></button>
+        <button><a href="https://bois-de-chartreuse.fr/about/">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -1998,7 +1998,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">
+            <a href="https://bois-de-chartreuse.fr/about/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2191,7 +2191,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" class="kc-points-lable">
+   <a href="https://bois-de-chartreuse.fr/about/" class="kc-points-lable">
       <img src="https://i.imgur.com/HjXyPvW.gif" class="kcpoints-img" width="30px">
        <span>Hadiah Jackpot <span class="price">Rp.100.000.000</span> - <span class="price">Rp.1.000.000.000.000</span></span>
    </a>
@@ -2436,10 +2436,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #9d4edd, #5a189a); border: 1px solid #c8b6ff; color: #ffffff; font-weight: 800; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); box-shadow: 0 4px 15px rgba(90, 24, 154, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2); transition: all 0.3s ease; cursor: pointer;">
+                <a href="https://bois-de-chartreuse.fr/about/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #9d4edd, #5a189a); border: 1px solid #c8b6ff; color: #ffffff; font-weight: 800; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); box-shadow: 0 4px 15px rgba(90, 24, 154, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2); transition: all 0.3s ease; cursor: pointer;">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://bois-de-chartreuse.fr/about/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -6314,7 +6314,7 @@ require(['jquery','Magento_Customer/js/customer-data'],
     });
 </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">TOTO 4D</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SLOT DEPOSIT PULSA</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SITUS SLOT PULSA</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SLOT 5K</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SITUS SLOT PULSA</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SLOT DEPO 5K</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SLOT 5RB</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">SLOT INDOSAT</a></p>
 </div></div>
-<div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/">021-123456789</a></p>
+<div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://bois-de-chartreuse.fr/about/">021-123456789</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px">
@@ -6331,8 +6331,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi TOTO 4D</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"><img width="200" height="60" loading="lazy" src="https://i.imgur.com/9j5fX6Z.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi TOTO 4D</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://bois-de-chartreuse.fr/about/"><img width="200" height="60" loading="lazy" src="https://i.imgur.com/9j5fX6Z.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://bois-de-chartreuse.fr/about/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6408,7 +6408,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-          <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" class="notlogingift">
+          <a href="https://bois-de-chartreuse.fr/about/" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
         CLAIM BONUS
       </a>
@@ -6946,23 +6946,23 @@ margin:0 26px 35px;
 
 <!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
 <div class="KUBIS-HERO">
-    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" rel="nofollow noopener" target="_blank">
+    <a href="https://bois-de-chartreuse.fr/about/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/HjXyPvW.gif" alt="TOTO 4D Promo">
         PROMO
     </a>
-    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" rel="nofollow noopener" target="_blank">
+    <a href="https://bois-de-chartreuse.fr/about/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/HjXyPvW.gif" alt="SITUS SLOT PULSA">
         LOGIN
     </a>
-    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://bois-de-chartreuse.fr/about/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/HjXyPvW.gif" alt="TOTO 4D Daftar">
         DAFTAR
     </a>
-    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" rel="nofollow noopener" target="_blank">
+    <a href="https://bois-de-chartreuse.fr/about/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/HjXyPvW.gif" alt="ALTERNATIF">
         ALTERNATIF
     </a>
-    <a href="https://gelengtipisaya.online/app/bois-de-chartreuse.fr/" rel="nofollow noopener" target="_blank"
+    <a href="https://bois-de-chartreuse.fr/about/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/HjXyPvW.gif"
             alt="TOTO 4D LiveChat">
