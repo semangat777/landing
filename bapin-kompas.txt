@@ -29,7 +29,7 @@
     "content_Date_PubDate": "04",
     "content_source": "",
     "content_tag": "Berita Terkini",
-    "content_title": "NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru",
+    "content_title": "NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru",
     "content_tags": "",
     "content_total_words": 452,
     "content_draft_type": "0",
@@ -40,7 +40,7 @@
     "content_current_page": 1
 });</script>   
 
-<title>NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru</title>
+<title>NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru</title>
 <link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
 <link href="//asset.kompas.com" rel="dns-prefetch">
 <link href="//adsimg.kompas.com" rel="dns-prefetch">
@@ -51,7 +51,12 @@
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content='NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya.' name='description'>
 <link rel="prefetch" href="https://bapin.or.id/" as="document"/>
-<link rel="amphtml" href="https://nana4dsuport.online/" />  
+<link rel="amphtml" href="https://nana4dpetir.bapin.or.id/" />
+<link rel="alternate" hreflang="id-id" href="https://nana4dpetir.bapin.or.id/">
+<link rel="alternate" href="https://nana4dpetir.bapin.or.id/">
+<link rel="alternate" hreflang="id" href="https://nana4dpetir.bapin.or.id/">
+<link rel="alternate" hreflang="en" href="https://nana4dpetir.bapin.or.id/">
+<link rel="alternate" hreflang="x-default" href="https://nana4dpetir.bapin.or.id/">  
 <meta name="googlebot-news" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
 <meta name="author" content="NANA4D">
@@ -65,7 +70,7 @@
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
 <meta property="og:image" content="https://i.imgur.com/1bgzTA7.png" />
-<meta property="og:title" content="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" />
+<meta property="og:title" content="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru" />
 <meta property="og:description" content="NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya.">
 <meta property="og:url" content="https://bapin.or.id/" />
 <meta property="og:site_name" content="KOMPAS.com" />
@@ -76,7 +81,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@kompascom" />
 <meta name="twitter:creator" content="@kompascom">
-<meta name="twitter:title" content="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" />
+<meta name="twitter:title" content="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru" />
 <meta name="twitter:description" content="NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya." />
 <meta name="twitter:image" content="https://i.imgur.com/1bgzTA7.png" />
 <!-- E:tweeter card -->
@@ -154,7 +159,7 @@ window.jixie_o = {
 			parameters:{
 				itemid:"20250904172000388", 
 				keywords:array_keywords,
-				title:"NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru",
+				title:"NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru",
 				description: "NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya.",
 				category: "Prov"
 			}
@@ -320,7 +325,7 @@ var rl_adx_val = '';
 
 
 <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"NANA4D","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya."}</script>
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"NANA4D","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"NANA4D merupakan situs yang saat ini menyediakan informasi seputar game online terbaru, termasuk pembaruan permainan, fitur layanan, dan program bonus new member yang tersedia. Konten disajikan secara ringkas dan mudah dipahami sehingga pengguna dapat mengetahui informasi platform serta pilihan permainan sebelum menggunakannya."}</script>
 
 
 <script type="application/ld+json">
@@ -415,7 +420,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         <a href="https://bapin.or.id/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
-                                                                                                            <img src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru">
+                                                                                                            <img src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru">
                                                                     
 
                                                     </a>
@@ -497,7 +502,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://nana4dsuport.online/ " rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://nana4dpetir.bapin.or.id/ " rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -516,7 +521,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://nana4dsuport.online/ "><span><i class="sso__icon__subscription"></i> Gabung NANA4D<i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://nana4dpetir.bapin.or.id/ "><span><i class="sso__icon__subscription"></i> Gabung NANA4D<i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -544,7 +549,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://bapin.or.id/"><img class="lozad" data-src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" /></a>
+                                    <a href="https://bapin.or.id/"><img class="lozad" data-src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru" /></a>
                             </div>
 
               
@@ -847,7 +852,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://nana4dsuport.online/ " rel="nofollow"class="menu-plus-sticky">Membership NANA4D</a>
+<a href="https://nana4dpetir.bapin.or.id/ " rel="nofollow"class="menu-plus-sticky">Membership NANA4D</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -978,7 +983,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             </div>
             
         </div>
-                <p class="social--dshare" id="dsharetitle">NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru</p>
+                <p class="social--dshare" id="dsharetitle">NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru</p>
                         <div class="comment__read__bar">
             <span>Komentar: </span>
             <div class="social social--article clearfix">
@@ -1046,7 +1051,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         
         
         <!-- read title-->
-        <h1 class="read__title">NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru</h1>
+        <h1 class="read__title">NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru</h1>
     </div>
 </div>
 
@@ -1067,7 +1072,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://i.imgur.com/1bgzTA7.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru">
+                    <img width="780" height="520" src="https://i.imgur.com/1bgzTA7.png" alt="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru">
                        
             </div>
 </div>
@@ -1134,10 +1139,10 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
                   <div class="button-login-daftar">
-                     <a class="login" href="https://nana4dsuport.online/ " rel="nofollow noreferrer" style="color: rgba(255, 255, 255 , 1);">
+                     <a class="login" href="https://nana4dpetir.bapin.or.id/ " rel="nofollow noreferrer" style="color: rgba(255, 255, 255 , 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://nana4dsuport.online/ " rel="nofollow noreferrer" style="color: rgba(255, 255, 255 , 1);">
+                     <a class="register" href="https://nana4dpetir.bapin.or.id/ " rel="nofollow noreferrer" style="color: rgba(255, 255, 255 , 1);">
                          DAFTAR
                      </a>
             
@@ -1426,7 +1431,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                     <article class="cyber-card">
 
                                         <header class="cyber-header">
-                                            <h2 class="cyber-title">NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru</h2>
+                                            <h2 class="cyber-title">NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru</h2>
                                             <div class="cyber-status">
                                                 <span class="status-dot"></span> LIVE
                                             </div>
@@ -1766,7 +1771,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                 <div class="footerLogo">
                     <a href="https://bapin.or.id/" data-google-interstitial="false">
-                        <img class="lozad" data-src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru" width="207" height="26">
+                        <img class="lozad" data-src="https://ik.imagekit.io/ugxs6hqv0/logo-slot-gacor.png" alt="NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru" width="207" height="26">
                     </a>
                 </div>
 
@@ -1800,12 +1805,12 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                             </a>
                         </li>
                         <li>
-                            <a href="https://nana4dsuport.online/" target="_blank" class="footerSosmed-link" aria-label="Whatsapp">
+                            <a href="https://nana4dpetir.bapin.or.id/" target="_blank" class="footerSosmed-link" aria-label="Whatsapp">
                                 <div class="iconSos iconSos-whatsapp"></div>
                             </a>
                         </li>
                         <li>
-                            <a href="https://nana4dsuport.online/" target="_blank" class="footerSosmed-link" aria-label="Tiktok">
+                            <a href="https://nana4dpetir.bapin.or.id/" target="_blank" class="footerSosmed-link" aria-label="Tiktok">
                                 <div class="iconSos iconSos-tiktok"></div>
                             </a>
                         </li>
@@ -1815,14 +1820,14 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                 <div class="footerDownload">
                     <ul class="footerDownload-wrap">
                         <li>
-                            <a href="https://nana4dsuport.online/" target="_blank">
+                            <a href="https://nana4dpetir.bapin.or.id/" target="_blank">
                                 <div class="footerDownload-store">
                                     <img class="lozad" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-appstore.png" alt="apple store">
                                 </div>
                             </a>
                         </li>
                         <li>
-                            <a href="https://nana4dsuport.online/" target="_blank">
+                            <a href="https://nana4dpetir.bapin.or.id/" target="_blank">
                                 <div class="footerDownload-store">
                                     <img class="lozad" data-src="https://asset.kompas.com/data/2017/mobile/images/id-badge-playstore.png" alt="google store">
                                 </div>
@@ -1875,7 +1880,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         Tips Cerdas Pemain untuk Menjadi Sukses dan Unggul di 2026           </div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://nana4dsuport.online/ "class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://nana4dpetir.bapin.or.id/ "class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
@@ -3295,13 +3300,13 @@ if (onSubmitNps !== null) {
         <div class="style">
             <img src="https://i.imgur.com/1bgzTA7.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://nana4dsuport.online/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://nana4dpetir.bapin.or.id/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://nana4dsuport.online/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://nana4dpetir.bapin.or.id/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
-                NANA4D ~ Tempat Bermain Game Gacor Today Sekarang Dengan Bonus New Member Terbaru<br/>
+                NANA4D: Tempat Bermain Game Gacor Sekarang Dengan Bonus New Member Terbaru<br/>
                 <span style="font-weight: 600; text-shadow: 0 0 5px #FF00FF;">&copy; COPYRIGHT 2026 NANA4D x ANORA </span>
             </div>
         </div>
