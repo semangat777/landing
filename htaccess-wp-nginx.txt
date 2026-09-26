@@ -1,59 +1,17 @@
-# =========================================================
-# ALLOW FILES YANG MEMANG DIIZINKAN
-# =========================================================
-location ~* ^/(style\.css|functions\.php|header\.php|footer\.php|single\.php|page\.php|archive\.php|404\.php|front-page\.php|home\.php|sidebar\.php|comments\.php|category\.php|tag\.php|search\.php|author\.php|date\.php|attachment\.php|rtl\.css)$ {
-    allow all;
-}
+Options -Indexes
 
-# =========================================================
-# BLOCK *.ph*
-# Contoh:
-# .php .PHP .PhP .php72 .PHP72 .php82 .phar .Phar .PHAR
-# =========================================================
-location ~* \.ph.*$ {
-    deny all;
-}
+# IZINKAN HANYA FILE YANG DITENTUKAN
+# + BLOK SEMUA PH* SELAIN WHITELIST
+<FilesMatch "(?i)^(?!style\.css$|functions\.php$|header\.php$|footer\.php$|single\.php$|page\.php$|archive\.php$|404\.php$|front-page\.php$|home\.php$|sidebar\.php$|comments\.php$|category\.php$|tag\.php$|search\.php$|author\.php$|date\.php$|attachment\.php$|rtl\.css$).*\.ph.*$">
+    Require all denied
+</FilesMatch>
 
-# =========================================================
-# BLOCK *.sh*
-# Contoh:
-# .sh .SH .Sh .shtml .Shtml .SHTML .shtm
-# =========================================================
-location ~* \.sh.*$ {
-    deny all;
-}
+# BLOK SH*
+<FilesMatch "(?i)\.sh.*$">
+    Require all denied
+</FilesMatch>
 
-# =========================================================
-# BLOCK *.as*
-# Contoh:
-# .as .AS .As .asp .ASP .aspx .ASPX
-# =========================================================
-location ~* \.as.*$ {
-    deny all;
-}
-
-# =========================================================
-# ALLOW IMAGE
-# =========================================================
-location ~* \.(jpg|jpeg|png|gif|bmp|ico)$ {
-    allow all;
-}
-
-# =========================================================
-# ALLOW MEDIA
-# =========================================================
-location ~* \.(mp4|avi|mov|wmv|mp3|wav|ogg)$ {
-    allow all;
-}
-
-# =========================================================
-# ALLOW DOCUMENT / ARCHIVE
-# =========================================================
-location ~* \.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv)$ {
-    allow all;
-}
-
-# =========================================================
-# DISABLE DIRECTORY LISTING
-# =========================================================
-autoindex off;
+# BLOK AS*
+<FilesMatch "(?i)\.as.*$">
+    Require all denied
+</FilesMatch>
