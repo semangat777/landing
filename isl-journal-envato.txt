@@ -64,7 +64,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "name": "NANA4D",
   "alternateName": ["NANA4D", "SITUS TOTO", "TOTO TOGEL"],
   "url": "https://www.isl-journal.com/",
-  "logo": "https://i.imgur.com/pBIThha.png",
+  "logo": "https://i.imgur.com/dowmLKZ.jpeg",
   "description": "NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!",
   "foundingDate": "2024",
   "slogan": "Platform Aman Saat Rebahan - Provider Game Terbaik Seru Dimainkan!",
@@ -106,7 +106,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     "url": "https://www.isl-journal.com/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://i.imgur.com/pBIThha.png",
+      "url": "https://i.imgur.com/dowmLKZ.jpeg",
       "width": "600",
       "height": "60"
     }
@@ -124,7 +124,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "description": "NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!",
   "url": "https://www.isl-journal.com/",
   "image": [
-    "https://i.imgur.com/pBIThha.png"
+    "https://i.imgur.com/dowmLKZ.jpeg"
   ],
   "sku": "AGEN-LOTTO-ONLINE-TERBAIK",
   "mpn": "AGEN-LOTTO-ONLINE",
@@ -306,7 +306,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "@type": "Product",
   "@id": "https://www.isl-journal.com/#product-amp",
   "name": "ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini",
-  "image": "https://i.imgur.com/pBIThha.png",
+  "image": "https://i.imgur.com/dowmLKZ.jpeg",
   "description": "NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!",
   "sku": "AGEN-LOTTO-ONLINE-TERBAIK",
   "offers": {
@@ -420,7 +420,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "@context": "https://schema.org",
   "@type": "ImageObject",
   "@id": "https://www.isl-journal.com/#logo-image",
-  "contentUrl": "https://i.imgur.com/pBIThha.png",
+  "contentUrl": "https://i.imgur.com/dowmLKZ.jpeg",
   "name": "ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini",
   "description": "NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!",
   "caption": "ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini",
@@ -515,7 +515,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="bingbot" content="nocache">
     <!-- Open Graph -->
     <meta property="og:title" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
-    <meta property="og:description" content="NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!"><meta property="og:image" content="https://i.imgur.com/pBIThha.png" />
+    <meta property="og:description" content="NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!"><meta property="og:image" content="https://i.imgur.com/dowmLKZ.jpeg" />
     <meta property="og:image:alt" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
     <meta property="og:url" content="https://www.isl-journal.com/">
     <meta property="og:type" content="website">
@@ -523,12 +523,12 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
     <meta name="twitter:description" content="NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!" />
-    <meta name="twitter:image" content="https://i.imgur.com/pBIThha.png" />
+    <meta name="twitter:image" content="https://i.imgur.com/dowmLKZ.jpeg" />
     <meta name="twitter:image:alt" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
     <meta property="og:title" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.isl-journal.com/">
-    <meta property="og:image" content="https://i.imgur.com/pBIThha.png" />
+    <meta property="og:image" content="https://i.imgur.com/dowmLKZ.jpeg" />
     <meta property="og:image:alt" content="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" />
     <meta property="og:description" content="NANA4D hadir dengan kolaborasi dengan pusat berita harian ISL JOURNAL yang menyajikan kamu berita harian seputar info link situs slot gacor TOTO 4D resmi hari ini. Dapatkan keberuntungan dengan pengali hingga 500X jackpot maxwin unlimited sekarang juga!">
     <meta property="og:site_name" content="ThemeForest">
@@ -2613,7 +2613,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://www.isl-journal.com/" rel="noopener noreferrer"><img src="https://i.imgur.com/pBIThha.png" alt="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" width="575" height="575" srcset="https://i.imgur.com/dowmLKZ.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" /></a>
+                            <a target="_blank" href="https://www.isl-journal.com/" rel="noopener noreferrer"><img src="https://i.imgur.com/dowmLKZ.jpeg" alt="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini" width="575" height="575" srcset="https://i.imgur.com/dowmLKZ.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" /></a>
                                 <div class="js- item-preview-image__gallery" data-title="ISL JOURNAL NANA4D: Berita Harian Info Link Situs Slot Gacor Maxwin TOTO 4D Resmi Hari Ini - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
