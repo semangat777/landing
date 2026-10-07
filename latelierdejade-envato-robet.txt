@@ -32,14 +32,14 @@
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
     <title>ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru</title>
     <meta name="description" content="Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.">
-    <link rel="canonical" href="https://www.latelierdejade.fr/">
-	  <link rel="amphtml" href="https://www.latelierdejade.fr/wp-content/amp/" />
-<link rel="prefetch" href="https://www.latelierdejade.fr/wp-content/amp/" as="document" />
-<link rel="alternate" hreflang="id-id" href="https://www.latelierdejade.fr/wp-content/amp/"/>
-<link rel="alternate" href="https://www.latelierdejade.fr/wp-content/amp/"/>
-<link rel="alternate" hreflang="id" href="https://www.latelierdejade.fr/wp-content/amp/"/>
-<link rel="alternate" hreflang="en" href="https://www.latelierdejade.fr/wp-content/amp/"/>
-<link rel="alternate" hreflang="x-default" href="https://www.latelierdejade.fr/wp-content/amp/"/>
+    <link rel="canonical" href="https://okeradius.com/">
+	  <link rel="amphtml" href="https://okeradius.com/sites/" />
+<link rel="prefetch" href="https://okeradius.com/sites/" as="document" />
+<link rel="alternate" hreflang="id-id" href="https://okeradius.com/sites/"/>
+<link rel="alternate" href="https://okeradius.com/sites/"/>
+<link rel="alternate" hreflang="id" href="https://okeradius.com/sites/"/>
+<link rel="alternate" hreflang="en" href="https://okeradius.com/sites/"/>
+<link rel="alternate" hreflang="x-default" href="https://okeradius.com/sites/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="INDEX, FOLLOW">
     <meta name="keywords" content="ROKOKBET, SITUS TOTO, bo toto togel online terpercaya, toto slot">
@@ -63,18 +63,18 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "@type": "Organization",
   "name": "ROKOKBET",
   "alternateName": ["ROKOKBET", "SITUS TOTO", "TOTO TOGEL"],
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "logo": "https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
   "foundingDate": "2024",
   "slogan": "Platform Aman Saat Rebahan - Provider Game Terbaik Seru Dimainkan!",
   "sameAs": [
-    "https://www.latelierdejade.fr/"
+    "https://okeradius.com/"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
-    "url": "https://www.latelierdejade.fr/",
+    "url": "https://okeradius.com/",
     "availableLanguage": ["Indonesian"]
   },
   "areaServed": {
@@ -89,21 +89,21 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://www.latelierdejade.fr/#website",
+  "@id": "https://okeradius.com/#website",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "alternateName": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
   "inLanguage": "id",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.latelierdejade.fr/search?q={search_term_string}",
+    "target": "https://okeradius.com/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
     "name": "ROKOKBET",
-    "url": "https://www.latelierdejade.fr/",
+    "url": "https://okeradius.com/",
     "logo": {
       "@type": "ImageObject",
       "url": "https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png",
@@ -119,10 +119,10 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://www.latelierdejade.fr/#product",
+  "@id": "https://okeradius.com/#product",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "image": [
     "https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png"
   ],
@@ -132,16 +132,16 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "releaseDate": "2025-06-12",
   "brand": {
     "@type": "Brand",
-    "@id": "https://www.latelierdejade.fr/#brand",
+    "@id": "https://okeradius.com/#brand",
     "name": "ROKOKBET",
     "description": "ROKOKBET merupakan platform informasi pasaran lotto dan togel 4D yang menyediakan Oregon Lottery, Carolina Day, Kynders Pools, serta Togel SGP.",
     "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif",
-    "url": "https://www.latelierdejade.fr/"
+    "url": "https://okeradius.com/"
   },
   "offers": {
     "@type": "Offer",
-    "@id": "https://www.latelierdejade.fr/#offer",
-    "url": "https://www.latelierdejade.fr/",
+    "@id": "https://okeradius.com/#offer",
+    "url": "https://okeradius.com/",
     "priceCurrency": "IDR",
     "price": "0",
     "priceValidUntil": "2026-12-31",
@@ -149,9 +149,9 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     "itemCondition": "https://schema.org/NewCondition",
     "seller": {
       "@type": "Organization",
-      "@id": "https://www.latelierdejade.fr/#organization",
+      "@id": "https://okeradius.com/#organization",
       "name": "ROKOKBET",
-      "url": "https://www.latelierdejade.fr/",
+      "url": "https://okeradius.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif"
@@ -222,9 +222,9 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "review": [
     {
       "@type": "Review",
-      "@id": "https://www.latelierdejade.fr/#review-Sarijem",
+      "@id": "https://okeradius.com/#review-Sarijem",
       "itemReviewed": {
-        "@id": "https://www.latelierdejade.fr/#product"
+        "@id": "https://okeradius.com/#product"
       },
       "author": {
         "@type": "Person",
@@ -241,15 +241,15 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://www.latelierdejade.fr/#organization",
+        "@id": "https://okeradius.com/#organization",
         "name": "ROKOKBET"
       }
     },
     {
       "@type": "Review",
-      "@id": "https://www.latelierdejade.fr/#review-Jamal",
+      "@id": "https://okeradius.com/#review-Jamal",
       "itemReviewed": {
-        "@id": "https://www.latelierdejade.fr/#product"
+        "@id": "https://okeradius.com/#product"
       },
       "author": {
         "@type": "Person",
@@ -266,15 +266,15 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://www.latelierdejade.fr/#organization",
+        "@id": "https://okeradius.com/#organization",
         "name": "ROKOKBET"
       }
     },
     {
       "@type": "Review",
-      "@id": "https://www.latelierdejade.fr/#review-Safri",
+      "@id": "https://okeradius.com/#review-Safri",
       "itemReviewed": {
-        "@id": "https://www.latelierdejade.fr/#product"
+        "@id": "https://okeradius.com/#product"
       },
       "author": {
         "@type": "Person",
@@ -291,7 +291,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://www.latelierdejade.fr/#organization",
+        "@id": "https://okeradius.com/#organization",
         "name": "ROKOKBET"
       }
     }
@@ -304,7 +304,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://www.latelierdejade.fr/#product-amp",
+  "@id": "https://okeradius.com/#product-amp",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "image": "https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
@@ -312,7 +312,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "offers": {
     "@type": "Offer",
     "priceCurrency": "IDR",
-    "url": "https://www.latelierdejade.fr/",
+    "url": "https://okeradius.com/",
     "availability": "https://schema.org/InStock",
     "price": "0",
     "priceValidUntil": "2026-12-31",
@@ -329,10 +329,10 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "@id": "https://www.latelierdejade.fr/#faq",
+  "@id": "https://okeradius.com/#faq",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "mainEntity": [
     {
       "@type": "Question",
@@ -384,31 +384,31 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "https://www.latelierdejade.fr/#breadcrumb",
+  "@id": "https://okeradius.com/#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "name": "ROKOKBET",
-      "item": "https://www.latelierdejade.fr/"
+      "item": "https://okeradius.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://www.latelierdejade.fr/"
+      "item": "https://okeradius.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOTO TOGEL",
-      "item": "https://www.latelierdejade.fr/"
+      "item": "https://okeradius.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS GACOR",
-      "item": "https://www.latelierdejade.fr/"
+      "item": "https://okeradius.com/"
     }
   ]
 }
@@ -419,7 +419,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "@id": "https://www.latelierdejade.fr/#logo-image",
+  "@id": "https://okeradius.com/#logo-image",
   "contentUrl": "https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
@@ -435,10 +435,10 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "AboutPage",
-  "@id": "https://www.latelierdejade.fr/#about",
+  "@id": "https://okeradius.com/#about",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan. Inilah kisah di balik platform gaming outdoor terunik.",
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "about": {
     "@type": "Thing",
     "name": "ROKOKBET",
@@ -460,13 +460,13 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
-  "@id": "https://www.latelierdejade.fr/#educational",
+  "@id": "https://okeradius.com/#educational",
   "name": "ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
-  "url": "https://www.latelierdejade.fr/",
+  "url": "https://okeradius.com/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif",
   "sameAs": [
-    "https://www.latelierdejade.fr/"
+    "https://okeradius.com/"
   ],
   "address": {
     "@type": "PostalAddress",
@@ -475,7 +475,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "admissions",
-    "url": "https://www.latelierdejade.fr/",
+    "url": "https://okeradius.com/",
     "availableLanguage": ["Indonesian"]
   }
 }
@@ -486,13 +486,13 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 {
   "@context": "https://schema.org",
   "@type": "Course",
-  "@id": "https://www.latelierdejade.fr/#course",
+  "@id": "https://okeradius.com/#course",
   "name": "ROKOKBET",
   "description": "Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.",
   "provider": {
     "@type": "EducationalOrganization",
     "name": "ROKOKBET",
-    "url": "https://www.latelierdejade.fr/"
+    "url": "https://okeradius.com/"
   },
   "courseCode": "ROKOKBET-LOTTO-ONLINE",
   "educationalLevel": "All Levels",
@@ -501,7 +501,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     "@type": "Offer",
     "price": "0",
     "priceCurrency": "IDR",
-    "url": "https://www.latelierdejade.fr/"
+    "url": "https://okeradius.com/"
   }
 }
 </script>
@@ -517,7 +517,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta property="og:title" content="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" />
     <meta property="og:description" content="Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan."><meta property="og:image" content="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" />
     <meta property="og:image:alt" content="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" />
-    <meta property="og:url" content="https://www.latelierdejade.fr/">
+    <meta property="og:url" content="https://okeradius.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -527,7 +527,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="twitter:image:alt" content="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" />
     <meta property="og:title" content="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" />
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.latelierdejade.fr/">
+    <meta property="og:url" content="https://okeradius.com/">
     <meta property="og:image" content="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" />
     <meta property="og:image:alt" content="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" />
     <meta property="og:description" content="Nikmati L'Atelier de Jade di ROKOKBET dengan akses link daftar dan login mudah, tampilan menarik, pasaran provider IDN lengkap, serta petualangan bermain game slot gacor dengan performa ringan dan menyenangkan.">
@@ -1481,16 +1481,16 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://www.latelierdejade.fr/">ROKOKBET</a>
-<a href="https://www.latelierdejade.fr/">SITUS TOTO</a>
-<a href="https://www.latelierdejade.fr/">ROKOKBET ONLINE</a>
-<a href="https://www.latelierdejade.fr/">ROKOKBET LOTTO</a>
-<a href="https://www.latelierdejade.fr/">TOTO TOGEL</a>
-<a href="https://www.latelierdejade.fr/">SITUS GACOR</a>
-<a href="https://www.latelierdejade.fr/">ROKOKBET BO</a>
-<a href="https://www.latelierdejade.fr/">ROKOKBET 4D</a>
-<a href="https://www.latelierdejade.fr/">SLOT GACOR</a>
-<a href="https://www.latelierdejade.fr/">AGEN LOTTO TERBAIK</a>
+<a href="https://okeradius.com/">ROKOKBET</a>
+<a href="https://okeradius.com/">SITUS TOTO</a>
+<a href="https://okeradius.com/">ROKOKBET ONLINE</a>
+<a href="https://okeradius.com/">ROKOKBET LOTTO</a>
+<a href="https://okeradius.com/">TOTO TOGEL</a>
+<a href="https://okeradius.com/">SITUS GACOR</a>
+<a href="https://okeradius.com/">ROKOKBET BO</a>
+<a href="https://okeradius.com/">ROKOKBET 4D</a>
+<a href="https://okeradius.com/">SLOT GACOR</a>
+<a href="https://okeradius.com/">AGEN LOTTO TERBAIK</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -1577,7 +1577,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.latelierdejade.fr/">EnvatoMarket</a>
+                    <a href="https://okeradius.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1585,40 +1585,40 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://www.latelierdejade.fr/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://okeradius.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://www.latelierdejade.fr/">
+                    <a class="off-canvas-left__site" href="https://okeradius.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1627,7 +1627,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.latelierdejade.fr/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://okeradius.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1642,393 +1642,393 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://okeradius.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://okeradius.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://okeradius.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Real
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://okeradius.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://okeradius.com/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link--empty" href="https://okeradius.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://okeradius.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://okeradius.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link--empty" href="https://okeradius.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://okeradius.com/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://okeradius.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://okeradius.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://okeradius.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link--empty" href="https://okeradius.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://www.latelierdejade.fr/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://okeradius.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://okeradius.com/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Free
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://www.latelierdejade.fr/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://okeradius.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.latelierdejade.fr/">Unlimited
+                                    href="https://okeradius.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -2038,7 +2038,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.latelierdejade.fr/">Unlimited
+                            href="https://okeradius.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -2050,18 +2050,18 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.latelierdejade.fr/">
+                <a class="off-canvas-right__link--cart" href="https://okeradius.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.latelierdejade.fr/  ">
+                <a class="off-canvas-right__link" href="https://okeradius.com/  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://www.latelierdejade.fr/  ">
+                <a class="off-canvas-right__link" href="https://okeradius.com/  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -2075,7 +2075,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.latelierdejade.fr/">
+                                    <a class="btn btn--square" href="https://okeradius.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru</title>
                                             <path
@@ -2092,21 +2092,21 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://www.latelierdejade.fr/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://okeradius.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://www.latelierdejade.fr/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://okeradius.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.latelierdejade.fr/">
+                                    <a href="https://okeradius.com/">
                                         <img alt="Logo Baru" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -2121,19 +2121,19 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.latelierdejade.fr/">
+                                    <a href="https://okeradius.com/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.latelierdejade.fr/">
+                                                <a class="global-header-menu__link" href="https://okeradius.com/">
                                                     <span class="global-header-menu__link-text">
                                                         SITUS TOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://www.latelierdejade.fr/">
+                                                <a class="global-header-menu__link" href="https://okeradius.com/">
                                                     <span class="global-header-menu__link-text">
                                                         TOTO TOGEL
                                                     </span>
@@ -2142,7 +2142,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://www.latelierdejade.fr/wp-content/amp/">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://okeradius.com/sites/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru</title>
                                                         <path
@@ -2155,7 +2155,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://www.latelierdejade.fr/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://okeradius.com/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru</title>
@@ -2170,7 +2170,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://www.latelierdejade.fr/wp-content/amp/">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://okeradius.com/sites/">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -2258,13 +2258,13 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://www.latelierdejade.fr/">ROKOKBET</a>
+                                <a class="js-breadcrumb-category" href="https://okeradius.com/">ROKOKBET</a>
 
 
-                                <a href="https://www.latelierdejade.fr/" class="js-breadcrumb-category">SITUS TOTO</a>
-                                <a class="js-breadcrumb-category" href="https://www.latelierdejade.fr/">TOTO TOGEL</a>
+                                <a href="https://okeradius.com/" class="js-breadcrumb-category">SITUS TOTO</a>
+                                <a class="js-breadcrumb-category" href="https://okeradius.com/">TOTO TOGEL</a>
 
-                                <a class="js-breadcrumb-category" href="https://www.latelierdejade.fr/">SITUS GACOR</a>
+                                <a class="js-breadcrumb-category" href="https://okeradius.com/">SITUS GACOR</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -2278,7 +2278,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://www.latelierdejade.fr/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://okeradius.com/">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://i.imgur.com/VmulCLK.png" alt="SLOT ONLINE" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -2292,7 +2292,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://www.latelierdejade.fr/">ROKOKBET</a>
+                                        By <a rel="author" class="js-by-author" href="https://okeradius.com/">ROKOKBET</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2326,7 +2326,7 @@ nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://www.latelierdejade.fr/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://okeradius.com/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2584,22 +2584,22 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.latelierdejade.fr/"><span
+                                                        href="https://okeradius.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://www.latelierdejade.fr/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://okeradius.com/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
 </li></ul></div>
                   <div class="button-login-daftar">
-                     <a class="login" href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://okeradius.com/sites/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://okeradius.com/sites/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
                             
@@ -2613,7 +2613,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://www.latelierdejade.fr/" rel="noopener noreferrer"><img src="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" alt="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" width="575" height="575" srcset="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" /></a>
+                            <a target="_blank" href="https://okeradius.com/" rel="noopener noreferrer"><img src="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" alt="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru" width="575" height="575" srcset="https://cdn.dropimg.xyz/images/SEOATP/chatgpt-image-aug-16-2026-04-28-34-pm-1786872793.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" /></a>
                                 <div class="js- item-preview-image__gallery" data-title="ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2649,10 +2649,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://www.latelierdejade.fr/wp-content/amp/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://okeradius.com/sites/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://www.latelierdejade.fr/wp-content/amp/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://okeradius.com/sites/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2667,7 +2667,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://www.latelierdejade.fr/">
+                                <a class="item-description-toggle__link" href="https://okeradius.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2705,7 +2705,7 @@ a:hover {
                     <div class="pricebox-container" bis_skin_checked="1">
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://www.latelierdejade.fr/" accept-charset="UTF-8" method="post">
+                                <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;ROKOKBET: L'Atelier de Jade Slot Gacor, Link Login Resmi dengan Permainan Online Terbaru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://okeradius.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2736,7 +2736,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://www.latelierdejade.fr//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://okeradius.com//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2815,7 +2815,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://www.latelierdejade.fr/wp-content/amp/" target="_blank">
+                             <a href="https://okeradius.com/sites/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxySlbTUXqtqe0Z9msKsJi3bufBsTi2yIRT3ioojkmqYsckNJdzbJ_RXoaaHcpM0wnG8w6OXKklsPP-zkjZh6hBKDEgwcM34uwx0hm61JErVAsav9MEsQx3v2hoDOY7SGuGl7wUEhEoYPHXZqNJ5a_dTkIYtGejvXGG3YitYCXPOOnEyoERvXqVKtDGKE/s900/GIF-LOGO-ANIMATION-ROKOKBET.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -3394,7 +3394,7 @@ document.addEventListener("DOMContentLoaded", function () {
   "></span>
 
   <p style="position: relative; z-index: 2;">
-</p><p class="isSelectedEnd" style="text-align: justify;"><a href="https://www.latelierdejade.fr/" style="color: rgb(255, 0, 0);">ROKOKBET</a> hadir dengan tema L'Atelier de Jade Slot Gacor, selain itu juga kami telah menyediakan berbagai Link Login Resmi dengan Permainan digital dan menjadikan beranda kami dengan pengenalan fitur deposit hingga pengalaman bermain yang ringkas dan dikemas rapih melalui akses yang praktis dan tampilan modern. Kehadiran permainan ini menjadi salah satu pilihan menarik bagi pemain yang menyukai tema visual elegan, alur permainan ringan, serta navigasi yang mudah dipahami sejak pertama kali mengakses halaman.</p>
+</p><p class="isSelectedEnd" style="text-align: justify;"><a href="https://okeradius.com/" style="color: rgb(255, 0, 0);">ROKOKBET</a> hadir dengan tema L'Atelier de Jade Slot Gacor, selain itu juga kami telah menyediakan berbagai Link Login Resmi dengan Permainan digital dan menjadikan beranda kami dengan pengenalan fitur deposit hingga pengalaman bermain yang ringkas dan dikemas rapih melalui akses yang praktis dan tampilan modern. Kehadiran permainan ini menjadi salah satu pilihan menarik bagi pemain yang menyukai tema visual elegan, alur permainan ringan, serta navigasi yang mudah dipahami sejak pertama kali mengakses halaman.</p>
 
 <p class="isSelectedEnd" style="text-align: justify;">Melalui link daftar dan login ROKOKBET, pengguna dapat menuju layanan dengan proses akses yang sederhana tanpa tampilan yang berlebihan. Informasi mengenai permainan juga disusun secara lebih jelas sehingga membantu pengunjung memahami fitur dan pilihan yang tersedia sebelum mulai bermain. Dukungan pasaran provider IDN yang lengkap memberikan variasi tambahan bagi pengguna yang ingin mengeksplorasi kategori permainan online dalam satu tempat.</p>
 
@@ -3955,23 +3955,23 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="ROKOKBET-fixed-footer">
-    <a href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://okeradius.com/sites/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/VmulCLK.png" alt="BONUS ROKOKBET">
         Promo
     </a>
-    <a href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://okeradius.com/sites/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/VmulCLK.png" alt="LOGIN ROKOKBET">
         Login
     </a>
-    <a href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://okeradius.com/sites/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/VmulCLK.png" alt="DAFTAR ROKOKBET">
         Daftar
     </a>
-    <a href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://okeradius.com/sites/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/VmulCLK.png" alt="APK ROKOKBET">
         Apk
     </a>
-    <a href="https://www.latelierdejade.fr/wp-content/amp/" rel="nofollow noopener" target="_blank"
+    <a href="https://okeradius.com/sites/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/VmulCLK.png"
             alt="LIVE CHAT ROKOKBET">
